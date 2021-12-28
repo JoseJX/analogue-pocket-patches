@@ -6,27 +6,35 @@ You will need IPS patching software, the IPS patch for your chosen game and the 
 
 Please note that link cable functionality and the real-time clock are not supported in GB Studio mode.
 
-## Tetris Attack
-
-This patch converts Tetris Attack (U) (1.0) to the `.pocket` format.
-
-MD5: `7fbda0c87af7701bb5e75c2a77bb0143`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TetrisAttack.ips).
-
 ## Duck Tales
 
 This patch converts Duck Tales (U) to the `.pocket` format.
 
-MD5: `785441d3d75913393807b10b3194dc48`
+ROM MD5: `785441d3d75913393807b10b3194dc48`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DuckTales.ips).
+
+## Mario's Picross
+
+This patch converts Mario's Picross (U,E) to the `.pocket` format.
+
+ROM MD5: `ccaf9331318d4dfe3d1ee681928a74fd`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MarioPicross.ips).
+
+## Tetris Attack
+
+This patch converts Tetris Attack (U) (1.0) to the `.pocket` format.
+
+ROM MD5: `7fbda0c87af7701bb5e75c2a77bb0143`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TetrisAttack.ips).
 
 ## Yoshi
 
 This patch converts Yoshi (U) to the `.pocket` format.
 
-MD5: `a8804c8514619cc918960c2008ed65d1`
+ROM MD5: `a8804c8514619cc918960c2008ed65d1`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Yoshi.ips).
 
@@ -34,7 +42,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts Yoshi's Cookie (U) to the `.pocket` format.
 
-MD5: `bc1a3848092bdc900c157996c29a7783`
+ROM MD5: `bc1a3848092bdc900c157996c29a7783`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/YoshisCookie.ips).
 
