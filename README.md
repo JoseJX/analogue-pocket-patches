@@ -22,3 +22,11 @@ MD5: `785441d3d75913393807b10b3194dc48`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DuckTales.ips).
 
+## Yoshi
+
+This patch converts Yoshi (U) to the `.pocket` format.
+
+MD5: `a8804c8514619cc918960c2008ed65d1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Yoshi.ips).
+
