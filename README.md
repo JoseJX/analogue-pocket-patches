@@ -30,3 +30,11 @@ MD5: `a8804c8514619cc918960c2008ed65d1`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Yoshi.ips).
 
+## Yoshi's Cookie
+
+This patch converts Yoshi's Cookie (U) to the `.pocket` format.
+
+MD5: `bc1a3848092bdc900c157996c29a7783`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/YoshisCookie.ips).
+
