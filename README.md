@@ -1,4 +1,4 @@
-# misc-pocket-patches
+# analogue-pocket-patches
 
 ## How to use
 
@@ -12,7 +12,7 @@ This patch converts Tetris Attack (U) (1.0) to the `.pocket` format.
 
 MD5: `7fbda0c87af7701bb5e75c2a77bb0143`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/misc-pocket-patches/blob/main/TetrisAttack.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TetrisAttack.ips).
 
 ## Duck Tales
 
@@ -20,5 +20,5 @@ This patch converts Duck Tales (U) to the `.pocket` format.
 
 MD5: `785441d3d75913393807b10b3194dc48`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/misc-pocket-patches/blob/main/DuckTales.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DuckTales.ips).
 
