@@ -38,6 +38,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts Mole Mania (U) to the `.pocket` format.
 
+It has been updated to fix [bug #2](https://github.com/JoseJX/analogue-pocket-patches/issues/2).
+
 ROM MD5: `f28ade3926852a8ad2e449c274683956`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MoleMania.ips).
