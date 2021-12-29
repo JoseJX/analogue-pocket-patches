@@ -22,6 +22,14 @@ ROM MD5: `ccaf9331318d4dfe3d1ee681928a74fd`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MarioPicross.ips).
 
+## Mole Mania
+
+This patch converts Mole Mania (U) to the `.pocket` format.
+
+ROM MD5: `f28ade3926852a8ad2e449c274683956`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MoleMania.ips).
+
 ## Tetris Attack
 
 This patch converts Tetris Attack (U) (1.0) to the `.pocket` format.
