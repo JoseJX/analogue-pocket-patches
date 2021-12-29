@@ -42,6 +42,14 @@ ROM MD5: `ccaf9331318d4dfe3d1ee681928a74fd`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MarioPicross.ips).
 
+## Mega Man - Dr. Wily's Revenge 
+
+This patch converts `Mega Man - Dr. Wily's Revenge (U)`
+
+ROM MD5: `4ba4398181d98958fa7434ba7716f11a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MegaMan1.ips).
+
 ## Mole Mania
 
 This patch converts `Mole Mania (U)` to the `.pocket` format.
