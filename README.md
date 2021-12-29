@@ -76,6 +76,14 @@ ROM MD5: `3dbe9be772ca50da3a76d8860c7b08e2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SidePocket.ips).
 
+## Super Off Road
+
+This patch converts `Super Off Road (U)` to the `.pocket` format.
+
+ROM MD5: `85d05f95c07ed1b7d787062fe4d2e251`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SuperOffRoad.ips).
+
 ## Super R.C. Pro-Am
 
 This patch converts `Super R.C. Pro-Am (U,E)` to the `.pocket` format.
