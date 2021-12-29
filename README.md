@@ -18,6 +18,14 @@ You will need IPS patching software, the IPS patch for your chosen game and the 
 
 Please note that link cable functionality and the real-time clock are not supported in GB Studio mode.
 
+## Bionic Commando
+
+This patch converts `Bionic Commando (U)` to the `.pocket format.
+
+ROM MD5: `f89a33de3fa660a13ec29bb323efffa9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BionicCommando.ips).
+
 ## Duck Tales
 
 This patch converts `Duck Tales (U)` to the `.pocket` format.
@@ -44,6 +52,14 @@ ROM MD5: `f28ade3926852a8ad2e449c274683956`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MoleMania.ips).
 
+## Ms. Pac-Man
+
+This patch converts `Ms. Pac-Man (U)` to the `.pocket` format.
+
+ROM MD5: `ffa8642a18781fbe79df436a761a9775`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MsPacMan.ips).
+
 ## Pokemon Puzzle Challenge
 
 This patch converts `Pokemon Puzzle Challenge (U)` to the `.pocket` format.
@@ -51,6 +67,22 @@ This patch converts `Pokemon Puzzle Challenge (U)` to the `.pocket` format.
 ROM MD5: `f9ec4cc3c9df3887dc731ccf53663ffb`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/PokePuzzle.ips).
+
+## Side Pocket
+
+This patch converts `Side Pocket (U)` to the `.pocket` format.
+
+ROM MD5: `3dbe9be772ca50da3a76d8860c7b08e2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SidePocket.ips).
+
+## Super R.C. Pro-Am
+
+This patch converts `Super R.C. Pro-Am (U,E)` to the `.pocket` format.
+
+ROM MD5: `9ba2999ef3ecf9e27ac6c88e995c9d7a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SuperRC.ips).
 
 ## Tetris Attack
 
