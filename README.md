@@ -6,7 +6,7 @@ To convert a ROM, all accesses to the `LCDC` and `STAT` register need to be bit 
 
 To generate the `.pocket` file, the ROM is decompiled with [mgbdis](https://github.com/mattcurrie/mgbdis) and recompiled with [rgbds](https://github.com/gbdev/rgbds) after patching.
 
-Finally, the header needs to be modified to use Analogue's header rather than the Nintendo header. After compilation, the header is modified.
+Finally, the header needs to be modified to use Analogue's header rather than the Nintendo header. After compilation, modify the header.
 
 The final IPS patch is generated using [lipx](https://github.com/kylon/Lipx), comparing the original ROM with the patched version.
 
