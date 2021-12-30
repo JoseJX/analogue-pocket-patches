@@ -18,6 +18,30 @@ You will need IPS patching software, the IPS patch for your chosen game and the 
 
 Please note that link cable functionality and the real-time clock are not supported in GB Studio mode.
 
+## Table of Contents
+
+Game | System 
+--- | --- 
+[Bionic Commando](#bionic-commando) | GB
+[Duck Tales](#duck-tales) | GB
+[Mario's Picross](#marios-picross) | GB
+[Mega Man - Dr. Wily's Revenge](#mega-man---dr-wilys-revenge) | GB
+[Mega Man II](#mega-man-ii) | GB
+[Mega Man III](#mega-man-iii) | GB
+[Mega Man IV](#mega-man-iv) | GB
+[Mega Man V](#mega-man-v) | GB
+[Metal Gear Solid](#metal-gear-solid) | GBC
+[Mole Mania](#mole-mania) | GB
+[Ms. Pac-Man](#ms-pac-man) | GB
+[Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
+[QIX](#qix) | GB
+[Side Pocket](#side-pocket) | GB
+[Super Off Road](#super-off-road) | GB
+[Super R.C. Pro-Am](#super-rc-pro-am) | GB
+[Tetris Attack](#tetris-attack) | GB
+[Yoshi](#yoshi) | GB
+[Yoshi's Cookie](#yoshis-cookie) | GB
+
 ## Bionic Commando
 
 This patch converts `Bionic Commando (U)` to the `.pocket format.
@@ -42,7 +66,7 @@ ROM MD5: `ccaf9331318d4dfe3d1ee681928a74fd`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MarioPicross.ips).
 
-## Mega Man - Dr. Wily's Revenge 
+## Mega Man - Dr. Wily's Revenge
 
 This patch converts `Mega Man - Dr. Wily's Revenge (U)` to the `.pocket` format.
 
@@ -117,6 +141,14 @@ This patch converts `Pokemon Puzzle Challenge (U)` to the `.pocket` format.
 ROM MD5: `f9ec4cc3c9df3887dc731ccf53663ffb`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/PokePuzzle.ips).
+
+## QIX
+
+This patch converts `QIX (U)` to the `.pocket` format.
+
+ROM MD5: `1c94dccdfaaa0c3e1d6bda5969704885`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/QIX.ips).
 
 ## Side Pocket
 
