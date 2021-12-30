@@ -33,6 +33,7 @@ Game | System
 [Mega Man V](#mega-man-v) | GB
 [Metal Gear Solid](#metal-gear-solid) | GBC
 [Mole Mania](#mole-mania) | GB
+[Mr. Driller](#mr-driller) | GBC
 [Ms. Pac-Man](#ms-pac-man) | GB
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [QIX](#qix) | GB
@@ -136,6 +137,15 @@ It has been updated again for another missed register access. (2021/12/30)
 ROM MD5: `f28ade3926852a8ad2e449c274683956`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MoleMania.ips).
+
+## Mr. Driller
+
+This patch converts `Mr. Driller (U)` to the `.pocket` format.
+
+ROM MD5: `76fa4014bfbb0ee2b63267af7ac373f2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MrDriller.ips).
+
 
 ## Ms. Pac-Man
 
