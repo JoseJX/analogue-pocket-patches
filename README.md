@@ -2,15 +2,15 @@
 
 ## How they're generated
 
-To convert a ROM, all accesses to the `LCDC` and `STAT` register need to be bit reversed. The pocket format also moves the `LCDC` register to offset `0xFF4E`.
+To convert a ROM, all accesses to the LCDC and STAT registers need to be bit reversed. The pocket format also moves the LCDC hardware register to offset 0xFF4E from 0xFF40 in the actual Game Boy hardware. To make it work, you need to go through all of the code in the ROM and replace every instance where these registers are used (and memory locations that have values that get transferred to/from these registers) with the bit reversed operation (i.e. $83 -> $C1) and replace every LCDC usage with the new address.
 
-To generate the `.pocket` file, the ROM is decompiled with [mgbdis](https://github.com/mattcurrie/mgbdis) and recompiled with [rgbds](https://github.com/gbdev/rgbds) after patching.
+For my workflow, to generate the `.pocket` file, the ROM is first decompiled with [mgbdis](https://github.com/mattcurrie/mgbdis) and then recompiled with [rgbds](https://github.com/gbdev/rgbds) after patching the above issues and whatever else pops up. Once it's recompiled, the header needs to be modified to use Analogue's header rather than the Nintendo header.
 
-Finally, the header needs to be modified to use Analogue's header rather than the Nintendo header. After compilation, modify the header.
+I then generate the final IPS patch using [lipx](https://github.com/kylon/Lipx), which compares the original ROM with the patched version.
 
-The final IPS patch is generated using [lipx](https://github.com/kylon/Lipx), comparing the original ROM with the patched version.
+To debug issues with the patches, I have provided a copy of SameBoy that is patched to run `.pocket` files and to print some warnings if there are register accesses to 0xFF40. It is available here: [https://github.com/JoseJX/SameBoy](https://github.com/JoseJX/SameBoy).
 
-A version of SameBoy that is patched to run `.pocket` files is available here: [https://github.com/JoseJX/SameBoy](https://github.com/JoseJX/SameBoy), this has been useful for finding bugs in the patches!
+Hopefully this helps!
 
 ## How to use the patches
 
