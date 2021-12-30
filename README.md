@@ -66,6 +66,14 @@ ROM MD5: `4c614f884a07872f12056ad1a421e1f9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MegaMan3.ips).
 
+## Mega Man IV
+
+This patch converts `Mega Man IV (U)` to the `.pocket` format.
+
+ROM MD5: `8a00f627b8902c92327435901c249e19`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MegaMan4.ips).
+
 ## Mega Man V
 
 This patch converts `Mega Man V (U)` to the `.pocket` format.
