@@ -24,6 +24,7 @@ Game | System
 --- | --- 
 [Bionic Commando](#bionic-commando) | GB
 [Duck Tales](#duck-tales) | GB
+[Kirby's Dream Land](#kirby-s-dream-land) | GB
 [Mario's Picross](#marios-picross) | GB
 [Mega Man - Dr. Wily's Revenge](#mega-man---dr-wilys-revenge) | GB
 [Mega Man II](#mega-man-ii) | GB
@@ -57,6 +58,14 @@ This patch converts `Duck Tales (U)` to the `.pocket` format.
 ROM MD5: `785441d3d75913393807b10b3194dc48`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DuckTales.ips).
+
+## Kirby's Dream Land
+
+This patch converts `Kirby's Dream Land (U,E)` to the `.pocket` format.
+
+ROM MD5: `a66e4918edcd042ec171a57fe3ce36c3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KirbysDream.ips).
 
 ## Mario's Picross
 
