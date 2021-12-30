@@ -24,7 +24,7 @@ Game | System
 --- | --- 
 [Bionic Commando](#bionic-commando) | GB
 [Duck Tales](#duck-tales) | GB
-[Kirby's Dream Land](#kirby-s-dream-land) | GB
+[Kirby's Dream Land](#kirbys-dream-land) | GB
 [Mario's Picross](#marios-picross) | GB
 [Mega Man - Dr. Wily's Revenge](#mega-man---dr-wilys-revenge) | GB
 [Mega Man II](#mega-man-ii) | GB
