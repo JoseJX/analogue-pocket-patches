@@ -94,6 +94,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Mega Man IV (U)` to the `.pocket` format.
 
+It has been updated to fix [bug #3](https://github.com/JoseJX/analogue-pocket-patches/issues/3).
+
 ROM MD5: `8a00f627b8902c92327435901c249e19`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MegaMan4.ips).
