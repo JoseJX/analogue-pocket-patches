@@ -155,7 +155,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## QIX
 
-This patch converts `QIX (U)` to the `.pocket` format.
+This patch converts `QIX (W)` to the `.pocket` format.
 
 ROM MD5: `1c94dccdfaaa0c3e1d6bda5969704885`
 
