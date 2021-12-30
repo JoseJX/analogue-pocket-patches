@@ -82,6 +82,14 @@ ROM MD5: `ceb17d831b410d91aa41bf2819cbed82`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MegaMan5.ips).
 
+## Metal Gear Solid
+
+This patch converts `Metal Gear Solid (U)` to the `.pocket` format.
+
+ROM MD5: `f6dd1b1e5747412b9e5f25376c972d5a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MetalGear.ips).
+
 ## Mole Mania
 
 This patch converts `Mole Mania (U)` to the `.pocket` format.
