@@ -50,6 +50,14 @@ ROM MD5: `4ba4398181d98958fa7434ba7716f11a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MegaMan1.ips).
 
+## Mega Man II
+
+This patch converts `Mega Man II (U)`
+
+ROM MD5: `7fe07271d04ed9e0bc0663dde55a2ae4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MegaMan2.ips).
+
 ## Mole Mania
 
 This patch converts `Mole Mania (U)` to the `.pocket` format.
