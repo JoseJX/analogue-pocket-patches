@@ -44,7 +44,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Mega Man - Dr. Wily's Revenge 
 
-This patch converts `Mega Man - Dr. Wily's Revenge (U)`
+This patch converts `Mega Man - Dr. Wily's Revenge (U)` to the `.pocket` format.
 
 ROM MD5: `4ba4398181d98958fa7434ba7716f11a`
 
@@ -52,7 +52,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Mega Man II
 
-This patch converts `Mega Man II (U)`
+This patch converts `Mega Man II (U)` to the `.pocket` format.
 
 ROM MD5: `7fe07271d04ed9e0bc0663dde55a2ae4`
 
@@ -60,7 +60,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Mega Man III
 
-This patch converts `Mega Man III (U)`
+This patch converts `Mega Man III (U)` to the `.pocket` format.
 
 ROM MD5: `4c614f884a07872f12056ad1a421e1f9`
 
@@ -71,6 +71,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 This patch converts `Mole Mania (U)` to the `.pocket` format.
 
 It has been updated to fix [bug #2](https://github.com/JoseJX/analogue-pocket-patches/issues/2).
+
+It has been updated again for another missed register access. (2021/12/30)
 
 ROM MD5: `f28ade3926852a8ad2e449c274683956`
 
