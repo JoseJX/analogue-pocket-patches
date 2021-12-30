@@ -2,9 +2,9 @@
 
 ## How they're generated
 
-To convert a ROM, all accesses to the LCDC and STAT registers need to be bit reversed. The pocket format also moves the LCDC hardware register to offset 0xFF4E from 0xFF40 in the actual Game Boy hardware. To make it work, you need to go through all of the code in the ROM and replace every instance where these registers are used (and memory locations that have values that get transferred to/from these registers) with the bit reversed operation (i.e. $83 -> $C1) and replace every LCDC usage with the new address.
+To convert a ROM, all accesses to the [LCDC](https://gbdev.io/pandocs/LCDC.html) and [STAT](https://gbdev.io/pandocs/STAT.html) registers need to be bit reversed. The pocket format also moves the LCDC hardware register to offset 0xFF4E from 0xFF40 in the actual Game Boy hardware. To make it work, you need to go through all of the code in the ROM and replace every instance where these registers are used (and memory locations that have values that get transferred to/from these registers) with the bit reversed operation (i.e. $83 -> $C1) and replace every LCDC usage with the new address ($4e or $ff4e).
 
-For my workflow, to generate the `.pocket` file, the ROM is first decompiled with [mgbdis](https://github.com/mattcurrie/mgbdis) and then recompiled with [rgbds](https://github.com/gbdev/rgbds) after patching the above issues and whatever else pops up. Once it's recompiled, the header needs to be modified to use Analogue's header rather than the Nintendo header.
+For my workflow, to generate the `.pocket` file, the ROM is first decompiled with [mgbdis](https://github.com/mattcurrie/mgbdis) and then recompiled with [rgbds](https://github.com/gbdev/rgbds) after patching the above issues and whatever else pops up. Once it's recompiled, the [header](https://gbdev.io/pandocs/The_Cartridge_Header.html#0104-0133---nintendo-logo) needs to be modified to use Analogue's header rather than the Nintendo header.
 
 I then generate the final IPS patch using [lipx](https://github.com/kylon/Lipx), which compares the original ROM with the patched version.
 
