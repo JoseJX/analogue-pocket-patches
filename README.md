@@ -32,6 +32,7 @@ Game | System
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
 [Kirby's Dream Land](#kirbys-dream-land) | GB
+[Kirby's Pinball Land](#kirbys-pinball-land) | GB
 [Marble Madness](#marble-madness) | GB
 [Mario's Picross](#marios-picross) | GB
 [Mega Man - Dr. Wily's Revenge](#mega-man---dr-wilys-revenge) | GB
@@ -120,6 +121,14 @@ This patch was updated to fix [bug #4](https://github.com/JoseJX/analogue-pocket
 ROM MD5: `a66e4918edcd042ec171a57fe3ce36c3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KirbysDream.ips).
+
+## Kirby's Pinball Land
+
+This patch converts `Kirby's Pinball Land (U,E)` to the `.pocket` format.
+
+ROM MD5: `f711ed10307d4ea27223fe965595b123`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KirbysPinball.ips).
 
 ## Kid Dracula
 
