@@ -81,6 +81,14 @@ ROM MD5: `a66e4918edcd042ec171a57fe3ce36c3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KirbysDream.ips).
 
+## Marble Madness
+
+This patch converts `Marble Madness (U,E)` to the `.pocket` format.
+
+ROM MD5: `f489b8eb7dc88a39842f20a7f7165e5b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MarbleMadness.ips).
+
 ## Mario's Picross
 
 This patch converts `Mario's Picross (U,E)` to the `.pocket` format.
