@@ -23,6 +23,7 @@ Please note that link cable functionality and the real-time clock are not suppor
 Game | System 
 --- | --- 
 [Bionic Commando](#bionic-commando) | GB
+[Blades of Steel](#blades-of-steel) | GB
 [Duck Tales](#duck-tales) | GB
 [Kirby's Dream Land](#kirbys-dream-land) | GB
 [Mario's Picross](#marios-picross) | GB
@@ -46,11 +47,21 @@ Game | System
 
 ## Bionic Commando
 
-This patch converts `Bionic Commando (U)` to the `.pocket format.
+This patch converts `Bionic Commando (U)` to the `.pocket` format.
 
 ROM MD5: `f89a33de3fa660a13ec29bb323efffa9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BionicCommando.ips).
+
+## Blades of Steel
+
+This patch converts `Blades of Steel (U)` to the `.pocket` format.
+
+NOTE: After selecting a menu option, press the buttons a bunch, it seems to get stuck waiting, but it happens on the original cart too.
+
+ROM MD5: `302caa3ceddccc5fba36787b44d25da7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BladesOfSteel.ips).
 
 ## Duck Tales
 
