@@ -39,6 +39,7 @@ Game | System
 [Mega Man V](#mega-man-v) | GB
 [Metal Gear Solid](#metal-gear-solid) | GBC
 [Mole Mania](#mole-mania) | GB
+[Motocross Maniacs 2](#motocross-maniacs-2) | GBC
 [Mr. Driller](#mr-driller) | GBC
 [Ms. Pac-Man](#ms-pac-man) | GB
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
@@ -195,6 +196,14 @@ It has been updated again for another missed register access. (2021/12/30)
 ROM MD5: `f28ade3926852a8ad2e449c274683956`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MoleMania.ips).
+
+## Motocross Maniacs 2
+
+This patch converts `Motocross Maniacs 2 (U)` to the `.pocket` format.
+
+ROM MD5: `4d08e5553356aecd728b5ef7d78ee261`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Motocross2.ips).
 
 ## Mr. Driller
 
