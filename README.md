@@ -22,6 +22,7 @@ Please note that link cable functionality and the real-time clock are not suppor
 
 Game | System 
 --- | --- 
+[Alleyway](#alleyway) | GB
 [Bionic Commando](#bionic-commando) | GB
 [Blades of Steel](#blades-of-steel) | GB
 [Duck Tales](#duck-tales) | GB
@@ -50,6 +51,14 @@ Game | System
 [Tetris Attack](#tetris-attack) | GB
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
+
+## Alleyway
+
+This patch converts `Alleyway (W)` to the `.pocket` format.
+
+ROM MD5: `91128778a332495f77699eaf3a37fe30`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Alleyway.ips).
 
 ## Bionic Commando
 
