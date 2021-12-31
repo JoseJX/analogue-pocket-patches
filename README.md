@@ -23,6 +23,7 @@ Please note that link cable functionality and the real-time clock are not suppor
 Game | System 
 --- | --- 
 [Alleyway](#alleyway) | GB
+[Balloon Kid](#balloon-kid) | GB
 [Bionic Commando](#bionic-commando) | GB
 [Blades of Steel](#blades-of-steel) | GB
 [Duck Tales](#duck-tales) | GB
@@ -59,6 +60,14 @@ This patch converts `Alleyway (W)` to the `.pocket` format.
 ROM MD5: `91128778a332495f77699eaf3a37fe30`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Alleyway.ips).
+
+## Balloon Kid
+
+This patch converts `Balloon Kid (U,E)` to the `.pocket` format.
+
+ROM MD5: `f70c60ca87714fa9d81be60c9ac93de0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BalloonKid.ips).
 
 ## Bionic Commando
 
