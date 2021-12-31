@@ -64,6 +64,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Kirby's Dream Land (U,E)` to the `.pocket` format.
 
+This patch was updated to fix [bug #4](https://github.com/JoseJX/analogue-pocket-patches/issues/4) - (2021/12/30)
+
 ROM MD5: `a66e4918edcd042ec171a57fe3ce36c3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KirbysDream.ips).
