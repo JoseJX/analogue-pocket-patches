@@ -25,6 +25,7 @@ Game | System
 [Bionic Commando](#bionic-commando) | GB
 [Blades of Steel](#blades-of-steel) | GB
 [Duck Tales](#duck-tales) | GB
+[Final Fantasy Legend](#final-fantasy-legend) | GB
 [Kirby's Dream Land](#kirbys-dream-land) | GB
 [Marble Madness](#marble-madness) | GB
 [Mario's Picross](#marios-picross) | GB
@@ -71,6 +72,14 @@ This patch converts `Duck Tales (U)` to the `.pocket` format.
 ROM MD5: `785441d3d75913393807b10b3194dc48`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DuckTales.ips).
+
+## Final Fantasy Legend
+
+This patch converts `Final Fantasy Legend (U)` to the `.pocket` format.
+
+ROM MD5: `d5c27ff8cb1b69cb56df4ff170e2baf0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/FFL1.ips).
 
 ## Kirby's Dream Land
 
