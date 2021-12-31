@@ -26,6 +26,7 @@ Game | System
 [Blades of Steel](#blades-of-steel) | GB
 [Duck Tales](#duck-tales) | GB
 [Kirby's Dream Land](#kirbys-dream-land) | GB
+[Marble Madness](#marble-madness) | GB
 [Mario's Picross](#marios-picross) | GB
 [Mega Man - Dr. Wily's Revenge](#mega-man---dr-wilys-revenge) | GB
 [Mega Man II](#mega-man-ii) | GB
