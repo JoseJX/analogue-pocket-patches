@@ -27,6 +27,8 @@ Game | System
 [Duck Tales](#duck-tales) | GB
 [Final Fantasy Legend](#final-fantasy-legend) | GB
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
+[Kid Dracula](#kid-dracula) | GB
+[Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
 [Kirby's Dream Land](#kirbys-dream-land) | GB
 [Marble Madness](#marble-madness) | GB
 [Mario's Picross](#marios-picross) | GB
@@ -99,6 +101,22 @@ This patch was updated to fix [bug #4](https://github.com/JoseJX/analogue-pocket
 ROM MD5: `a66e4918edcd042ec171a57fe3ce36c3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KirbysDream.ips).
+
+## Kid Dracula
+
+This patch converts `Kid Dracula (U,E)` to the `.pocket` format.
+
+ROM MD5: `24a6b4457a511cc667e9ac25417401ab`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KidDracula.ips).
+
+## Kid Icarus - Of Myths and Monsters
+
+This patch converts `Kid Icarus - Of Myths and Monsters (U,E)` to the `.pocket` format.
+
+ROM MD5: `23c7be98ac9a4d3b046ad1be3f0965e4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KidIcarus.ips).
 
 ## Marble Madness
 
