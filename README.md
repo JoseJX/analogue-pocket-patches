@@ -58,6 +58,8 @@ Game | System
 
 This patch converts `Alleyway (W)` to the `.pocket` format.
 
+This was updated to fix an error on boot. (2021/12/31)
+
 ROM MD5: `91128778a332495f77699eaf3a37fe30`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Alleyway.ips).
