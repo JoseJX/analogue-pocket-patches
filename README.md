@@ -33,6 +33,7 @@ Game | System
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
 [Kirby's Dream Land](#kirbys-dream-land) | GB
 [Kirby's Pinball Land](#kirbys-pinball-land) | GB
+[Kirby's Star Stacker](#kirbys-star-stacker) | GB
 [Marble Madness](#marble-madness) | GB
 [Mario's Picross](#marios-picross) | GB
 [Mega Man - Dr. Wily's Revenge](#mega-man---dr-wilys-revenge) | GB
@@ -131,6 +132,14 @@ This patch converts `Kirby's Pinball Land (U,E)` to the `.pocket` format.
 ROM MD5: `f711ed10307d4ea27223fe965595b123`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KirbysPinball.ips).
+
+## Kirby's Star Stacker
+
+This patch converts `Kirby's Star Stacker (U,E)` to the `.pocket` format.
+
+ROM MD5: `f4c0bf35939be6786c099e9eb4635919`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KirbyStarStack.ips).
 
 ## Kid Dracula
 
