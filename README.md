@@ -31,6 +31,7 @@ Game | System
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
+[Kirby's Block Ball](#kirbys-block-ball) | GB
 [Kirby's Dream Land](#kirbys-dream-land) | GB
 [Kirby's Dream Land 2](#kirbys-dream-land-2) | GB
 [Kirby's Pinball Land](#kirbys-pinball-land) | GB
@@ -115,6 +116,14 @@ This patch converts `Final Fantasy Legend II (U)` to the `.pocket` format.
 ROM MD5: `2bb0df1b672253aaa5f9caf9aab78224`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/FFL2.ips).
+
+## Kirby's Block Ball
+
+This patch converts `Kirby's Block Ball (U,E)` to the `.pocket` format.
+
+ROM MD5: `203db7ddc72359e4db5e9ab42a6f0ba8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KirbysBlockBall.ips).
 
 ## Kirby's Dream Land
 
