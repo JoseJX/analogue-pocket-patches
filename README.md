@@ -50,6 +50,7 @@ Game | System
 [Mr. Driller](#mr-driller) | GBC
 [Ms. Pac-Man](#ms-pac-man) | GB
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
+[Popeye 2](#popeye-2) | GB
 [QIX](#qix) | GB
 [Side Pocket](#side-pocket) | GB
 [Super Off Road](#super-off-road) | GB
@@ -296,6 +297,14 @@ This patch converts `Pokemon Puzzle Challenge (U)` to the `.pocket` format.
 ROM MD5: `f9ec4cc3c9df3887dc731ccf53663ffb`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/PokePuzzle.ips).
+
+## Popeye 2
+
+This patch converts `Popeye 2 (U)` to the `.pocket` format.
+
+ROM MD5: `30b579d82ae755bd37c1d4157a96129c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Popeye2.ips).
 
 ## QIX
 
