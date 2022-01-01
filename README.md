@@ -26,6 +26,7 @@ Game | System
 [Balloon Kid](#balloon-kid) | GB
 [Bionic Commando](#bionic-commando) | GB
 [Blades of Steel](#blades-of-steel) | GB
+[Castlevania Legends](#castlevania-legends) | GB
 [Duck Tales](#duck-tales) | GB
 [Final Fantasy Legend](#final-fantasy-legend) | GB
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
@@ -92,6 +93,14 @@ NOTE: After selecting a menu option, press the buttons a bunch, it seems to get 
 ROM MD5: `302caa3ceddccc5fba36787b44d25da7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BladesOfSteel.ips).
+
+## Castlevania Legends
+
+This patch converts `Castlevania Legends (U)` to the `.pocket` format.
+
+ROM MD5: `1475824e7262c0d6359f43c287e034a5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/CastlevaniaLegends.ips).
 
 ## Duck Tales
 
