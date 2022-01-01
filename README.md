@@ -27,6 +27,7 @@ Game | System
 [Bionic Commando](#bionic-commando) | GB
 [Blades of Steel](#blades-of-steel) | GB
 [Castlevania Legends](#castlevania-legends) | GB
+[Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
 [Duck Tales](#duck-tales) | GB
 [Final Fantasy Legend](#final-fantasy-legend) | GB
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
@@ -94,6 +95,14 @@ NOTE: After selecting a menu option, press the buttons a bunch, it seems to get 
 ROM MD5: `302caa3ceddccc5fba36787b44d25da7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BladesOfSteel.ips).
+
+## Castlevania II - Belmont's Revenge
+
+This patch converts `Castlevania II - Belmont's Revenge (U)` to the `.pocket` format.
+
+ROM MD5: `7c65e9da405d2225d079f75e56276822`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Castlevania2.ips).
 
 ## Castlevania Legends
 
