@@ -158,7 +158,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Kirby's Dream Land 2 (U,E)` to the `.pocket` format.
 
-ROM MD5: `6421a7fa349a1b7b91ff3c32b5b6ddbb`
+ROM MD5: `ddb5bfae32b0ca39cf8ab6c46880126c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KirbysDream2.ips).
 
