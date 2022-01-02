@@ -56,7 +56,7 @@ Game | System
 [Popeye 2](#popeye-2) | GB
 [QIX](#qix) | GB
 [Side Pocket](#side-pocket) | GB
-[Solar Striker](#Solar Striker) | GB
+[Solar Striker](#solar-striker) | GB
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
 [Tetris Attack](#tetris-attack) | GB
