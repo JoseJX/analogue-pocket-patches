@@ -26,9 +26,10 @@ Game | System
 [Balloon Kid](#balloon-kid) | GB
 [Bionic Commando](#bionic-commando) | GB
 [Blades of Steel](#blades-of-steel) | GB
-[Bubble Bobble](#bubble-bobble) | gb
+[Bubble Bobble](#bubble-bobble) | GB
 [Castlevania Legends](#castlevania-legends) | GB
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
+[Catrap](#catrap) | GB
 [Duck Tales](#duck-tales) | GB
 [Final Fantasy Legend](#final-fantasy-legend) | GB
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
@@ -120,6 +121,14 @@ This patch converts `Castlevania Legends (U)` to the `.pocket` format.
 ROM MD5: `1475824e7262c0d6359f43c287e034a5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/CastlevaniaLegends.ips).
+
+## Catrap
+
+This patch converts `Catrap (U)` to the `.pocket` format.
+
+ROM MD5: `5a75fe8de54e4cbd09cae23f050f6965`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Catrap.ips).
 
 ## Duck Tales
 
