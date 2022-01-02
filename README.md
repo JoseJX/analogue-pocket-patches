@@ -26,6 +26,7 @@ Game | System
 [Balloon Kid](#balloon-kid) | GB
 [Bionic Commando](#bionic-commando) | GB
 [Blades of Steel](#blades-of-steel) | GB
+[Bubble Bobble](#bubble-bobble) | gb
 [Castlevania Legends](#castlevania-legends) | GB
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
 [Duck Tales](#duck-tales) | GB
@@ -95,6 +96,14 @@ NOTE: After selecting a menu option, press the buttons a bunch, it seems to get 
 ROM MD5: `302caa3ceddccc5fba36787b44d25da7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BladesOfSteel.ips).
+
+## Bubble Bobble
+
+This patch converts `Bubble Bobble (U,E)` to the `.pocket` format.
+
+ROM MD5: `11c49d405eef2174d9c14682204bb458`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BubbleBobble.ips).
 
 ## Castlevania II - Belmont's Revenge
 
