@@ -56,6 +56,7 @@ Game | System
 [Popeye 2](#popeye-2) | GB
 [QIX](#qix) | GB
 [Side Pocket](#side-pocket) | GB
+[Solar Striker](#Solar Striker) | GB
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
 [Tetris Attack](#tetris-attack) | GB
@@ -348,6 +349,14 @@ This patch converts `Side Pocket (U)` to the `.pocket` format.
 ROM MD5: `3dbe9be772ca50da3a76d8860c7b08e2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SidePocket.ips).
+
+## Solar Striker
+
+This patch converts `Solar Striker (W)` to the `.pocket` format.
+
+ROM MD5: `83bed4ebefeece45748258fd2ef105b3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SolarStriker.ips).
 
 ## Super Off Road
 
