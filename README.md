@@ -24,6 +24,7 @@ Game | System
 --- | --- 
 [Alleyway](#alleyway) | GB
 [Balloon Kid](#balloon-kid) | GB
+[Batman - The Video Game](#batman---the-video-game) | GB
 [Bionic Commando](#bionic-commando) | GB
 [Blades of Steel](#blades-of-steel) | GB
 [Bubble Bobble](#bubble-bobble) | GB
@@ -90,6 +91,14 @@ This patch converts `Balloon Kid (U,E)` to the `.pocket` format.
 ROM MD5: `f70c60ca87714fa9d81be60c9ac93de0`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BalloonKid.ips).
+
+## Batman - The Video Game
+
+This patch converts `Batman - The Video Game (U,E)` to the `.pocket` format.
+
+ROM MD5: `03c6d84a951be6703b7458478f4277b9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Batman.ips).
 
 ## Bionic Commando
 
