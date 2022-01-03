@@ -37,6 +37,7 @@ Game | System
 [Final Fantasy Legend](#final-fantasy-legend) | GB
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
 [Game & Watch Gallery](#game--watch-gallery) | GB
+[Game & Watch Gallery 2](#game--watch-gallery-2) | GBC
 [Gear Works](#gear-works) | GB
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
@@ -198,6 +199,14 @@ This patch converts `Game & Watch Gallery (U)` to the `.pocket` format.
 ROM MD5: `d5081250257e0dafcb8fe8720fcb9f28`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GnW1.ips).
+
+## Game & Watch Gallery 2
+
+This patch converts `Game & Watch Gallery 2 (U,E)` to the `.pocket` format.
+
+ROM MD5: `cbf4a5b2ff566554b014118e3d0e3e9a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GnW2.ips).
 
 ## Gear Works
 
