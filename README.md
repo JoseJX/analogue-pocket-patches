@@ -36,6 +36,7 @@ Game | System
 [Duck Tales 2](#duck-tales-2) | GB
 [Final Fantasy Legend](#final-fantasy-legend) | GB
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
+[Game & Watch Gallery](#game---watch-gallery) | GB
 [Gear Works](#gear-works) | GB
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
@@ -190,6 +191,13 @@ This patch converts `Final Fantasy Legend II (U)` to the `.pocket` format.
 ROM MD5: `2bb0df1b672253aaa5f9caf9aab78224`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/FFL2.ips).
+
+## Game & Watch Gallery
+This patch converts `Game & Watch Gallery (U)` to the `.pocket` format.
+
+ROM MD5: `d5081250257e0dafcb8fe8720fcb9f28`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GnW1.ips).
 
 ## Gear Works
 
