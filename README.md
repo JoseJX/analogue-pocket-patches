@@ -64,6 +64,7 @@ Game | System
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
 [Teenage Mutant Ninja Turtles - Fall of the Foot Clan](#teenage-mutant-ninja-turtles---fall-of-the-foot-clan) | GB
+[Teenage Mutant Ninja Turtles II - Back From the Sewers](#teenage-mutant-ninja-turtles-ii---back-from-the-sewers) | GB
 [Tetris Attack](#tetris-attack) | GB
 [Tetris Blast](#tetris-blast) | GB
 [Trax](#trax) | GB
@@ -419,6 +420,14 @@ This patch converts `Teenage Mutant Ninja Turtles - Fall of the Foot Clan (U)` t
 ROM MD5: `ad868e84fb6071a3b6a211d16e6cbb66`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TMNT1.ips).
+
+## Teenage Mutant Ninja Turtles II - Back From the Sewers
+
+This patch converts `Teenage Mutant Ninja Turtles II - Back From the Sewers (U)` to the `.pocket` format.
+
+ROM MD5: `0221de99d11f50f79430c8ff9b430994`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TMNT2.ips).
 
 ## Tetris Attack
 
