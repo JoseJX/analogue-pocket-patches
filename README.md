@@ -27,6 +27,7 @@ Game | System
 [Bionic Commando](#bionic-commando) | GB
 [Blades of Steel](#blades-of-steel) | GB
 [Bubble Bobble](#bubble-bobble) | GB
+[Castlevania - The Adventure](#castlevania---the-adventure) | GB
 [Castlevania Legends](#castlevania-legends) | GB
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
 [Catrap](#catrap) | GB
@@ -110,6 +111,14 @@ This patch converts `Bubble Bobble (U,E)` to the `.pocket` format.
 ROM MD5: `11c49d405eef2174d9c14682204bb458`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BubbleBobble.ips).
+
+## Castlevania - The Adventure
+
+This patch converts `Castlevania - The Adventure (U)` to the `.pocket` format.
+
+ROM MD5: `0b4410c6b94d6359dba5609ae9a32909`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/CastlevaniaAdventure.ips).
 
 ## Castlevania II - Belmont's Revenge
 
