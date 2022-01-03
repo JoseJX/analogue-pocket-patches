@@ -68,6 +68,7 @@ Game | System
 [Tetris Attack](#tetris-attack) | GB
 [Tetris Blast](#tetris-blast) | GB
 [Trax](#trax) | GB
+[Wordtris](#wordtris) | GB
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
 
@@ -451,6 +452,14 @@ This patch converts `Trax (U,E)` to the `.pocket` format.
 ROM MD5: `89ecf5b28d5cc84208cfc39dc2d96598`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Trax.ips).
+
+## Wordtris
+
+This patch converts `Wordtris (U)` to the `.pocket` format.
+
+ROM MD5: `29c71c474c2fa00eeac79ddb55c2c174`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Wordtris.ips).
 
 ## Yoshi
 
