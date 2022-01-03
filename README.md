@@ -55,6 +55,7 @@ Game | System
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Popeye 2](#popeye-2) | GB
 [QIX](#qix) | GB
+[Revenge of the 'Gator](#revenge-of-the--gator) | GB
 [Side Pocket](#side-pocket) | GB
 [Solar Striker](#solar-striker) | GB
 [Super Off Road](#super-off-road) | GB
@@ -318,6 +319,13 @@ This patch converts `Ms. Pac-Man (U)` to the `.pocket` format.
 ROM MD5: `ffa8642a18781fbe79df436a761a9775`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MsPacMan.ips).
+
+## Revenge of the 'Gator
+This patch converts `Revenge of the 'Gator (U,E)` to the `.pocket` format.
+
+ROM MD5: `113d8f894df6b8c3641b2ba1fe60c250`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Gator.ips).
 
 ## Pokemon Puzzle Challenge
 
