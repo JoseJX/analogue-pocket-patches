@@ -65,6 +65,7 @@ Game | System
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
 [Tetris Attack](#tetris-attack) | GB
 [Tetris Blast](#tetris-blast) | GB
+[Trax](#trax) | GB
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
 
@@ -424,6 +425,14 @@ This patch converts `Tetris Blast (U,E)` to the `.pocket` format.
 ROM MD5: `0affc9df2e1220ea4573deb6cb2d4b32`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TetrisBlast.ips).
+
+## Trax
+
+This patch converts `Trax (U,E)` to the `.pocket` format.
+
+ROM MD5: `89ecf5b28d5cc84208cfc39dc2d96598`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Trax.ips).
 
 ## Yoshi
 
