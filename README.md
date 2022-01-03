@@ -42,6 +42,7 @@ Game | System
 [Kirby's Pinball Land](#kirbys-pinball-land) | GB
 [Kirby's Star Stacker](#kirbys-star-stacker) | GB
 [Marble Madness](#marble-madness) | GB
+[Marble Madness (GBC)](#marble-madness--color-) | GBC
 [Mario's Picross](#marios-picross) | GB
 [Mega Man - Dr. Wily's Revenge](#mega-man---dr-wilys-revenge) | GB
 [Mega Man II](#mega-man-ii) | GB
@@ -231,6 +232,14 @@ This patch converts `Marble Madness (U,E)` to the `.pocket` format.
 ROM MD5: `f489b8eb7dc88a39842f20a7f7165e5b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MarbleMadness.ips).
+
+## Marble Madness (Color)
+
+This patch converts `Marble Madness (GBC) (U,E)` to the `.pocket` format.
+
+ROM MD5: `d2711ff066f40c4e6c471b79da0f08b7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MarbleMadnessColor.ips).
 
 ## Mario's Picross
 
