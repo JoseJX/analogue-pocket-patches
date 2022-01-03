@@ -31,6 +31,7 @@ Game | System
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
 [Catrap](#catrap) | GB
 [Duck Tales](#duck-tales) | GB
+[Duck Tales 2](#duck-tales-2) | GB
 [Final Fantasy Legend](#final-fantasy-legend) | GB
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
 [Kid Dracula](#kid-dracula) | GB
@@ -140,6 +141,14 @@ This patch converts `Duck Tales (U)` to the `.pocket` format.
 ROM MD5: `785441d3d75913393807b10b3194dc48`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DuckTales.ips).
+
+## Duck Tales 2
+
+This patch converts `Duck Tales 2 (U)` to the `.pocket` format.
+
+ROM MD5: `b4e5876c5acedd12b62e25a12973a4ae`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DuckTales2.ips).
 
 ## Final Fantasy Legend
 
