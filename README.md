@@ -36,6 +36,7 @@ Game | System
 [Duck Tales 2](#duck-tales-2) | GB
 [Final Fantasy Legend](#final-fantasy-legend) | GB
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
+[Gear Works](#gear-works) | GB
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
 [Kirby's Block Ball](#kirbys-block-ball) | GB
@@ -189,6 +190,14 @@ This patch converts `Final Fantasy Legend II (U)` to the `.pocket` format.
 ROM MD5: `2bb0df1b672253aaa5f9caf9aab78224`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/FFL2.ips).
+
+## Gear Works
+
+This patch converts `Gear Works (U,E)` to the `.pocket` format.
+
+ROM MD5: `16af858484041d572299b501ead2b788`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GearWorks.ips).
 
 ## Kirby's Block Ball
 
