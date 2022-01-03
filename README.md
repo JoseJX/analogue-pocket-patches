@@ -42,7 +42,7 @@ Game | System
 [Kirby's Pinball Land](#kirbys-pinball-land) | GB
 [Kirby's Star Stacker](#kirbys-star-stacker) | GB
 [Marble Madness](#marble-madness) | GB
-[Marble Madness (GBC)](#marble-madness--color-) | GBC
+[Marble Madness (GBC)](#marble-madness-color) | GBC
 [Mario's Picross](#marios-picross) | GB
 [Mega Man - Dr. Wily's Revenge](#mega-man---dr-wilys-revenge) | GB
 [Mega Man II](#mega-man-ii) | GB
