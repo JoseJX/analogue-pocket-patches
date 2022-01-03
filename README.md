@@ -36,7 +36,7 @@ Game | System
 [Duck Tales 2](#duck-tales-2) | GB
 [Final Fantasy Legend](#final-fantasy-legend) | GB
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
-[Game & Watch Gallery](#game---watch-gallery) | GB
+[Game & Watch Gallery](#game--watch-gallery) | GB
 [Gear Works](#gear-works) | GB
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
