@@ -63,6 +63,7 @@ Game | System
 [Solar Striker](#solar-striker) | GB
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
+[Teenage Mutant Ninja Turtles - Fall of the Foot Clan](#teenage-mutant-ninja-turtles---fall-of-the-foot-clan) | GB
 [Tetris Attack](#tetris-attack) | GB
 [Tetris Blast](#tetris-blast) | GB
 [Trax](#trax) | GB
@@ -410,6 +411,14 @@ This patch converts `Super R.C. Pro-Am (U,E)` to the `.pocket` format.
 ROM MD5: `9ba2999ef3ecf9e27ac6c88e995c9d7a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SuperRC.ips).
+
+## Teenage Mutant Ninja Turtles - Fall of the Foot Clan
+
+This patch converts `Teenage Mutant Ninja Turtles - Fall of the Foot Clan (U)` to the `.pocket` format.
+
+ROM MD5: `ad868e84fb6071a3b6a211d16e6cbb66`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TMNT1.ips).
 
 ## Tetris Attack
 
