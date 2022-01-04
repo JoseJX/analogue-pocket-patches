@@ -24,6 +24,7 @@ Game | System
 --- | --- 
 [Alleyway](#alleyway) | GB
 [Balloon Kid](#balloon-kid) | GB
+[Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
 [Batman - The Video Game](#batman---the-video-game) | GB
 [Bionic Commando](#bionic-commando) | GB
 [Blades of Steel](#blades-of-steel) | GB
@@ -94,6 +95,14 @@ This patch converts `Balloon Kid (U,E)` to the `.pocket` format.
 ROM MD5: `f70c60ca87714fa9d81be60c9ac93de0`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BalloonKid.ips).
+
+## Bart Simpson's Escape from Camp Deadly
+
+This patch converts `Bart Simpson's Escape from Camp Deadly (U,E)` to the `.pocket` format.
+
+ROM MD5: `e731fa23d9cd0c3d4dec7d5565beef61`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/CampDeadly.ips).
 
 ## Batman - The Video Game
 
