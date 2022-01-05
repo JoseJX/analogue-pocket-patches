@@ -40,6 +40,7 @@ Game | System
 [Game & Watch Gallery](#game--watch-gallery) | GB
 [Game & Watch Gallery 2](#game--watch-gallery-2) | GBC
 [Gear Works](#gear-works) | GB
+[INFGMB - Infocom Z3 Interpreter](#infgmb) | GBC
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
 [Kirby's Block Ball](#kirbys-block-ball) | GB
@@ -224,6 +225,22 @@ This patch converts `Gear Works (U,E)` to the `.pocket` format.
 ROM MD5: `16af858484041d572299b501ead2b788`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GearWorks.ips).
+
+## INFGMB
+
+[INFGMB](https://problemkaputt.de/infgmb.htm) is an Infocom Z-Machine interpreter for the Game Boy.
+
+This patch is a bit different. To successfully use this patch, you will need to apply the IPS to the ROM linked above and then append your Z3 or lower Z-Machine game to the end of the patched ROM.
+
+In Linux or OSX, this command is something like: `cat infgmb.pocket game.z3 > game.pocket`
+
+In Windows (and DOS I guess), you're best served doing it from the terminal too. Change into the directory where the patched `.gbc` file and game file are located and type: `copy /B infgmb.pocket + game.z3 game.pocket`.
+
+Copy the resulting `game.pocket` file to your SD card. Repeat this process for each Z-Machine game you'd like to play.
+
+ROM MD5: `65a5a0cb3c339ec473053c64c2218ab9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/INFGMB.ips).
 
 ## Kirby's Block Ball
 
