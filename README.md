@@ -33,6 +33,7 @@ Game | System
 [Castlevania Legends](#castlevania-legends) | GB
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
 [Catrap](#catrap) | GB
+[Commander Keen](#commander-keen) | GBC
 [Duck Tales](#duck-tales) | GB
 [Duck Tales 2](#duck-tales-2) | GB
 [Final Fantasy Legend](#final-fantasy-legend) | GB
@@ -170,6 +171,14 @@ This patch converts `Catrap (U)` to the `.pocket` format.
 ROM MD5: `5a75fe8de54e4cbd09cae23f050f6965`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Catrap.ips).
+
+## Commander Keen
+
+This patch converts `Commander Keen (U,E)` to the `.pocket` format.
+
+ROM MD5: `94d2aa3fbda301f9c0d0c16e00743183`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/CommanderKeen.ips).
 
 ## Duck Tales
 
