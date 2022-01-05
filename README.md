@@ -22,6 +22,7 @@ Please note that link cable functionality and the real-time clock are not suppor
 
 Game | System 
 --- | --- 
+[The Adventures of Star Saver](#the-adventures-of-star-saver) | GB
 [Alleyway](#alleyway) | GB
 [Balloon Kid](#balloon-kid) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
@@ -80,6 +81,14 @@ Game | System
 [Wordtris](#wordtris) | GB
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
+
+## The Adventures of Star Saver
+
+This patch converts `The Adventures of Star Saver (U,E)` to the `.pocket` format.
+
+ROM MD5: `91ecec5f8d06f18724bd1462b53c4b3d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/StarSaver.ips).
 
 ## Alleyway
 
