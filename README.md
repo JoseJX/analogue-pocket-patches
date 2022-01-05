@@ -38,6 +38,7 @@ Game | System
 [Duck Tales 2](#duck-tales-2) | GB
 [Final Fantasy Legend](#final-fantasy-legend) | GB
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
+[Final Fantasy Legend III](#final-fantasy-legend-iii) | GB
 [Game & Watch Gallery](#game--watch-gallery) | GB
 [Game & Watch Gallery 2](#game--watch-gallery-2) | GBC
 [Gear Works](#gear-works) | GB
@@ -211,6 +212,14 @@ This patch converts `Final Fantasy Legend II (U)` to the `.pocket` format.
 ROM MD5: `2bb0df1b672253aaa5f9caf9aab78224`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/FFL2.ips).
+
+## Final Fantasy Legend III
+
+This patch converts `Final Fantasy Legend III (U)` to the `.pocket` format.
+
+ROM MD5: `db156bc96b528996ce1bf771195171af`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/FFL3.ips).
 
 ## Game & Watch Gallery
 This patch converts `Game & Watch Gallery (U)` to the `.pocket` format.
