@@ -69,6 +69,7 @@ Game | System
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Popeye 2](#popeye-2) | GB
 [QIX](#qix) | GB
+[Rats!](#rats) | GBC
 [Revenge of the 'Gator](#revenge-of-the--gator) | GB
 [Side Pocket](#side-pocket) | GB
 [Solar Striker](#solar-striker) | GB
@@ -484,6 +485,14 @@ This patch converts `QIX (W)` to the `.pocket` format.
 ROM MD5: `1c94dccdfaaa0c3e1d6bda5969704885`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/QIX.ips).
+
+## Rats
+
+This patch converts `Rats! (U)` to the `.pocket` format. This game is also known as "Reservoir Rat".
+
+ROM MD5: `d240328faacf5583804a30b7003743b3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Rats.ips).
 
 ## Revenge of the 'Gator
 This patch converts `Revenge of the 'Gator (U,E)` to the `.pocket` format.
