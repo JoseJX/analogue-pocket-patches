@@ -45,7 +45,8 @@ Game | System
 [Game & Watch Gallery 2](#game--watch-gallery-2) | GBC
 [Gear Works](#gear-works) | GB
 [Grand Theft Auto](#grand-theft-auto) | GBC
-[INFGMB - Infocom Z3 Interpreter](#infgmb) | GBC
+[Grand Theft Auto 2](#grand-theft-auto-2) | GBC
+[INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
 [Kirby's Block Ball](#kirbys-block-ball) | GB
@@ -274,6 +275,14 @@ This patch converts `Grand Theft Auto (U)` to the `.pocket` format.
 ROM MD5: `3322493d6b7a70bfdea6f6231ceb1ce0`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GTA1.ips).
+
+## Grand Theft Auto 2
+
+This patch converts `Grand Theft Auto 2 (U)` to the `.pocket` format.
+
+ROM MD5: `05a9c516d6e744135a6303aa5b4a8887`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GTA2.ips).
 
 ## INFGMB
 
