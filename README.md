@@ -28,6 +28,7 @@ Game | System
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
 [Batman - The Video Game](#batman---the-video-game) | GB
 [Bionic Commando](#bionic-commando) | GB
+[Bionic Commando - Elite Forces](#bionic-commando---elite-forces) | GBC
 [Blades of Steel](#blades-of-steel) | GB
 [Bubble Bobble](#bubble-bobble) | GB
 [Castlevania - The Adventure](#castlevania---the-adventure) | GB
@@ -132,6 +133,14 @@ This patch converts `Bionic Commando (U)` to the `.pocket` format.
 ROM MD5: `f89a33de3fa660a13ec29bb323efffa9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BionicCommando.ips).
+
+## Bionic Commando - Elite Forces
+
+This patch converts `Bionic Commando - Elite Forces (U,E,A)` to the `.pocket` format.
+
+ROM MD5: `b3347b3219a7183697e83655f4628827`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BCElite.ips).
 
 ## Blades of Steel
 
