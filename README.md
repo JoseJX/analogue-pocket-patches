@@ -44,6 +44,7 @@ Game | System
 [Game & Watch Gallery](#game--watch-gallery) | GB
 [Game & Watch Gallery 2](#game--watch-gallery-2) | GBC
 [Gear Works](#gear-works) | GB
+[Grand Theft Auto](#grand-theft-auto) | GBC
 [INFGMB - Infocom Z3 Interpreter](#infgmb) | GBC
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
@@ -264,6 +265,14 @@ This patch converts `Gear Works (U,E)` to the `.pocket` format.
 ROM MD5: `16af858484041d572299b501ead2b788`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GearWorks.ips).
+
+## Grand Theft Auto
+
+This patch converts `Grand Theft Auto (U)` to the `.pocket` format.
+
+ROM MD5: `3322493d6b7a70bfdea6f6231ceb1ce0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GTA1.ips).
 
 ## INFGMB
 
