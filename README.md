@@ -89,7 +89,7 @@ Game | System
 [Wordtris](#wordtris) | GB
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
-[Zoop](#Zoop) | GB
+[Zoop](#zoop) | GB
 
 ## The Adventures of Star Saver
 
