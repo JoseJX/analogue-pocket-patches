@@ -69,6 +69,7 @@ Game | System
 [Ms. Pac-Man](#ms-pac-man) | GB
 [Operation C](#operation-c) | GB
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
+[Pokemon Picross](#pokemon-picross) | GBC
 [Popeye 2](#popeye-2) | GB
 [QIX](#qix) | GB
 [Rats!](#rats) | GBC
@@ -488,6 +489,18 @@ This patch converts `Pokemon Puzzle Challenge (U)` to the `.pocket` format.
 ROM MD5: `f9ec4cc3c9df3887dc731ccf53663ffb`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/PokePuzzle.ips).
+
+## Pokemon Picross
+
+This patch converts `Pokemon Picross` to the `.pocket` format.
+
+It applies to both the (J) version:
+ROM MD5: `35d2e7924408a3460e5c1a770acf3a8a`
+
+And the English patch (v1.2):
+ROM MD5: `c720f6f16ca28b942701855c73d75c3e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/PokemonPicross.ips).
 
 ## Popeye 2
 
