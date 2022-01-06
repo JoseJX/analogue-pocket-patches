@@ -64,6 +64,7 @@ Game | System
 [Motocross Maniacs 2](#motocross-maniacs-2) | GBC
 [Mr. Driller](#mr-driller) | GBC
 [Ms. Pac-Man](#ms-pac-man) | GB
+[Operation C](#operation-c) | GB
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Popeye 2](#popeye-2) | GB
 [QIX](#qix) | GB
@@ -442,12 +443,13 @@ ROM MD5: `ffa8642a18781fbe79df436a761a9775`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MsPacMan.ips).
 
-## Revenge of the 'Gator
-This patch converts `Revenge of the 'Gator (U,E)` to the `.pocket` format.
+## Operation C
 
-ROM MD5: `113d8f894df6b8c3641b2ba1fe60c250`
+This patch converts `Operation C (U)` to the `.pocket` format.
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Gator.ips).
+ROM MD5: `c6effb3a51b36056411760d1ffe048f7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/OperationC.ips).
 
 ## Pokemon Puzzle Challenge
 
@@ -472,6 +474,14 @@ This patch converts `QIX (W)` to the `.pocket` format.
 ROM MD5: `1c94dccdfaaa0c3e1d6bda5969704885`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/QIX.ips).
+
+## Revenge of the 'Gator
+This patch converts `Revenge of the 'Gator (U,E)` to the `.pocket` format.
+
+ROM MD5: `113d8f894df6b8c3641b2ba1fe60c250`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Gator.ips).
+
 
 ## Side Pocket
 
