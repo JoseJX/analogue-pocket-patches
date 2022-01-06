@@ -89,6 +89,7 @@ Game | System
 [Wordtris](#wordtris) | GB
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
+[Zoop](#Zoop) | GB
 
 ## The Adventures of Star Saver
 
@@ -653,3 +654,10 @@ ROM MD5: `bc1a3848092bdc900c157996c29a7783`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/YoshisCookie.ips).
 
+## Zoop
+
+This patch converts `Zoop (U,E)` to the `.pocket` format.
+
+ROM MD5: `2387654e0e8e63bfc5f85d9bd7aa6ac3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Zoop.ips).
