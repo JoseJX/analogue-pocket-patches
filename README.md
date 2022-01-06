@@ -73,6 +73,7 @@ Game | System
 [Rats!](#rats) | GBC
 [Revenge of the 'Gator](#revenge-of-the--gator) | GB
 [Side Pocket](#side-pocket) | GB
+[Star Wars Episode 1 - Racer](#star-wars-episode-1---racer) | GBC
 [Solar Striker](#solar-striker) | GB
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
@@ -518,6 +519,14 @@ This patch converts `Side Pocket (U)` to the `.pocket` format.
 ROM MD5: `3dbe9be772ca50da3a76d8860c7b08e2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SidePocket.ips).
+
+## Star Wars Episode 1 - Racer
+
+This patch converts `Star Wars Episode 1 - Racer (U,E)` to the `.pocket` format.
+
+ROM MD5: `d1e875cb7dac0092e83b9e7799b06653`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/StarWarsEp1Racer.ips).
 
 ## Solar Striker
 
