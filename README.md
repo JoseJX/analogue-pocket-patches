@@ -76,6 +76,7 @@ Game | System
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
 [Teenage Mutant Ninja Turtles - Fall of the Foot Clan](#teenage-mutant-ninja-turtles---fall-of-the-foot-clan) | GB
 [Teenage Mutant Ninja Turtles II - Back From the Sewers](#teenage-mutant-ninja-turtles-ii---back-from-the-sewers) | GB
+[Teenage Mutant Ninja Turtles III - Radical Rescue](#teenage-mutant-ninja-turtles-iii---radical-rescue) | GB
 [Tetris 2](#tetris-2) | GB
 [Tetris Attack](#tetris-attack) | GB
 [Tetris Blast](#tetris-blast) | GB
@@ -539,6 +540,14 @@ This patch converts `Teenage Mutant Ninja Turtles II - Back From the Sewers (U)`
 ROM MD5: `0221de99d11f50f79430c8ff9b430994`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TMNT2.ips).
+
+## Teenage Mutant Ninja Turtles III - Radical Rescue
+
+This patch converts `Teenage Mutant Ninja Turtles III - Radical Rescue (U,E)` to the `.pocket` format.
+
+ROM MD5: `e6104df1feb1318ff1764c791eb4ce0e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TMNT3.ips).
 
 ## Tetris 2
 
