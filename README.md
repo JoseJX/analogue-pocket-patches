@@ -89,6 +89,7 @@ Game | System
 [Trax](#trax) | GB
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
 [Wordtris](#wordtris) | GB
+[Xtreme Sports](#xtreme-sports) | GBC
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
 [Zoop](#zoop) | GB
@@ -657,6 +658,14 @@ This patch converts `Wordtris (U)` to the `.pocket` format.
 ROM MD5: `29c71c474c2fa00eeac79ddb55c2c174`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Wordtris.ips).
+
+## Xtreme Sports
+
+This patch converts `Xtreme Sports (U)` to the `.pocket` format.
+
+ROM MD5: `af1d1e17a5c568df796f4004be872649`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/XtremeSports.ips).
 
 ## Yoshi
 
