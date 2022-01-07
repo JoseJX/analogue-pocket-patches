@@ -27,6 +27,7 @@ Game | System
 [Balloon Kid](#balloon-kid) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
 [Batman - The Video Game](#batman---the-video-game) | GB
+[Beavis and Butt-Head](#beavis-and-butt-head) | GB
 [Bionic Commando](#bionic-commando) | GB
 [Bionic Commando - Elite Forces](#bionic-commando---elite-forces) | GBC
 [Blades of Steel](#blades-of-steel) | GB
@@ -135,6 +136,14 @@ This patch converts `Batman - The Video Game (U,E)` to the `.pocket` format.
 ROM MD5: `03c6d84a951be6703b7458478f4277b9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Batman.ips).
+
+## Beavis and Butt-Head
+
+This patch converts `Beavis and Butt-Head (U,E)` to the `.pocket` format.
+
+ROM MD5: `8f160aa0b2f69a019911fd57ac8c5b31`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BnB.ips).
 
 ## Bionic Commando
 
