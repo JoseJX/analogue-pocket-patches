@@ -50,6 +50,7 @@ Game | System
 [Grand Theft Auto](#grand-theft-auto) | GBC
 [Grand Theft Auto 2](#grand-theft-auto-2) | GBC
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
+[James Bond 007](#james-bond-007) | GB
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
 [Kirby's Block Ball](#kirbys-block-ball) | GB
@@ -334,6 +335,14 @@ Copy the resulting `game.pocket` file to your SD card. Repeat this process for e
 ROM MD5: `65a5a0cb3c339ec473053c64c2218ab9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/INFGMB.ips).
+
+## James Bond 007
+
+This patch converts `James Bond 007 (U,E)` to the `.pocket` format.
+
+ROM MD5: `669a4ecf89794505591b36d617e51f8a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/JamesBond007.ips).
 
 ## Kirby's Block Ball
 
