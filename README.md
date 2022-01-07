@@ -290,6 +290,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 [INFGMB](https://problemkaputt.de/infgmb.htm) is an Infocom Z-Machine interpreter for the Game Boy.
 
+This patch was updated on 2022/01/06 to address a ROM size issue ([bug #12](https://github.com/JoseJX/analogue-pocket-patches/issues/12)).
+
 This patch is a bit different. To successfully use this patch, you will need to apply the IPS to the ROM linked above and then append your Z3 or lower Z-Machine game to the end of the patched ROM.
 
 In Linux or OSX, this command is something like: `cat infgmb.pocket game.z3 > game.pocket`
