@@ -59,6 +59,7 @@ Game | System
 [Kirby's Dream Land 2](#kirbys-dream-land-2) | GB
 [Kirby's Pinball Land](#kirbys-pinball-land) | GB
 [Kirby's Star Stacker](#kirbys-star-stacker) | GB
+[Lunar Chase](#lunar-chase) | GB
 [Magical Tetris Challenge](#magical-tetris-challenge) | GBC
 [Marble Madness](#marble-madness) | GB
 [Marble Madness (GBC)](#marble-madness-color) | GBC
@@ -413,6 +414,14 @@ This patch converts `Kid Icarus - Of Myths and Monsters (U,E)` to the `.pocket` 
 ROM MD5: `23c7be98ac9a4d3b046ad1be3f0965e4`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KidIcarus.ips).
+
+## Lunar Chase
+
+This patch converts `Lunar Chase (U,E)` to the `.pocket` format.
+
+ROM MD5: `db24c76ac8d32cd23ce3a00519ba874f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/LunarChase.ips).
 
 ## Magical Tetris Challenge
 
