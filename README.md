@@ -85,6 +85,7 @@ Game | System
 [Tetris 2](#tetris-2) | GB
 [Tetris Attack](#tetris-attack) | GB
 [Tetris Blast](#tetris-blast) | GB
+[Toki Tori](#toki-tori) | GBC
 [Trax](#trax) | GB
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
 [Wordtris](#wordtris) | GB
@@ -624,6 +625,14 @@ This patch converts `Tetris Blast (U,E)` to the `.pocket` format.
 ROM MD5: `0affc9df2e1220ea4573deb6cb2d4b32`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TetrisBlast.ips).
+
+## Toki Tori
+
+This patch converts `Toki Tori (U,E)` to the `.pocket` format.
+
+ROM MD5: `e1bf59102bcd5e3601f4b24b3e873fd2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TokiTori.ips).
 
 ## Trax
 
