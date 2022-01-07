@@ -86,6 +86,7 @@ Game | System
 [Tetris Attack](#tetris-attack) | GB
 [Tetris Blast](#tetris-blast) | GB
 [Trax](#trax) | GB
+[Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
 [Wordtris](#wordtris) | GB
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
@@ -631,6 +632,14 @@ This patch converts `Trax (U,E)` to the `.pocket` format.
 ROM MD5: `89ecf5b28d5cc84208cfc39dc2d96598`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Trax.ips).
+
+## Wendy - Every Witch Way
+
+This patch converts `Wendy - Every Witch Way (U,E)` to the `.pocket` format.
+
+ROM MD5: `4e1a5f02cce49842d4717a8b0ce501f5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Wendy.ips).
 
 ## Wordtris
 
