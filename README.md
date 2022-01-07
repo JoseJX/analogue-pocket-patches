@@ -24,6 +24,7 @@ Game | System
 --- | --- 
 [The Adventures of Star Saver](#the-adventures-of-star-saver) | GB
 [Alleyway](#alleyway) | GB
+[Alone in the Dark - The New Nightmare](#alone-in-the-dark---the-new-nightmare) | GBC
 [Balloon Kid](#balloon-kid) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
 [Batman - The Video Game](#batman---the-video-game) | GB
@@ -112,6 +113,14 @@ This was updated to fix an error on boot. (2021/12/31)
 ROM MD5: `91128778a332495f77699eaf3a37fe30`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Alleyway.ips).
+
+## Alone in the Dark - The New Nightmare
+
+This patch converts `Alone in the Dark - The New Nightmare (U)` to the `.pocket` format.
+
+ROM MD5: `d97055e4a2fd4624fc924c4834ace35e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/AloneInTheDark.ips).
 
 ## Balloon Kid
 
