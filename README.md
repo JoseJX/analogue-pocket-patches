@@ -80,6 +80,7 @@ Game | System
 [QIX](#qix) | GB
 [Rats!](#rats) | GBC
 [Revenge of the 'Gator](#revenge-of-the--gator) | GB
+[RoboCop](#robocop) | GB
 [Side Pocket](#side-pocket) | GB
 [Star Wars Episode 1 - Racer](#star-wars-episode-1---racer) | GBC
 [Solar Striker](#solar-striker) | GB
@@ -595,6 +596,13 @@ ROM MD5: `113d8f894df6b8c3641b2ba1fe60c250`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Gator.ips).
 
+## RoboCop
+
+This patch converts `RoboCop (U,E)` to the `.pocket` format.
+
+ROM MD5: `a477ac86be35d1fa70b708ad08dc88b8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/RoboCop.ips).
 
 ## Side Pocket
 
