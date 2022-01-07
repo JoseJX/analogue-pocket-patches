@@ -26,6 +26,7 @@ Game | System
 [Alleyway](#alleyway) | GB
 [Alone in the Dark - The New Nightmare](#alone-in-the-dark---the-new-nightmare) | GBC
 [Balloon Kid](#balloon-kid) | GB
+[Banishing Racer](#banishing-racer) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
 [Batman - The Video Game](#batman---the-video-game) | GB
 [Beavis and Butt-Head](#beavis-and-butt-head) | GB
@@ -134,6 +135,14 @@ This patch converts `Balloon Kid (U,E)` to the `.pocket` format.
 ROM MD5: `f70c60ca87714fa9d81be60c9ac93de0`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BalloonKid.ips).
+
+## Banishing Racer
+
+This patch converts `Banishing Racer (J)` to the `.pocket` format. It is also compatible with the [translation patch](https://www.romhacking.net/translations/3378/).
+
+ROM MD5: `8fdffb08770609255ec3cd314f79f976`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BanishingRacer.ips).
 
 ## Bart Simpson's Escape from Camp Deadly
 
