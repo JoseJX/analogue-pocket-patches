@@ -45,6 +45,7 @@ Game | System
 [Final Fantasy Legend III](#final-fantasy-legend-iii) | GB
 [Game & Watch Gallery](#game--watch-gallery) | GB
 [Game & Watch Gallery 2](#game--watch-gallery-2) | GBC
+[Game & Watch Gallery 3](#game--watch-gallery-3) | GBC
 [Gear Works](#gear-works) | GB
 [Grand Theft Auto](#grand-theft-auto) | GBC
 [Grand Theft Auto 2](#grand-theft-auto-2) | GBC
@@ -282,6 +283,14 @@ This patch converts `Game & Watch Gallery 2 (U,E)` to the `.pocket` format.
 ROM MD5: `cbf4a5b2ff566554b014118e3d0e3e9a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GnW2.ips).
+
+## Game & Watch Gallery 3
+
+This patch converts `Game & Watch Gallery 3 (U,E)` to the `.pocket` format.
+
+ROM MD5: `f1bb0127347994b46258adbda0dc0b16`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GnW3.ips).
 
 ## Gear Works
 
