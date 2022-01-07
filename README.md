@@ -57,6 +57,7 @@ Game | System
 [Kirby's Dream Land 2](#kirbys-dream-land-2) | GB
 [Kirby's Pinball Land](#kirbys-pinball-land) | GB
 [Kirby's Star Stacker](#kirbys-star-stacker) | GB
+[Magical Tetris Challenge](#magical-tetris-challenge) | GBC
 [Marble Madness](#marble-madness) | GB
 [Marble Madness (GBC)](#marble-madness-color) | GBC
 [Mario's Picross](#marios-picross) | GB
@@ -391,6 +392,14 @@ This patch converts `Kid Icarus - Of Myths and Monsters (U,E)` to the `.pocket` 
 ROM MD5: `23c7be98ac9a4d3b046ad1be3f0965e4`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KidIcarus.ips).
+
+## Magical Tetris Challenge
+
+This patch converts `Magical Tetris Challenge (U)` to the `.pocket` format.
+
+ROM MD5: `a13623a452327ede4553ee2bd1b89a1a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MagicalTetris.ips).
 
 ## Marble Madness
 
