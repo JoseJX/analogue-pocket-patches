@@ -41,6 +41,7 @@ Game | System
 [Commander Keen](#commander-keen) | GBC
 [Duck Tales](#duck-tales) | GB
 [Duck Tales 2](#duck-tales-2) | GB
+[Final Fantasy Adventure](#final-fantasy-adventure) | GB
 [Final Fantasy Legend](#final-fantasy-legend) | GB
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
 [Final Fantasy Legend III](#final-fantasy-legend-iii) | GB
@@ -263,6 +264,14 @@ This patch converts `Duck Tales 2 (U)` to the `.pocket` format.
 ROM MD5: `b4e5876c5acedd12b62e25a12973a4ae`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DuckTales2.ips).
+
+## Final Fantasy Adventure
+
+This patch converts `Final Fantasy Adventure (U)` to the `.pocket` format.
+
+ROM MD5: `24cd3bdf490ef2e1aa6a8af380eccd78`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/FFA.ips).
 
 ## Final Fantasy Legend
 
