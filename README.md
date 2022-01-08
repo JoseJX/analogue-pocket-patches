@@ -39,6 +39,7 @@ Game | System
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
 [Catrap](#catrap) | GB
 [Commander Keen](#commander-keen) | GBC
+[Darkwing Duck](#darkwing-duck) | GB
 [Duck Tales](#duck-tales) | GB
 [Duck Tales 2](#duck-tales-2) | GB
 [Final Fantasy Adventure](#final-fantasy-adventure) | GB
@@ -249,6 +250,14 @@ This patch converts `Commander Keen (U,E)` to the `.pocket` format.
 ROM MD5: `94d2aa3fbda301f9c0d0c16e00743183`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/CommanderKeen.ips).
+
+## Darkwing Duck
+
+This patch converts `Darkwing Duck (U)` to the `.pocket` format.
+
+ROM MD5: `7d776329212fa7cc2b00c5a46f06dd92`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DarkwingDuck.ips).
 
 ## Duck Tales
 
