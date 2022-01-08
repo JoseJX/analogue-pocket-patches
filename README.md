@@ -716,6 +716,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Tiny Toon Adventures - Babs' Big Break (U)` to the `.pocket` format.
 
+This patch has been updated to fix a lockup issue after the Dizzy mini game. (2022/01/08)
+
 ROM MD5: `cbb45188c780ce5bbdf502ceb2b9994a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TinyToon.ips).
