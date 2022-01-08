@@ -51,6 +51,7 @@ Game | System
 [Grand Theft Auto](#grand-theft-auto) | GBC
 [Grand Theft Auto 2](#grand-theft-auto-2) | GBC
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
+[Itchy & Scratchy in Miniature Golf Madness](#itchy--scratchy-in-miniature-golf-madness) | GB
 [James Bond 007](#james-bond-007) | GB
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
@@ -349,6 +350,14 @@ Copy the resulting `game.pocket` file to your SD card. Repeat this process for e
 ROM MD5: `65a5a0cb3c339ec473053c64c2218ab9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/INFGMB.ips).
+
+## Itchy & Scratchy in Miniature Golf Madness
+
+This patch converts `Itchy & Scratchy in Miniature Golf Madness (U,E)` to the `.pocket` format.
+
+ROM MD5: `ed0a8885341ee6a201873b2038c87582`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/InSGolf.ips).
 
 ## James Bond 007
 
