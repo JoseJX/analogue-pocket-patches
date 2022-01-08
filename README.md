@@ -96,6 +96,7 @@ Game | System
 [Tiny Toon Adventures - Babs' Big Break](#tiny-toon-adventures---babs-big-break) | GB
 [Toki Tori](#toki-tori) | GBC
 [Trax](#trax) | GB
+[Wacky Races](#wacky-races) | GBC
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
 [Wordtris](#wordtris) | GB
 [WordZap](#wordzap) | GB
@@ -723,6 +724,14 @@ This patch converts `Trax (U,E)` to the `.pocket` format.
 ROM MD5: `89ecf5b28d5cc84208cfc39dc2d96598`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Trax.ips).
+
+## Wacky Races
+
+This patch converts `Wacky Races (U)` to the `.pocket` format.
+
+ROM MD5: `716de1a7f4178fd941edf22d1a907624`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/WackyRaces.ips).
 
 ## Wendy - Every Witch Way
 
