@@ -42,6 +42,7 @@ Game | System
 [Darkwing Duck](#darkwing-duck) | GB
 [Duck Tales](#duck-tales) | GB
 [Duck Tales 2](#duck-tales-2) | GB
+[F-1 Race](#f-1-race) | GB
 [Felix the Cat](#felix-the-cat) | GB
 [Final Fantasy Adventure](#final-fantasy-adventure) | GB
 [Final Fantasy Legend](#final-fantasy-legend) | GB
@@ -275,6 +276,14 @@ This patch converts `Duck Tales 2 (U)` to the `.pocket` format.
 ROM MD5: `b4e5876c5acedd12b62e25a12973a4ae`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DuckTales2.ips).
+
+## F-1 Race
+
+This patch converts `F-1 Race (W)` to the `.pocket` format.
+
+ROM MD5: `3ad6a2e9c2872cd8f92d86e18332262c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/F1Race.ips).
 
 ## Felix the Cat
 
