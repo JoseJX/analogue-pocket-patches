@@ -61,6 +61,7 @@ Game | System
 [Kirby's Dream Land 2](#kirbys-dream-land-2) | GB
 [Kirby's Pinball Land](#kirbys-pinball-land) | GB
 [Kirby's Star Stacker](#kirbys-star-stacker) | GB
+[Lemmings](#lemmings) | GBC
 [Lunar Chase](#lunar-chase) | GB
 [Magical Tetris Challenge](#magical-tetris-challenge) | GBC
 [Marble Madness](#marble-madness) | GB
@@ -435,6 +436,14 @@ This patch converts `Kid Icarus - Of Myths and Monsters (U,E)` to the `.pocket` 
 ROM MD5: `23c7be98ac9a4d3b046ad1be3f0965e4`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KidIcarus.ips).
+
+## Lemmings
+
+This patch converts `Lemmings (U)` to the `.pocket` format.
+
+ROM MD5: `0476c7220327d99e3d039faaa4cdde8f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Lemmings.ips).
 
 ## Lunar Chase
 
