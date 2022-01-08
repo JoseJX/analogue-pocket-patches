@@ -144,6 +144,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Banishing Racer (J)` to the `.pocket` format. It is also compatible with the [translation patch](https://www.romhacking.net/translations/3378/).
 
+Updated to fix a crash bug when getting the free life in 2-3. (2022/01/08)
+
 ROM MD5: `8fdffb08770609255ec3cd314f79f976`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BanishingRacer.ips).
