@@ -54,6 +54,7 @@ Game | System
 [Gear Works](#gear-works) | GB
 [Grand Theft Auto](#grand-theft-auto) | GBC
 [Grand Theft Auto 2](#grand-theft-auto-2) | GBC
+[Hamtaro - Ham-Hams Unite!](#hamtaro---ham-hams-unite) | GBC 
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
 [Itchy & Scratchy in Miniature Golf Madness](#itchy--scratchy-in-miniature-golf-madness) | GB
 [James Bond 007](#james-bond-007) | GB
@@ -372,6 +373,14 @@ This patch converts `Grand Theft Auto 2 (U)` to the `.pocket` format.
 ROM MD5: `05a9c516d6e744135a6303aa5b4a8887`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GTA2.ips).
+
+## Hamtaro - Ham-Hams Unite!
+
+This patch converts `Hamtaro - Ham-Hams Unite! (U)` to the `.pocket` format.
+
+ROM MD5: `48ce279084e1fc7a9136cc211f4fad5d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Hamtaro.ips).
 
 ## INFGMB
 
