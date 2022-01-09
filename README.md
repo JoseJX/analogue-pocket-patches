@@ -38,6 +38,7 @@ Game | System
 [Castlevania Legends](#castlevania-legends) | GB
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
 [Catrap](#catrap) | GB
+[Chessmaster](#chessmaster) | GB
 [Commander Keen](#commander-keen) | GBC
 [Darkwing Duck](#darkwing-duck) | GB
 [Duck Tales](#duck-tales) | GB
@@ -81,6 +82,7 @@ Game | System
 [Motocross Maniacs 2](#motocross-maniacs-2) | GBC
 [Mr. Driller](#mr-driller) | GBC
 [Ms. Pac-Man](#ms-pac-man) | GB
+[New Chessmaster](#new-chessmaster) | GB
 [Operation C](#operation-c) | GB
 [Paperboy](#paperboy) | GB
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
@@ -247,6 +249,14 @@ This patch converts `Catrap (U)` to the `.pocket` format.
 ROM MD5: `5a75fe8de54e4cbd09cae23f050f6965`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Catrap.ips).
+
+## Chessmaster
+
+This patch converts `Chessmaster (U)` to the `.pocket` format.
+
+ROM MD5: `3db9f9f0c5913d3c9f7b5d5fbf7b5e02`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Chessmaster.ips).
 
 ## Commander Keen
 
@@ -613,6 +623,14 @@ This patch converts `Ms. Pac-Man (U)` to the `.pocket` format.
 ROM MD5: `ffa8642a18781fbe79df436a761a9775`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MsPacMan.ips).
+
+## New Chessmaster
+
+This patch converts `New Chessmaster (U,E)` to the `.pocket` format.
+
+ROM MD5: `f395f7b8ce24e6da365b843adf7d763e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/NewChessmaster.ips).
 
 ## Operation C
 
