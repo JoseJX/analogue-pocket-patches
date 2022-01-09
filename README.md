@@ -28,6 +28,7 @@ Game | System
 [Balloon Kid](#balloon-kid) | GB
 [Banishing Racer](#banishing-racer) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
+[Bart vs. the Juggernauts](#bart-vs-the-juggernauts) | GB
 [Batman - The Video Game](#batman---the-video-game) | GB
 [Beavis and Butt-Head](#beavis-and-butt-head) | GB
 [Bionic Commando](#bionic-commando) | GB
@@ -167,6 +168,14 @@ This patch converts `Bart Simpson's Escape from Camp Deadly (U,E)` to the `.pock
 ROM MD5: `e731fa23d9cd0c3d4dec7d5565beef61`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/CampDeadly.ips).
+
+## Bart vs. the Juggernauts
+
+This patch converts `Bart vs. The Juggernauts (U,E)` to the `.pocket` format.
+
+ROM MD5: `bc36d55377d7961a49a48a70a2827e5e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BartJuggernauts.ips).
 
 ## Batman - The Video Game
 
