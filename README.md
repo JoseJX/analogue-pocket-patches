@@ -81,6 +81,7 @@ Game | System
 [Mr. Driller](#mr-driller) | GBC
 [Ms. Pac-Man](#ms-pac-man) | GB
 [Operation C](#operation-c) | GB
+[Paperboy](#paperboy) | GB
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
 [Popeye 2](#popeye-2) | GB
@@ -610,6 +611,14 @@ This patch converts `Operation C (U)` to the `.pocket` format.
 ROM MD5: `c6effb3a51b36056411760d1ffe048f7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/OperationC.ips).
+
+## Paperboy
+
+This patch converts `Paperboy (U,E)` to the `.pocket` format.
+
+ROM MD5: `dcabc0879c258e54048237d280ffa7da`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Paperboy.ips).
 
 ## Pokemon Puzzle Challenge
 
