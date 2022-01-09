@@ -95,6 +95,7 @@ Game | System
 [Solar Striker](#solar-striker) | GB
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
+[TaleSpin](#talespin) | GB
 [Teenage Mutant Ninja Turtles - Fall of the Foot Clan](#teenage-mutant-ninja-turtles---fall-of-the-foot-clan) | GB
 [Teenage Mutant Ninja Turtles II - Back From the Sewers](#teenage-mutant-ninja-turtles-ii---back-from-the-sewers) | GB
 [Teenage Mutant Ninja Turtles III - Radical Rescue](#teenage-mutant-ninja-turtles-iii---radical-rescue) | GB
@@ -727,6 +728,14 @@ This patch converts `Super R.C. Pro-Am (U,E)` to the `.pocket` format.
 ROM MD5: `9ba2999ef3ecf9e27ac6c88e995c9d7a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SuperRC.ips).
+
+## TaleSpin
+
+This patch converts `TaleSpin (U,E)` to the `.pocket` format.
+
+ROM MD5: `26c65da146faa09505c554447792e493`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TaleSpin.ips).
 
 ## Teenage Mutant Ninja Turtles - Fall of the Foot Clan
 
