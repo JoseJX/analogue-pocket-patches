@@ -90,6 +90,7 @@ Game | System
 [New Chessmaster](#new-chessmaster) | GB
 [Operation C](#operation-c) | GB
 [Paperboy](#paperboy) | GB
+[Picross 2](#picross-2) | GB
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
 [Popeye 2](#popeye-2) | GB
@@ -611,7 +612,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Mega Man Xtreme (U,E)` to the `.pocket` format.
 
-This patch was updated to possibly fix an issue with the Chill Penguin fight. (2022/01/08)
+This patch was updated to possibly fix an issue with the Chill Penguin fight. (2022/01/09)
 
 ROM MD5: `4681f5b931a2e60ca163facd1adf56ed`
 
@@ -695,6 +696,16 @@ This patch converts `Paperboy (U,E)` to the `.pocket` format.
 ROM MD5: `dcabc0879c258e54048237d280ffa7da`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Paperboy.ips).
+
+## Picross 2
+
+This patch converts `Picross 2 (J)` to the `.pocket` format.
+
+It is compatible with the [translation patch](https://www.romhacking.net/translations/2303/), which can be applied in any order.
+
+ROM MD5: `142d1f9f4b868780824cca20010ad4d8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Picross2.ips).
 
 ## Pokemon Puzzle Challenge
 
