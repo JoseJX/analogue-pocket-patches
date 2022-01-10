@@ -29,6 +29,7 @@ Game | System
 [Banishing Racer](#banishing-racer) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
 [Bart vs. the Juggernauts](#bart-vs-the-juggernauts) | GB
+[Batman - The Animated Series](#batman---the-animated-series) | GB
 [Batman - The Video Game](#batman---the-video-game) | GB
 [Beavis and Butt-Head](#beavis-and-butt-head) | GB
 [Bionic Commando](#bionic-commando) | GB
@@ -182,6 +183,14 @@ This patch converts `Bart vs. The Juggernauts (U,E)` to the `.pocket` format.
 ROM MD5: `bc36d55377d7961a49a48a70a2827e5e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BartJuggernauts.ips).
+
+## Batman - The Animated Series
+
+This patch converts `Batman - The Animated Series (U,E)` to the `.pocket` format.
+
+ROM MD5: `ae073c63ff7d151dc2dd406830fbbdc2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BatmanAnimated.ips).
 
 ## Batman - The Video Game
 
