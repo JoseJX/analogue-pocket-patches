@@ -79,6 +79,7 @@ Game | System
 [Mega Man IV](#mega-man-iv) | GB
 [Mega Man V](#mega-man-v) | GB
 [Mega Man Xtreme](#mega-man-xtreme) | GBC
+[Mega Man Xtreme 2](#mega-man-xtreme-2) | GBC
 [Metal Gear Solid](#metal-gear-solid) | GBC
 [Mole Mania](#mole-mania) | GB
 [Motocross Maniacs 2](#motocross-maniacs-2) | GBC
@@ -594,6 +595,14 @@ This patch converts `Mega Man Xtreme (U,E)` to the `.pocket` format.
 ROM MD5: `4681f5b931a2e60ca163facd1adf56ed`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MegaManXtreme.ips).
+
+## Mega Man Xtreme 2
+
+This patch converts `Mega Man Xtreme 2 (U,E)` to the `.pocket` format.
+
+ROM MD5: `1f64989765f605d05cbd013e7ffcc352`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MegaManXtreme2.ips).
 
 ## Metal Gear Solid
 
