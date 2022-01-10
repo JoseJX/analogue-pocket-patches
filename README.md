@@ -111,6 +111,7 @@ Game | System
 [Tetris Blast](#tetris-blast) | GB
 [Tiny Toon Adventures - Babs' Big Break](#tiny-toon-adventures---babs-big-break) | GB
 [Toki Tori](#toki-tori) | GBC
+[Tony Hawk's Pro Skater 2](#tony-hawks-pro-skater-2) | GBC
 [Trax](#trax) | GB
 [Wacky Races](#wacky-races) | GBC
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
@@ -866,6 +867,14 @@ This patch converts `Toki Tori (U,E)` to the `.pocket` format.
 ROM MD5: `e1bf59102bcd5e3601f4b24b3e873fd2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TokiTori.ips).
+
+## Tony Hawk's Pro Skater 2
+
+This patch converts `Tony Hawk's Pro Skater 2 (U)` to the `.pocket` format.
+
+ROM MD5: `0454b25266d645990b63b5b406672dc2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/THPS2.ips).
 
 ## Trax
 
