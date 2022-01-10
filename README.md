@@ -592,6 +592,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Mega Man Xtreme (U,E)` to the `.pocket` format.
 
+This patch was updated to possibly fix an issue with the Chill Penguin fight. (2022/01/08)
+
 ROM MD5: `4681f5b931a2e60ca163facd1adf56ed`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MegaManXtreme.ips).
