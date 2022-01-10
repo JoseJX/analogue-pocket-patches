@@ -57,6 +57,7 @@ Game | System
 [Grand Theft Auto](#grand-theft-auto) | GBC
 [Grand Theft Auto 2](#grand-theft-auto-2) | GBC
 [Hamtaro - Ham-Hams Unite!](#hamtaro---ham-hams-unite) | GBC 
+[Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
 [Itchy & Scratchy in Miniature Golf Madness](#itchy--scratchy-in-miniature-golf-madness) | GB
 [James Bond 007](#james-bond-007) | GB
@@ -403,6 +404,14 @@ This patch converts `Hamtaro - Ham-Hams Unite! (U)` to the `.pocket` format.
 ROM MD5: `48ce279084e1fc7a9136cc211f4fad5d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Hamtaro.ips).
+
+## Heroes of Might and Magic 2
+
+This patch converts `Heroes of Might and Magic 2 (U)` to the `.pocket` format.
+
+ROM MD5: `ad37726c92f43ad7915225b7eaf94ffd`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/HoMM2.ips).
 
 ## INFGMB
 
