@@ -68,6 +68,7 @@ Game | System
 [Kirby's Dream Land 2](#kirbys-dream-land-2) | GB
 [Kirby's Pinball Land](#kirbys-pinball-land) | GB
 [Kirby's Star Stacker](#kirbys-star-stacker) | GB
+[Klax](#klax) | GB
 [Lemmings](#lemmings) | GBC
 [Lunar Chase](#lunar-chase) | GB
 [Magical Tetris Challenge](#magical-tetris-challenge) | GBC
@@ -504,6 +505,14 @@ This patch converts `Kid Icarus - Of Myths and Monsters (U,E)` to the `.pocket` 
 ROM MD5: `23c7be98ac9a4d3b046ad1be3f0965e4`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KidIcarus.ips).
+
+## Klax
+
+This patch converts `Klax (U)` to the `.pocket` format.
+
+ROM MD5: `7d4f3bf92bbff701583eb74f36951bb9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Klax.ips).
 
 ## Lemmings
 
