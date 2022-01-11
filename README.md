@@ -46,6 +46,7 @@ Game | System
 [Crystalis](#crystalis) | GBC
 [Daikatana](#daikatana) | GBC
 [Darkwing Duck](#darkwing-duck) | GB
+[Dragon Warrior Monsters 2 - Cobi's Journey](#dragon-warrior-monsters-2---cobis-journey) | GBC
 [Duck Tales](#duck-tales) | GB
 [Duck Tales 2](#duck-tales-2) | GB
 [F-1 Race](#f-1-race) | GB
@@ -332,6 +333,14 @@ This patch converts `Darkwing Duck (U)` to the `.pocket` format.
 ROM MD5: `7d776329212fa7cc2b00c5a46f06dd92`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DarkwingDuck.ips).
+
+## Dragon Warrior Monsters 2 - Cobi's Journey
+
+This patch converts `Dragon Warrior Monsters 2 - Cobi's Journey (U)` to the `.pocket` format.
+
+ROM MD5: `f71ac6ac4bb335f59bfd2b594d47ab49`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DWM2Cobi.ips).
 
 ## Duck Tales
 
