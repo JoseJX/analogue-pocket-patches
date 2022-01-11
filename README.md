@@ -47,6 +47,7 @@ Game | System
 [Daikatana](#daikatana) | GBC
 [Darkwing Duck](#darkwing-duck) | GB
 [Dragon Warrior Monsters 2 - Cobi's Journey](#dragon-warrior-monsters-2---cobis-journey) | GBC
+[Dragon Warrior Monsters 2 - Tara's Adventure](#dragon-warrior-monsters-2---taras-adventure) | GBC
 [Duck Tales](#duck-tales) | GB
 [Duck Tales 2](#duck-tales-2) | GB
 [F-1 Race](#f-1-race) | GB
@@ -341,6 +342,14 @@ This patch converts `Dragon Warrior Monsters 2 - Cobi's Journey (U)` to the `.po
 ROM MD5: `f71ac6ac4bb335f59bfd2b594d47ab49`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DWM2Cobi.ips).
+
+## Dragon Warrior Monsters 2 - Tara's Adventure
+
+This patch converts `Dragon Warrior Monsters 2 - Tara's Adventure (U)` to the `.pocket` format.
+
+ROM MD5: `8e79dcdee0e15ef069b3f376a0fee37d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DWM2Tara.ips).
 
 ## Duck Tales
 
