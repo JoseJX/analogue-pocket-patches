@@ -43,6 +43,7 @@ Game | System
 [Chessmaster](#chessmaster) | GB
 [Commander Keen](#commander-keen) | GBC
 [Crystalis](#crystalis) | GBC
+[Daikatana](#daikatana) | GBC
 [Darkwing Duck](#darkwing-duck) | GB
 [Duck Tales](#duck-tales) | GB
 [Duck Tales 2](#duck-tales-2) | GB
@@ -301,6 +302,14 @@ This patch converts `Crystalis (U)` to the `.pocket` format.
 ROM MD5: `f36a0ed25a601c039b1171d9daf241d6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Crystalis.ips).
+
+## Daikatana
+
+This patch converts `Daikatana (E)` to the `.pocket` format.
+
+ROM MD5: `d1934b308085c92b2ee492faa0d159c2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Daikatana.ips).
 
 ## Darkwing Duck
 
