@@ -76,6 +76,7 @@ Game | System
 [Kirby's Pinball Land](#kirbys-pinball-land) | GB
 [Kirby's Star Stacker](#kirbys-star-stacker) | GB
 [Klax](#klax) | GB
+[Kwirk - He's A-maze-ing](#kwirk---hes-a-maze-ing) | GB
 [Lemmings](#lemmings) | GBC
 [Lunar Chase](#lunar-chase) | GB
 [Magical Tetris Challenge](#magical-tetris-challenge) | GBC
@@ -580,6 +581,14 @@ This patch converts `Klax (U)` to the `.pocket` format.
 ROM MD5: `7d4f3bf92bbff701583eb74f36951bb9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Klax.ips).
+
+## Kwirk - He's A-maze-ing
+
+This patch converts `Kwirk - He's A-maze-ing (U,E)` to the `.pocket` format.
+
+ROM MD5: `3a4bb57e9fbd4ef563c0c7b59a1c82a5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Kwirk.ips).
 
 ## Lemmings
 
