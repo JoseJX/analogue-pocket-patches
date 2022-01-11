@@ -59,6 +59,7 @@ Game | System
 [Grand Theft Auto 2](#grand-theft-auto-2) | GBC
 [Hamtaro - Ham-Hams Unite!](#hamtaro---ham-hams-unite) | GBC 
 [Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
+[Humans](#humans) | GB
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
 [Itchy & Scratchy in Miniature Golf Madness](#itchy--scratchy-in-miniature-golf-madness) | GB
 [James Bond 007](#james-bond-007) | GB
@@ -424,6 +425,14 @@ This patch converts `Heroes of Might and Magic 2 (U)` to the `.pocket` format.
 ROM MD5: `ad37726c92f43ad7915225b7eaf94ffd`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/HoMM2.ips).
+
+## Humans
+
+This patch converts `The Humans (U)` to the `.pocket` format.
+
+ROM MD5: `4a1ecc8ccc706ed5fdce2fdab2aaf03e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Humans.ips).
 
 ## INFGMB
 
