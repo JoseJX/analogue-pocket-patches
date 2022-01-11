@@ -42,6 +42,7 @@ Game | System
 [Catrap](#catrap) | GB
 [Chessmaster](#chessmaster) | GB
 [Commander Keen](#commander-keen) | GBC
+[Crystalis](#crystalis) | GBC
 [Darkwing Duck](#darkwing-duck) | GB
 [Duck Tales](#duck-tales) | GB
 [Duck Tales 2](#duck-tales-2) | GB
@@ -292,6 +293,14 @@ This patch converts `Commander Keen (U,E)` to the `.pocket` format.
 ROM MD5: `94d2aa3fbda301f9c0d0c16e00743183`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/CommanderKeen.ips).
+
+## Crystalis
+
+This patch converts `Crystalis (U)` to the `.pocket` format.
+
+ROM MD5: `f36a0ed25a601c039b1171d9daf241d6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Crystalis.ips).
 
 ## Darkwing Duck
 
