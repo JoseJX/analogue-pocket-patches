@@ -58,6 +58,7 @@ Game | System
 [Grand Theft Auto](#grand-theft-auto) | GBC
 [Grand Theft Auto 2](#grand-theft-auto-2) | GBC
 [Hamtaro - Ham-Hams Unite!](#hamtaro---ham-hams-unite) | GBC 
+[Harry Potter and the Chamber of Secrets](#harry-potter-and-the-chamber-of-secrets) | GBC
 [Harry Potter and the Sorcerer's Stone](#harry-potter-and-the-sorcerers-stone) | GBC
 [Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
 [Humans](#humans) | GB
@@ -418,6 +419,14 @@ This patch converts `Hamtaro - Ham-Hams Unite! (U)` to the `.pocket` format.
 ROM MD5: `48ce279084e1fc7a9136cc211f4fad5d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Hamtaro.ips).
+
+## Harry Potter and the Chamber of Secrets
+
+This patch converts `Harry Potter and the Chamber of Secrets (U, E)` to the `.pocket` format.
+
+ROM MD5: `bc60280596bce42d050b764b647dc39b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/HP2.ips).
 
 ## Harry Potter and the Sorcerer's Stone
 
