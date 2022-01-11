@@ -30,6 +30,7 @@ Game | System
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
 [Bart vs. the Juggernauts](#bart-vs-the-juggernauts) | GB
 [Batman - The Animated Series](#batman---the-animated-series) | GB
+[Batman - Return of the Joker](#batman---return-of-the-Joker) | GB
 [Batman - The Video Game](#batman---the-video-game) | GB
 [Beavis and Butt-Head](#beavis-and-butt-head) | GB
 [Bionic Commando](#bionic-commando) | GB
@@ -196,6 +197,15 @@ This patch converts `Batman - The Animated Series (U,E)` to the `.pocket` format
 ROM MD5: `ae073c63ff7d151dc2dd406830fbbdc2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BatmanAnimated.ips).
+
+## Batman - Return of the Joker
+
+This patch converts `Batman - Return of the Joker (U,E)` to the `.pocket` format.
+
+ROM MD5: `97bc907deba1e7d7c9bc72fca0310822`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BatmanJoker.ips).
+
 
 ## Batman - The Video Game
 
