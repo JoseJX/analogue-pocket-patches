@@ -106,6 +106,7 @@ Game | System
 [Rats!](#rats) | GBC
 [Revenge of the 'Gator](#revenge-of-the--gator) | GB
 [RoboCop](#robocop) | GB
+[Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
 [Star Wars Episode 1 - Racer](#star-wars-episode-1---racer) | GBC
@@ -839,6 +840,18 @@ This patch converts `RoboCop (U,E)` to the `.pocket` format.
 ROM MD5: `a477ac86be35d1fa70b708ad08dc88b8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/RoboCop.ips).
+
+## Sakura Taisen GB - Geki Hana Gumi Nyuutai!
+
+Also known as `Sakura Wars GB`
+
+This patch converts `Sakura Taisen GB - Geki Hana Gumi Nyuutai! (J)` to the `.pocket` format.
+
+The English [translation patch](https://github.com/vinheim3/sakuraWars1-disasm/releases/download/0.0.1/sakuraWars1.ips) appears to work as well.
+
+ROM MD5: `70883b45a97984cb033c2b95028bef65`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SakuraWars.ips).
 
 ## Side Pocket
 
