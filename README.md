@@ -123,6 +123,7 @@ Game | System
 [Tiny Toon Adventures - Babs' Big Break](#tiny-toon-adventures---babs-big-break) | GB
 [Toki Tori](#toki-tori) | GBC
 [Tony Hawk's Pro Skater 2](#tony-hawks-pro-skater-2) | GBC
+[Tony Hawk's Pro Skater 3](#tony-hawks-pro-skater-3) | GBC
 [Trax](#trax) | GB
 [Wacky Races](#wacky-races) | GBC
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
@@ -981,6 +982,13 @@ This patch converts `Tony Hawk's Pro Skater 2 (U)` to the `.pocket` format.
 ROM MD5: `0454b25266d645990b63b5b406672dc2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/THPS2.ips).
+
+## Tony Hawk's Pro Skater 3
+This patch converts `Tony Hawk's Pro Skater 3 (U)` to the `.pocket` format.
+
+ROM MD5: `365f913d6f2b0f44d87b7a347daea528`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/THPS3.ips).
 
 ## Trax
 
