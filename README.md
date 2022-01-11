@@ -986,6 +986,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 ## Tony Hawk's Pro Skater 3
 This patch converts `Tony Hawk's Pro Skater 3 (U)` to the `.pocket` format.
 
+This patch was updated to fix graphics corruption. (2022/01/11)
+
 ROM MD5: `365f913d6f2b0f44d87b7a347daea528`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/THPS3.ips).
