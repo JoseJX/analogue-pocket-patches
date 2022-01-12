@@ -32,6 +32,7 @@ Game | System
 [Batman - The Animated Series](#batman---the-animated-series) | GB
 [Batman - Return of the Joker](#batman---return-of-the-Joker) | GB
 [Batman - The Video Game](#batman---the-video-game) | GB
+[Bust-A-Move 2 - Arcade Edition](#bust-a-move-2---arcade-edition) | GB
 [Beavis and Butt-Head](#beavis-and-butt-head) | GB
 [Bionic Commando](#bionic-commando) | GB
 [Bionic Commando - Elite Forces](#bionic-commando---elite-forces) | GBC
@@ -254,6 +255,14 @@ NOTE: After selecting a menu option, press the buttons a bunch, it seems to get 
 ROM MD5: `302caa3ceddccc5fba36787b44d25da7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BladesOfSteel.ips).
+
+## Bust-A-Move 2 - Arcade Edition
+
+This patch converts `Bust-A-Move 2 - Arcade Edition (U,E)` to the `.pocket` format.
+
+ROM MD5: `fa91adc7023e03f97ec36f66876a569e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BustAMove2.ips).
 
 ## Bubble Bobble
 
