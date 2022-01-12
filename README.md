@@ -329,6 +329,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Conker's Pocket Tales (U,E)` to the `.pocket` format.
 
+This patch was updated to fix a crash when dying. (2022/01/12)
+
 ROM MD5: `fee6336f969c9e72e9b78be53d512c1e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Conkers.ips).
