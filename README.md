@@ -49,6 +49,7 @@ Game | System
 [Crystalis](#crystalis) | GBC
 [Daikatana](#daikatana) | GBC
 [Darkwing Duck](#darkwing-duck) | GB
+[Dexterity](#dexterity) | GB
 [Dragon Warrior Monsters 2 - Cobi's Journey](#dragon-warrior-monsters-2---cobis-journey) | GBC
 [Dragon Warrior Monsters 2 - Tara's Adventure](#dragon-warrior-monsters-2---taras-adventure) | GBC
 [Duck Tales](#duck-tales) | GB
@@ -363,6 +364,14 @@ This patch converts `Darkwing Duck (U)` to the `.pocket` format.
 ROM MD5: `7d776329212fa7cc2b00c5a46f06dd92`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DarkwingDuck.ips).
+
+## Dexterity
+
+This patch converts `Dexterity (U,E)` to the `.pocket` format.
+
+ROM MD5: `a58f2b1a317cfb1d60b59f3875f6a9c2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Dexterity.ips).
 
 ## Dragon Warrior Monsters 2 - Cobi's Journey
 
