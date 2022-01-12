@@ -45,6 +45,7 @@ Game | System
 [Chessmaster](#chessmaster) | GB
 [Commander Keen](#commander-keen) | GBC
 [Conker's Pocket Tales](#conkers-pocket-tales) | GBC
+[Cosmo Tank](#cosmo-tank) | GB
 [Crystalis](#crystalis) | GBC
 [Daikatana](#daikatana) | GBC
 [Darkwing Duck](#darkwing-duck) | GB
@@ -330,6 +331,14 @@ This patch converts `Conker's Pocket Tales (U,E)` to the `.pocket` format.
 ROM MD5: `fee6336f969c9e72e9b78be53d512c1e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Conkers.ips).
+
+## Cosmo Tank
+
+This patch converts `Cosmo Tank (U)` to the `.pocket` format.
+
+ROM MD5: `b340bad71c781bd1394d95241ed1adce`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/CosmoTank.ips).
 
 ## Crystalis
 
