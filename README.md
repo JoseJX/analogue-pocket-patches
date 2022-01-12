@@ -260,6 +260,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Bust-A-Move 2 - Arcade Edition (U,E)` to the `.pocket` format.
 
+This patch was updated to fix a bug. (2022/01/11)
+
 ROM MD5: `fa91adc7023e03f97ec36f66876a569e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BustAMove2.ips).
