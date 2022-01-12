@@ -401,6 +401,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Duck Tales 2 (U)` to the `.pocket` format.
 
+This patch was updated to fix garbled images when talking to NPCs. (2022/01/12)
+
 ROM MD5: `b4e5876c5acedd12b62e25a12973a4ae`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DuckTales2.ips).
