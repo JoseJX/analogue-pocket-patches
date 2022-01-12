@@ -926,6 +926,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Simpsons - Night of the Living Tree House of Horror (U,E)` to the `.pocket` format.
 
+This patch was updated to fix a potential problem, but it does not fix the status bar flashing. This is an [Analogue bug and happens with the original cart](https://github.com/frederic-mahe/Analogue-Pocket/issues/42).
+
 ROM MD5: `2a4f3309fe05b47a98d8c5b4c81b91e5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SimpsonsTreeHouse.ips).
