@@ -29,6 +29,7 @@ Game | System
 [Banishing Racer](#banishing-racer) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
 [Bart vs. the Juggernauts](#bart-vs-the-juggernauts) | GB
+[Battletoads](#battletoads) | GB
 [Batman - The Animated Series](#batman---the-animated-series) | GB
 [Batman - Return of the Joker](#batman---return-of-the-Joker) | GB
 [Batman - The Video Game](#batman---the-video-game) | GB
@@ -199,6 +200,14 @@ This patch converts `Bart vs. The Juggernauts (U,E)` to the `.pocket` format.
 ROM MD5: `bc36d55377d7961a49a48a70a2827e5e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BartJuggernauts.ips).
+
+## Battletoads
+
+This patch converts `Battletoads (U,E)` to the `.pocket` format.
+
+ROM MD5: `6d24c94d3acd89b4b703f7bd2a504833`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Battletoads.ips).
 
 ## Batman - The Animated Series
 
