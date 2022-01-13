@@ -116,8 +116,9 @@ Game | System
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
-[Star Wars Episode 1 - Racer](#star-wars-episode-1---racer) | GBC
 [Solar Striker](#solar-striker) | GB
+[Star Wars Episode 1 - Racer](#star-wars-episode-1---racer) | GBC
+[Street Fighter Alpha - Warriors' Dreams](#street-fighter-alpha---warriors-dreams) | GBC
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
 [TaleSpin](#talespin) | GB
@@ -941,6 +942,14 @@ ROM MD5: `2a4f3309fe05b47a98d8c5b4c81b91e5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SimpsonsTreeHouse.ips).
 
+## Solar Striker
+
+This patch converts `Solar Striker (W)` to the `.pocket` format.
+
+ROM MD5: `83bed4ebefeece45748258fd2ef105b3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SolarStriker.ips).
+
 ## Star Wars Episode 1 - Racer
 
 This patch converts `Star Wars Episode 1 - Racer (U,E)` to the `.pocket` format.
@@ -949,13 +958,13 @@ ROM MD5: `d1e875cb7dac0092e83b9e7799b06653`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/StarWarsEp1Racer.ips).
 
-## Solar Striker
+## Street Fighter Alpha - Warriors' Dreams
 
-This patch converts `Solar Striker (W)` to the `.pocket` format.
+This patch converts `Street Fighter Alpha - Warriors' Dreams (U)` to the `.pocket` format.
 
-ROM MD5: `83bed4ebefeece45748258fd2ef105b3`
+ROM MD5: `db1aeaa7135bd5707dbbccc427808cd7`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SolarStriker.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SFA.ips).
 
 ## Super Off Road
 
