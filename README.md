@@ -105,6 +105,7 @@ Game | System
 [New Chessmaster](#new-chessmaster) | GB
 [Operation C](#operation-c) | GB
 [Paperboy](#paperboy) | GB
+[Perfect Dark](#perfect-dark) | GBC
 [Picross 2](#picross-2) | GB
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
@@ -842,6 +843,14 @@ This patch converts `Paperboy (U,E)` to the `.pocket` format.
 ROM MD5: `dcabc0879c258e54048237d280ffa7da`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Paperboy.ips).
+
+## Perfect Dark
+
+This patch converts `Perfect Dark (U,E)` to the `.pocket` format.
+
+ROM MD5: `840e1ddb2696ecae487fd264a3c34581`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/PerfectDark.ips).
 
 ## Picross 2
 
