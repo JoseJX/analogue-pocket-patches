@@ -848,6 +848,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Perfect Dark (U,E)` to the `.pocket` format.
 
+This patch was updated to try to correct black screens after looting. (2022/01/13)
+
 ROM MD5: `840e1ddb2696ecae487fd264a3c34581`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/PerfectDark.ips).
