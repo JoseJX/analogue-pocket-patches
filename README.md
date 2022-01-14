@@ -153,7 +153,7 @@ This patch converts `The Adventures of Star Saver (U,E)` to the `.pocket` format
 
 ROM MD5: `91ecec5f8d06f18724bd1462b53c4b3d`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/StarSaver.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarSaver.ips).
 
 ## Alleyway
 
@@ -163,7 +163,7 @@ This was updated to fix an error on boot. (2021/12/31)
 
 ROM MD5: `91128778a332495f77699eaf3a37fe30`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Alleyway.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Alleyway.ips).
 
 ## Alone in the Dark - The New Nightmare
 
@@ -171,7 +171,7 @@ This patch converts `Alone in the Dark - The New Nightmare (U)` to the `.pocket`
 
 ROM MD5: `d97055e4a2fd4624fc924c4834ace35e`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/AloneInTheDark.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AloneInTheDark.ips).
 
 ## Balloon Kid
 
@@ -179,7 +179,7 @@ This patch converts `Balloon Kid (U,E)` to the `.pocket` format.
 
 ROM MD5: `f70c60ca87714fa9d81be60c9ac93de0`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BalloonKid.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BalloonKid.ips).
 
 ## Banishing Racer
 
@@ -189,7 +189,7 @@ Updated to fix a crash bug when getting the free life in 2-3. (2022/01/08)
 
 ROM MD5: `8fdffb08770609255ec3cd314f79f976`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BanishingRacer.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BanishingRacer.ips).
 
 ## Bart Simpson's Escape from Camp Deadly
 
@@ -197,7 +197,7 @@ This patch converts `Bart Simpson's Escape from Camp Deadly (U,E)` to the `.pock
 
 ROM MD5: `e731fa23d9cd0c3d4dec7d5565beef61`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/CampDeadly.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CampDeadly.ips).
 
 ## Bart vs. the Juggernauts
 
@@ -205,7 +205,7 @@ This patch converts `Bart vs. The Juggernauts (U,E)` to the `.pocket` format.
 
 ROM MD5: `bc36d55377d7961a49a48a70a2827e5e`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BartJuggernauts.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BartJuggernauts.ips).
 
 ## Battletoads
 
@@ -213,7 +213,7 @@ This patch converts `Battletoads (U,E)` to the `.pocket` format.
 
 ROM MD5: `6d24c94d3acd89b4b703f7bd2a504833`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Battletoads.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Battletoads.ips).
 
 ## Batman - The Animated Series
 
@@ -221,7 +221,7 @@ This patch converts `Batman - The Animated Series (U,E)` to the `.pocket` format
 
 ROM MD5: `ae073c63ff7d151dc2dd406830fbbdc2`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BatmanAnimated.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanAnimated.ips).
 
 ## Batman - Return of the Joker
 
@@ -229,7 +229,7 @@ This patch converts `Batman - Return of the Joker (U,E)` to the `.pocket` format
 
 ROM MD5: `97bc907deba1e7d7c9bc72fca0310822`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BatmanJoker.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanJoker.ips).
 
 
 ## Batman - The Video Game
@@ -238,7 +238,7 @@ This patch converts `Batman - The Video Game (U,E)` to the `.pocket` format.
 
 ROM MD5: `03c6d84a951be6703b7458478f4277b9`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Batman.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Batman.ips).
 
 ## Beavis and Butt-Head
 
@@ -246,7 +246,7 @@ This patch converts `Beavis and Butt-Head (U,E)` to the `.pocket` format.
 
 ROM MD5: `8f160aa0b2f69a019911fd57ac8c5b31`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BnB.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BnB.ips).
 
 ## Bionic Commando
 
@@ -254,7 +254,7 @@ This patch converts `Bionic Commando (U)` to the `.pocket` format.
 
 ROM MD5: `f89a33de3fa660a13ec29bb323efffa9`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BionicCommando.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BionicCommando.ips).
 
 ## Bionic Commando - Elite Forces
 
@@ -262,7 +262,7 @@ This patch converts `Bionic Commando - Elite Forces (U,E,A)` to the `.pocket` fo
 
 ROM MD5: `b3347b3219a7183697e83655f4628827`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BCElite.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BCElite.ips).
 
 ## Blades of Steel
 
@@ -272,7 +272,7 @@ NOTE: After selecting a menu option, press the buttons a bunch, it seems to get 
 
 ROM MD5: `302caa3ceddccc5fba36787b44d25da7`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BladesOfSteel.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BladesOfSteel.ips).
 
 ## Bust-A-Move 2 - Arcade Edition
 
@@ -282,7 +282,7 @@ This patch was updated to fix a bug. (2022/01/11)
 
 ROM MD5: `fa91adc7023e03f97ec36f66876a569e`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BustAMove2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BustAMove2.ips).
 
 ## Bubble Bobble
 
@@ -290,7 +290,7 @@ This patch converts `Bubble Bobble (U,E)` to the `.pocket` format.
 
 ROM MD5: `11c49d405eef2174d9c14682204bb458`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/BubbleBobble.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BubbleBobble.ips).
 
 ## Castlevania - The Adventure
 
@@ -298,7 +298,7 @@ This patch converts `Castlevania - The Adventure (U)` to the `.pocket` format.
 
 ROM MD5: `0b4410c6b94d6359dba5609ae9a32909`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/CastlevaniaAdventure.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CastlevaniaAdventure.ips).
 
 ## Castlevania II - Belmont's Revenge
 
@@ -306,7 +306,7 @@ This patch converts `Castlevania II - Belmont's Revenge (U)` to the `.pocket` fo
 
 ROM MD5: `7c65e9da405d2225d079f75e56276822`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Castlevania2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Castlevania2.ips).
 
 ## Castlevania Legends
 
@@ -314,7 +314,7 @@ This patch converts `Castlevania Legends (U)` to the `.pocket` format.
 
 ROM MD5: `1475824e7262c0d6359f43c287e034a5`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/CastlevaniaLegends.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CastlevaniaLegends.ips).
 
 ## Catrap
 
@@ -322,7 +322,7 @@ This patch converts `Catrap (U)` to the `.pocket` format.
 
 ROM MD5: `5a75fe8de54e4cbd09cae23f050f6965`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Catrap.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Catrap.ips).
 
 ## Chessmaster
 
@@ -330,7 +330,7 @@ This patch converts `Chessmaster (U)` to the `.pocket` format.
 
 ROM MD5: `3db9f9f0c5913d3c9f7b5d5fbf7b5e02`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Chessmaster.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Chessmaster.ips).
 
 ## Commander Keen
 
@@ -338,7 +338,7 @@ This patch converts `Commander Keen (U,E)` to the `.pocket` format.
 
 ROM MD5: `94d2aa3fbda301f9c0d0c16e00743183`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/CommanderKeen.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CommanderKeen.ips).
 
 ## Conker's Pocket Tales
 
@@ -348,7 +348,7 @@ This patch was updated to fix a crash when dying. (2022/01/12)
 
 ROM MD5: `fee6336f969c9e72e9b78be53d512c1e`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Conkers.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Conkers.ips).
 
 ## Cosmo Tank
 
@@ -356,7 +356,7 @@ This patch converts `Cosmo Tank (U)` to the `.pocket` format.
 
 ROM MD5: `b340bad71c781bd1394d95241ed1adce`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/CosmoTank.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CosmoTank.ips).
 
 ## Crystalis
 
@@ -364,7 +364,7 @@ This patch converts `Crystalis (U)` to the `.pocket` format.
 
 ROM MD5: `f36a0ed25a601c039b1171d9daf241d6`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Crystalis.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Crystalis.ips).
 
 ## Daikatana
 
@@ -372,7 +372,7 @@ This patch converts `Daikatana (E)` to the `.pocket` format.
 
 ROM MD5: `d1934b308085c92b2ee492faa0d159c2`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Daikatana.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Daikatana.ips).
 
 ## Darkwing Duck
 
@@ -380,7 +380,7 @@ This patch converts `Darkwing Duck (U)` to the `.pocket` format.
 
 ROM MD5: `7d776329212fa7cc2b00c5a46f06dd92`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DarkwingDuck.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DarkwingDuck.ips).
 
 ## Deja Vu I & II: The Casebooks of Ace Harding
 
@@ -388,7 +388,7 @@ This patch converts `Deja Vu I & II: The Casebooks of Ace Harding (U)` to the `.
 
 ROM MD5: `d63504ea68f55d3c290cd01d71d4d1cc`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DejaVu.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DejaVu.ips).
 
 ## Dexterity
 
@@ -396,7 +396,7 @@ This patch converts `Dexterity (U,E)` to the `.pocket` format.
 
 ROM MD5: `a58f2b1a317cfb1d60b59f3875f6a9c2`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Dexterity.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Dexterity.ips).
 
 ## Dragon Warrior Monsters 2 - Cobi's Journey
 
@@ -404,7 +404,7 @@ This patch converts `Dragon Warrior Monsters 2 - Cobi's Journey (U)` to the `.po
 
 ROM MD5: `f71ac6ac4bb335f59bfd2b594d47ab49`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DWM2Cobi.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DWM2Cobi.ips).
 
 ## Dragon Warrior Monsters 2 - Tara's Adventure
 
@@ -412,7 +412,7 @@ This patch converts `Dragon Warrior Monsters 2 - Tara's Adventure (U)` to the `.
 
 ROM MD5: `8e79dcdee0e15ef069b3f376a0fee37d`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DWM2Tara.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DWM2Tara.ips).
 
 ## Duck Tales
 
@@ -420,7 +420,7 @@ This patch converts `Duck Tales (U)` to the `.pocket` format.
 
 ROM MD5: `785441d3d75913393807b10b3194dc48`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DuckTales.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DuckTales.ips).
 
 ## Duck Tales 2
 
@@ -430,7 +430,7 @@ This patch was updated to fix garbled images when talking to NPCs. (2022/01/12)
 
 ROM MD5: `b4e5876c5acedd12b62e25a12973a4ae`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DuckTales2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DuckTales2.ips).
 
 ## F-1 Race
 
@@ -438,7 +438,7 @@ This patch converts `F-1 Race (W)` to the `.pocket` format.
 
 ROM MD5: `3ad6a2e9c2872cd8f92d86e18332262c`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/F1Race.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/F1Race.ips).
 
 ## Felix the Cat
 
@@ -446,7 +446,7 @@ This patch converts `Felix the Cat (U,E)` to the `.pocket` format.
 
 ROM MD5: `4d606ab4ffd5c3d3ecf914a6af1c1f90`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Felix.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Felix.ips).
 
 ## Final Fantasy Adventure
 
@@ -454,7 +454,7 @@ This patch converts `Final Fantasy Adventure (U)` to the `.pocket` format.
 
 ROM MD5: `24cd3bdf490ef2e1aa6a8af380eccd78`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/FFA.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FFA.ips).
 
 ## Final Fantasy Legend
 
@@ -462,7 +462,7 @@ This patch converts `Final Fantasy Legend (U)` to the `.pocket` format.
 
 ROM MD5: `d5c27ff8cb1b69cb56df4ff170e2baf0`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/FFL1.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FFL1.ips).
 
 ## Final Fantasy Legend II
 
@@ -470,7 +470,7 @@ This patch converts `Final Fantasy Legend II (U)` to the `.pocket` format.
 
 ROM MD5: `2bb0df1b672253aaa5f9caf9aab78224`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/FFL2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FFL2.ips).
 
 ## Final Fantasy Legend III
 
@@ -478,14 +478,14 @@ This patch converts `Final Fantasy Legend III (U)` to the `.pocket` format.
 
 ROM MD5: `db156bc96b528996ce1bf771195171af`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/FFL3.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FFL3.ips).
 
 ## Game & Watch Gallery
 This patch converts `Game & Watch Gallery (U)` to the `.pocket` format.
 
 ROM MD5: `d5081250257e0dafcb8fe8720fcb9f28`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GnW1.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GnW1.ips).
 
 ## Game & Watch Gallery 2
 
@@ -493,7 +493,7 @@ This patch converts `Game & Watch Gallery 2 (U,E)` to the `.pocket` format.
 
 ROM MD5: `cbf4a5b2ff566554b014118e3d0e3e9a`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GnW2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GnW2.ips).
 
 ## Game & Watch Gallery 3
 
@@ -501,7 +501,7 @@ This patch converts `Game & Watch Gallery 3 (U,E)` to the `.pocket` format.
 
 ROM MD5: `f1bb0127347994b46258adbda0dc0b16`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GnW3.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GnW3.ips).
 
 ## Gear Works
 
@@ -509,7 +509,7 @@ This patch converts `Gear Works (U,E)` to the `.pocket` format.
 
 ROM MD5: `16af858484041d572299b501ead2b788`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GearWorks.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GearWorks.ips).
 
 ## Ghostbusters II
 
@@ -517,7 +517,7 @@ This patch converts `Ghostbusters II (U,E)` to the `.pocket` format.
 
 ROM MD5: `0841a527b116a52ad26de023b20b1a42`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Ghostbusters2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ghostbusters2.ips).
 
 ## Grand Theft Auto
 
@@ -525,7 +525,7 @@ This patch converts `Grand Theft Auto (U)` to the `.pocket` format.
 
 ROM MD5: `3322493d6b7a70bfdea6f6231ceb1ce0`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GTA1.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GTA1.ips).
 
 ## Grand Theft Auto 2
 
@@ -533,7 +533,7 @@ This patch converts `Grand Theft Auto 2 (U)` to the `.pocket` format.
 
 ROM MD5: `05a9c516d6e744135a6303aa5b4a8887`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GTA2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GTA2.ips).
 
 ## Hamtaro - Ham-Hams Unite!
 
@@ -541,7 +541,7 @@ This patch converts `Hamtaro - Ham-Hams Unite! (U)` to the `.pocket` format.
 
 ROM MD5: `48ce279084e1fc7a9136cc211f4fad5d`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Hamtaro.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hamtaro.ips).
 
 ## Harry Potter and the Chamber of Secrets
 
@@ -549,7 +549,7 @@ This patch converts `Harry Potter and the Chamber of Secrets (U, E)` to the `.po
 
 ROM MD5: `bc60280596bce42d050b764b647dc39b`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/HP2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HP2.ips).
 
 ## Harry Potter and the Sorcerer's Stone
 
@@ -557,7 +557,7 @@ This patch converts `Harry Potter and the Sorcerer's Stone (U,E)` to the `.pocke
 
 ROM MD5: `ba85a2ae8aa5829c440eef2d5549506c`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/HP1.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HP1.ips).
 
 ## Heroes of Might and Magic 2
 
@@ -565,7 +565,7 @@ This patch converts `Heroes of Might and Magic 2 (U)` to the `.pocket` format.
 
 ROM MD5: `ad37726c92f43ad7915225b7eaf94ffd`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/HoMM2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HoMM2.ips).
 
 ## Humans
 
@@ -573,7 +573,7 @@ This patch converts `The Humans (U)` to the `.pocket` format.
 
 ROM MD5: `4a1ecc8ccc706ed5fdce2fdab2aaf03e`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Humans.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Humans.ips).
 
 ## INFGMB
 
@@ -591,7 +591,7 @@ Copy the resulting `game.pocket` file to your SD card. Repeat this process for e
 
 ROM MD5: `65a5a0cb3c339ec473053c64c2218ab9`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/INFGMB.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/INFGMB.ips).
 
 ## Itchy & Scratchy in Miniature Golf Madness
 
@@ -599,7 +599,7 @@ This patch converts `Itchy & Scratchy in Miniature Golf Madness (U,E)` to the `.
 
 ROM MD5: `ed0a8885341ee6a201873b2038c87582`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/InSGolf.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/InSGolf.ips).
 
 ## James Bond 007
 
@@ -607,7 +607,7 @@ This patch converts `James Bond 007 (U,E)` to the `.pocket` format.
 
 ROM MD5: `669a4ecf89794505591b36d617e51f8a`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/JamesBond007.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JamesBond007.ips).
 
 ## Kirby's Block Ball
 
@@ -615,7 +615,7 @@ This patch converts `Kirby's Block Ball (U,E)` to the `.pocket` format.
 
 ROM MD5: `203db7ddc72359e4db5e9ab42a6f0ba8`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KirbysBlockBall.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysBlockBall.ips).
 
 ## Kirby's Dream Land
 
@@ -625,7 +625,7 @@ This patch was updated to fix [bug #4](https://github.com/JoseJX/analogue-pocket
 
 ROM MD5: `a66e4918edcd042ec171a57fe3ce36c3`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KirbysDream.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDream.ips).
 
 ## Kirby's Dream Land 2
 
@@ -633,7 +633,7 @@ This patch converts `Kirby's Dream Land 2 (U,E)` to the `.pocket` format.
 
 ROM MD5: `ddb5bfae32b0ca39cf8ab6c46880126c`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KirbysDream2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDream2.ips).
 
 ## Kirby's Pinball Land
 
@@ -641,7 +641,7 @@ This patch converts `Kirby's Pinball Land (U,E)` to the `.pocket` format.
 
 ROM MD5: `f711ed10307d4ea27223fe965595b123`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KirbysPinball.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysPinball.ips).
 
 ## Kirby's Star Stacker
 
@@ -649,7 +649,7 @@ This patch converts `Kirby's Star Stacker (U,E)` to the `.pocket` format.
 
 ROM MD5: `f4c0bf35939be6786c099e9eb4635919`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KirbyStarStack.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbyStarStack.ips).
 
 ## Kid Dracula
 
@@ -657,7 +657,7 @@ This patch converts `Kid Dracula (U,E)` to the `.pocket` format.
 
 ROM MD5: `24a6b4457a511cc667e9ac25417401ab`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KidDracula.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KidDracula.ips).
 
 ## Kid Icarus - Of Myths and Monsters
 
@@ -665,7 +665,7 @@ This patch converts `Kid Icarus - Of Myths and Monsters (U,E)` to the `.pocket` 
 
 ROM MD5: `23c7be98ac9a4d3b046ad1be3f0965e4`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/KidIcarus.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KidIcarus.ips).
 
 ## Klax
 
@@ -673,7 +673,7 @@ This patch converts `Klax (U)` to the `.pocket` format.
 
 ROM MD5: `7d4f3bf92bbff701583eb74f36951bb9`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Klax.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Klax.ips).
 
 ## Kwirk - He's A-maze-ing
 
@@ -681,7 +681,7 @@ This patch converts `Kwirk - He's A-maze-ing (U,E)` to the `.pocket` format.
 
 ROM MD5: `3a4bb57e9fbd4ef563c0c7b59a1c82a5`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Kwirk.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Kwirk.ips).
 
 ## Lemmings
 
@@ -689,7 +689,7 @@ This patch converts `Lemmings (U)` to the `.pocket` format.
 
 ROM MD5: `0476c7220327d99e3d039faaa4cdde8f`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Lemmings.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Lemmings.ips).
 
 ## Lunar Chase
 
@@ -697,7 +697,7 @@ This patch converts `Lunar Chase (U,E)` to the `.pocket` format.
 
 ROM MD5: `db24c76ac8d32cd23ce3a00519ba874f`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/LunarChase.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LunarChase.ips).
 
 ## Magical Tetris Challenge
 
@@ -705,7 +705,7 @@ This patch converts `Magical Tetris Challenge (U)` to the `.pocket` format.
 
 ROM MD5: `a13623a452327ede4553ee2bd1b89a1a`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MagicalTetris.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagicalTetris.ips).
 
 ## Marble Madness
 
@@ -713,7 +713,7 @@ This patch converts `Marble Madness (U,E)` to the `.pocket` format.
 
 ROM MD5: `f489b8eb7dc88a39842f20a7f7165e5b`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MarbleMadness.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarbleMadness.ips).
 
 ## Marble Madness (Color)
 
@@ -721,7 +721,7 @@ This patch converts `Marble Madness (GBC) (U,E)` to the `.pocket` format.
 
 ROM MD5: `d2711ff066f40c4e6c471b79da0f08b7`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MarbleMadnessColor.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarbleMadnessColor.ips).
 
 ## Mario's Picross
 
@@ -729,7 +729,7 @@ This patch converts `Mario's Picross (U,E)` to the `.pocket` format.
 
 ROM MD5: `ccaf9331318d4dfe3d1ee681928a74fd`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MarioPicross.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioPicross.ips).
 
 ## Mega Man - Dr. Wily's Revenge
 
@@ -737,7 +737,7 @@ This patch converts `Mega Man - Dr. Wily's Revenge (U)` to the `.pocket` format.
 
 ROM MD5: `4ba4398181d98958fa7434ba7716f11a`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MegaMan1.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan1.ips).
 
 ## Mega Man II
 
@@ -745,7 +745,7 @@ This patch converts `Mega Man II (U)` to the `.pocket` format.
 
 ROM MD5: `7fe07271d04ed9e0bc0663dde55a2ae4`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MegaMan2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan2.ips).
 
 ## Mega Man III
 
@@ -753,7 +753,7 @@ This patch converts `Mega Man III (U)` to the `.pocket` format.
 
 ROM MD5: `4c614f884a07872f12056ad1a421e1f9`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MegaMan3.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan3.ips).
 
 ## Mega Man IV
 
@@ -763,7 +763,7 @@ It has been updated to fix [bug #3](https://github.com/JoseJX/analogue-pocket-pa
 
 ROM MD5: `8a00f627b8902c92327435901c249e19`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MegaMan4.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan4.ips).
 
 ## Mega Man V
 
@@ -773,7 +773,7 @@ Updated to address [bug #8](https://github.com/JoseJX/analogue-pocket-patches/is
 
 ROM MD5: `ceb17d831b410d91aa41bf2819cbed82`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MegaMan5.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan5.ips).
 
 ## Mega Man Xtreme
 
@@ -783,7 +783,7 @@ This patch was updated to possibly fix an issue with the Chill Penguin fight. (2
 
 ROM MD5: `4681f5b931a2e60ca163facd1adf56ed`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MegaManXtreme.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaManXtreme.ips).
 
 ## Mega Man Xtreme 2
 
@@ -791,7 +791,7 @@ This patch converts `Mega Man Xtreme 2 (U,E)` to the `.pocket` format.
 
 ROM MD5: `1f64989765f605d05cbd013e7ffcc352`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MegaManXtreme2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaManXtreme2.ips).
 
 ## Metal Gear Solid
 
@@ -799,7 +799,7 @@ This patch converts `Metal Gear Solid (U)` to the `.pocket` format.
 
 ROM MD5: `f6dd1b1e5747412b9e5f25376c972d5a`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MetalGear.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalGear.ips).
 
 ## Mole Mania
 
@@ -811,7 +811,7 @@ It has been updated again for another missed register access. (2021/12/30)
 
 ROM MD5: `f28ade3926852a8ad2e449c274683956`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MoleMania.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MoleMania.ips).
 
 ## Motocross Maniacs 2
 
@@ -821,7 +821,7 @@ This patch was updated to fix a missing conversion. (2021/12/31)
 
 ROM MD5: `4d08e5553356aecd728b5ef7d78ee261`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Motocross2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Motocross2.ips).
 
 ## Mr. Driller
 
@@ -829,7 +829,7 @@ This patch converts `Mr. Driller (U)` to the `.pocket` format.
 
 ROM MD5: `76fa4014bfbb0ee2b63267af7ac373f2`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MrDriller.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MrDriller.ips).
 
 
 ## Ms. Pac-Man
@@ -838,7 +838,7 @@ This patch converts `Ms. Pac-Man (U)` to the `.pocket` format.
 
 ROM MD5: `ffa8642a18781fbe79df436a761a9775`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/MsPacMan.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MsPacMan.ips).
 
 ## New Chessmaster
 
@@ -846,7 +846,7 @@ This patch converts `New Chessmaster (U,E)` to the `.pocket` format.
 
 ROM MD5: `f395f7b8ce24e6da365b843adf7d763e`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/NewChessmaster.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NewChessmaster.ips).
 
 ## Operation C
 
@@ -854,7 +854,7 @@ This patch converts `Operation C (U)` to the `.pocket` format.
 
 ROM MD5: `c6effb3a51b36056411760d1ffe048f7`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/OperationC.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/OperationC.ips).
 
 ## Paperboy
 
@@ -862,7 +862,7 @@ This patch converts `Paperboy (U,E)` to the `.pocket` format.
 
 ROM MD5: `dcabc0879c258e54048237d280ffa7da`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Paperboy.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Paperboy.ips).
 
 ## Perfect Dark
 
@@ -872,7 +872,7 @@ This patch was updated to try to correct black screens after looting. (2022/01/1
 
 ROM MD5: `840e1ddb2696ecae487fd264a3c34581`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/PerfectDark.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PerfectDark.ips).
 
 ## Picross 2
 
@@ -882,7 +882,7 @@ It is compatible with the [translation patch](https://www.romhacking.net/transla
 
 ROM MD5: `142d1f9f4b868780824cca20010ad4d8`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Picross2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Picross2.ips).
 
 ## Pokemon Puzzle Challenge
 
@@ -890,7 +890,7 @@ This patch converts `Pokemon Puzzle Challenge (U)` to the `.pocket` format.
 
 ROM MD5: `f9ec4cc3c9df3887dc731ccf53663ffb`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/PokePuzzle.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokePuzzle.ips).
 
 ## Pokemon Picross
 
@@ -902,7 +902,7 @@ ROM MD5: `35d2e7924408a3460e5c1a770acf3a8a`
 And the English patch (v1.2):
 ROM MD5: `c720f6f16ca28b942701855c73d75c3e`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/PokemonPicross.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonPicross.ips).
 
 ## Popeye 2
 
@@ -910,7 +910,7 @@ This patch converts `Popeye 2 (U)` to the `.pocket` format.
 
 ROM MD5: `30b579d82ae755bd37c1d4157a96129c`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Popeye2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Popeye2.ips).
 
 ## Populous
 
@@ -920,7 +920,7 @@ You'll probably the need [the manual](https://www.sprintinglegs.com/gbdb/manuals
 
 ROM MD5: `ab5fac354726b7b0710cfdba22d7142f`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Populous.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Populous.ips).
 
 
 ## QIX
@@ -929,7 +929,7 @@ This patch converts `QIX (W)` to the `.pocket` format.
 
 ROM MD5: `1c94dccdfaaa0c3e1d6bda5969704885`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/QIX.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/QIX.ips).
 
 ## Rats
 
@@ -937,14 +937,14 @@ This patch converts `Rats! (U)` to the `.pocket` format. This game is also known
 
 ROM MD5: `d240328faacf5583804a30b7003743b3`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Rats.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rats.ips).
 
 ## Revenge of the 'Gator
 This patch converts `Revenge of the 'Gator (U,E)` to the `.pocket` format.
 
 ROM MD5: `113d8f894df6b8c3641b2ba1fe60c250`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Gator.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gator.ips).
 
 ## RoboCop
 
@@ -952,7 +952,7 @@ This patch converts `RoboCop (U,E)` to the `.pocket` format.
 
 ROM MD5: `a477ac86be35d1fa70b708ad08dc88b8`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/RoboCop.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCop.ips).
 
 ## Sakura Taisen GB - Geki Hana Gumi Nyuutai!
 
@@ -964,7 +964,7 @@ The English [translation patch](https://github.com/vinheim3/sakuraWars1-disasm/r
 
 ROM MD5: `70883b45a97984cb033c2b95028bef65`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SakuraWars.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SakuraWars.ips).
 
 ## Side Pocket
 
@@ -972,7 +972,7 @@ This patch converts `Side Pocket (U)` to the `.pocket` format.
 
 ROM MD5: `3dbe9be772ca50da3a76d8860c7b08e2`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SidePocket.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SidePocket.ips).
 
 ## Simpsons - Night of the Living Tree House of Horror
 
@@ -982,7 +982,7 @@ This patch was updated to fix a potential problem, but it does not fix the statu
 
 ROM MD5: `2a4f3309fe05b47a98d8c5b4c81b91e5`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SimpsonsTreeHouse.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SimpsonsTreeHouse.ips).
 
 ## Solar Striker
 
@@ -990,7 +990,7 @@ This patch converts `Solar Striker (W)` to the `.pocket` format.
 
 ROM MD5: `83bed4ebefeece45748258fd2ef105b3`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SolarStriker.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SolarStriker.ips).
 
 ## Star Wars Episode 1 - Racer
 
@@ -998,7 +998,7 @@ This patch converts `Star Wars Episode 1 - Racer (U,E)` to the `.pocket` format.
 
 ROM MD5: `d1e875cb7dac0092e83b9e7799b06653`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/StarWarsEp1Racer.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWarsEp1Racer.ips).
 
 ## Street Fighter Alpha - Warriors' Dreams
 
@@ -1006,7 +1006,7 @@ This patch converts `Street Fighter Alpha - Warriors' Dreams (U)` to the `.pocke
 
 ROM MD5: `db1aeaa7135bd5707dbbccc427808cd7`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SFA.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SFA.ips).
 
 ## Super Off Road
 
@@ -1014,7 +1014,7 @@ This patch converts `Super Off Road (U)` to the `.pocket` format.
 
 ROM MD5: `85d05f95c07ed1b7d787062fe4d2e251`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SuperOffRoad.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperOffRoad.ips).
 
 ## Super R.C. Pro-Am
 
@@ -1022,7 +1022,7 @@ This patch converts `Super R.C. Pro-Am (U,E)` to the `.pocket` format.
 
 ROM MD5: `9ba2999ef3ecf9e27ac6c88e995c9d7a`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/SuperRC.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRC.ips).
 
 ## TaleSpin
 
@@ -1030,7 +1030,7 @@ This patch converts `TaleSpin (U,E)` to the `.pocket` format.
 
 ROM MD5: `26c65da146faa09505c554447792e493`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TaleSpin.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TaleSpin.ips).
 
 ## Teenage Mutant Ninja Turtles - Fall of the Foot Clan
 
@@ -1038,7 +1038,7 @@ This patch converts `Teenage Mutant Ninja Turtles - Fall of the Foot Clan (U)` t
 
 ROM MD5: `ad868e84fb6071a3b6a211d16e6cbb66`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TMNT1.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TMNT1.ips).
 
 ## Teenage Mutant Ninja Turtles II - Back From the Sewers
 
@@ -1046,7 +1046,7 @@ This patch converts `Teenage Mutant Ninja Turtles II - Back From the Sewers (U)`
 
 ROM MD5: `0221de99d11f50f79430c8ff9b430994`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TMNT2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TMNT2.ips).
 
 ## Teenage Mutant Ninja Turtles III - Radical Rescue
 
@@ -1056,7 +1056,7 @@ This patch was updated to address bug #13 where the hud wasn't shown correctly. 
 
 ROM MD5: `e6104df1feb1318ff1764c791eb4ce0e`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TMNT3.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TMNT3.ips).
 
 ## Tetris 2
 
@@ -1064,7 +1064,7 @@ This patch converts `Tetris 2 (U,E)` to the `.pocket` format.
 
 ROM MD5: `0a2e27e279ee4faac326b0cf620b269b`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Tetris2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tetris2.ips).
 
 ## Tetris Attack
 
@@ -1072,14 +1072,14 @@ This patch converts `Tetris Attack (U) (1.0)` to the `.pocket` format.
 
 ROM MD5: `7fbda0c87af7701bb5e75c2a77bb0143`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TetrisAttack.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TetrisAttack.ips).
 
 ## Tetris Blast
 This patch converts `Tetris Blast (U,E)` to the `.pocket` format.
 
 ROM MD5: `0affc9df2e1220ea4573deb6cb2d4b32`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TetrisBlast.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TetrisBlast.ips).
 
 ## Tiny Toon Adventures - Babs' Big Break
 
@@ -1089,7 +1089,7 @@ This patch has been updated to fix a lockup issue after the Dizzy mini game. (20
 
 ROM MD5: `cbb45188c780ce5bbdf502ceb2b9994a`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TinyToon.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TinyToon.ips).
 
 ## Toki Tori
 
@@ -1097,7 +1097,7 @@ This patch converts `Toki Tori (U,E)` to the `.pocket` format.
 
 ROM MD5: `e1bf59102bcd5e3601f4b24b3e873fd2`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TokiTori.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TokiTori.ips).
 
 ## Tony Hawk's Pro Skater 2
 
@@ -1105,7 +1105,7 @@ This patch converts `Tony Hawk's Pro Skater 2 (U)` to the `.pocket` format.
 
 ROM MD5: `0454b25266d645990b63b5b406672dc2`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/THPS2.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/THPS2.ips).
 
 ## Tony Hawk's Pro Skater 3
 This patch converts `Tony Hawk's Pro Skater 3 (U)` to the `.pocket` format.
@@ -1114,7 +1114,7 @@ This patch was updated to fix graphics corruption. (2022/01/11)
 
 ROM MD5: `365f913d6f2b0f44d87b7a347daea528`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/THPS3.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/THPS3.ips).
 
 ## Trax
 
@@ -1122,7 +1122,7 @@ This patch converts `Trax (U,E)` to the `.pocket` format.
 
 ROM MD5: `89ecf5b28d5cc84208cfc39dc2d96598`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Trax.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trax.ips).
 
 ## Wacky Races
 
@@ -1130,7 +1130,7 @@ This patch converts `Wacky Races (U)` to the `.pocket` format.
 
 ROM MD5: `716de1a7f4178fd941edf22d1a907624`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/WackyRaces.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WackyRaces.ips).
 
 ## Wario Blast featuring Bomberman!
 
@@ -1138,7 +1138,7 @@ This patch converts `Wario Blast featuring Bomberman! (U,E)` to the `.pocket` fo
 
 ROM MD5: `14fe7234ee4bcb14adf20c743f084a35`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/WarioBlast.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioBlast.ips).
 
 ## Wendy - Every Witch Way
 
@@ -1146,7 +1146,7 @@ This patch converts `Wendy - Every Witch Way (U,E)` to the `.pocket` format.
 
 ROM MD5: `4e1a5f02cce49842d4717a8b0ce501f5`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Wendy.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wendy.ips).
 
 ## Wordtris
 
@@ -1154,7 +1154,7 @@ This patch converts `Wordtris (U)` to the `.pocket` format.
 
 ROM MD5: `29c71c474c2fa00eeac79ddb55c2c174`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Wordtris.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wordtris.ips).
 
 ## WordZap
 
@@ -1162,7 +1162,7 @@ This patch converts `WordZap (U)` to the `.pocket` format.
 
 ROM MD5: `e9ab23a96409060054a05344b536b33c`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/WordZap.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WordZap.ips).
 
 ## Xtreme Sports
 
@@ -1170,7 +1170,7 @@ This patch converts `Xtreme Sports (U)` to the `.pocket` format.
 
 ROM MD5: `af1d1e17a5c568df796f4004be872649`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/XtremeSports.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/XtremeSports.ips).
 
 ## Yoshi
 
@@ -1178,7 +1178,7 @@ This patch converts `Yoshi (U)` to the `.pocket` format.
 
 ROM MD5: `a8804c8514619cc918960c2008ed65d1`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Yoshi.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Yoshi.ips).
 
 ## Yoshi's Cookie
 
@@ -1186,7 +1186,7 @@ This patch converts `Yoshi's Cookie (U)` to the `.pocket` format.
 
 ROM MD5: `bc1a3848092bdc900c157996c29a7783`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/YoshisCookie.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YoshisCookie.ips).
 
 ## Zoop
 
@@ -1194,4 +1194,4 @@ This patch converts `Zoop (U,E)` to the `.pocket` format.
 
 ROM MD5: `2387654e0e8e63bfc5f85d9bd7aa6ac3`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Zoop.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Zoop.ips).
