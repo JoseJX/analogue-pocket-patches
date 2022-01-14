@@ -65,6 +65,7 @@ Game | System
 [Game & Watch Gallery 2](#game--watch-gallery-2) | GBC
 [Game & Watch Gallery 3](#game--watch-gallery-3) | GBC
 [Gear Works](#gear-works) | GB
+[Ghostbusters II](#ghostbusters-ii) | GB
 [Grand Theft Auto](#grand-theft-auto) | GBC
 [Grand Theft Auto 2](#grand-theft-auto-2) | GBC
 [Hamtaro - Ham-Hams Unite!](#hamtaro---ham-hams-unite) | GBC 
@@ -499,6 +500,14 @@ This patch converts `Gear Works (U,E)` to the `.pocket` format.
 ROM MD5: `16af858484041d572299b501ead2b788`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/GearWorks.ips).
+
+## Ghostbusters II
+
+This patch converts `Ghostbusters II (U,E)` to the `.pocket` format.
+
+ROM MD5: `0841a527b116a52ad26de023b20b1a42`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Ghostbusters2.ips).
 
 ## Grand Theft Auto
 
