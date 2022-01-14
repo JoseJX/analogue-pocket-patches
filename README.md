@@ -50,6 +50,7 @@ Game | System
 [Crystalis](#crystalis) | GBC
 [Daikatana](#daikatana) | GBC
 [Darkwing Duck](#darkwing-duck) | GB
+[Deja Vu I & II: The Casebooks of Ace Harding](#deja-vu-i--ii-the-casebooks-of-ace-harding) | GBC
 [Dexterity](#dexterity) | GB
 [Dragon Warrior Monsters 2 - Cobi's Journey](#dragon-warrior-monsters-2---cobis-journey) | GBC
 [Dragon Warrior Monsters 2 - Tara's Adventure](#dragon-warrior-monsters-2---taras-adventure) | GBC
@@ -380,6 +381,14 @@ This patch converts `Darkwing Duck (U)` to the `.pocket` format.
 ROM MD5: `7d776329212fa7cc2b00c5a46f06dd92`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DarkwingDuck.ips).
+
+## Deja Vu I & II: The Casebooks of Ace Harding
+
+This patch converts `Deja Vu I & II: The Casebooks of Ace Harding (U)` to the `.pocket` format.
+
+ROM MD5: `d63504ea68f55d3c290cd01d71d4d1cc`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/DejaVu.ips).
 
 ## Dexterity
 
