@@ -1021,6 +1021,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Teenage Mutant Ninja Turtles III - Radical Rescue (U,E)` to the `.pocket` format.
 
+This patch was updated to address bug #13 where the hud wasn't shown correctly. (2022/01/14)
+
 ROM MD5: `e6104df1feb1318ff1764c791eb4ce0e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/TMNT3.ips).
