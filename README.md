@@ -137,6 +137,7 @@ Game | System
 [Tony Hawk's Pro Skater 3](#tony-hawks-pro-skater-3) | GBC
 [Trax](#trax) | GB
 [Wacky Races](#wacky-races) | GBC
+[Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
 [Wordtris](#wordtris) | GB
 [WordZap](#wordzap) | GB
@@ -1121,6 +1122,14 @@ This patch converts `Wacky Races (U)` to the `.pocket` format.
 ROM MD5: `716de1a7f4178fd941edf22d1a907624`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/WackyRaces.ips).
+
+## Wario Blast featuring Bomberman!
+
+This patch converts `Wario Blast featuring Bomberman! (U,E)` to the `.pocket` format.
+
+ROM MD5: `14fe7234ee4bcb14adf20c743f084a35`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/WarioBlast.ips).
 
 ## Wendy - Every Witch Way
 
