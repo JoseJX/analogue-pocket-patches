@@ -110,6 +110,7 @@ Game | System
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
 [Popeye 2](#popeye-2) | GB
+[Populous](#populous) | GB
 [QIX](#qix) | GB
 [Rats!](#rats) | GBC
 [Revenge of the 'Gator](#revenge-of-the--gator) | GB
@@ -891,6 +892,17 @@ This patch converts `Popeye 2 (U)` to the `.pocket` format.
 ROM MD5: `30b579d82ae755bd37c1d4157a96129c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Popeye2.ips).
+
+## Populous
+
+This patch converts `Populous (E)` to the `.pocket` format.
+
+You'll probably the need [the manual](https://www.sprintinglegs.com/gbdb/manuals/manualdata?id=673) for this one.
+
+ROM MD5: `ab5fac354726b7b0710cfdba22d7142f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/blob/main/Populous.ips).
+
 
 ## QIX
 
