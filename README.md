@@ -990,6 +990,8 @@ This patch converts `Sakura Taisen GB - Geki Hana Gumi Nyuutai! (J)` to the `.po
 
 The English [translation patch](https://github.com/vinheim3/sakuraWars1-disasm/releases/download/0.0.1/sakuraWars1.ips) appears to work as well.
 
+This patch was updated to fix the target reticule in Maria's mini-game. (2022/01/15)
+
 ROM MD5: `70883b45a97984cb033c2b95028bef65`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SakuraWars.ips).
