@@ -105,6 +105,7 @@ Game | System
 [Motocross Maniacs 2](#motocross-maniacs-2) | GBC
 [Mr. Driller](#mr-driller) | GBC
 [Ms. Pac-Man](#ms-pac-man) | GB
+[Nectaris GB](#nectaris-gb) | GB
 [New Chessmaster](#new-chessmaster) | GB
 [Operation C](#operation-c) | GB
 [Paperboy](#paperboy) | GB
@@ -854,6 +855,16 @@ This patch converts `Ms. Pac-Man (U)` to the `.pocket` format.
 ROM MD5: `ffa8642a18781fbe79df436a761a9775`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MsPacMan.ips).
+
+## Nectaris GB
+
+This patch converts `Nectaris GB (J)` to the `.pocket` format.
+
+This patch is compatible with the [translation patch](https://www.romhacking.net/translations/34/).
+
+ROM MD5: `1080141c1b99b5b92d187990bdc85c6a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Nectaris.ips).
 
 ## New Chessmaster
 
