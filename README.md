@@ -116,6 +116,7 @@ Game | System
 [Popeye 2](#popeye-2) | GB
 [Populous](#populous) | GB
 [Primal Rage](#primal-rage) | GB
+[Prince of Persia](#prince-of-persia) | GBC
 [QIX](#qix) | GB
 [Rats!](#rats) | GBC
 [Revenge of the 'Gator](#revenge-of-the--gator) | GB
@@ -950,6 +951,14 @@ This patch converts `Primal Rage (U,E)` to the `.pocket` format.
 ROM MD5: `c1cff8487b25700a509ce89cc3c7bcac`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PrimalRage.ips).
+
+## Prince of Persia
+
+This patch converts `Prince of Persia (U,E)` to the `.pocket` format.
+
+ROM MD5: `afeec69d5ba3afa3ce2279fcda944576`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PrinceOfPersia.ips).
 
 ## QIX
 
