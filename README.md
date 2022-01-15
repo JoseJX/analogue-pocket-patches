@@ -114,6 +114,7 @@ Game | System
 [Pokemon Picross](#pokemon-picross) | GBC
 [Popeye 2](#popeye-2) | GB
 [Populous](#populous) | GB
+[Primal Rage](#primal-rage) | GB
 [QIX](#qix) | GB
 [Rats!](#rats) | GBC
 [Revenge of the 'Gator](#revenge-of-the--gator) | GB
@@ -931,6 +932,13 @@ ROM MD5: `ab5fac354726b7b0710cfdba22d7142f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Populous.ips).
 
+## Primal Rage
+
+This patch converts `Primal Rage (U,E)` to the `.pocket` format.
+
+ROM MD5: `c1cff8487b25700a509ce89cc3c7bcac`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PrimalRage.ips).
 
 ## QIX
 
