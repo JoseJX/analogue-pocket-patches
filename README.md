@@ -109,6 +109,7 @@ Game | System
 [Paperboy](#paperboy) | GB
 [Perfect Dark](#perfect-dark) | GBC
 [Picross 2](#picross-2) | GB
+[Pipe Dream](#pipe-dream) | GB
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
 [Popeye 2](#popeye-2) | GB
@@ -883,6 +884,14 @@ It is compatible with the [translation patch](https://www.romhacking.net/transla
 ROM MD5: `142d1f9f4b868780824cca20010ad4d8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Picross2.ips).
+
+## Pipe Dream
+
+This patch converts `Pipe Dream (U)` to the `.pocket` format.
+
+ROM MD5: `0f021462180b18436c21299e923cca91`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PipeDream.ips).
 
 ## Pokemon Puzzle Challenge
 
