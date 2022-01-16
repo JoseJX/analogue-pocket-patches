@@ -54,6 +54,7 @@ Game | System
 [Darkwing Duck](#darkwing-duck) | GB
 [Deja Vu I & II: The Casebooks of Ace Harding](#deja-vu-i--ii-the-casebooks-of-ace-harding) | GBC
 [Dexterity](#dexterity) | GB
+[Donald Duck - Goin' Quackers](#donald-duck---goin-quackers) | GBC
 [Dragon's Lair](#dragons-lair) | GBC
 [Dragon Warrior Monsters 2 - Cobi's Journey](#dragon-warrior-monsters-2---cobis-journey) | GBC
 [Dragon Warrior Monsters 2 - Tara's Adventure](#dragon-warrior-monsters-2---taras-adventure) | GBC
@@ -425,6 +426,16 @@ This patch converts `Dexterity (U,E)` to the `.pocket` format.
 ROM MD5: `a58f2b1a317cfb1d60b59f3875f6a9c2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Dexterity.ips).
+
+## Donald Duck - Goin' Quackers
+
+This patch converts `Donald Duck - Goin' Quackers (U)` to the `.pocket` format.
+
+Note: This game is also known as Donald Duck - Quack Attack.
+
+ROM MD5: `4fd68c1cf8b57e90a5b11b054fc68b46`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DonaldDuck.ips).
 
 ## Dragon's Lair
 
