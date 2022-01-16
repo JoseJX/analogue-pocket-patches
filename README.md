@@ -129,6 +129,7 @@ Game | System
 [Rats!](#rats) | GBC
 [Revenge of the 'Gator](#revenge-of-the--gator) | GB
 [RoboCop](#robocop) | GB
+[Robocop vs the Terminator](#Robocop-vs-the-terminator) | GB
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
@@ -1067,6 +1068,14 @@ This patch converts `RoboCop (U,E)` to the `.pocket` format.
 ROM MD5: `a477ac86be35d1fa70b708ad08dc88b8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCop.ips).
+
+## Robocop vs the Terminator
+
+This patch converts `Robocop Vs the Terminator (U)` to the `.pocket` format.
+
+ROM MD5: `0e82b5210966e9eb53d5b7ef906a0f40`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCopVsTerminator.ips).
 
 ## Sakura Taisen GB - Geki Hana Gumi Nyuutai!
 
