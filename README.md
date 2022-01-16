@@ -435,6 +435,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Donald Duck - Goin' Quackers (U)` to the `.pocket` format.
 
+This patch was updated to fix a lock up after pausing the game. (2022/01/16)
+
 Note: This game is also known as Donald Duck - Quack Attack.
 
 ROM MD5: `4fd68c1cf8b57e90a5b11b054fc68b46`
