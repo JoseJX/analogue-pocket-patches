@@ -39,6 +39,7 @@ Game | System
 [Bionic Commando - Elite Forces](#bionic-commando---elite-forces) | GBC
 [Blades of Steel](#blades-of-steel) | GB
 [Bubble Bobble](#bubble-bobble) | GB
+[Cannon Fodder](#cannon-fodder) | GBC
 [Castlevania - The Adventure](#castlevania---the-adventure) | GB
 [Castlevania Legends](#castlevania-legends) | GB
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
@@ -297,6 +298,14 @@ This patch converts `Bubble Bobble (U,E)` to the `.pocket` format.
 ROM MD5: `11c49d405eef2174d9c14682204bb458`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BubbleBobble.ips).
+
+## Cannon Fodder
+
+This patch converts `Cannon Fodder (U)` to the `.pocket` format.
+
+ROM MD5: `762d6c94874d8ac894ad100c0a4b50ab`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CannonFodder.ips).
 
 ## Castlevania - The Adventure
 
