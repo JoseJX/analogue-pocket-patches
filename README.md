@@ -121,6 +121,7 @@ Game | System
 [Primal Rage](#primal-rage) | GB
 [Prince of Persia](#prince-of-persia) | GBC
 [QIX](#qix) | GB
+[Rampage World Tour](#rampage-world-tour) | GBC
 [Rats!](#rats) | GBC
 [Revenge of the 'Gator](#revenge-of-the--gator) | GB
 [RoboCop](#robocop) | GB
@@ -997,6 +998,14 @@ This patch converts `QIX (W)` to the `.pocket` format.
 ROM MD5: `1c94dccdfaaa0c3e1d6bda5969704885`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/QIX.ips).
+
+## Rampage World Tour
+
+This patch converts `Rampage World Tour (U)` to the `.pocket` format.
+
+ROM MD5: `f0bfbded7125dd312eaf36d16c1556a1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rampage.ips).
 
 ## Rats
 
