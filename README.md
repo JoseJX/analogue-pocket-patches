@@ -73,6 +73,7 @@ Game | System
 [Game Boy Wars 3](#game-boy-wars-3) | GBC
 [Gear Works](#gear-works) | GB
 [Ghostbusters II](#ghostbusters-ii) | GB
+[Gradius - The Interstellar Assault](#gradius---the-interstellar-assault) | GB
 [Grand Theft Auto](#grand-theft-auto) | GBC
 [Grand Theft Auto 2](#grand-theft-auto-2) | GBC
 [Hamtaro - Ham-Hams Unite!](#hamtaro---ham-hams-unite) | GBC 
@@ -586,6 +587,14 @@ This patch converts `Ghostbusters II (U,E)` to the `.pocket` format.
 ROM MD5: `0841a527b116a52ad26de023b20b1a42`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ghostbusters2.ips).
+
+## Gradius - The Interstellar Assault
+
+This patch converts `Gradius - The Interstellar Assault (U)` to the `.pocket` format.
+
+ROM MD5: `e10f788da29e18934c3e9161b25b96c7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gradius.ips).
 
 ## Grand Theft Auto
 
