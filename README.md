@@ -135,6 +135,7 @@ Game | System
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
 [Solar Striker](#solar-striker) | GB
 [Space Station Silicon Valley](#space-station-silicon-valley) | GBC
+[Spud's Adventure](#spuds-adventure) | GB
 [Star Wars Episode 1 - Racer](#star-wars-episode-1---racer) | GBC
 [Street Fighter Alpha - Warriors' Dreams](#street-fighter-alpha---warriors-dreams) | GBC
 [Super Off Road](#super-off-road) | GB
@@ -1124,6 +1125,14 @@ This patch converts `Space Station Silicon Valley (E)` to the `.pocket` format.
 ROM MD5: `488611af773cec5b7ecc5bd3efb754bb`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Spacestation.ips).
+
+## Spud's Adventure
+
+This patch converts `Spud's Adventure (U)` to the `.pocket` format.
+
+ROM MD5: `c9e8c196d57aab17c4c171816fcd6492`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpudsAdventure.ips).
 
 ## Star Wars Episode 1 - Racer
 
