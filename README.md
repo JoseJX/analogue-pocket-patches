@@ -90,6 +90,7 @@ Game | System
 [Kirby's Pinball Land](#kirbys-pinball-land) | GB
 [Kirby's Star Stacker](#kirbys-star-stacker) | GB
 [Klax](#klax) | GB
+[Krusty's Fun House](#krustys-fun-house) | GB
 [Kwirk - He's A-maze-ing](#kwirk---hes-a-maze-ing) | GB
 [Lemmings](#lemmings) | GBC
 [Lunar Chase](#lunar-chase) | GB
@@ -727,6 +728,14 @@ This patch converts `Klax (U)` to the `.pocket` format.
 ROM MD5: `7d4f3bf92bbff701583eb74f36951bb9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Klax.ips).
+
+## Krusty's Fun House
+
+This patch converts `Krusty's Fun House (U,E)` to the `.pocket` format.
+
+ROM MD5: `38b05e5167a24089cb18cc95e3911019`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KrustysFunHouse.ips).
 
 ## Kwirk - He's A-maze-ing
 
