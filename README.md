@@ -85,6 +85,7 @@ Game | System
 [James Bond 007](#james-bond-007) | GB
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
+[Killer Instinct](#killer-instinct) | GB
 [Kirby's Block Ball](#kirbys-block-ball) | GB
 [Kirby's Dream Land](#kirbys-dream-land) | GB
 [Kirby's Dream Land 2](#kirbys-dream-land-2) | GB
@@ -675,6 +676,14 @@ This patch converts `James Bond 007 (U,E)` to the `.pocket` format.
 ROM MD5: `669a4ecf89794505591b36d617e51f8a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JamesBond007.ips).
+
+## Killer Instinct
+
+This patch converts `Killer Instinct (U,E)` to the `.pocket` format.
+
+ROM MD5: `ba8628a70339843c2ee8a294b840e8d6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KillerInstinct.ips).
 
 ## Kirby's Block Ball
 
