@@ -34,12 +34,13 @@ Game | System
 [Batman - The Animated Series](#batman---the-animated-series) | GB
 [Batman - Return of the Joker](#batman---return-of-the-Joker) | GB
 [Batman - The Video Game](#batman---the-video-game) | GB
-[Bust-A-Move 2 - Arcade Edition](#bust-a-move-2---arcade-edition) | GB
+[Beatmania GB](#beatmania-gb) | GBC
 [Beavis and Butt-Head](#beavis-and-butt-head) | GB
 [Bionic Commando](#bionic-commando) | GB
 [Bionic Commando - Elite Forces](#bionic-commando---elite-forces) | GBC
 [Blades of Steel](#blades-of-steel) | GB
 [Bubble Bobble](#bubble-bobble) | GB
+[Bust-A-Move 2 - Arcade Edition](#bust-a-move-2---arcade-edition) | GB
 [Cannon Fodder](#cannon-fodder) | GBC
 [Castlevania - The Adventure](#castlevania---the-adventure) | GB
 [Castlevania Legends](#castlevania-legends) | GB
@@ -265,6 +266,14 @@ ROM MD5: `03c6d84a951be6703b7458478f4277b9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Batman.ips).
 
+## Beatmania GB
+
+This patch converts `Beatmania GB (J)` to the `.pocket` format.
+
+ROM MD5: `e7c022031cb882912e81970eb63d4f61`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Beatmania.ips).
+
 ## Beavis and Butt-Head
 
 This patch converts `Beavis and Butt-Head (U,E)` to the `.pocket` format.
@@ -299,6 +308,14 @@ ROM MD5: `302caa3ceddccc5fba36787b44d25da7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BladesOfSteel.ips).
 
+## Bubble Bobble
+
+This patch converts `Bubble Bobble (U,E)` to the `.pocket` format.
+
+ROM MD5: `11c49d405eef2174d9c14682204bb458`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BubbleBobble.ips).
+
 ## Bust-A-Move 2 - Arcade Edition
 
 This patch converts `Bust-A-Move 2 - Arcade Edition (U,E)` to the `.pocket` format.
@@ -308,14 +325,6 @@ This patch was updated to fix a bug. (2022/01/11)
 ROM MD5: `fa91adc7023e03f97ec36f66876a569e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BustAMove2.ips).
-
-## Bubble Bobble
-
-This patch converts `Bubble Bobble (U,E)` to the `.pocket` format.
-
-ROM MD5: `11c49d405eef2174d9c14682204bb458`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BubbleBobble.ips).
 
 ## Cannon Fodder
 
