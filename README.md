@@ -45,6 +45,7 @@ Game | System
 [Blades of Steel](#blades-of-steel) | GB
 [Bubble Bobble](#bubble-bobble) | GB
 [Bust-A-Move 2 - Arcade Edition](#bust-a-move-2---arcade-edition) | GB
+[Burai Fighter Deluxe](#burai-fighter-deluxe) | GB
 [Cannon Fodder](#cannon-fodder) | GBC
 [Castlevania - The Adventure](#castlevania---the-adventure) | GB
 [Castlevania Legends](#castlevania-legends) | GB
@@ -343,6 +344,14 @@ NOTE: After selecting a menu option, press the buttons a bunch, it seems to get 
 ROM MD5: `302caa3ceddccc5fba36787b44d25da7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BladesOfSteel.ips).
+
+## Burai Fighter Deluxe
+
+This patch converts `Burai Fighter Deluxe (U,E)` to the `.pocket` format.
+
+ROM MD5: `dd5aa6e85827a3ce6e4b7500e75a3262`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BuraiFighter.ips).
 
 ## Bubble Bobble
 
