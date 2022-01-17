@@ -44,6 +44,7 @@ Game | System
 [Bionic Commando - Elite Forces](#bionic-commando---elite-forces) | GBC
 [Blades of Steel](#blades-of-steel) | GB
 [Bonk's Adventure](#bonks-adventure) | GB
+[Bonk's Revenge](#bonks-revenge) | GB
 [Bubble Bobble](#bubble-bobble) | GB
 [Bust-A-Move 2 - Arcade Edition](#bust-a-move-2---arcade-edition) | GB
 [Burai Fighter Deluxe](#burai-fighter-deluxe) | GB
@@ -353,6 +354,14 @@ This patch converts `Bonk's Adventure (U)` to the `.pocket` format.
 ROM MD5: `79d6e6515905ec3fbcbd9e50ff469000`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BonksAdventure.ips).
+
+## Bonk's Revenge
+
+This patch converts `Bonk's Revenge (U,E)` to the `.pocket` format.
+
+ROM MD5: `b73d76599e3d7f979a99bba5f1c92add`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BonksRevenge.ips).
 
 ## Burai Fighter Deluxe
 
