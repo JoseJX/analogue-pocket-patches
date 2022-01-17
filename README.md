@@ -27,6 +27,7 @@ Game | System
 [The Adventures of Star Saver](#the-adventures-of-star-saver) | GB
 [Alleyway](#alleyway) | GB
 [Alone in the Dark - The New Nightmare](#alone-in-the-dark---the-new-nightmare) | GBC
+[Amazing Spider-Man](#amazing-spider-man) | GB
 [A-mazing Tater](#a-mazing-tater) | GB
 [Balloon Kid](#balloon-kid) | GB
 [Banishing Racer](#banishing-racer) | GB
@@ -208,6 +209,14 @@ This patch converts `Alone in the Dark - The New Nightmare (U)` to the `.pocket`
 ROM MD5: `d97055e4a2fd4624fc924c4834ace35e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AloneInTheDark.ips).
+
+## Amazing Spider-Man
+
+This patch converts `Amazing Spider-Man (U,E)` to the `.pocket` format.
+
+ROM MD5: `4a967a8f1dd6f627e8b72950739c26d4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AmazingSpiderMan.ips).
 
 ## A-mazing Tater
 
