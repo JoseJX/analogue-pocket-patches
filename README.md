@@ -23,6 +23,7 @@ Please note that link cable functionality and the real-time clock are not suppor
 Game | System 
 --- | --- 
 [4-in-1 Fun Pack](#4-in-1-fun-pack) | GB
+[4-in-1 Fun Pack - Volume 2](#4-in-1-fun-pack---volume-2) | GB
 [The Adventures of Star Saver](#the-adventures-of-star-saver) | GB
 [Alleyway](#alleyway) | GB
 [Alone in the Dark - The New Nightmare](#alone-in-the-dark---the-new-nightmare) | GBC
@@ -173,6 +174,14 @@ This patch converts `4-in-1 Fun Pack (U,E)` to the `.pocket` format.
 ROM MD5: `b8d609b5dbac6a2dae6087fd9feec196`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/4in1.ips).
+
+## 4-in-1 Fun Pack - Volume 2
+
+This patch converts `4-in-1 Fun Pack - Volume 2 (U,E)` to the `.pocket` format.
+
+ROM MD5: `71feb6c7d5b764d5192c28efe74d13c6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/4in1V2.ips).
 
 ## The Adventures of Star Saver
 
