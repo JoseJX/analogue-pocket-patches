@@ -43,6 +43,7 @@ Game | System
 [Bionic Commando](#bionic-commando) | GB
 [Bionic Commando - Elite Forces](#bionic-commando---elite-forces) | GBC
 [Blades of Steel](#blades-of-steel) | GB
+[Bonk's Adventure](#bonks-adventure) | GB
 [Bubble Bobble](#bubble-bobble) | GB
 [Bust-A-Move 2 - Arcade Edition](#bust-a-move-2---arcade-edition) | GB
 [Burai Fighter Deluxe](#burai-fighter-deluxe) | GB
@@ -344,6 +345,14 @@ NOTE: After selecting a menu option, press the buttons a bunch, it seems to get 
 ROM MD5: `302caa3ceddccc5fba36787b44d25da7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BladesOfSteel.ips).
+
+## Bonk's Adventure
+
+This patch converts `Bonk's Adventure (U)` to the `.pocket` format.
+
+ROM MD5: `79d6e6515905ec3fbcbd9e50ff469000`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BonksAdventure.ips).
 
 ## Burai Fighter Deluxe
 
