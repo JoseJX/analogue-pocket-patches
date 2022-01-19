@@ -22,6 +22,7 @@ Please note that link cable functionality and the real-time clock are not suppor
 
 Game | System 
 --- | --- 
+[007 James Bond - The World is Not Enough](#007-james-bond---the-world-is-not-enough) | GBC
 [4-in-1 Fun Pack](#4-in-1-fun-pack) | GB
 [4-in-1 Fun Pack - Volume 2](#4-in-1-fun-pack---volume-2) | GB
 [The Adventures of Star Saver](#the-adventures-of-star-saver) | GB
@@ -171,6 +172,14 @@ Game | System
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
 [Zoop](#zoop) | GB
+
+## 007 James Bond - The World is Not Enough
+
+This patch converts `007 James Bond - The World is Not Enough (U,E)` to the `.pocket` format.
+
+ROM MD5: `1f1fb3cf8783f880bc796d667be60231`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/007TWINE.ips).
 
 ## 4-in-1 Fun Pack
 
