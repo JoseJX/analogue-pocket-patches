@@ -3,6 +3,7 @@
 ## Table of Contents
 
 [How I generated these patches](#how-theyre-generated)
+
 [How to use the patches](#how-to-use-the-patches)
 
 Game | System 
@@ -22,7 +23,7 @@ Game | System
 [Battleship](#battleship) | GB
 [Battletoads](#battletoads) | GB
 [Batman - The Animated Series](#batman---the-animated-series) | GB
-[Batman - Return of the Joker](#batman---return-of-the-Joker) | GB
+[Batman - Return of the Joker](#batman---return-of-the-joker) | GB
 [Batman - The Video Game](#batman---the-video-game) | GB
 [Beatmania GB](#beatmania-gb) | GBC
 [Beavis and Butt-Head](#beavis-and-butt-head) | GB
@@ -123,9 +124,9 @@ Game | System
 [QIX](#qix) | GB
 [Rampage World Tour](#rampage-world-tour) | GBC
 [Rats!](#rats) | GBC
-[Revenge of the 'Gator](#revenge-of-the--gator) | GB
+[Revenge of the 'Gator](#revenge-of-the-gator) | GB
 [RoboCop](#robocop) | GB
-[Robocop vs the Terminator](#Robocop-vs-the-terminator) | GB
+[Robocop vs the Terminator](#robocop-vs-the-terminator) | GB
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
