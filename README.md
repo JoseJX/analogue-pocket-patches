@@ -418,6 +418,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Castlevania Legends (U)` to the `.pocket` format.
 
+This patch was updated to fix some graphical glitches and the final scene. (2022/01/19)
+
 ROM MD5: `1475824e7262c0d6359f43c287e034a5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CastlevaniaLegends.ips).
