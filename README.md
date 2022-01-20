@@ -79,6 +79,7 @@ Game | System
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
 [Itchy & Scratchy in Miniature Golf Madness](#itchy--scratchy-in-miniature-golf-madness) | GB
 [James Bond 007](#james-bond-007) | GB
+[Kaeru no Tame ni Kane wa Naru](#kaeru-no-tame-ni-kane-wa-naru) | GB
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
 [Killer Instinct](#killer-instinct) | GB
@@ -763,6 +764,32 @@ ROM MD5: `669a4ecf89794505591b36d617e51f8a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JamesBond007.ips).
 
+## Kaeru no Tame ni Kane wa Naru
+
+This patch converts `Kaeru no Tame ni Kane wa Naru (J)` to the `.pocket` format. This game is also known as "For the Frog the Bell Tolls".
+
+This patch is compatible with the English [translation patch](https://www.romhacking.net/translations/1623/).
+
+ROM MD5: `4ebe14c4c51555908c0e4cabb66dc813`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Kaeru.ips).
+
+## Kid Dracula
+
+This patch converts `Kid Dracula (U,E)` to the `.pocket` format.
+
+ROM MD5: `24a6b4457a511cc667e9ac25417401ab`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KidDracula.ips).
+
+## Kid Icarus - Of Myths and Monsters
+
+This patch converts `Kid Icarus - Of Myths and Monsters (U,E)` to the `.pocket` format.
+
+ROM MD5: `23c7be98ac9a4d3b046ad1be3f0965e4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KidIcarus.ips).
+
 ## Killer Instinct
 
 This patch converts `Killer Instinct (U,E)` to the `.pocket` format.
@@ -812,22 +839,6 @@ This patch converts `Kirby's Star Stacker (U,E)` to the `.pocket` format.
 ROM MD5: `f4c0bf35939be6786c099e9eb4635919`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbyStarStack.ips).
-
-## Kid Dracula
-
-This patch converts `Kid Dracula (U,E)` to the `.pocket` format.
-
-ROM MD5: `24a6b4457a511cc667e9ac25417401ab`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KidDracula.ips).
-
-## Kid Icarus - Of Myths and Monsters
-
-This patch converts `Kid Icarus - Of Myths and Monsters (U,E)` to the `.pocket` format.
-
-ROM MD5: `23c7be98ac9a4d3b046ad1be3f0965e4`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KidIcarus.ips).
 
 ## Klax
 
