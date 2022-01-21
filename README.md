@@ -106,6 +106,7 @@ Game | System
 [Mega Man V](#mega-man-v) | GB
 [Mega Man Xtreme](#mega-man-xtreme) | GBC
 [Mega Man Xtreme 2](#mega-man-xtreme-2) | GBC
+[Mercenary Force](#mercenary-force) | GB
 [Metal Gear Solid](#metal-gear-solid) | GBC
 [Mole Mania](#mole-mania) | GB
 [Motocross Maniacs 2](#motocross-maniacs-2) | GBC
@@ -992,6 +993,14 @@ This patch converts `Mega Man Xtreme 2 (U,E)` to the `.pocket` format.
 ROM MD5: `1f64989765f605d05cbd013e7ffcc352`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaManXtreme2.ips).
+
+## Mercenary Force
+
+This patch converts `Mercenary Force (U,E)` to the `.pocket` format.
+
+ROM MD5: `bf3d90ff1c8d4827b5657d7b15d84fde`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MercenaryForce.ips).
 
 ## Metal Gear Solid
 
