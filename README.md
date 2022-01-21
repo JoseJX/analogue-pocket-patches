@@ -151,6 +151,7 @@ Game | System
 [Tony Hawk's Pro Skater 2](#tony-hawks-pro-skater-2) | GBC
 [Tony Hawk's Pro Skater 3](#tony-hawks-pro-skater-3) | GBC
 [Trax](#trax) | GB
+[Trogday 2022](#trogday_2022) | GBC
 [Wacky Races](#wacky-races) | GBC
 [Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
@@ -1380,6 +1381,16 @@ This patch converts `Trax (U,E)` to the `.pocket` format.
 ROM MD5: `89ecf5b28d5cc84208cfc39dc2d96598`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trax.ips).
+
+## Trogday 2022
+
+This patch converts `Trogday 2022 (U,E)` to the `.pocket` format.
+
+It is a patch for this ROM available on [itch.io](https://videlectrix.itch.io/trogday-micro-game).
+
+ROM MD5: `6a6931f6d1a6e60b4da9551e83b2742b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trogday2022.ips).
 
 ## Wacky Races
 
