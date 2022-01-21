@@ -46,6 +46,7 @@ Game | System
 [Cosmo Tank](#cosmo-tank) | GB
 [Crystalis](#crystalis) | GBC
 [Daikatana](#daikatana) | GBC
+[Daedalian Opus](#daedalian-opus) | GB
 [Darkwing Duck](#darkwing-duck) | GB
 [Deja Vu I & II: The Casebooks of Ace Harding](#deja-vu-i--ii-the-casebooks-of-ace-harding) | GBC
 [Dexterity](#dexterity) | GB
@@ -484,6 +485,14 @@ This patch converts `Daikatana (E)` to the `.pocket` format.
 ROM MD5: `d1934b308085c92b2ee492faa0d159c2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Daikatana.ips).
+
+## Daedalian Opus
+
+This patch converts `Daedalian Opus (U)` to the `.pocket` format.
+
+ROM MD5: `34b3d0f0843b83e5b0e00bc3d0669793`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaedalianOpus.ips).
 
 ## Darkwing Duck
 
