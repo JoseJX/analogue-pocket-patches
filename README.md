@@ -113,6 +113,7 @@ Game | System
 [Motocross Maniacs 2](#motocross-maniacs-2) | GBC
 [Mr. Driller](#mr-driller) | GBC
 [Ms. Pac-Man](#ms-pac-man) | GB
+[Mysterium](#mysterium) | GB
 [Nectaris GB](#nectaris-gb) | GB
 [New Chessmaster](#new-chessmaster) | GB
 [Operation C](#operation-c) | GB
@@ -1057,6 +1058,14 @@ This patch converts `Ms. Pac-Man (U)` to the `.pocket` format.
 ROM MD5: `ffa8642a18781fbe79df436a761a9775`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MsPacMan.ips).
+
+## Mysterium
+
+This patch converts `Mysterium (U)` to the `.pocket` format.
+
+ROM MD5: `12e9e43481d38003a4f1e2c2ce596aee`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Mysterium.ips).
 
 ## Nectaris GB
 
