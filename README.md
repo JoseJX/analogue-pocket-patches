@@ -1384,7 +1384,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Trogday 2022
 
-This patch converts `Trogday 2022 (U,E)` to the `.pocket` format.
+This patch converts `Trogday 2022` to the `.pocket` format.
 
 It is a patch for this ROM available on [itch.io](https://videlectrix.itch.io/trogday-micro-game).
 
