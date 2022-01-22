@@ -139,6 +139,7 @@ Game | System
 [Solar Striker](#solar-striker) | GB
 [Space Station Silicon Valley](#space-station-silicon-valley) | GBC
 [Spud's Adventure](#spuds-adventure) | GB
+[Star Ocean - Blue Sphere](#star-ocean---blue-sphere) | GBC
 [Star Wars Episode 1 - Racer](#star-wars-episode-1---racer) | GBC
 [Street Fighter Alpha - Warriors' Dreams](#street-fighter-alpha---warriors-dreams) | GBC
 [Super Off Road](#super-off-road) | GB
@@ -1285,6 +1286,16 @@ This patch converts `Spud's Adventure (U)` to the `.pocket` format.
 ROM MD5: `c9e8c196d57aab17c4c171816fcd6492`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpudsAdventure.ips).
+
+## Star Ocean - Blue Sphere
+
+This patch converts `Star Ocean - Blue Sphere (J)` to the `.pocket` format.
+
+It is compatible with the English [translation patch](https://archive.org/download/staroceanenglish).
+
+ROM MD5: `820e0a19275fabc03fe619c42db47179`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarOcean.ips).
 
 ## Star Wars Episode 1 - Racer
 
