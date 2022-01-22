@@ -16,6 +16,7 @@ Game | System
 [Alone in the Dark - The New Nightmare](#alone-in-the-dark---the-new-nightmare) | GBC
 [Amazing Spider-Man](#amazing-spider-man) | GB
 [A-mazing Tater](#a-mazing-tater) | GB
+[Animaniacs](#animaniacs) | GB
 [Balloon Kid](#balloon-kid) | GB
 [Banishing Racer](#banishing-racer) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
@@ -240,6 +241,14 @@ This patch converts `A-mazing Tater (U)` to the `.pocket` format.
 ROM MD5: `53b746bff74c50cd3ebcf41161c66cf3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AmazingTater.ips).
+
+## Animaniacs
+
+This patch converts `Animaniacs (U)` to the `.pocket` format.
+
+ROM MD5: `84ff06249f96442626cdd75a5fa440ce`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Animaniacs.ips).
 
 ## Balloon Kid
 
