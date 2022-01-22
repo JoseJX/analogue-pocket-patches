@@ -59,6 +59,7 @@ Game | System
 [Duck Tales 2](#duck-tales-2) | GB
 [F-1 Race](#f-1-race) | GB
 [Felix the Cat](#felix-the-cat) | GB
+[Fish Files](#fish-files) | GBC
 [Final Fantasy Adventure](#final-fantasy-adventure) | GB
 [Final Fantasy Legend](#final-fantasy-legend) | GB
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
@@ -602,6 +603,14 @@ This patch converts `Felix the Cat (U,E)` to the `.pocket` format.
 ROM MD5: `4d606ab4ffd5c3d3ecf914a6af1c1f90`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Felix.ips).
+
+## Fish Files
+
+This patch converts `Fish Files (E)` to the `.pocket` format.
+
+ROM MD5: `edf021b521a496fe7afc5e15949f5c80`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FishFiles.ips).
 
 ## Final Fantasy Adventure
 
