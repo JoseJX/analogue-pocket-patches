@@ -91,6 +91,7 @@ Game | System
 [Kirby's Star Stacker](#kirbys-star-stacker) | GB
 [Klax](#klax) | GB
 [Konami GB Collection Volume 2](#konami-gb-collection-volume-2) | GBC
+[Konami GB Collection Volume 3](#konami-gb-collection-volume-3) | GBC
 [Krusty's Fun House](#krustys-fun-house) | GB
 [Kwirk - He's A-maze-ing](#kwirk---hes-a-maze-ing) | GB
 [Lemmings](#lemmings) | GBC
@@ -871,6 +872,14 @@ This patch converts `Konami GB Collection Volume 2 (E)` to the `.pocket` format.
 ROM MD5: `ed679655b3721327ea36c857c554427a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Konami2.ips).
+
+## Konami GB Collection Volume 3
+
+This patch converts `Konami GB Collection Volume 3 (E)` to the `.pocket` format.
+
+ROM MD5: `98f7778539e22307d074cf0abb37d05c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Konami3.ips).
 
 ## Krusty's Fun House
 
