@@ -877,6 +877,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Konami GB Collection Volume 3 (E)` to the `.pocket` format.
 
+This patch was updated to fix a room entry bug in Mystical Ninja (Goemon). (2022/01/22)
+
 ROM MD5: `98f7778539e22307d074cf0abb37d05c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Konami3.ips).
