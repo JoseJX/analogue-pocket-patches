@@ -148,6 +148,7 @@ Game | System
 [Street Fighter Alpha - Warriors' Dreams](#street-fighter-alpha---warriors-dreams) | GBC
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
+[Sword of Hope](#sword-of-hope) | GB
 [TaleSpin](#talespin) | GB
 [Teenage Mutant Ninja Turtles - Fall of the Foot Clan](#teenage-mutant-ninja-turtles---fall-of-the-foot-clan) | GB
 [Teenage Mutant Ninja Turtles II - Back From the Sewers](#teenage-mutant-ninja-turtles-ii---back-from-the-sewers) | GB
@@ -1368,6 +1369,14 @@ This patch converts `Super R.C. Pro-Am (U,E)` to the `.pocket` format.
 ROM MD5: `9ba2999ef3ecf9e27ac6c88e995c9d7a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRC.ips).
+
+## Sword of Hope
+
+This patch converts `Sword of Hope (U)` to the `.pocket` format.
+
+ROM MD5: `7138d95583fc38ee7b3cf18de5e09e89`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SwordOfHope1.ips).
 
 ## TaleSpin
 
