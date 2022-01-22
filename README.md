@@ -622,6 +622,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Final Fantasy Legend III (U)` to the `.pocket` format.
 
+This patch has been updated to fix a crash when using the E-Ray. (2022/01/22)
+
 ROM MD5: `db156bc96b528996ce1bf771195171af`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FFL3.ips).
