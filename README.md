@@ -130,6 +130,7 @@ Game | System
 [QIX](#qix) | GB
 [Rampage World Tour](#rampage-world-tour) | GBC
 [Rats!](#rats) | GBC
+[Revelations - The Demon Slayer](#revelations---the-demon-slayer) | GBC
 [Revenge of the 'Gator](#revenge-of-the-gator) | GB
 [RoboCop](#robocop) | GB
 [Robocop vs the Terminator](#robocop-vs-the-terminator) | GB
@@ -1207,6 +1208,14 @@ This patch converts `Rats! (U)` to the `.pocket` format. This game is also known
 ROM MD5: `d240328faacf5583804a30b7003743b3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rats.ips).
+ 
+## Revelations - The Demon Slayer
+
+This patch converts `Revelations - The Demon Slayer (U)` to the `.pocket` format.
+
+ROM MD5: `86ed74283fe0071f8d3f05923051efab`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Revelations.ips).
 
 ## Revenge of the 'Gator
 This patch converts `Revenge of the 'Gator (U,E)` to the `.pocket` format.
