@@ -149,6 +149,7 @@ Game | System
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
 [Sword of Hope](#sword-of-hope) | GB
+[Sword of Hope II](#sword-of-hope-ii) | GB
 [TaleSpin](#talespin) | GB
 [Teenage Mutant Ninja Turtles - Fall of the Foot Clan](#teenage-mutant-ninja-turtles---fall-of-the-foot-clan) | GB
 [Teenage Mutant Ninja Turtles II - Back From the Sewers](#teenage-mutant-ninja-turtles-ii---back-from-the-sewers) | GB
@@ -1377,6 +1378,14 @@ This patch converts `Sword of Hope (U)` to the `.pocket` format.
 ROM MD5: `7138d95583fc38ee7b3cf18de5e09e89`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SwordOfHope1.ips).
+
+## Sword of Hope II
+
+This patch converts `Sword of Hope II (U)` to the `.pocket` format.
+
+ROM MD5: `64f7f8af18f75a9b3767e4637e693be7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SwordOfHope2.ips).
 
 ## TaleSpin
 
