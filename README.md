@@ -1376,6 +1376,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Super R.C. Pro-Am (U,E)` to the `.pocket` format.
 
+This patch was updated to fix a crash. (2022/01/23)
+
 ROM MD5: `9ba2999ef3ecf9e27ac6c88e995c9d7a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRC.ips).
