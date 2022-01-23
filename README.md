@@ -111,6 +111,7 @@ Game | System
 [Mega Man Xtreme 2](#mega-man-xtreme-2) | GBC
 [Mercenary Force](#mercenary-force) | GB
 [Metal Gear Solid](#metal-gear-solid) | GBC
+[Metal Walker](#metal-walker) | GBC
 [Mickey's Speedway USA](#mickeys-speedway-usa) | GBC
 [Mole Mania](#mole-mania) | GB
 [Motocross Maniacs 2](#motocross-maniacs-2) | GBC
@@ -1046,6 +1047,14 @@ This patch converts `Metal Gear Solid (U)` to the `.pocket` format.
 ROM MD5: `f6dd1b1e5747412b9e5f25376c972d5a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalGear.ips).
+
+## Metal Walker
+
+This patch converts `Metal Walker (U)` to the `.pocket` format.
+
+ROM MD5: `82d17beb1aefd1b93621d6fa61dfa1cb`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalWalker.ips).
 
 ## Mickey's Speedway USA
 
