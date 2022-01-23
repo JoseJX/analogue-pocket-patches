@@ -17,6 +17,7 @@ Game | System
 [Amazing Spider-Man](#amazing-spider-man) | GB
 [A-mazing Tater](#a-mazing-tater) | GB
 [Animaniacs](#animaniacs) | GB
+[Another Bible](#another-bible) | GB
 [Balloon Kid](#balloon-kid) | GB
 [Banishing Racer](#banishing-racer) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
@@ -253,6 +254,16 @@ This patch converts `Animaniacs (U)` to the `.pocket` format.
 ROM MD5: `84ff06249f96442626cdd75a5fa440ce`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Animaniacs.ips).
+
+## Another Bible
+
+This patch converts `Another Bible (J)` to the `.pocket` format.
+
+It is compatible with the English [translation patch](https://www.romhacking.net/translations/530/).
+
+ROM MD5: `ff9196caa266ae36d409ce7e53ddc77a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AnotherBible.ips).
 
 ## Balloon Kid
 
