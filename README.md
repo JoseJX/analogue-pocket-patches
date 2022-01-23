@@ -130,6 +130,7 @@ Game | System
 [Pokemon Picross](#pokemon-picross) | GBC
 [Popeye 2](#popeye-2) | GB
 [Populous](#populous) | GB
+[Power Quest](#power-quest) | GBC
 [Primal Rage](#primal-rage) | GB
 [Prince of Persia](#prince-of-persia) | GBC
 [QIX](#qix) | GB
@@ -1221,6 +1222,14 @@ You'll probably the need [the manual](https://www.sprintinglegs.com/gbdb/manuals
 ROM MD5: `ab5fac354726b7b0710cfdba22d7142f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Populous.ips).
+
+## Power Quest
+
+This patch converts `Power Quest (U)` to the `.pocket` format.
+
+ROM MD5: `ac1f4ad52996882c60ce83cac01e9ccf`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowerQuest.ips).
 
 ## Primal Rage
 
