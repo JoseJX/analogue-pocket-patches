@@ -84,6 +84,7 @@ Game | System
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
 [Itchy & Scratchy in Miniature Golf Madness](#itchy--scratchy-in-miniature-golf-madness) | GB
 [James Bond 007](#james-bond-007) | GB
+[John Madden Football](#john-madden-football) | GB
 [Kaeru no Tame ni Kane wa Naru](#kaeru-no-tame-ni-kane-wa-naru) | GB
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
@@ -824,6 +825,16 @@ This patch converts `James Bond 007 (U,E)` to the `.pocket` format.
 ROM MD5: `669a4ecf89794505591b36d617e51f8a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JamesBond007.ips).
+
+## John Madden Football
+
+This patch converts `John Madden Football (U)` to the `.pocket` format.
+
+Note: This game was unreleased.
+
+ROM MD5: `e76328b0795af8cd85a70e84c1ef4722`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JohnMadden.ips).
 
 ## Kaeru no Tame ni Kane wa Naru
 
