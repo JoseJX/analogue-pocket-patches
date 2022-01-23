@@ -35,6 +35,7 @@ Game | System
 [Bonk's Adventure](#bonks-adventure) | GB
 [Bonk's Revenge](#bonks-revenge) | GB
 [Bubble Bobble](#bubble-bobble) | GB
+[Burning Paper](#burning-paper) | GB
 [Bust-A-Move 2 - Arcade Edition](#bust-a-move-2---arcade-edition) | GB
 [Burai Fighter Deluxe](#burai-fighter-deluxe) | GB
 [Cannon Fodder](#cannon-fodder) | GBC
@@ -414,6 +415,14 @@ This patch converts `Bubble Bobble (U,E)` to the `.pocket` format.
 ROM MD5: `11c49d405eef2174d9c14682204bb458`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BubbleBobble.ips).
+
+## Burning Paper
+
+This patch converts `Burning Paper (J)` to the `.pocket` format.
+
+ROM MD5: `cb0a5d103c01d1d82d324602a45dd21b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BurningPaper.ips).
 
 ## Bust-A-Move 2 - Arcade Edition
 
