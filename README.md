@@ -146,6 +146,7 @@ Game | System
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
 [Solar Striker](#solar-striker) | GB
+[Space Marauder](#space-marauder) | GBC
 [Space Station Silicon Valley](#space-station-silicon-valley) | GBC
 [Spud's Adventure](#spuds-adventure) | GB
 [Star Ocean - Blue Sphere](#star-ocean---blue-sphere) | GBC
@@ -1361,6 +1362,14 @@ This patch converts `Solar Striker (W)` to the `.pocket` format.
 ROM MD5: `83bed4ebefeece45748258fd2ef105b3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SolarStriker.ips).
+
+## Space Marauder
+
+This patch converts `Space Marauder (U)` to the `.pocket` format.
+
+ROM MD5: `5ee49eaf9a2c19623478215788c0bfdc`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpaceMarauder.ips).
 
 ## Space Station Silicon Valley
 
