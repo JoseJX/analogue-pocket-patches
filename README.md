@@ -133,6 +133,7 @@ Game | System
 [Pokemon Picross](#pokemon-picross) | GBC
 [Popeye 2](#popeye-2) | GB
 [Populous](#populous) | GB
+[Power Racer](#power-racer) | GB
 [Power Quest](#power-quest) | GBC
 [Primal Rage](#primal-rage) | GB
 [Prince of Persia](#prince-of-persia) | GBC
@@ -1254,6 +1255,14 @@ You'll probably the need [the manual](https://www.sprintinglegs.com/gbdb/manuals
 ROM MD5: `ab5fac354726b7b0710cfdba22d7142f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Populous.ips).
+
+## Power Racer
+
+This patch converts `Power Racer (U)` to the `.pocket` format.
+
+ROM MD5: `6073cb28e651b48f0bf19e654aab8c7d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowerRacer.ips).
 
 ## Power Quest
 
