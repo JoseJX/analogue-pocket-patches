@@ -76,6 +76,7 @@ Game | System
 [Gradius - The Interstellar Assault](#gradius---the-interstellar-assault) | GB
 [Grand Theft Auto](#grand-theft-auto) | GBC
 [Grand Theft Auto 2](#grand-theft-auto-2) | GBC
+[Great Greed](#great-greed) | GB
 [Hamtaro - Ham-Hams Unite!](#hamtaro---ham-hams-unite) | GBC 
 [Harry Potter and the Chamber of Secrets](#harry-potter-and-the-chamber-of-secrets) | GBC
 [Harry Potter and the Sorcerer's Stone](#harry-potter-and-the-sorcerers-stone) | GBC
@@ -754,6 +755,14 @@ This patch converts `Grand Theft Auto 2 (U)` to the `.pocket` format.
 ROM MD5: `05a9c516d6e744135a6303aa5b4a8887`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GTA2.ips).
+
+## Great Greed
+
+This patch converts `Great Greed (U)` to the `.pocket` format.
+
+ROM MD5: `b83f33f33ab52e0b7ee80715dbb8d415`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GreatGreed.ips).
 
 ## Hamtaro - Ham-Hams Unite!
 
