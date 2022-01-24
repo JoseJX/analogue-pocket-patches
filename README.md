@@ -146,6 +146,7 @@ Game | System
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
 [Solar Striker](#solar-striker) | GB
+[Solitaire FunPak](#solitaire-funpak) | GB
 [Space Marauder](#space-marauder) | GBC
 [Space Station Silicon Valley](#space-station-silicon-valley) | GBC
 [Spud's Adventure](#spuds-adventure) | GB
@@ -1362,6 +1363,14 @@ This patch converts `Solar Striker (W)` to the `.pocket` format.
 ROM MD5: `83bed4ebefeece45748258fd2ef105b3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SolarStriker.ips).
+
+## Solitaire FunPak
+
+This patch converts `Solitaire FunPak (U,E)` to the `.pocket` format.
+
+ROM MD5: `78da1015ca2b5b4e83f7aea41214e779`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Solitaire.ips).
 
 ## Space Marauder
 
