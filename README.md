@@ -23,6 +23,7 @@ Game | System
 [Banishing Racer](#banishing-racer) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
 [Bart vs. the Juggernauts](#bart-vs-the-juggernauts) | GB
+[Battle Bull](#battle-bull) | GB
 [Battleship](#battleship) | GB
 [Battletoads](#battletoads) | GB
 [Batman - The Animated Series](#batman---the-animated-series) | GB
@@ -317,6 +318,14 @@ This patch converts `Bart vs. The Juggernauts (U,E)` to the `.pocket` format.
 ROM MD5: `bc36d55377d7961a49a48a70a2827e5e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BartJuggernauts.ips).
+
+## Battle Bull
+
+This patch converts `Battle Bull (U)` to the `.pocket` format.
+
+ROM MD5: `d6d8e759c19c1ba384670f2a06b4d11b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleBull.ips).
 
 ## Battleship
 
