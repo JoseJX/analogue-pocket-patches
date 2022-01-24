@@ -1230,6 +1230,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Pokemon Picross` to the `.pocket` format.
 
+This patch was updated to fix garbled graphics in the "Safari Tutorial". (2022/01/24)
+
 It applies to both the (J) version:
 ROM MD5: `35d2e7924408a3460e5c1a770acf3a8a`
 
