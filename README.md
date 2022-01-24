@@ -113,6 +113,8 @@ Game | System
 [Mega Man V](#mega-man-v) | GB
 [Mega Man Xtreme](#mega-man-xtreme) | GBC
 [Mega Man Xtreme 2](#mega-man-xtreme-2) | GBC
+[Megami Tensei Gaiden - Last Bible II](#megami-tensei-gaiden---last-bible-ii) | GBC
+[Megami Tensei Gaiden - Last Bible II - English Translation](#megami-tensei-gaiden---last-bible-ii-english) | GBC
 [Mercenary Force](#mercenary-force) | GB
 [Metal Gear Solid](#metal-gear-solid) | GBC
 [Metal Walker](#metal-walker) | GBC
@@ -1076,6 +1078,22 @@ This patch converts `Mega Man Xtreme 2 (U,E)` to the `.pocket` format.
 ROM MD5: `1f64989765f605d05cbd013e7ffcc352`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaManXtreme2.ips).
+
+## Megami Tensei Gaiden - Last Bible II
+
+This patch converts `Megami Tensei Gaiden - Last Bible II (J)` to the `.pocket` format.
+
+ROM MD5: `7e32dc8b60413cfaa24f941691e545d2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LastBible2.ips).
+
+## Megami Tensei Gaiden - Last Bible II - English
+
+For the English Translation, a separate patch is required. First, apply the [translation IPS](https://www.romhacking.net/translations/1392/) to the original ROM, then apply the following patch. The MD5 provided here is for the Japanese ROM with the translation patch applied.
+
+ROM MD5: `5c426fda8368066cf7e30587876af631`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LastBible2.eng.ips).
 
 ## Mercenary Force
 
