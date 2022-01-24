@@ -12,6 +12,7 @@ Game | System
 [4-in-1 Fun Pack](#4-in-1-fun-pack) | GB
 [4-in-1 Fun Pack - Volume 2](#4-in-1-fun-pack---volume-2) | GB
 [The Adventures of Star Saver](#the-adventures-of-star-saver) | GB
+[Aladdin](#aladdin) | GB
 [Alleyway](#alleyway) | GB
 [Alone in the Dark - The New Nightmare](#alone-in-the-dark---the-new-nightmare) | GBC
 [Amazing Spider-Man](#amazing-spider-man) | GB
@@ -222,6 +223,14 @@ This patch converts `The Adventures of Star Saver (U,E)` to the `.pocket` format
 ROM MD5: `91ecec5f8d06f18724bd1462b53c4b3d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarSaver.ips).
+
+## Aladdin
+
+This patch converts `Aladdin (U)` to the `.pocket` format.
+
+ROM MD5: `ed5525a71dda6eaf4bbf8d5601b6b3b9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Aladdin.ips).
 
 ## Alleyway
 
