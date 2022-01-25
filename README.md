@@ -48,6 +48,7 @@ Game | System
 [Chessmaster](#chessmaster) | GB
 [Commander Keen](#commander-keen) | GBC
 [Conker's Pocket Tales](#conkers-pocket-tales) | GBC
+[Contra III - Alien Wars](#contra-iii---alien-wars) | GB
 [Cosmo Tank](#cosmo-tank) | GB
 [Crystalis](#crystalis) | GBC
 [Daikatana](#daikatana) | GBC
@@ -529,6 +530,14 @@ This patch was updated to fix a crash when dying. (2022/01/12)
 ROM MD5: `fee6336f969c9e72e9b78be53d512c1e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Conkers.ips).
+
+## Contra III - Alien Wars
+
+This patch converts `Contra III - Alien Wars (U)` to the `.pocket` format.
+
+ROM MD5: `8d885e185ad2a0cb5c9e3b152bd24583`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ContraAW.ips).
 
 ## Cosmo Tank
 
