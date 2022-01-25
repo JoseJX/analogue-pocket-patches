@@ -95,6 +95,7 @@ Game | System
 [Killer Instinct](#killer-instinct) | GB
 [Kirby's Block Ball](#kirbys-block-ball) | GB
 [Kirby's Dream Land](#kirbys-dream-land) | GB
+[Kirby's Dream Land DX with Fluffy's Repair Service](#kirbys-dream-land-dx-with-fluffys-repair-service) | GBC
 [Kirby's Dream Land 2](#kirbys-dream-land-2) | GB
 [Kirby's Pinball Land](#kirbys-pinball-land) | GB
 [Kirby's Star Stacker](#kirbys-star-stacker) | GB
@@ -929,6 +930,17 @@ This patch was updated to fix [bug #4](https://github.com/JoseJX/analogue-pocket
 ROM MD5: `a66e4918edcd042ec171a57fe3ce36c3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDream.ips).
+
+## Kirby's Dream Land DX w/Fluffy Repair Service
+
+This patch converts `Kirby's Dream Land DX` to the `.pocket` format.
+
+First, follow the patch directions for [Kirby's Dream Land DX - Fluffy Repair Service](https://www.romhacking.net/hacks/6224/). I applied the DX patch, the DX revised patch and then the Fluffy Repair Service patch `DX Revised/basic - revised hud.ips`. I did not test other patches, feel free to ask if there is an issue. The MD5 below is after applying these patches.
+
+ROM MD5: `3ba7bedf51da63ec4bcd862dfe336741`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDreamDX.ips).
+
 
 ## Kirby's Dream Land 2
 
