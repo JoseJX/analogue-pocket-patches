@@ -60,6 +60,7 @@ Game | System
 [Donkey Kong Land](#donkey-kong-land) | GB
 [Donkey Kong Land III](#donkey-kong-land-iii) | GB
 [Donkey Kong GB - Dinky Kong and Dixie Kong](#donkey-kong-gb---dinky-kong-and-dixie-kong) | GB
+[Dragon Ball Z - Legendary Super Warriors](#dragon-ball-z---legendary-super-warriors) | GBC
 [Dragon's Lair](#dragons-lair) | GBC
 [Dragon Warrior Monsters 2 - Cobi's Journey](#dragon-warrior-monsters-2---cobis-journey) | GBC
 [Dragon Warrior Monsters 2 - Tara's Adventure](#dragon-warrior-monsters-2---taras-adventure) | GBC
@@ -634,6 +635,14 @@ It is compatible with the English [translation patch](https://www.romhacking.net
 ROM MD5: `22afe691095c65f34aeaba3c283b2a9c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DK3Color.ips).
+
+## Dragon Ball Z - Legendary Super Warriors
+
+This patch converts `Dragon Ball Z - Legendary Super Warriors (U)` to the `.pocket` format.
+
+ROM MD5: `ac46bc779e1e844674de1d4c13d06f96`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DBZ.ips).
 
 ## Dragon's Lair
 
