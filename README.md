@@ -935,12 +935,13 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Kirby's Dream Land DX` to the `.pocket` format.
 
-First, follow the patch directions for [Kirby's Dream Land DX - Fluffy Repair Service](https://www.romhacking.net/hacks/6224/). I applied the DX patch, the DX revised patch and then the Fluffy Repair Service patch `DX Revised/basic - revised hud.ips`. I did not test other patches, feel free to ask if there is an issue. The MD5 below is after applying these patches.
+First, follow the patch directions for [Kirby's Dream Land DX - Fluffy Repair Service](https://www.romhacking.net/hacks/6224/). I applied the DX revised patch and then the Fluffy Repair Service patch `DX Revised/basic - revised hud.ips`. The MD5 below is after applying these patches.
 
-ROM MD5: `3ba7bedf51da63ec4bcd862dfe336741`
+DX Revised ROM MD5: `3ba7bedf51da63ec4bcd862dfe336741`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDreamDX.ips).
 
+The Plus version is not compatible, a patch for this is upcoming.
 
 ## Kirby's Dream Land 2
 
