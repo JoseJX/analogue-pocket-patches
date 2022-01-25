@@ -58,6 +58,7 @@ Game | System
 [Dexterity](#dexterity) | GB
 [Donald Duck - Goin' Quackers](#donald-duck---goin-quackers) | GBC
 [Donkey Kong Land](#donkey-kong-land) | GB
+[Donkey Kong Land III](#donkey-kong-land-iii) | GB
 [Dragon's Lair](#dragons-lair) | GBC
 [Dragon Warrior Monsters 2 - Cobi's Journey](#dragon-warrior-monsters-2---cobis-journey) | GBC
 [Dragon Warrior Monsters 2 - Tara's Adventure](#dragon-warrior-monsters-2---taras-adventure) | GBC
@@ -614,6 +615,14 @@ This patch converts `Donkey Kong Land (U,E)` to the `.pocket` format.
 ROM MD5: `89bb0d67d5af35c2ebf09d9aef2e34ad`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DK1.ips).
+
+## Donkey Kong Land III
+
+This patch converts `Donkey Kong Land III (U,E)` to the `.pocket` format.
+
+ROM MD5: `2e46072ce2416feb18f4bd1e9943546c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DK3.ips).
 
 ## Dragon's Lair
 
