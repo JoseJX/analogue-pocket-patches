@@ -95,7 +95,7 @@ Game | System
 [Killer Instinct](#killer-instinct) | GB
 [Kirby's Block Ball](#kirbys-block-ball) | GB
 [Kirby's Dream Land](#kirbys-dream-land) | GB
-[Kirby's Dream Land DX with Fluffy's Repair Service](#kirbys-dream-land-dx-with-fluffys-repair-service) | GBC
+[Kirby's Dream Land DX with Fluffy Repair Service](#kirbys-dream-land-dx-with-fluffy-repair-service) | GBC
 [Kirby's Dream Land 2](#kirbys-dream-land-2) | GB
 [Kirby's Pinball Land](#kirbys-pinball-land) | GB
 [Kirby's Star Stacker](#kirbys-star-stacker) | GB
