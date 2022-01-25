@@ -931,7 +931,7 @@ ROM MD5: `a66e4918edcd042ec171a57fe3ce36c3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDream.ips).
 
-## Kirby's Dream Land DX w/Fluffy Repair Service
+## Kirby's Dream Land DX with Fluffy Repair Service
 
 This patch converts `Kirby's Dream Land DX` to the `.pocket` format.
 
