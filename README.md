@@ -593,6 +593,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Contra III - Alien Wars (U)` to the `.pocket` format.
 
+This patch was updated to fix lockups in the password and options menus. (2022/01/26)
+
 ROM MD5: `8d885e185ad2a0cb5c9e3b152bd24583`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ContraAW.ips).
