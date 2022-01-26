@@ -11,6 +11,7 @@ Game | System
 [007 James Bond - The World is Not Enough](#007-james-bond---the-world-is-not-enough) | GBC
 [4-in-1 Fun Pack](#4-in-1-fun-pack) | GB
 [4-in-1 Fun Pack - Volume 2](#4-in-1-fun-pack---volume-2) | GB
+[Adventures of Lolo](#adventures-of-lolo) | GB
 [The Adventures of Star Saver](#the-adventures-of-star-saver) | GB
 [Aladdin](#aladdin) | GB
 [Alleyway](#alleyway) | GB
@@ -228,6 +229,14 @@ This patch converts `4-in-1 Fun Pack - Volume 2 (U,E)` to the `.pocket` format.
 ROM MD5: `71feb6c7d5b764d5192c28efe74d13c6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/4in1V2.ips).
+
+## Adventures of Lolo
+
+This patch converts `Adventures of Lolo (E)` to the `.pocket` format.
+
+ROM MD5: `8f6b6ef366a787852f664d945c86eb72`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AdventuresOfLolo.ips).
 
 ## The Adventures of Star Saver
 
