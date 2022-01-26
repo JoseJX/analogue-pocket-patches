@@ -180,6 +180,7 @@ Game | System
 [Tetris Blast](#tetris-blast) | GB
 [Tiny Toon Adventures - Babs' Big Break](#tiny-toon-adventures---babs-big-break) | GB
 [Toki Tori](#toki-tori) | GBC
+[Tomb Raider - Curse of the Sword](#tomb-raider---curse-of-the-sword) | GBC
 [Tony Hawk's Pro Skater 2](#tony-hawks-pro-skater-2) | GBC
 [Tony Hawk's Pro Skater 3](#tony-hawks-pro-skater-3) | GBC
 [Trax](#trax) | GB
@@ -1678,6 +1679,14 @@ This patch converts `Toki Tori (U,E)` to the `.pocket` format.
 ROM MD5: `e1bf59102bcd5e3601f4b24b3e873fd2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TokiTori.ips).
+
+## Tomb Raider - Curse of the Sword
+
+This patch converts `Tomb Raider - Curse of the Sword (U)` to the `.pocket` format.
+
+ROM MD5: `a0b4538f687fc61bc88f7ee111170355`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TombRaider.ips).
 
 ## Tony Hawk's Pro Skater 2
 
