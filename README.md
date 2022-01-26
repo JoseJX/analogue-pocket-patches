@@ -311,11 +311,23 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Arcade Classic No. 3 - Galaga and Galaxian
 
-This patch converts `Arcade Classic No. 3 - Galaga & Galaxian (U)` to the `.pocket` format.
+This patch converts `Arcade Classic No. 3 - Galaga & Galaxian` to the `.pocket` format. It is compatible with both the US and European releases.
 
-ROM MD5: `19fd29efaf7ea9e314bd613954a92169`
+US ROM MD5: `19fd29efaf7ea9e314bd613954a92169`
+
+Europe ROM MD5: `08f46bb59e52562f08c76f4e6c0040c5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC3.ips).
+
+## Arcade Classic No. 3 - Galaga and Galaxian DX
+
+This patch is applied on top of the [DX conversion patch](https://www.romhacking.net/download/hacks/6541/). It works when applied to both the US and European releases. The MD5 sums provided here are after applying the DX patch to the ROMs speficied above.
+
+US ROM MD5: `e7af45fbb8cba8a3bf049eec038452d8`
+
+Europe ROM MD5: `1b87d9ad90df06c1ee4a2ae280ed6d88`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC3DX.ips).
 
 ## Astro Rabby
 
