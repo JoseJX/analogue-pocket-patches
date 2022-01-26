@@ -980,15 +980,25 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Kirby's Dream Land DX with Fluffy Repair Service
 
-This patch converts `Kirby's Dream Land DX` to the `.pocket` format.
+This patch converts `Kirby's Dream Land DX` to the `.pocket` format. There are two versions and an IPS version for both the basic and plus editions.
 
-First, follow the patch directions for [Kirby's Dream Land DX - Fluffy Repair Service](https://www.romhacking.net/hacks/6224/). I applied the DX revised patch and then the Fluffy Repair Service patch `DX Revised/basic - revised hud.ips`. The MD5 below is after applying these patches.
+This patch was updated to fix a crash in the end credits for the both editions. (2022/01/25)
 
-DX Revised ROM MD5: `3ba7bedf51da63ec4bcd862dfe336741`
+For the basic version, first, apply the [DX Revised](https://www.romhacking.net/hacks/5635/) patch, then apply one of the `basic` [Kirby's Dream Land DX - Fluffy Repair Service](https://www.romhacking.net/hacks/6224/) patches. The resulting MD5s are as follows:
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDreamDX.ips).
+Basic ROM MD5: `b3f355c8fc059403fb1352d507d5f67f`
 
-The Plus version is not compatible, a patch for this is upcoming.
+Basic - Revised HUD ROM MD5: `3ba7bedf51da63ec4bcd862dfe336741`
+
+You can [download the Basic IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDreamDX.ips).
+
+For the plus version, first, apply the [DX Revised](https://www.romhacking.net/hacks/5635/) patch, then apply one of the `plus` [Kirby's Dream Land DX - Fluffy Repair Service](https://www.romhacking.net/hacks/6224/) patches. The resulting MD5s are as follows:
+
+Plus ROM MD5: `5ee13ec31ae7740e92b34bce32db8634`
+
+Plus - Revised HUD ROM MD5: `3bd865d10d1e87b429bd242d7d4264f7`
+
+You can [download the Plus IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDreamDXPlus.ips).
 
 ## Kirby's Dream Land 2
 
