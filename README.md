@@ -20,6 +20,7 @@ Game | System
 [A-mazing Tater](#a-mazing-tater) | GB
 [Animaniacs](#animaniacs) | GB
 [Another Bible](#another-bible) | GB
+[Arcade Classic No. 3 - Galaga & Galaxian](#arcade-classic-no-3---galaga-and-galaxian) | GB
 [Astro Rabby](#astro-rabby) | GB
 [Balloon Kid](#balloon-kid) | GB
 [Banishing Racer](#banishing-racer) | GB
@@ -307,6 +308,14 @@ It is compatible with the English [translation patch](https://www.romhacking.net
 ROM MD5: `ff9196caa266ae36d409ce7e53ddc77a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AnotherBible.ips).
+
+## Arcade Classic No. 3 - Galaga and Galaxian
+
+This patch converts `Arcade Classic No. 3 - Galaga & Galaxian (U)` to the `.pocket` format.
+
+ROM MD5: `19fd29efaf7ea9e314bd613954a92169`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC3.ips).
 
 ## Astro Rabby
 
