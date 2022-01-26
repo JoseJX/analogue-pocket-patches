@@ -183,6 +183,7 @@ Game | System
 [Tony Hawk's Pro Skater 3](#tony-hawks-pro-skater-3) | GBC
 [Trax](#trax) | GB
 [Trogday 2022](#trogday-2022) | GBC
+[Ultima - Runes of Virtue](#ultima---runes-of-virtue) | GB
 [Wacky Races](#wacky-races) | GBC
 [Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
@@ -1701,6 +1702,14 @@ It is a patch for this ROM available on [itch.io](https://videlectrix.itch.io/tr
 ROM MD5: `6a6931f6d1a6e60b4da9551e83b2742b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trogday2022.ips).
+
+## Ultima - Runes of Virtue
+
+This patch converts `Ultima - Runes of Virtue (U)` to the `.pocket` format.
+
+ROM MD5: `411c3d168141d10eddd93243f2a7765f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ultima1.ips).
 
 ## Wacky Races
 
