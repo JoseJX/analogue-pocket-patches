@@ -186,6 +186,7 @@ Game | System
 [Trogday 2022](#trogday-2022) | GBC
 [Ultima - Runes of Virtue](#ultima---runes-of-virtue) | GB
 [Ultima - Runes of Virtue II](#ultima---runes-of-virtue-ii) | GB
+[V-Rally - Championship Edition](#v-rally---championship-edition) | GBC
 [Wacky Races](#wacky-races) | GBC
 [Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
@@ -1728,6 +1729,14 @@ This patch converts `Ultima - Runes of Virtue II (U)` to the `.pocket` format.
 ROM MD5: `15cd267d7805fe9f1769e9644a9cec2e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ultima2.ips).
+
+## V-Rally - Championship Edition
+
+This patch converts `V-Rally - Championship Edition (U)` to the `.pocket` format.
+
+ROM MD5: `84a0fe6c3fb014cf43c119c344f99965`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/VRally.ips).
 
 ## Wacky Races
 
