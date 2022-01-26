@@ -133,6 +133,7 @@ Game | System
 [Mr. Driller](#mr-driller) | GBC
 [Ms. Pac-Man](#ms-pac-man) | GB
 [Mysterium](#mysterium) | GB
+[Mystical Ninja Starring Goemon](#mystical-ninja-starring-goemon) | GB
 [Nectaris GB](#nectaris-gb) | GB
 [New Chessmaster](#new-chessmaster) | GB
 [Operation C](#operation-c) | GB
@@ -1272,6 +1273,14 @@ This patch converts `Mysterium (U)` to the `.pocket` format.
 ROM MD5: `12e9e43481d38003a4f1e2c2ce596aee`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Mysterium.ips).
+
+## Mystical Ninja Starring Goemon
+
+This patch converts `Mystical Ninja Starring Goemon (U)` to the `.pocket` format.
+
+ROM MD5: `feaa1bbb7e532872cf1d37d80af6fdb4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MysticalNinja.ips).
 
 ## Nectaris GB
 
