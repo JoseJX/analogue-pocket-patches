@@ -165,6 +165,7 @@ Game | System
 [Solitaire FunPak](#solitaire-funpak) | GB
 [Space Marauder](#space-marauder) | GBC
 [Space Station Silicon Valley](#space-station-silicon-valley) | GBC
+[Speedy Gonzales](#speedy-gonzales) | GB
 [Spud's Adventure](#spuds-adventure) | GB
 [Star Ocean - Blue Sphere](#star-ocean---blue-sphere) | GBC
 [Star Wars Episode 1 - Racer](#star-wars-episode-1---racer) | GBC
@@ -1554,6 +1555,14 @@ This patch converts `Space Station Silicon Valley (E)` to the `.pocket` format.
 ROM MD5: `488611af773cec5b7ecc5bd3efb754bb`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Spacestation.ips).
+
+## Speedy Gonzales
+
+This patch converts `Speedy Gonzales (U,E)` to the `.pocket` format.
+
+ROM MD5: `7e1bedf88581ee7370c8eb86c6863e2c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpeedyGonzales.ips).
 
 ## Spud's Adventure
 
