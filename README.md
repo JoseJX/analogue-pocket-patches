@@ -142,6 +142,7 @@ Game | System
 [New Chessmaster](#new-chessmaster) | GB
 [Operation C](#operation-c) | GB
 [Paperboy](#paperboy) | GB
+[Penguin Wars](#penguin-wars) | GB
 [Perfect Dark](#perfect-dark) | GBC
 [Picross 2](#picross-2) | GB
 [Pipe Dream](#pipe-dream) | GB
@@ -1368,6 +1369,14 @@ This patch converts `Paperboy (U,E)` to the `.pocket` format.
 ROM MD5: `dcabc0879c258e54048237d280ffa7da`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Paperboy.ips).
+
+## Penguin Wars
+
+This patch converts `Penguin Wars (U)` to the `.pocket` format.
+
+ROM MD5: `9c17a77f10f8c8024addc299cfd74b8b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PenguinWars.ips).
 
 ## Perfect Dark
 
