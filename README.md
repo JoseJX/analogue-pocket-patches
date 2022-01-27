@@ -21,6 +21,7 @@ Game | System
 [Animaniacs](#animaniacs) | GB
 [Another Bible](#another-bible) | GB
 [Arcade Classic No. 1 - Asteroids and Missile Command](#arcade-classic-no-1---asteroids-and-missile-command) | GB
+[Arcade Classic No. 2 - Centipede and Millipede](#arcade-classic-no-2---centipede-and-millipede) | GB
 [Arcade Classic No. 3 - Galaga & Galaxian](#arcade-classic-no-3---galaga-and-galaxian) | GB
 [Astro Rabby](#astro-rabby) | GB
 [Balloon Kid](#balloon-kid) | GB
@@ -318,6 +319,14 @@ This patch converts `Arcade Classic # 1 - Asteroids and Missile Command (U,E)` t
 ROM MD5: `25ec0916ff6f24a1878a9f30991d301d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC1.ips).
+
+## Arcade Classic No. 2 - Centipede and Millipede
+
+This patch converts `Arcade Classic No. 2 - Centipede and Millipede (U,E)` to the `.pocket` format.
+
+ROM MD5: `516085555e451966b9dd5166dfe6c728`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC2.ips).
 
 ## Arcade Classic No. 3 - Galaga and Galaxian
 
