@@ -23,6 +23,7 @@ Game | System
 [Arcade Classic No. 1 - Asteroids and Missile Command](#arcade-classic-no-1---asteroids-and-missile-command) | GB
 [Arcade Classic No. 2 - Centipede and Millipede](#arcade-classic-no-2---centipede-and-millipede) | GB
 [Arcade Classic No. 3 - Galaga & Galaxian](#arcade-classic-no-3---galaga-and-galaxian) | GB
+[Asterix](#asterix) | GB
 [Astro Rabby](#astro-rabby) | GB
 [Balloon Kid](#balloon-kid) | GB
 [Banishing Racer](#banishing-racer) | GB
@@ -347,6 +348,14 @@ US ROM MD5: `e7af45fbb8cba8a3bf049eec038452d8`
 Europe ROM MD5: `1b87d9ad90df06c1ee4a2ae280ed6d88`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC3DX.ips).
+
+## Asterix
+
+This patch converts `Asterix (E)` to the `.pocket` format.
+
+ROM MD5: `812db832566202610bb1e42e643e2b93`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Asterix.ips).
 
 ## Astro Rabby
 
