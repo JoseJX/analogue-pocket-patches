@@ -79,6 +79,7 @@ Game | System
 [Final Fantasy Legend](#final-fantasy-legend) | GB
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
 [Final Fantasy Legend III](#final-fantasy-legend-iii) | GB
+[Flintstones - King Rock Treasure Island](#flintstones---king-rock-treasure-island) | GB
 [Fortified Zone](#fortified-zone) | GB
 [Game & Watch Gallery](#game--watch-gallery) | GB
 [Game & Watch Gallery 2](#game--watch-gallery-2) | GBC
@@ -819,6 +820,14 @@ This patch has been updated to fix a crash when using the E-Ray. (2022/01/22)
 ROM MD5: `db156bc96b528996ce1bf771195171af`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FFL3.ips).
+
+## Flintstones - King Rock Treasure Island
+
+This patch converts `Flintstones - King Rock Treasure Island (U,E)` to the `.pocket` format.
+
+ROM MD5: `25dfaca5120462af05532aaf4756776a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FlintstonesKingRock.ips).
 
 ## Fortified Zone
 
