@@ -1437,6 +1437,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Pokemon Puzzle Challenge (U)` to the `.pocket` format.
 
+This patch was updated to fix minor rendering issues in the records screen and challenge screen. (2022/01/27)
+
 ROM MD5: `f9ec4cc3c9df3887dc731ccf53663ffb`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokePuzzle.ips).
