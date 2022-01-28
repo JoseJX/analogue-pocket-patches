@@ -198,6 +198,7 @@ Game | System
 [Ultima - Runes of Virtue II](#ultima---runes-of-virtue-ii) | GB
 [V-Rally - Championship Edition](#v-rally---championship-edition) | GBC
 [Wacky Races](#wacky-races) | GBC
+[Wave Race](#wave-race) | GB
 [Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
 [Wetrix GB](#wetrix-gb) | GBC
@@ -1859,6 +1860,14 @@ This patch converts `Wacky Races (U)` to the `.pocket` format.
 ROM MD5: `716de1a7f4178fd941edf22d1a907624`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WackyRaces.ips).
+
+## Wave Race
+
+This patch converts `Wave Race (U,E)` to the `.pocket` format.
+
+ROM MD5: `10fd41703b816fcb2a3d6766574b98f9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WaveRace.ips).
 
 ## Wario Blast featuring Bomberman!
 
