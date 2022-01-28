@@ -100,6 +100,7 @@ Game | System
 [Harry Potter and the Sorcerer's Stone](#harry-potter-and-the-sorcerers-stone) | GBC
 [Hercules](#hercules) | GB
 [Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
+[Hexcite - The Shapes of Victory](#hexcite---the-shapes-of-victory) | GBC
 [Humans](#humans) | GB
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
 [Itchy & Scratchy in Miniature Golf Madness](#itchy--scratchy-in-miniature-golf-madness) | GB
@@ -998,6 +999,14 @@ This patch converts `Heroes of Might and Magic 2 (U)` to the `.pocket` format.
 ROM MD5: `ad37726c92f43ad7915225b7eaf94ffd`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HoMM2.ips).
+
+## Hexcite - The Shapes of Victory
+
+This patch converts `Hexcite - The Shapes of Victory (U,E)` to the `.pocket` format.
+
+ROM MD5: `4b068708fb29fdabbee834114fe4a09d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hexcite.ips).
 
 ## Humans
 
