@@ -203,6 +203,7 @@ Game | System
 [Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
 [Wetrix GB](#wetrix-gb) | GBC
+[Wizardry I - Proving Grounds of the Mad Overlord](#wizardry-i---proving-grounds-of-the-mad-overlord) | GBC
 [Wordtris](#wordtris) | GB
 [WordZap](#wordzap) | GB
 [Xtreme Sports](#xtreme-sports) | GBC
@@ -1903,6 +1904,16 @@ This patch converts `Wetrix (E)` to the `.pocket` format.
 ROM MD5: `916d740fc366ecbf9e5626218e56562d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wetrix.ips).
+
+## Wizardry I - Proving Grounds of the Mad Overlord
+
+This patch converts `Wizardry I - Proving Grounds of the Mad Overlord (J)` to the `.pocket` format.
+
+It is compatible with the [English translation patch](https://www.romhacking.net/translations/56/). Note that you must use the `switches` option to enable the translation on first startup.
+
+ROM MD5: `6b94c050291c68d6fb13c642c46873ab`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry1.ips).
 
 ## Wordtris
 
