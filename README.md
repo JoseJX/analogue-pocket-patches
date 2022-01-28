@@ -75,6 +75,7 @@ Game | System
 [Duck Tales](#duck-tales) | GB
 [Duck Tales 2](#duck-tales-2) | GB
 [F-1 Race](#f-1-race) | GB
+[Faceball 2000](#faceball-2000) | GB
 [Felix the Cat](#felix-the-cat) | GB
 [Fish Files](#fish-files) | GBC
 [Final Fantasy Adventure](#final-fantasy-adventure) | GB
@@ -792,6 +793,15 @@ This patch converts `F-1 Race (W)` to the `.pocket` format.
 ROM MD5: `3ad6a2e9c2872cd8f92d86e18332262c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/F1Race.ips).
+
+## Faceball 2000
+
+This patch converts `Faceball 2000 (U)` to the `.pocket` format.
+
+ROM MD5: `05ba7f165dab1ffd49b63b4f5c704c02`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Faceball2000.ips).
+
 
 ## Felix the Cat
 
