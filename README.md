@@ -136,6 +136,7 @@ Game | System
 [Metal Walker](#metal-walker) | GBC
 [Mickey's Speedway USA](#mickeys-speedway-usa) | GBC
 [Mole Mania](#mole-mania) | GB
+[Mortal Kombat](#mortal-kombat) | GB
 [Motocross Maniacs 2](#motocross-maniacs-2) | GBC
 [Mr. Driller](#mr-driller) | GBC
 [Ms. Pac-Man](#ms-pac-man) | GB
@@ -1326,6 +1327,14 @@ It has been updated again for another missed register access. (2021/12/30)
 ROM MD5: `f28ade3926852a8ad2e449c274683956`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MoleMania.ips).
+
+## Mortal Kombat
+
+This patch converts `Mortal Kombat (U,E)` to the `.pocket` format.
+
+ROM MD5: `b3474bab3eda25bdb1508ed53765fb30`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MortalKombat.ips).
 
 ## Motocross Maniacs 2
 
