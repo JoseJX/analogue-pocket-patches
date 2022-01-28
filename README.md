@@ -1248,7 +1248,9 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Mega Man Xtreme (U,E)` to the `.pocket` format.
 
-This patch was updated to possibly fix an issue with the Chill Penguin fight. (2022/01/09)
+This patch was updated to fix an issue with the Chill Penguin fight. (2022/01/09)
+
+This patch was updated to fix an issue with the lava in the Flame Stag second level and other rendering issues. (2022/01/28)
 
 ROM MD5: `4681f5b931a2e60ca163facd1adf56ed`
 
