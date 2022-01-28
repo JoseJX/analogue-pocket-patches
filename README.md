@@ -173,6 +173,7 @@ Game | System
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
+[Smurfs](#smurfs) | GB
 [Solar Striker](#solar-striker) | GB
 [Solitaire FunPak](#solitaire-funpak) | GB
 [Space Marauder](#space-marauder) | GBC
@@ -1661,6 +1662,14 @@ This patch was updated to fix a potential problem, but it does not fix the statu
 ROM MD5: `2a4f3309fe05b47a98d8c5b4c81b91e5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SimpsonsTreeHouse.ips).
+
+## Smurfs
+
+This patch converts `Smurfs (U,E)` to the `.pocket` format.
+
+ROM MD5: `a574e5f7119b31e5112221c3a0ada813`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Smurfs.ips).
 
 ## Solar Striker
 
