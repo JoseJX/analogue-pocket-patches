@@ -42,6 +42,7 @@ Game | System
 [Blades of Steel](#blades-of-steel) | GB
 [Bonk's Adventure](#bonks-adventure) | GB
 [Bonk's Revenge](#bonks-revenge) | GB
+[Brain Bender](#brain-bender) | GB
 [Bubble Bobble](#bubble-bobble) | GB
 [Burning Paper](#burning-paper) | GB
 [Bust-A-Move 2 - Arcade Edition](#bust-a-move-2---arcade-edition) | GB
@@ -510,13 +511,13 @@ ROM MD5: `b73d76599e3d7f979a99bba5f1c92add`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BonksRevenge.ips).
 
-## Burai Fighter Deluxe
+## Brain Bender
 
-This patch converts `Burai Fighter Deluxe (U,E)` to the `.pocket` format.
+This patch converts `Brain Bender (U)` to the `.pocket` format.
 
-ROM MD5: `dd5aa6e85827a3ce6e4b7500e75a3262`
+ROM MD5: `63bbfce4fb22f4b77e68cc67f02c4b05`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BuraiFighter.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BrainBender.ips).
 
 ## Bubble Bobble
 
@@ -525,6 +526,14 @@ This patch converts `Bubble Bobble (U,E)` to the `.pocket` format.
 ROM MD5: `11c49d405eef2174d9c14682204bb458`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BubbleBobble.ips).
+
+## Burai Fighter Deluxe
+
+This patch converts `Burai Fighter Deluxe (U,E)` to the `.pocket` format.
+
+ROM MD5: `dd5aa6e85827a3ce6e4b7500e75a3262`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BuraiFighter.ips).
 
 ## Burning Paper
 
