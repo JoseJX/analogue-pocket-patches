@@ -204,6 +204,7 @@ Game | System
 [Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
 [Wetrix GB](#wetrix-gb) | GBC
+[Wild Snake](#wild-snake) | GB
 [Wizardry I - Proving Grounds of the Mad Overlord](#wizardry-i---proving-grounds-of-the-mad-overlord) | GBC
 [Wordtris](#wordtris) | GB
 [WordZap](#wordzap) | GB
@@ -1913,6 +1914,14 @@ This patch converts `Wetrix (E)` to the `.pocket` format.
 ROM MD5: `916d740fc366ecbf9e5626218e56562d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wetrix.ips).
+
+## Wild Snake
+
+This patch converts `Wild Snake (U)` to the `.pocket` format.
+
+ROM MD5: `f9302265fcbc4178c84aaeac3138af97`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WildSnake.ips).
 
 ## Wizardry I - Proving Grounds of the Mad Overlord
 
