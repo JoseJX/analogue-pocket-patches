@@ -62,6 +62,7 @@ Game | System
 [Daedalian Opus](#daedalian-opus) | GB
 [Darkwing Duck](#darkwing-duck) | GB
 [Deja Vu I & II: The Casebooks of Ace Harding](#deja-vu-i--ii-the-casebooks-of-ace-harding) | GBC
+[Denki Blocks!](#denki-blocks) | GBC
 [Dexterity](#dexterity) | GB
 [Donald Duck - Goin' Quackers](#donald-duck---goin-quackers) | GBC
 [Donkey Kong Land](#donkey-kong-land) | GB
@@ -679,6 +680,14 @@ This patch converts `Deja Vu I & II: The Casebooks of Ace Harding (U)` to the `.
 ROM MD5: `d63504ea68f55d3c290cd01d71d4d1cc`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DejaVu.ips).
+
+## Denki Blocks!
+
+This patch converts `Denki Blocks! (E)` to the `.pocket` format.
+
+ROM MD5: `e4594f3d22fce6b71642a9f3049a6054`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DenkiBlocks.ips).
 
 ## Dexterity
 
