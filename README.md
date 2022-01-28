@@ -1292,6 +1292,12 @@ ROM MD5: `f6dd1b1e5747412b9e5f25376c972d5a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalGear.ips).
 
+This patch converts `Metal Gear Solid (E)` to the `.pocket` format.
+
+ROM MD5: `7971c95ad9745fe20df52e03cd52f636`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalGearEuro.ips).
+
 ## Metal Walker
 
 This patch converts `Metal Walker (U)` to the `.pocket` format.
