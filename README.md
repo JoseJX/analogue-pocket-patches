@@ -125,6 +125,7 @@ Game | System
 [Kwirk - He's A-maze-ing](#kwirk---hes-a-maze-ing) | GB
 [Lemmings](#lemmings) | GBC
 [Lunar Chase](#lunar-chase) | GB
+[Magi Nation](#magi-nation) | GB
 [Magical Tetris Challenge](#magical-tetris-challenge) | GBC
 [Marble Madness](#marble-madness) | GB
 [Marble Madness (GBC)](#marble-madness-color) | GBC
@@ -1240,6 +1241,14 @@ This patch converts `Lunar Chase (U,E)` to the `.pocket` format.
 ROM MD5: `db24c76ac8d32cd23ce3a00519ba874f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LunarChase.ips).
+
+## Magi Nation
+
+This patch converts `Magi Nation (U)` to the `.pocket` format.
+
+ROM MD5: `1624f857098ca278b15629914f48352b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagiNation.ips).
 
 ## Magical Tetris Challenge
 
