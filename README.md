@@ -48,6 +48,7 @@ Game | System
 [Bust-A-Move 2 - Arcade Edition](#bust-a-move-2---arcade-edition) | GB
 [Burai Fighter Deluxe](#burai-fighter-deluxe) | GB
 [Cannon Fodder](#cannon-fodder) | GBC
+[Captain America and the Avengers](#captain-america-and-the-avengers) | GB
 [Castlevania - The Adventure](#castlevania---the-adventure) | GB
 [Castlevania Legends](#castlevania-legends) | GB
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
@@ -566,6 +567,14 @@ This patch converts `Cannon Fodder (U)` to the `.pocket` format.
 ROM MD5: `762d6c94874d8ac894ad100c0a4b50ab`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CannonFodder.ips).
+
+## Captain America and the Avengers
+
+This patch converts `Captain America and the Avengers (U)` to the `.pocket` format.
+
+ROM MD5: `dd5d45d9f8722f8ded9ab85097daa4e5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CaptainAmerica.ips).
 
 ## Castlevania - The Adventure
 
