@@ -167,6 +167,7 @@ Game | System
 [QIX](#qix) | GB
 [Rampage World Tour](#rampage-world-tour) | GBC
 [Rats!](#rats) | GBC
+[Return of the Ninja](#return-of-the-ninja) | GBC
 [Revelations - The Demon Slayer](#revelations---the-demon-slayer) | GBC
 [Revenge of the 'Gator](#revenge-of-the-gator) | GB
 [RoboCop](#robocop) | GB
@@ -1611,6 +1612,14 @@ This patch converts `Rats! (U)` to the `.pocket` format. This game is also known
 ROM MD5: `d240328faacf5583804a30b7003743b3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rats.ips).
+
+## Return of the Ninja
+
+This patch converts `Return of the Ninja (U)` to the `.pocket` format.
+
+ROM MD5: `178ea5a9eba6e7f35e894bad1ec34f77`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ReturnOfTheNinja.ips).
  
 ## Revelations - The Demon Slayer
 
