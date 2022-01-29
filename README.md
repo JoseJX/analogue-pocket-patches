@@ -171,6 +171,7 @@ Game | System
 [Revenge of the 'Gator](#revenge-of-the-gator) | GB
 [RoboCop](#robocop) | GB
 [Robocop vs the Terminator](#robocop-vs-the-terminator) | GB
+[Samurai Showdown](#samurai-showdown) | GB
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
@@ -1641,6 +1642,14 @@ This patch converts `Robocop Vs the Terminator (U)` to the `.pocket` format.
 ROM MD5: `0e82b5210966e9eb53d5b7ef906a0f40`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCopVsTerminator.ips).
+
+## Samurai Showdown
+
+This patch converts `Samurai Showdown (U,E)` to the `.pocket` format.
+
+ROM MD5: `cb5fe1c733f610ad6151216b6887285a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SamuraiShodown.ips).
 
 ## Sakura Taisen GB - Geki Hana Gumi Nyuutai!
 
