@@ -200,6 +200,7 @@ Game | System
 [Tetris Blast](#tetris-blast) | GB
 [Tiny Toon Adventures - Babs' Big Break](#tiny-toon-adventures---babs-big-break) | GB
 [Toki Tori](#toki-tori) | GBC
+[Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody](#tokimeki-memorial-pocket---culture-hen---komorebi-no-melody) | gbc
 [Tomb Raider - Curse of the Sword](#tomb-raider---curse-of-the-sword) | GBC
 [Tony Hawk's Pro Skater 2](#tony-hawks-pro-skater-2) | GBC
 [Tony Hawk's Pro Skater 3](#tony-hawks-pro-skater-3) | GBC
@@ -1893,6 +1894,16 @@ This patch converts `Toki Tori (U,E)` to the `.pocket` format.
 ROM MD5: `e1bf59102bcd5e3601f4b24b3e873fd2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TokiTori.ips).
+
+## Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody
+
+This patch converts `Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody (J)` to the `.pocket` format.
+
+I am not aware of a translation for this game, please let me know if there is one!
+
+ROM MD5: `25ad12b8d2436d520057f12253f2d37d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TMP-CultureHen.ips).
 
 ## Tomb Raider - Curse of the Sword
 
