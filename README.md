@@ -94,6 +94,7 @@ Game | System
 [Gradius - The Interstellar Assault](#gradius---the-interstellar-assault) | GB
 [Grand Theft Auto](#grand-theft-auto) | GBC
 [Grand Theft Auto 2](#grand-theft-auto-2) | GBC
+[Grandia - Parallel Trippers](#grandia---parallel-trippers) | GBC
 [Great Greed](#great-greed) | GB
 [Hammerin' Harry - Ghost Building Company](#hammerin-harry---ghost-building-company) | GB
 [Hamtaro - Ham-Hams Unite!](#hamtaro---ham-hams-unite) | GBC 
@@ -955,6 +956,16 @@ This patch converts `Grand Theft Auto 2 (U)` to the `.pocket` format.
 ROM MD5: `05a9c516d6e744135a6303aa5b4a8887`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GTA2.ips).
+
+## Grandia - Parallel Trippers
+
+This patch converts `Grandia - Parallel Trippers (J)` to the `.pocket` format.
+
+It is also compatible with the [English translation patch](https://www.romhacking.net/translations/1649/).
+
+ROM MD5: `5679de3c41c63c6b9dc9432c7ed1105a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Grandia.ips).
 
 ## Great Greed
 
