@@ -114,7 +114,8 @@ Game | System
 [Killer Instinct](#killer-instinct) | GB
 [Kirby's Block Ball](#kirbys-block-ball) | GB
 [Kirby's Dream Land](#kirbys-dream-land) | GB
-[Kirby's Dream Land DX with Fluffy Repair Service](#kirbys-dream-land-dx-with-fluffy-repair-service) | GBC
+[Kirby's Dream Land DX with Fluffy Repair Service - Basic](#kirbys-dream-land-dx-with-fluffy-repair-service---basic) | GBC
+[Kirby's Dream Land DX with Fluffy Repair Service - Plus](#kirbys-dream-land-dx-with-fluffy-repair-service---plus) | GBC
 [Kirby's Dream Land 2](#kirbys-dream-land-2) | GB
 [Kirby's Pinball Land](#kirbys-pinball-land) | GB
 [Kirby's Star Stacker](#kirbys-star-stacker) | GB
@@ -141,6 +142,7 @@ Game | System
 [Megami Tensei Gaiden - Last Bible II - English Translation](#megami-tensei-gaiden---last-bible-ii-english) | GBC
 [Mercenary Force](#mercenary-force) | GB
 [Metal Gear Solid](#metal-gear-solid) | GBC
+[Metal Gear Solid (European Version)](#metal-gear-solid-european-version) | GBC
 [Metal Walker](#metal-walker) | GBC
 [Mickey's Speedway USA](#mickeys-speedway-usa) | GBC
 [Mole Mania](#mole-mania) | GB
@@ -1138,9 +1140,9 @@ ROM MD5: `a66e4918edcd042ec171a57fe3ce36c3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDream.ips).
 
-## Kirby's Dream Land DX with Fluffy Repair Service
+## Kirby's Dream Land DX with Fluffy Repair Service - Basic
 
-This patch converts `Kirby's Dream Land DX` to the `.pocket` format. There are two versions and an IPS version for both the basic and plus editions.
+This patch converts `Kirby's Dream Land DX` to the `.pocket` format. There are two versions and an IPS version for both the basic and plus editions, make sure that you have selected the correct version when downloading the patch!
 
 This patch was updated to fix a crash in the end credits for the both editions. (2022/01/25)
 
@@ -1151,6 +1153,10 @@ Basic ROM MD5: `b3f355c8fc059403fb1352d507d5f67f`
 Basic - Revised HUD ROM MD5: `3ba7bedf51da63ec4bcd862dfe336741`
 
 You can [download the Basic IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDreamDX.ips).
+
+## Kirby's Dream Land DX with Fluffy Repair Service - Plus
+
+This patch converts `Kirby's Dream Land DX` to the `.pocket` format. There are two versions and an IPS version for both the basic and plus editions, make sure that you have selected the correct version when downloading the patch!
 
 For the plus version, first, apply the [DX Revised](https://www.romhacking.net/hacks/5635/) patch, then apply one of the `plus` [Kirby's Dream Land DX - Fluffy Repair Service](https://www.romhacking.net/hacks/6224/) patches. The resulting MD5s are as follows:
 
@@ -1379,6 +1385,8 @@ This patch converts `Metal Gear Solid (U)` to the `.pocket` format.
 ROM MD5: `f6dd1b1e5747412b9e5f25376c972d5a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalGear.ips).
+
+## Metal Gear Solid (European Version)
 
 This patch converts `Metal Gear Solid (E)` to the `.pocket` format.
 
@@ -1688,7 +1696,7 @@ Also known as `Sakura Wars GB`
 
 This patch converts `Sakura Taisen GB - Geki Hana Gumi Nyuutai! (J)` to the `.pocket` format.
 
-The English [translation patch](https://github.com/vinheim3/sakuraWars1-disasm/releases/download/0.0.1/sakuraWars1.ips) appears to work as well.
+This patch is compatible with the English [translation patch](https://github.com/vinheim3/sakuraWars1-disasm/releases/download/0.0.1/sakuraWars1.ips).
 
 This patch was updated to fix the target reticule in Maria's mini-game. (2022/01/15)
 
