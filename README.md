@@ -123,6 +123,7 @@ Game | System
 [Klax](#klax) | GB
 [Konami GB Collection Volume 2](#konami-gb-collection-volume-2) | GBC
 [Konami GB Collection Volume 3](#konami-gb-collection-volume-3) | GBC
+[Konami GB Collection Volume 4](#konami-gb-collection-volume-4) | GBC
 [Krusty's Fun House](#krustys-fun-house) | GB
 [Kwirk - He's A-maze-ing](#kwirk---hes-a-maze-ing) | GB
 [Lemmings](#lemmings) | GBC
@@ -1224,6 +1225,14 @@ This patch was updated to fix a room entry bug in Mystical Ninja (Goemon). (2022
 ROM MD5: `98f7778539e22307d074cf0abb37d05c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Konami3.ips).
+
+## Konami GB Collection Volume 4
+
+This patch converts `Konami GB Collection Volume 4 (E)` to the `.pocket` format.
+
+ROM MD5: `f3414d53473e2cc43347774cc5f40495`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Konami4.ips).
 
 ## Krusty's Fun House
 
