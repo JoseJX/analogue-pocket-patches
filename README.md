@@ -73,6 +73,7 @@ Game | System
 [Dragon's Lair](#dragons-lair) | GBC
 [Dragon Warrior Monsters 2 - Cobi's Journey](#dragon-warrior-monsters-2---cobis-journey) | GBC
 [Dragon Warrior Monsters 2 - Tara's Adventure](#dragon-warrior-monsters-2---taras-adventure) | GBC
+[Driver - You are the Wheelman](#driver---you-are-the-wheelman) | GBC
 [Duck Tales](#duck-tales) | GB
 [Duck Tales 2](#duck-tales-2) | GB
 [F-1 Race](#f-1-race) | GB
@@ -787,6 +788,14 @@ This patch converts `Dragon Warrior Monsters 2 - Tara's Adventure (U)` to the `.
 ROM MD5: `8e79dcdee0e15ef069b3f376a0fee37d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DWM2Tara.ips).
+
+## Driver - You are the Wheelman
+
+This patch converts `Driver - You are the Wheelman (U)` to the `.pocket` format.
+
+ROM MD5: `413e1acd7847d628364163eb2c97cecd`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Driver.ips).
 
 ## Duck Tales
 
