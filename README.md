@@ -92,6 +92,7 @@ Game | System
 [Game & Watch Gallery 2](#game--watch-gallery-2) | GBC
 [Game & Watch Gallery 3](#game--watch-gallery-3) | GBC
 [Game Boy Wars 3](#game-boy-wars-3) | GBC
+[Gauntlet II](#gauntlet-ii) | GB
 [Gear Works](#gear-works) | GB
 [Ghostbusters II](#ghostbusters-ii) | GB
 [Gradius - The Interstellar Assault](#gradius---the-interstellar-assault) | GB
@@ -955,6 +956,14 @@ It is also compatible with this [translation patch](https://www.romhacking.net/t
 ROM MD5: `748fa9419b35c0e8e43509457aaa1efa`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBW3.ips).
+
+## Gauntlet II
+
+This patch converts `Gauntlet II (U,E)` to the `.pocket` format.
+
+ROM MD5: `cdca15cfd1645c02fe1cc327b772264e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gauntlet2.ips).
 
 ## Gear Works
 
