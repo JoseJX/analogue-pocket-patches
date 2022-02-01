@@ -92,6 +92,7 @@ Game | System
 [Game & Watch Gallery](#game--watch-gallery) | GB
 [Game & Watch Gallery 2](#game--watch-gallery-2) | GBC
 [Game & Watch Gallery 3](#game--watch-gallery-3) | GBC
+[Game Boy Wars Turbo](#game-boy-wars-turbo) | GB
 [Game Boy Wars 3](#game-boy-wars-3) | GBC
 [Gauntlet II](#gauntlet-ii) | GB
 [Gear Works](#gear-works) | GB
@@ -958,6 +959,16 @@ This patch converts `Game & Watch Gallery 3 (U,E)` to the `.pocket` format.
 ROM MD5: `f1bb0127347994b46258adbda0dc0b16`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GnW3.ips).
+
+## Game Boy Wars Turbo
+
+This patch converts `Game Boy Wars Turbo (J)` to the `.pocket` format.
+
+It is compatible with the [English translation patch](https://www.romhacking.net/translations/24/).
+
+ROM MD5: `c10a76a601ea375593f1cb944c3365e7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBWTurbo.ips).
 
 ## Game Boy Wars 3
 
