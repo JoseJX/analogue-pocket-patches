@@ -62,6 +62,7 @@ Game | System
 [Daikatana](#daikatana) | GBC
 [Daedalian Opus](#daedalian-opus) | GB
 [Darkwing Duck](#darkwing-duck) | GB
+[David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob](#david-cranes-the-rescue-of-princess-blobette-starring-a-boy-and-his-blob) | GB
 [Deja Vu I & II: The Casebooks of Ace Harding](#deja-vu-i--ii-the-casebooks-of-ace-harding) | GBC
 [Denki Blocks!](#denki-blocks) | GBC
 [Dexterity](#dexterity) | GB
@@ -695,6 +696,14 @@ This patch converts `Darkwing Duck (U)` to the `.pocket` format.
 ROM MD5: `7d776329212fa7cc2b00c5a46f06dd92`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DarkwingDuck.ips).
+
+## David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob
+
+This patch converts `David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob (U)` to the `.pocket` format.
+
+ROM MD5: `81f7dee7546e630de075a3397349efb8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Blobette.ips).
 
 ## Deja Vu I & II: The Casebooks of Ace Harding
 
