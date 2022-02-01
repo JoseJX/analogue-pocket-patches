@@ -746,6 +746,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Donkey Kong Land (U,E)` to the `.pocket` format.
 
+This patch was updated to fix a crash bug. (2022/01/31)
+
 ROM MD5: `89bb0d67d5af35c2ebf09d9aef2e34ad`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DK1.ips).
