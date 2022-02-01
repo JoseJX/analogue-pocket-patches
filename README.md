@@ -135,6 +135,7 @@ Game | System
 [Lemmings 2 - The Tribes](#lemmings-2---the-tribes) | GB
 [Lion King](#lion-king) | GB
 [Lunar Chase](#lunar-chase) | GB
+[Madden NFL 2002](#madden-nfl-2002) | GBC
 [Magi Nation](#magi-nation) | GB
 [Magical Tetris Challenge](#magical-tetris-challenge) | GBC
 [Marble Madness](#marble-madness) | GB
@@ -1339,6 +1340,14 @@ This patch converts `Lunar Chase (U,E)` to the `.pocket` format.
 ROM MD5: `db24c76ac8d32cd23ce3a00519ba874f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LunarChase.ips).
+
+## Madden NFL 2002
+
+This patch converts `Madden NFL 2002 (U)` to the `.pocket` format.
+
+ROM MD5: `b62cd45af888f008be2ddb84b778af4e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Madden2002.ips).
 
 ## Magi Nation
 
