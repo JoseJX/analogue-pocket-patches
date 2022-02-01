@@ -130,6 +130,7 @@ Game | System
 [Krusty's Fun House](#krustys-fun-house) | GB
 [Kwirk - He's A-maze-ing](#kwirk---hes-a-maze-ing) | GB
 [Lemmings](#lemmings) | GBC
+[Lion King](#lion-king) | GB
 [Lunar Chase](#lunar-chase) | GB
 [Magi Nation](#magi-nation) | GB
 [Magical Tetris Challenge](#magical-tetris-challenge) | GBC
@@ -1292,6 +1293,14 @@ This patch converts `Lemmings (U)` to the `.pocket` format.
 ROM MD5: `0476c7220327d99e3d039faaa4cdde8f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Lemmings.ips).
+
+## Lion King
+
+This patch converts `Lion King (U)` to the `.pocket` format.
+
+ROM MD5: `fdab70df67c8941ed7b39a0405161545`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LionKing.ips).
 
 ## Lunar Chase
 
