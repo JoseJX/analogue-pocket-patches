@@ -157,6 +157,7 @@ Game | System
 [Metal Gear Solid (European Version)](#metal-gear-solid-european-version) | GBC
 [Metal Walker](#metal-walker) | GBC
 [Mickey's Speedway USA](#mickeys-speedway-usa) | GBC
+[Mighty Morphin Power Rangers - The Movie](#mighty-morphin-power-rangers---the-movie) | GB
 [Mole Mania](#mole-mania) | GB
 [Mortal Kombat](#mortal-kombat) | GB
 [Motocross Maniacs 2](#motocross-maniacs-2) | GBC
@@ -1529,6 +1530,14 @@ This patch converts `Mickey's Speedway USA (U,E)` to the `.pocket` format.
 ROM MD5: `ff9b78e1f399fc2bd665b8a08ba27456`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeysSpeedway.ips).
+
+## Mighty Morphin Power Rangers - The Movie
+
+This patch converts `Mighty Morphin Power Rangers - The Movie (U,E)` to the `.pocket` format.
+
+ROM MD5: `967473063a55634223f15e4c0a79dc44` 
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MMPR.ips).
 
 ## Mole Mania
 
