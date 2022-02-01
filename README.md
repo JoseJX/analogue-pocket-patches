@@ -219,6 +219,7 @@ Game | System
 [Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody](#tokimeki-memorial-pocket---culture-hen---komorebi-no-melody) | GBC
 [Tokimeki Memorial Pocket - Sport Hen - Koutei no Photograph](#tokimeki-memorial-pocket---sport-hen---koutei-no-photograph) | GBC
 [Tomb Raider - Curse of the Sword](#tomb-raider---curse-of-the-sword) | GBC
+[Tony Hawk's Pro Skater](#tony-hawks-pro-skater) | GBC
 [Tony Hawk's Pro Skater 2](#tony-hawks-pro-skater-2) | GBC
 [Tony Hawk's Pro Skater 3](#tony-hawks-pro-skater-3) | GBC
 [Trax](#trax) | GB
@@ -2067,6 +2068,14 @@ This patch converts `Tomb Raider - Curse of the Sword (U)` to the `.pocket` form
 ROM MD5: `a0b4538f687fc61bc88f7ee111170355`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TombRaider.ips).
+
+## Tony Hawk's Pro Skater
+
+This patch converts `Tony Hawk's Pro Skater (U,E)` to the `.pocket` format.
+
+ROM MD5: `75be6e3561908e705d9e790b34eddb4d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/THPS.ips).
 
 ## Tony Hawk's Pro Skater 2
 
