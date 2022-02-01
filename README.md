@@ -209,6 +209,7 @@ Game | System
 [Street Fighter Alpha - Warriors' Dreams](#street-fighter-alpha---warriors-dreams) | GBC
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
+[Super Robot Taisen](#super-robot-taisen) | GB
 [Sword of Hope](#sword-of-hope) | GB
 [Sword of Hope II](#sword-of-hope-ii) | GB
 [TaleSpin](#talespin) | GB
@@ -1986,6 +1987,16 @@ This patch was updated to fix a crash. (2022/01/23)
 ROM MD5: `9ba2999ef3ecf9e27ac6c88e995c9d7a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRC.ips).
+
+## Super Robot Taisen
+
+This patch converts `Super Robot Taisen (J)` to the `.pocket` format.
+
+It is compatible with the [English Translation patch](https://www.romhacking.net/download/translations/1123/).
+
+ROM MD5: `7bb8a5bc9e55a05eba1a3fcbf460a9b5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRobotTaisen.ips).
 
 ## Sword of Hope
 
