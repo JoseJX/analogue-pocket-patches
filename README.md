@@ -199,6 +199,7 @@ Game | System
 [Smurfs](#smurfs) | GB
 [Solar Striker](#solar-striker) | GB
 [Solitaire FunPak](#solitaire-funpak) | GB
+[Space Invaders](#space-invaders) | GB
 [Space Marauder](#space-marauder) | GBC
 [Space Station Silicon Valley](#space-station-silicon-valley) | GBC
 [Speedy Gonzales](#speedy-gonzales) | GB
@@ -1901,6 +1902,14 @@ This patch converts `Solitaire FunPak (U,E)` to the `.pocket` format.
 ROM MD5: `78da1015ca2b5b4e83f7aea41214e779`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Solitaire.ips).
+
+## Space Invaders
+
+This patch converts `Space Invaders (U)` to the `.pocket` format.
+
+ROM MD5: `d32b9da8028d357e20c791b07ded4f86`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpaceInvaders.ips).
 
 ## Space Marauder
 
