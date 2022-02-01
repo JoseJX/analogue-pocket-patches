@@ -45,6 +45,7 @@ Game | System
 [Bonk's Revenge](#bonks-revenge) | GB
 [Brain Bender](#brain-bender) | GB
 [Bubble Bobble](#bubble-bobble) | GB
+[Bubble Ghost](#bubble-ghost) | GB
 [Buffy the Vampire Slayer](#buffy-the-vampire-slayer) | GBC
 [Burai Fighter Deluxe](#burai-fighter-deluxe) | GB
 [Burning Paper](#burning-paper) | GB
@@ -566,6 +567,14 @@ This patch converts `Bubble Bobble (U,E)` to the `.pocket` format.
 ROM MD5: `11c49d405eef2174d9c14682204bb458`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BubbleBobble.ips).
+
+## Bubble Ghost
+
+This patch converts `Bubble Ghost (U,E)` to the `.pocket` format.
+
+ROM MD5: `7f970d79f06cfb4270dea4b051277098`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BubbleGhost.ips).
 
 ## Buffy the Vampire Slayer
 
