@@ -16,6 +16,7 @@ Game | System
 [Aladdin](#aladdin) | GB
 [Alleyway](#alleyway) | GB
 [Alone in the Dark - The New Nightmare](#alone-in-the-dark---the-new-nightmare) | GBC
+[Amazing Penguin](#amazing-penguin) | GB
 [Amazing Spider-Man](#amazing-spider-man) | GB
 [A-mazing Tater](#a-mazing-tater) | GB
 [Animaniacs](#animaniacs) | GB
@@ -308,6 +309,14 @@ This patch converts `Alone in the Dark - The New Nightmare (U)` to the `.pocket`
 ROM MD5: `d97055e4a2fd4624fc924c4834ace35e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AloneInTheDark.ips).
+
+## Amazing Penguin
+
+This patch converts `Amazing Penguin (U,E)` to the `.pocket` format.
+
+ROM MD5: `d8326bfee457ccb2c0afb8dd6ac11db2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AmazingPenguin.ips).
 
 ## Amazing Spider-Man
 
