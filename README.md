@@ -66,6 +66,7 @@ Game | System
 [Daedalian Opus](#daedalian-opus) | GB
 [Darkwing Duck](#darkwing-duck) | GB
 [David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob](#david-cranes-the-rescue-of-princess-blobette-starring-a-boy-and-his-blob) | GB
+[Dead Heat Scramble](#dead-heat-scramble) | GB
 [Deja Vu I & II: The Casebooks of Ace Harding](#deja-vu-i--ii-the-casebooks-of-ace-harding) | GBC
 [Denki Blocks!](#denki-blocks) | GBC
 [Dexterity](#dexterity) | GB
@@ -746,6 +747,14 @@ This patch converts `David Crane's The Rescue of Princess Blobette Starring A Bo
 ROM MD5: `81f7dee7546e630de075a3397349efb8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Blobette.ips).
+
+## Dead Heat Scramble
+
+This patch converts `Dead Heat Scramble (U)` to the `.pocket` format.
+
+ROM MD5: `c2212d75077638539d6af4673b4939e6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeadHeatScramble.ips).
 
 ## Deja Vu I & II: The Casebooks of Ace Harding
 
