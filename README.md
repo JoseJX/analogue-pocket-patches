@@ -44,9 +44,10 @@ Game | System
 [Bonk's Revenge](#bonks-revenge) | GB
 [Brain Bender](#brain-bender) | GB
 [Bubble Bobble](#bubble-bobble) | GB
+[Buffy the Vampire Slayer](#buffy-the-vampire-slayer) | GBC
+[Burai Fighter Deluxe](#burai-fighter-deluxe) | GB
 [Burning Paper](#burning-paper) | GB
 [Bust-A-Move 2 - Arcade Edition](#bust-a-move-2---arcade-edition) | GB
-[Burai Fighter Deluxe](#burai-fighter-deluxe) | GB
 [Cannon Fodder](#cannon-fodder) | GBC
 [Captain America and the Avengers](#captain-america-and-the-avengers) | GB
 [Castlevania - The Adventure](#castlevania---the-adventure) | GB
@@ -546,6 +547,14 @@ This patch converts `Bubble Bobble (U,E)` to the `.pocket` format.
 ROM MD5: `11c49d405eef2174d9c14682204bb458`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BubbleBobble.ips).
+
+## Buffy the Vampire Slayer
+
+This patch converts `Buffy the Vampire Slayer (U,E)` to the `.pocket` format.
+
+ROM MD5: `49561c4082206a7e5d5ca2032be81eed`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Buffy.ips).
 
 ## Burai Fighter Deluxe
 
