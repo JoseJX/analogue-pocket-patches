@@ -205,6 +205,7 @@ Game | System
 [Speedy Gonzales](#speedy-gonzales) | GB
 [Spud's Adventure](#spuds-adventure) | GB
 [Star Ocean - Blue Sphere](#star-ocean---blue-sphere) | GBC
+[Star Wars](#star-wars) | GB
 [Star Wars Episode 1 - Racer](#star-wars-episode-1---racer) | GBC
 [Street Fighter Alpha - Warriors' Dreams](#street-fighter-alpha---warriors-dreams) | GBC
 [Super Off Road](#super-off-road) | GB
@@ -1955,6 +1956,14 @@ It is compatible with the English [translation patch](https://archive.org/downlo
 ROM MD5: `820e0a19275fabc03fe619c42db47179`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarOcean.ips).
+
+## Star Wars
+
+This patch converts `Star Wars (U,E)` to the `.pocket` format.
+
+ROM MD5: `63098fde8f2dcb977c9a8f0389e0d033`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWars.ips).
 
 ## Star Wars Episode 1 - Racer
 
