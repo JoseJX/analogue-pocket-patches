@@ -206,6 +206,7 @@ Game | System
 [Teenage Mutant Ninja Turtles - Fall of the Foot Clan](#teenage-mutant-ninja-turtles---fall-of-the-foot-clan) | GB
 [Teenage Mutant Ninja Turtles II - Back From the Sewers](#teenage-mutant-ninja-turtles-ii---back-from-the-sewers) | GB
 [Teenage Mutant Ninja Turtles III - Radical Rescue](#teenage-mutant-ninja-turtles-iii---radical-rescue) | GB
+[Tennis](#tennis) | GB
 [Tetris 2](#tetris-2) | GB
 [Tetris Attack](#tetris-attack) | GB
 [Tetris Blast](#tetris-blast) | GB
@@ -1951,6 +1952,14 @@ This patch was updated to address bug #13 where the hud wasn't shown correctly. 
 ROM MD5: `e6104df1feb1318ff1764c791eb4ce0e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TMNT3.ips).
+
+## Tennis
+
+This patch converts `Tennis (W)` to the `.pocket` format.
+
+ROM MD5: `7d621dcbbce12b73574c42f40deec275`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tennis.ips).
 
 ## Tetris 2
 
