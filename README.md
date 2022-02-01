@@ -135,6 +135,7 @@ Game | System
 [Lemmings](#lemmings) | GBC
 [Lemmings 2 - The Tribes](#lemmings-2---the-tribes) | GB
 [Lion King](#lion-king) | GB
+[Lion King - Simba's Mighty Adventure](#lion-king---simbas-mighty-adventure) | GBC
 [Lunar Chase](#lunar-chase) | GB
 [Madden NFL 2002](#madden-nfl-2002) | GBC
 [Magi Nation](#magi-nation) | GB
@@ -1342,6 +1343,14 @@ This patch converts `Lion King (U)` to the `.pocket` format.
 ROM MD5: `fdab70df67c8941ed7b39a0405161545`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LionKing.ips).
+
+## Lion King - Simba's Mighty Adventure
+
+This patch converts `Lion King - Simba's Mighty Adventure (U,E)` to the `.pocket` format.
+
+ROM MD5: `67117cc76e2b270e65c2778c734f905f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LionKingSMA.ips).
 
 ## Lunar Chase
 
