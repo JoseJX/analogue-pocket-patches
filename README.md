@@ -111,6 +111,7 @@ Game | System
 [James Bond 007](#james-bond-007) | GB
 [John Madden Football](#john-madden-football) | GB
 [Kaeru no Tame ni Kane wa Naru](#kaeru-no-tame-ni-kane-wa-naru) | GB
+[Kaeru no Tame ni Kane wa Naru w/ English Patch](#kaeru-no-tame-ni-kane-wa-naru-w-english-patch) | GB
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
 [Killer Instinct](#killer-instinct) | GB
@@ -1119,6 +1120,14 @@ This patch is compatible with the English [translation patch](https://www.romhac
 ROM MD5: `4ebe14c4c51555908c0e4cabb66dc813`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Kaeru.ips).
+
+## Kaeru no Tame ni Kane wa Naru w/ English Patch
+
+This patch converts `Kaeru no Tame ni Kane wa Naru (J)` to the `.pocket` format, and includes the [English translation patch](https://www.romhacking.net/translations/1623/). This game is also known as "For the Frog the Bell Tolls".
+
+ROM MD5: `4ebe14c4c51555908c0e4cabb66dc813`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KaeruWithEng.ips).
 
 ## Kid Dracula
 
