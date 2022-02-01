@@ -118,6 +118,7 @@ Game | System
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
 [Killer Instinct](#killer-instinct) | GB
+[King of Fighers '95](#king-of-fighers-95) | GB
 [Kirby's Block Ball](#kirbys-block-ball) | GB
 [Kirby's Dream Land](#kirbys-dream-land) | GB
 [Kirby's Dream Land DX with Fluffy Repair Service - Basic](#kirbys-dream-land-dx-with-fluffy-repair-service---basic) | GBC
@@ -1189,6 +1190,14 @@ This patch converts `Killer Instinct (U,E)` to the `.pocket` format.
 ROM MD5: `ba8628a70339843c2ee8a294b840e8d6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KillerInstinct.ips).
+
+## King of Fighers '95
+
+This patch converts `King of Fighers '95 (U)` to the `.pocket` format.
+
+ROM MD5: `b68c4141b4c4f778bd13100b9a3db82c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KoF95.ips).
 
 ## Kirby's Block Ball
 
