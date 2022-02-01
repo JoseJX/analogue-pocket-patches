@@ -130,6 +130,7 @@ Game | System
 [Krusty's Fun House](#krustys-fun-house) | GB
 [Kwirk - He's A-maze-ing](#kwirk---hes-a-maze-ing) | GB
 [Lemmings](#lemmings) | GBC
+[Lemmings 2 - The Tribes](#lemmings-2---the-tribes) | GB
 [Lion King](#lion-king) | GB
 [Lunar Chase](#lunar-chase) | GB
 [Magi Nation](#magi-nation) | GB
@@ -1294,6 +1295,14 @@ This patch converts `Lemmings (U)` to the `.pocket` format.
 ROM MD5: `0476c7220327d99e3d039faaa4cdde8f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Lemmings.ips).
+
+## Lemmings 2 - The Tribes
+
+This patch converts `Lemmings 2 - The Tribes (E)` to the `.pocket` format.
+
+ROM MD5: `7b96adfd6d3576cb2bab2afd06d8bd6e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Lemmings2.ips).
 
 ## Lion King
 
