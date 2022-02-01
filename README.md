@@ -179,6 +179,7 @@ Game | System
 [Revenge of the 'Gator](#revenge-of-the-gator) | GB
 [RoboCop](#robocop) | GB
 [Robocop vs the Terminator](#robocop-vs-the-terminator) | GB
+[Samurai Kid](#samurai-kid) | GBC
 [Samurai Showdown](#samurai-showdown) | GB
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
 [Side Pocket](#side-pocket) | GB
@@ -1708,6 +1709,16 @@ This patch converts `Robocop Vs the Terminator (U)` to the `.pocket` format.
 ROM MD5: `0e82b5210966e9eb53d5b7ef906a0f40`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCopVsTerminator.ips).
+
+## Samurai Kid
+
+This patch converts `Samurai Kid (J)` to the `.pocket` format.
+
+It is compatible with the [English patch](https://www.romhacking.net/translations/6297/). The English patch should be applied first.
+
+ROM MD5: `7ee095116f1733dc6ba2b2de3f28f5ef`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SamuraiKid.ips).
 
 ## Samurai Showdown
 
