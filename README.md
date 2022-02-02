@@ -169,6 +169,7 @@ Game | System
 [Mystical Ninja Starring Goemon](#mystical-ninja-starring-goemon) | GB
 [Nectaris GB](#nectaris-gb) | GB
 [New Chessmaster](#new-chessmaster) | GB
+[Noobow](#noobow) | GB
 [Operation C](#operation-c) | GB
 [Paperboy](#paperboy) | GB
 [Penguin Wars](#penguin-wars) | GB
@@ -1642,6 +1643,16 @@ This patch converts `New Chessmaster (U,E)` to the `.pocket` format.
 ROM MD5: `f395f7b8ce24e6da365b843adf7d763e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NewChessmaster.ips).
+
+## Noobow
+
+This patch converts `Noobow (J)` to the `.pocket` format.
+
+It is compatible with the [English translation patch](https://www.romhacking.net/download/translations/3618).
+
+ROM MD5: `ccd0cf7cc240714a9694e1fe296afb7c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Noobow.ips).
 
 ## Operation C
 
