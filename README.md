@@ -1833,6 +1833,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `RoboCop (U,E)` to the `.pocket` format.
 
+This patch was updated to fix a lockup and glitches in the minigame after the first level. (2022/02/02)
+
 ROM MD5: `a477ac86be35d1fa70b708ad08dc88b8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCop.ips).
