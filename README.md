@@ -215,6 +215,7 @@ Game | System
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
 [Super Robot Taisen](#super-robot-taisen) | GB
+[Survival Kids 2 - Dasshutsu!! Futago-Jima!](#survival-kids-2---dasshutsu-futago-jima) | GBC
 [Sword of Hope](#sword-of-hope) | GB
 [Sword of Hope II](#sword-of-hope-ii) | GB
 [TaleSpin](#talespin) | GB
@@ -2056,6 +2057,16 @@ It is compatible with the [English Translation patch](https://www.romhacking.net
 ROM MD5: `7bb8a5bc9e55a05eba1a3fcbf460a9b5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRobotTaisen.ips).
+
+## Survival Kids 2 - Dasshutsu!! Futago-Jima!
+
+This patch converts `Survival Kids 2 - Dasshutsuls Futago-Jima! (J)` to the `.pocket` format.
+
+It is compatible with the [English translation patch](https://www.romhacking.net/download/translations/2330/).
+
+ROM MD5: `9d2f7e1ac30a46456a841c264963e5ea`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SurvivalKids2.ips).
 
 ## Sword of Hope
 
