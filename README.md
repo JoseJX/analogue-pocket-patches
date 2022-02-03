@@ -227,6 +227,7 @@ Game | System
 [Tetris Attack](#tetris-attack) | GB
 [Tetris Blast](#tetris-blast) | GB
 [Tintin - Prisoners of the Sun](#tintin---prisoners-of-the-sun) | GBC
+[Tintin in Tibet](#tintin-in-tibet) | GBC
 [Tiny Toon Adventures - Babs' Big Break](#tiny-toon-adventures---babs-big-break) | GB
 [Toki Tori](#toki-tori) | GBC
 [Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody](#tokimeki-memorial-pocket---culture-hen---komorebi-no-melody) | GBC
@@ -2142,6 +2143,14 @@ This patch converts `Tetris Blast (U,E)` to the `.pocket` format.
 ROM MD5: `0affc9df2e1220ea4573deb6cb2d4b32`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TetrisBlast.ips).
+
+## Tintin in Tibet
+
+This patch converts `Tintin in Tibet (E)` to the `.pocket` format.
+
+ROM MD5: `8150a3978211939d367f48ffcd49f979`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tintin-Tibet.ips).
 
 ## Tintin - Prisoners of the Sun
 
