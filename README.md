@@ -9,6 +9,7 @@
 Game | System 
 --- | --- 
 [007 James Bond - The World is Not Enough](#007-james-bond---the-world-is-not-enough) | GBC
+[4000AD by PROTODOME](#4000ad-by-protodome) | GB
 [4-in-1 Fun Pack](#4-in-1-fun-pack) | GB
 [4-in-1 Fun Pack - Volume 2](#4-in-1-fun-pack---volume-2) | GB
 [Adventures of Lolo](#adventures-of-lolo) | GB
@@ -273,6 +274,14 @@ This patch converts `007 James Bond - The World is Not Enough (U,E)` to the `.po
 ROM MD5: `1f1fb3cf8783f880bc796d667be60231`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/007TWINE.ips).
+
+## 4000AD by PROTODOME
+
+This patch converts [4000AD by PROTODOME](https://protodome.bandcamp.com/album/4000AD) to the `.pocket` format.
+
+ROM MD5: `089ce8f23f829cc08597b13dd526b53b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/4000AD.ips).
 
 ## 4-in-1 Fun Pack
 
