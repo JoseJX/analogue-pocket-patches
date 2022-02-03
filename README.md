@@ -147,6 +147,7 @@ Game | System
 [Marble Madness](#marble-madness) | GB
 [Marble Madness (GBC)](#marble-madness-color) | GBC
 [Mario's Picross](#marios-picross) | GB
+[Mario no Picross](#mario-no-picross) | GB
 [Mega Man - Dr. Wily's Revenge](#mega-man---dr-wilys-revenge) | GB
 [Mega Man II](#mega-man-ii) | GB
 [Mega Man III](#mega-man-iii) | GB
@@ -1459,9 +1460,21 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Mario's Picross (U,E)` to the `.pocket` format.
 
+For the Japanese version, `Mario no Picross`, see the next entry.
+
 ROM MD5: `ccaf9331318d4dfe3d1ee681928a74fd`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioPicross.ips).
+
+## Mario no Picross
+
+This patch converts `Mario no Picross (J)` to the `.pocket` format.
+
+This is the Japanese version of `Mario's Picross`.
+
+ROM MD5: `defe3559ef5e8d69ca95289edb6f9f6e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioNoPicross.ips).
 
 ## Mega Man - Dr. Wily's Revenge
 
