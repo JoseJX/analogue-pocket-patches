@@ -81,6 +81,7 @@ Game | System
 [Driver - You are the Wheelman](#driver---you-are-the-wheelman) | GBC
 [Duck Tales](#duck-tales) | GB
 [Duck Tales 2](#duck-tales-2) | GB
+[Duke Nukem](#duke-nukem) | GBC
 [F-1 Race](#f-1-race) | GB
 [Faceball 2000](#faceball-2000) | GB
 [Felix the Cat](#felix-the-cat) | GB
@@ -881,6 +882,14 @@ This patch was updated to fix garbled images when talking to NPCs. (2022/01/12)
 ROM MD5: `b4e5876c5acedd12b62e25a12973a4ae`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DuckTales2.ips).
+
+## Duke Nukem
+
+This patch converts `Duke Nukem (U)` to the `.pocket` format.
+
+ROM MD5: `b2d3713267c9e21b3dae3cb5f437fccd`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DukeNukem.ips).
 
 ## F-1 Race
 
