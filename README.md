@@ -226,6 +226,7 @@ Game | System
 [Tetris 2](#tetris-2) | GB
 [Tetris Attack](#tetris-attack) | GB
 [Tetris Blast](#tetris-blast) | GB
+[Tintin - Prisoners of the Sun](#tintin---prisoners-of-the-sun) | GBC
 [Tiny Toon Adventures - Babs' Big Break](#tiny-toon-adventures---babs-big-break) | GB
 [Toki Tori](#toki-tori) | GBC
 [Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody](#tokimeki-memorial-pocket---culture-hen---komorebi-no-melody) | GBC
@@ -2141,6 +2142,14 @@ This patch converts `Tetris Blast (U,E)` to the `.pocket` format.
 ROM MD5: `0affc9df2e1220ea4573deb6cb2d4b32`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TetrisBlast.ips).
+
+## Tintin - Prisoners of the Sun
+
+This patch converts `Tintin - Prisoners of the Sun (E)` to the `.pocket` format.
+
+ROM MD5: `46ed332d95c5da9a2007945fed9f8118`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tintin-PotS.ips).
 
 ## Tiny Toon Adventures - Babs' Big Break
 
