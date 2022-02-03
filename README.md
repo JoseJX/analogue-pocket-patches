@@ -209,7 +209,8 @@ Game | System
 [Spud's Adventure](#spuds-adventure) | GB
 [Star Ocean - Blue Sphere](#star-ocean---blue-sphere) | GBC
 [Star Wars](#star-wars) | GB
-[Star Wars Episode 1 - Racer](#star-wars-episode-1---racer) | GBC
+[Star Wars Episode I - Obi-Wan's Adventures](#star-wars-episode-i---obi-wans-adventures) | GBC
+[Star Wars Episode I - Racer](#star-wars-episode-i---racer) | GBC
 [Street Fighter Alpha - Warriors' Dreams](#street-fighter-alpha---warriors-dreams) | GBC
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
@@ -2000,9 +2001,17 @@ ROM MD5: `63098fde8f2dcb977c9a8f0389e0d033`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWars.ips).
 
-## Star Wars Episode 1 - Racer
+## Star Wars Episode I - Obi-Wan's Adventures
 
-This patch converts `Star Wars Episode 1 - Racer (U,E)` to the `.pocket` format.
+This patch converts `Star Wars Episode I - Obi-Wan's Adventures (U)` to the `.pocket` format.
+
+ROM MD5: `484eeb83ad00353272767485eca59ea5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWars-EP1-ObiWan.ips).
+
+## Star Wars Episode I - Racer
+
+This patch converts `Star Wars Episode I - Racer (U,E)` to the `.pocket` format.
 
 ROM MD5: `d1e875cb7dac0092e83b9e7799b06653`
 
