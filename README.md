@@ -240,6 +240,7 @@ Game | System
 [Tony Hawk's Pro Skater 2](#tony-hawks-pro-skater-2) | GBC
 [Tony Hawk's Pro Skater 3](#tony-hawks-pro-skater-3) | GBC
 [Top Gear Pocket 2](#top-gear-pocket-2) | GBC
+[Turok 3 - Shadow of Oblivion](#turok-3---shadow-of-oblivion) | GBC
 [Trax](#trax) | GB
 [Trogday 2022](#trogday-2022) | GBC
 [Ultima - Runes of Virtue](#ultima---runes-of-virtue) | GB
@@ -2289,6 +2290,14 @@ It is a patch for this ROM available on [itch.io](https://videlectrix.itch.io/tr
 ROM MD5: `6a6931f6d1a6e60b4da9551e83b2742b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trogday2022.ips).
+
+## Turok 3 - Shadow of Oblivion
+
+This patch converts `Turok 3 - Shadow of Oblivion (U,E)` to the `.pocket` format.
+
+ROM MD5: `a9d2f36d6c2a334e0b2261c57c20f0d4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Turok3.ips).
 
 ## Ultima - Runes of Virtue
 
