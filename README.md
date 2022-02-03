@@ -245,6 +245,7 @@ Game | System
 [Wizardry I - Proving Grounds of the Mad Overlord](#wizardry-i---proving-grounds-of-the-mad-overlord) | GBC
 [Wordtris](#wordtris) | GB
 [WordZap](#wordzap) | GB
+[X-Men - Mutant Academy](#x-men---mutant-academy) | GBC
 [Xtreme Sports](#xtreme-sports) | GBC
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
@@ -2298,6 +2299,14 @@ This patch converts `WordZap (U)` to the `.pocket` format.
 ROM MD5: `e9ab23a96409060054a05344b536b33c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WordZap.ips).
+
+## X-Men - Mutant Academy
+
+This patch converts `X-Men - Mutant Academy (U,E)` to the `.pocket` format.
+
+ROM MD5: `cc17f52e5140c0d1ad892d1856d05212`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/XMen-MA.ips).
 
 ## Xtreme Sports
 
