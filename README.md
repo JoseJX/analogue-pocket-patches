@@ -233,6 +233,7 @@ Game | System
 [Tony Hawk's Pro Skater](#tony-hawks-pro-skater) | GBC
 [Tony Hawk's Pro Skater 2](#tony-hawks-pro-skater-2) | GBC
 [Tony Hawk's Pro Skater 3](#tony-hawks-pro-skater-3) | GBC
+[Top Gear Pocket 2](#top-gear-pocket-2) | GBC
 [Trax](#trax) | GB
 [Trogday 2022](#trogday-2022) | GBC
 [Ultima - Runes of Virtue](#ultima---runes-of-virtue) | GB
@@ -2201,6 +2202,16 @@ This patch was updated to fix graphics corruption. (2022/01/11)
 ROM MD5: `365f913d6f2b0f44d87b7a347daea528`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/THPS3.ips).
+
+## Top Gear Pocket 2
+
+This patch converts `Top Gear Pocket 2 (U)` to the `.pocket` format. It is also compatible with `Top Gear Rally 2 (E)`
+
+USA ROM MD5: `7d9585c947a7637703fb8ccd6a691ed7`
+
+EUR ROM MD5: `0a1cf1904c87b60308c404d93bab2702`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TopGearPocket2.ips).
 
 ## Trax
 
