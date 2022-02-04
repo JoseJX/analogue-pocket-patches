@@ -210,8 +210,9 @@ Game | System
 [Space Station Silicon Valley](#space-station-silicon-valley) | GBC
 [Spanky's Quest](#spankys-quest) | GB
 [Speedy Gonzales](#speedy-gonzales) | GB
-[Spider-Man - X-Men](#spider-man---x-men) | GB
+[Spider-Man](#spider-man) | GBC
 [Spider-Man 2 - The Sinister Six](#spider-man-2---the-sinister-six) | GBC
+[Spider-Man - X-Men](#spider-man---x-men) | GB
 [Spud's Adventure](#spuds-adventure) | GB
 [Star Ocean - Blue Sphere](#star-ocean---blue-sphere) | GBC
 [Star Wars](#star-wars) | GB
@@ -2023,13 +2024,13 @@ ROM MD5: `7e1bedf88581ee7370c8eb86c6863e2c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpeedyGonzales.ips).
 
-## Spider-Man - X-Men
+## Spider-Man
 
-This patch converts `Spider-Man - X-Men (U,E)` to the `.pocket` format.
+This patch converts `Spider-Man (U,E)` to the `.pocket` format.
 
-ROM MD5: `634532de88aa7c35bd9231ee5356ae8a`
+ROM MD5: `9fde547bcb70b108895e259da4c4e100`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpiderMan-XMen.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpiderMan.ips).
 
 ## Spider-Man 2 - The Sinister Six
 
@@ -2038,6 +2039,15 @@ This patch converts `Spider-Man 2 - The Sinister Six (U,E)` to the `.pocket` for
 ROM MD5: `85bbad46380dffa631f8ce732e9c5d89`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpiderMan2.ips).
+
+## Spider-Man - X-Men
+
+This patch converts `Spider-Man - X-Men (U,E)` to the `.pocket` format.
+
+ROM MD5: `634532de88aa7c35bd9231ee5356ae8a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpiderMan-XMen.ips).
+
 
 ## Spud's Adventure
 
