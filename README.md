@@ -267,6 +267,7 @@ Game | System
 [Wizardry I - Proving Grounds of the Mad Overlord](#wizardry-i---proving-grounds-of-the-mad-overlord) | GBC
 [Wordtris](#wordtris) | GB
 [WordZap](#wordzap) | GB
+[Worms](#worms) | GB
 [X-Men - Mutant Academy](#x-men---mutant-academy) | GBC
 [X-Men - Wolverine's Rage](#x-men---wolverines-rage) | GBC
 [Xtreme Sports](#xtreme-sports) | GBC
@@ -2510,6 +2511,14 @@ This patch converts `WordZap (U)` to the `.pocket` format.
 ROM MD5: `e9ab23a96409060054a05344b536b33c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WordZap.ips).
+
+## Worms
+
+This patch converts `Worms (E)` to the `.pocket` format.
+
+ROM MD5: `45dcc259728a00118fe86f841d48564f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Worms.ips).
 
 ## X-Men - Mutant Academy
 
