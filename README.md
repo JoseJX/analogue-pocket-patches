@@ -214,6 +214,7 @@ Game | System
 [Spider-Man 2 - The Sinister Six](#spider-man-2---the-sinister-six) | GBC
 [Spider-Man - X-Men](#spider-man---x-men) | GB
 [Spud's Adventure](#spuds-adventure) | GB
+[Spy Vs. Spy](#spy-vs-spy) | GBC
 [Star Ocean - Blue Sphere](#star-ocean---blue-sphere) | GBC
 [Star Wars](#star-wars) | GB
 [Star Wars Episode I - Obi-Wan's Adventures](#star-wars-episode-i---obi-wans-adventures) | GBC
@@ -2048,7 +2049,6 @@ ROM MD5: `634532de88aa7c35bd9231ee5356ae8a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpiderMan-XMen.ips).
 
-
 ## Spud's Adventure
 
 This patch converts `Spud's Adventure (U)` to the `.pocket` format.
@@ -2056,6 +2056,14 @@ This patch converts `Spud's Adventure (U)` to the `.pocket` format.
 ROM MD5: `c9e8c196d57aab17c4c171816fcd6492`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpudsAdventure.ips).
+
+## Spy Vs. Spy
+
+This patch converts `Spy Vs. Spy (U)` to the `.pocket` format.
+
+ROM MD5: `d5f373b287d29e882a1f1182542d5b68`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpyVsSpy.ips).
 
 ## Star Ocean - Blue Sphere
 
