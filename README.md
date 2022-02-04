@@ -263,6 +263,7 @@ Game | System
 [Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
 [Wetrix GB](#wetrix-gb) | GBC
+[Who Framed Rodger Rabbit?](#who-framed-rodger-rabbit) | GB
 [Wild Snake](#wild-snake) | GB
 [Wizardry I - Proving Grounds of the Mad Overlord](#wizardry-i---proving-grounds-of-the-mad-overlord) | GBC
 [Wordtris](#wordtris) | GB
@@ -2477,6 +2478,14 @@ This patch converts `Wetrix (E)` to the `.pocket` format.
 ROM MD5: `916d740fc366ecbf9e5626218e56562d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wetrix.ips).
+
+## Who Framed Rodger Rabbit?
+
+This patch converts `Who Framed Rodger Rabbit? (U)` to the `.pocket` format.
+
+ROM MD5: `692fc5a0b6a9893d6ea25326c55caae5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RogerRabbit.ips).
 
 ## Wild Snake
 
