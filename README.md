@@ -232,6 +232,7 @@ Game | System
 [Teenage Mutant Ninja Turtles II - Back From the Sewers](#teenage-mutant-ninja-turtles-ii---back-from-the-sewers) | GB
 [Teenage Mutant Ninja Turtles III - Radical Rescue](#teenage-mutant-ninja-turtles-iii---radical-rescue) | GB
 [Tennis](#tennis) | GB
+[Terminator 2 - Judgement Day](#terminator-2---judgement-day) | GB
 [Tetris 2](#tetris-2) | GB
 [Tetris Attack](#tetris-attack) | GB
 [Tetris Blast](#tetris-blast) | GB
@@ -2210,6 +2211,14 @@ This patch converts `Tennis (W)` to the `.pocket` format.
 ROM MD5: `7d621dcbbce12b73574c42f40deec275`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tennis.ips).
+
+## Terminator 2 - Judgement Day
+
+This patch converts `Terminator 2 - Judgement Day (U,E)` to the `.pocket` format.
+
+ROM MD5: `133ae23114bf442fef6acccd1b8e187a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Terminator2.ips).
 
 ## Tetris 2
 
