@@ -65,6 +65,7 @@ Game | System
 [Crystalis](#crystalis) | GBC
 [Daikatana](#daikatana) | GBC
 [Daedalian Opus](#daedalian-opus) | GB
+[Dance Dance Revolution GB](#dance-dance-revolution-gb) | GBC
 [Darkwing Duck](#darkwing-duck) | GB
 [David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob](#david-cranes-the-rescue-of-princess-blobette-starring-a-boy-and-his-blob) | GB
 [Dead Heat Scramble](#dead-heat-scramble) | GB
@@ -760,6 +761,14 @@ This patch converts `Daedalian Opus (U)` to the `.pocket` format.
 ROM MD5: `34b3d0f0843b83e5b0e00bc3d0669793`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaedalianOpus.ips).
+
+## Dance Dance Revolution GB
+
+This patch converts `Dance Dance Revolution GB (J)` to the `.pocket` format.
+
+ROM MD5: `c7cf1e919682b3ee613dd155cc12a15a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DDR.ips).
 
 ## Darkwing Duck
 
