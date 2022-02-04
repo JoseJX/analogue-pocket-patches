@@ -252,6 +252,7 @@ Game | System
 [Trogday 2022](#trogday-2022) | GBC
 [Ultima - Runes of Virtue](#ultima---runes-of-virtue) | GB
 [Ultima - Runes of Virtue II](#ultima---runes-of-virtue-ii) | GB
+[Ultraman Ball](#ultraman-ball) | GB
 [V-Rally - Championship Edition](#v-rally---championship-edition) | GBC
 [Wacky Races](#wacky-races) | GBC
 [Wave Race](#wave-race) | GB
@@ -2381,6 +2382,16 @@ This patch converts `Ultima - Runes of Virtue II (U)` to the `.pocket` format.
 ROM MD5: `15cd267d7805fe9f1769e9644a9cec2e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ultima2.ips).
+
+## Ultraman Ball
+
+This patch converts `Ultraman Ball (J)` to the `.pocket` format.
+
+It is compatible with the [English translation patch](https://www.romhacking.net/translations/654/).
+
+ROM MD5: `90a0bc783fbe56748989d8fad9ae48ed`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/UltramanBall.ips).
 
 ## V-Rally - Championship Edition
 
