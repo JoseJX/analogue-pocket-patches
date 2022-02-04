@@ -208,6 +208,7 @@ Game | System
 [Space Invaders](#space-invaders) | GB
 [Space Marauder](#space-marauder) | GBC
 [Space Station Silicon Valley](#space-station-silicon-valley) | GBC
+[Spanky's Quest](#spankys-quest) | GB
 [Speedy Gonzales](#speedy-gonzales) | GB
 [Spud's Adventure](#spuds-adventure) | GB
 [Star Ocean - Blue Sphere](#star-ocean---blue-sphere) | GBC
@@ -2003,6 +2004,14 @@ This patch converts `Space Station Silicon Valley (E)` to the `.pocket` format.
 ROM MD5: `488611af773cec5b7ecc5bd3efb754bb`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Spacestation.ips).
+
+## Spanky's Quest
+
+This patch converts `Spanky's Quest (U)` to the `.pocket` format.
+
+ROM MD5: `3c268409bf6869a8707839a7dd1ee1c7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpankysQuest.ips).
 
 ## Speedy Gonzales
 
