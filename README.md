@@ -234,6 +234,7 @@ Game | System
 [Sword of Hope](#sword-of-hope) | GB
 [Sword of Hope II](#sword-of-hope-ii) | GB
 [TaleSpin](#talespin) | GB
+[Taz-Mania](#taz-mania) | GB
 [Tecmo Bowl](#tecmo-bowl) | GB
 [Teenage Mutant Ninja Turtles - Fall of the Foot Clan](#teenage-mutant-ninja-turtles---fall-of-the-foot-clan) | GB
 [Teenage Mutant Ninja Turtles II - Back From the Sewers](#teenage-mutant-ninja-turtles-ii---back-from-the-sewers) | GB
@@ -2237,6 +2238,14 @@ This patch converts `TaleSpin (U,E)` to the `.pocket` format.
 ROM MD5: `26c65da146faa09505c554447792e493`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TaleSpin.ips).
+
+## Taz-Mania
+
+This patch converts `Taz-Mania (U,E)` to the `.pocket` format.
+
+ROM MD5: `9db0e1e39aa5a40471911a40e12ba739`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TazMania.ips).
 
 ## Tecmo Bowl
 
