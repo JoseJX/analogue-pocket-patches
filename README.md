@@ -192,6 +192,7 @@ Game | System
 [Power Quest](#power-quest) | GBC
 [Primal Rage](#primal-rage) | GB
 [Prince of Persia](#prince-of-persia) | GBC
+[Puzzle Master](#puzzle-master) | GBC
 [QIX](#qix) | GB
 [Rampage World Tour](#rampage-world-tour) | GBC
 [Rats!](#rats) | GBC
@@ -1878,6 +1879,14 @@ This patch converts `Prince of Persia (U,E)` to the `.pocket` format.
 ROM MD5: `afeec69d5ba3afa3ce2279fcda944576`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PrinceOfPersia.ips).
+
+## Puzzle Master
+
+This patch converts `Puzzle Master (U)` to the `.pocket` format.
+
+ROM MD5: `90ecc5fb29cc95d58c33d44fe630d12e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PuzzleMaster.ips).
 
 ## QIX
 
