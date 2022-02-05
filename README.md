@@ -140,6 +140,7 @@ Game | System
 [Konami GB Collection Volume 4](#konami-gb-collection-volume-4) | GBC
 [Krusty's Fun House](#krustys-fun-house) | GB
 [Kwirk - He's A-maze-ing](#kwirk---hes-a-maze-ing) | GB
+[Legend of the River King 2](#legend-of-the-river-king-2) | GBC
 [Lemmings](#lemmings) | GBC
 [Lemmings 2 - The Tribes](#lemmings-2---the-tribes) | GB
 [Lion King](#lion-king) | GB
@@ -1420,6 +1421,14 @@ This patch converts `Kwirk - He's A-maze-ing (U,E)` to the `.pocket` format.
 ROM MD5: `3a4bb57e9fbd4ef563c0c7b59a1c82a5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Kwirk.ips).
+
+## Legend of the River King 2
+
+This patch converts `Legend of the River King 2 (U)` to the `.pocket` format.
+
+ROM MD5: `3519c45ce55aad2f0565513723c90672`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendOfTheRiverKing2.ips).
 
 ## Lemmings
 
