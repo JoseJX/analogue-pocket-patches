@@ -230,6 +230,7 @@ Game | System
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
 [Super Robot Taisen](#super-robot-taisen) | GB
 [Survival Kids 2 - Dasshutsu!! Futago-Jima!](#survival-kids-2---dasshutsu-futago-jima) | GBC
+[Sutte Hakkun GB](#sutte-hakkun-gb) | GBC
 [Sword of Hope](#sword-of-hope) | GB
 [Sword of Hope II](#sword-of-hope-ii) | GB
 [TaleSpin](#talespin) | GB
@@ -2202,6 +2203,16 @@ It is compatible with the [English translation patch](https://www.romhacking.net
 ROM MD5: `9d2f7e1ac30a46456a841c264963e5ea`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SurvivalKids2.ips).
+
+## Sutte Hakkun GB
+
+This patch converts `Sutte Hakkun GB (J)` to the `.pocket` format.
+
+Note: This game was unreleased.
+
+ROM MD5: `243b2b6151d41d8e111e98ac49ba9ab4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SutteHakkunGB.ips).
 
 ## Sword of Hope
 
