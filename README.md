@@ -38,6 +38,7 @@ Game | System
 [Batman - Return of the Joker](#batman---return-of-the-joker) | GB
 [Batman - The Video Game](#batman---the-video-game) | GB
 [Beatmania GB](#beatmania-gb) | GBC
+[Beatmania GB2 - Gotcha Mix](#beatmania-gb2---gotcha-mix) | GBC
 [Beavis and Butt-Head](#beavis-and-butt-head) | GB
 [Bionic Commando](#bionic-commando) | GB
 [Bionic Commando - Elite Forces](#bionic-commando---elite-forces) | GBC
@@ -549,6 +550,14 @@ This patch converts `Beatmania GB (J)` to the `.pocket` format.
 ROM MD5: `e7c022031cb882912e81970eb63d4f61`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Beatmania.ips).
+
+## Beatmania GB2 - Gotcha Mix
+
+This patch converts `Beatmania GB2 - Gotcha Mix (J)` to the `.pocket` format.
+
+ROM MD5: `25f20cdc0f6f70d0bc5430a9b0d48742`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BeatmaniaGotcha.ips).
 
 ## Beavis and Butt-Head
 
