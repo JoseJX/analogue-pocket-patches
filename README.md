@@ -88,6 +88,7 @@ Game | System
 [Duck Tales 2](#duck-tales-2) | GB
 [Duke Nukem](#duke-nukem) | GBC
 [Earthworm Jim](#earthworm-jim) | GB
+[Earthworm Jim - Menace 2 the Galaxy](#earthworm-jim---menace-2-the-galaxy) | GBC
 [F-1 Race](#f-1-race) | GB
 [Faceball 2000](#faceball-2000) | GB
 [Felix the Cat](#felix-the-cat) | GB
@@ -971,6 +972,14 @@ This patch converts `Earthworm Jim (U)` to the `.pocket` format.
 ROM MD5: `0d24eeff28040ff2a8f63de5bc8cbea2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/EarthwormJim.ips).
+
+## Earthworm Jim - Menace 2 the Galaxy
+
+This patch converts `Earthworm Jim - Menace 2 the Galaxy (U,E)` to the `.pocket` format.
+
+ROM MD5: `002d0d5fd2f668798da1991b5fd5b4d8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/EarthwormJim2.ips).
 
 ## F-1 Race
 
