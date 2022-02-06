@@ -40,6 +40,7 @@ Game | System
 [Beatmania GB](#beatmania-gb) | GBC
 [Beatmania GB2 - Gotcha Mix](#beatmania-gb2---gotcha-mix) | GBC
 [Beavis and Butt-Head](#beavis-and-butt-head) | GB
+[Bill and Ted's Excellent Game Boy Adventure](#bill-and-teds-excellent-game-boy-adventure) | GB
 [Bionic Commando](#bionic-commando) | GB
 [Bionic Commando - Elite Forces](#bionic-commando---elite-forces) | GBC
 [Blades of Steel](#blades-of-steel) | GB
@@ -567,6 +568,14 @@ This patch converts `Beavis and Butt-Head (U,E)` to the `.pocket` format.
 ROM MD5: `8f160aa0b2f69a019911fd57ac8c5b31`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BnB.ips).
+
+## Bill and Ted's Excellent Game Boy Adventure
+
+This patch converts `Bill and Ted's Excellent Game Boy Adventure (U,E)` to the `.pocket` format.
+
+ROM MD5: `9d94d01d3133165d4469bb27d58f0f6c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BillTed.ips).
 
 ## Bionic Commando
 
