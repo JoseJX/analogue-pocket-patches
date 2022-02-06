@@ -87,6 +87,7 @@ Game | System
 [Duck Tales](#duck-tales) | GB
 [Duck Tales 2](#duck-tales-2) | GB
 [Duke Nukem](#duke-nukem) | GBC
+[Earthworm Jim](#earthworm-jim) | GB
 [F-1 Race](#f-1-race) | GB
 [Faceball 2000](#faceball-2000) | GB
 [Felix the Cat](#felix-the-cat) | GB
@@ -962,6 +963,14 @@ This patch was updated to fix a crash when pausing the game. (2022/02/03)
 ROM MD5: `b2d3713267c9e21b3dae3cb5f437fccd`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DukeNukem.ips).
+
+## Earthworm Jim
+
+This patch converts `Earthworm Jim (U)` to the `.pocket` format.
+
+ROM MD5: `0d24eeff28040ff2a8f63de5bc8cbea2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/EarthwormJim.ips).
 
 ## F-1 Race
 
