@@ -224,6 +224,7 @@ Game | System
 [Spider-Man 2 - The Sinister Six](#spider-man-2---the-sinister-six) | GBC
 [Spider-Man - X-Men](#spider-man---x-men) | GB
 [Spud's Adventure](#spuds-adventure) | GB
+[Spy vs Spy](#spy-vs-spy) | GBC
 [Spy vs Spy - Operation Booby Trap](#spy-vs-spy---operation-booby-trap) | GBC
 [Star Ocean - Blue Sphere](#star-ocean---blue-sphere) | GBC
 [Star Wars](#star-wars) | GB
@@ -2153,13 +2154,22 @@ ROM MD5: `c9e8c196d57aab17c4c171816fcd6492`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpudsAdventure.ips).
 
-## Spy vs Spy - Operation Booby Trap
+## Spy vs Spy
 
-This patch converts `Spy vs Spy Operation Booby Trap (U)` to the `.pocket` format.
+This patch converts `Spy vs Spy (U)` to the `.pocket` format.
 
 ROM MD5: `d5f373b287d29e882a1f1182542d5b68`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpyVsSpy.ips).
+
+## Spy vs Spy - Operation Booby Trap
+
+This patch converts `Spy vs Spy Operation Booby Trap (U)` to the `.pocket` format.
+
+ROM MD5: `00408b7c09c99b8ea15b8ebb66e69130`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpyVsSpyBoobyTrap.ips).
+
 
 ## Star Ocean - Blue Sphere
 
