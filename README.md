@@ -284,6 +284,7 @@ Game | System
 [Xtreme Sports](#xtreme-sports) | GBC
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
+[Zool - Ninja of the N'th Dimension](#zool---ninja-of-the-nth-dimension) | GB
 [Zoop](#zoop) | GB
 
 ## How to Use the Patches
@@ -2661,6 +2662,14 @@ This patch converts `Yoshi's Cookie (U)` to the `.pocket` format.
 ROM MD5: `bc1a3848092bdc900c157996c29a7783`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YoshisCookie.ips).
+
+## Zool - Ninja of the N'th Dimension
+
+This patch converts `Zool - Ninja of the N'th Dimension (U)` to the `.pocket` format.
+
+ROM MD5: `52700ea227c3a31f170ccbc6a052a7a8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Zool.ips).
 
 ## Zoop
 
