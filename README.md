@@ -169,6 +169,7 @@ Game | System
 [Mickey's Speedway USA](#mickeys-speedway-usa) | GBC
 [Mighty Morphin Power Rangers - The Movie](#mighty-morphin-power-rangers---the-movie) | GB
 [Mole Mania](#mole-mania) | GB
+[Monster Rancher Battle Card GB](#monster-rancher-battle-card-gb) | GBC
 [Mortal Kombat](#mortal-kombat) | GB
 [Motocross Maniacs 2](#motocross-maniacs-2) | GBC
 [Mr. Driller](#mr-driller) | GBC
@@ -1674,6 +1675,14 @@ It has been updated again for another missed register access. (2021/12/30)
 ROM MD5: `f28ade3926852a8ad2e449c274683956`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MoleMania.ips).
+
+## Monster Rancher Battle Card GB
+
+This patch converts `Monster Rancher Battle Card GB (U)` to the `.pocket` format.
+
+ROM MD5: `31fc2f3df8aa15f627574029c3cf03da`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonsterRancherBC.ips).
 
 ## Mortal Kombat
 
