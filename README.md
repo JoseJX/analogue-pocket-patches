@@ -277,6 +277,7 @@ Game | System
 [Wetrix GB](#wetrix-gb) | GBC
 [Who Framed Rodger Rabbit?](#who-framed-rodger-rabbit) | GB
 [Wild Snake](#wild-snake) | GB
+[Wizards and Warriors Chapter X - The Fortress of Fear](#wizards-and-warriors-chapter-x---the-fortress-of-fear) | GB
 [Wizardry I - Proving Grounds of the Mad Overlord](#wizardry-i---proving-grounds-of-the-mad-overlord) | GBC
 [Wordtris](#wordtris) | GB
 [WordZap](#wordzap) | GB
@@ -2606,6 +2607,14 @@ This patch converts `Wild Snake (U)` to the `.pocket` format.
 ROM MD5: `f9302265fcbc4178c84aaeac3138af97`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WildSnake.ips).
+
+## Wizards and Warriors Chapter X - The Fortress of Fear
+
+This patch converts `Wizards and Warriors Chapter X - The Fortress of Fear (U,E)` to the `.pocket` format.
+
+ROM MD5: `f9445b104ebb70d8fb91c8c64452c0a4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizWar-ChX.ips).
 
 ## Wizardry I - Proving Grounds of the Mad Overlord
 
