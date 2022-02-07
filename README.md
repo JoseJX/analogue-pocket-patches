@@ -31,6 +31,7 @@ Game | System
 [Banishing Racer](#banishing-racer) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
 [Bart vs. the Juggernauts](#bart-vs-the-juggernauts) | GB
+[Battle Arena Toshinden](#battle-arena-toshinden) | GB
 [Battle Bull](#battle-bull) | GB
 [Battleship](#battleship) | GB
 [Battletoads](#battletoads) | GB
@@ -548,6 +549,14 @@ This patch converts `Batman - The Video Game (U,E)` to the `.pocket` format.
 ROM MD5: `03c6d84a951be6703b7458478f4277b9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Batman.ips).
+
+## Battle Arena Toshinden
+
+This patch converts `Battle Arena Toshinden (U)` to the `.pocket` format.
+
+ROM MD5: `75b5f31fbacb972fc104b3e77d09003b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleArena.ips).
 
 ## Beatmania GB
 
