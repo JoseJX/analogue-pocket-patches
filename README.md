@@ -38,6 +38,7 @@ Game | System
 [Battle Bull](#battle-bull) | GB
 [Battleship](#battleship) | GB
 [Battletoads](#battletoads) | GB
+[Battletoads - Double Dragon](#battletoads---double-dragon) | GB
 [Battletoads in Ragnarok's World](#battletoads-in-ragnaroks-world) | GB
 [Beatmania GB](#beatmania-gb) | GBC
 [Beatmania GB2 - Gotcha Mix](#beatmania-gb2---gotcha-mix) | GBC
@@ -560,6 +561,14 @@ This patch converts `Battle Arena Toshinden (U)` to the `.pocket` format.
 ROM MD5: `75b5f31fbacb972fc104b3e77d09003b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleArena.ips).
+
+## Battletoads - Double Dragon
+
+This patch converts `Battletoads - Double Dragon (U)` to the `.pocket` format.
+
+ROM MD5: `13ec0c660b5a963a07b39ecabf0e0ab5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattletoadsDD.ips).
 
 ## Battletoads in Ragnarok's World
 
