@@ -281,6 +281,7 @@ Game | System
 [Wacky Races](#wacky-races) | GBC
 [Wave Race](#wave-race) | GB
 [Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
+[Warlocked](#warlocked) | GBC
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
 [Wetrix GB](#wetrix-gb) | GBC
 [Who Framed Rodger Rabbit?](#who-framed-rodger-rabbit) | GB
@@ -2646,6 +2647,14 @@ This patch converts `Wario Blast featuring Bomberman! (U,E)` to the `.pocket` fo
 ROM MD5: `14fe7234ee4bcb14adf20c743f084a35`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioBlast.ips).
+
+## Warlocked
+
+This patch converts `Warlocked (U)` to the `.pocket` format.
+
+ROM MD5: `b5eb859e6ea60a0bd83100a10206d9c9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Warlocked.ips).
 
 ## Wendy - Every Witch Way
 
