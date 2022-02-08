@@ -298,6 +298,7 @@ Game | System
 [Xtreme Sports](#xtreme-sports) | GBC
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
+[Yu-Gi-Oh! - Dark Duel Stories](#yu-gi-oh---dark-duel-stories) | GBC
 [Zool - Ninja of the N'th Dimension](#zool---ninja-of-the-nth-dimension) | GB
 [Zoop](#zoop) | GB
 
@@ -2787,6 +2788,14 @@ This patch converts `Yoshi's Cookie (U)` to the `.pocket` format.
 ROM MD5: `bc1a3848092bdc900c157996c29a7783`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YoshisCookie.ips).
+
+## Yu-Gi-Oh! - Dark Duel Stories
+
+This patch converts `Yu-Gi-Oh! - Dark Duel Stories (U)` to the `.pocket` format.
+
+ROM MD5: `c30add585d87114288ff8e3726c5381b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YuGiOh-DDS.ips).
 
 ## Zool - Ninja of the N'th Dimension
 
