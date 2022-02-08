@@ -71,6 +71,7 @@ Game | System
 [Cool Bricks](#cool-bricks) | GBC
 [Cosmo Tank](#cosmo-tank) | GB
 [Crystalis](#crystalis) | GBC
+[Cubix - Robots for Everyone - Race 'n Robots](#cubix---robots-for-everyone---race-n-robots) | GBC
 [Daikatana](#daikatana) | GBC
 [Daedalian Opus](#daedalian-opus) | GB
 [Dance Dance Revolution GB](#dance-dance-revolution-gb) | GBC
@@ -837,6 +838,14 @@ This patch converts `Crystalis (U)` to the `.pocket` format.
 ROM MD5: `f36a0ed25a601c039b1171d9daf241d6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Crystalis.ips).
+
+## Cubix - Robots for Everyone - Race 'n Robots
+
+This patch converts `Cubix - Robots for Everyone - Race 'n Robots (U)` to the `.pocket` format.
+
+ROM MD5: `9eb8be5600d2408352bf9ef32b91d1df`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Cubix.ips).
 
 ## Daikatana
 
