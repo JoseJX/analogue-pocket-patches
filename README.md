@@ -55,6 +55,7 @@ Game | System
 [Burai Fighter Deluxe](#burai-fighter-deluxe) | GB
 [Burning Paper](#burning-paper) | GB
 [Bust-A-Move 2 - Arcade Edition](#bust-a-move-2---arcade-edition) | GB
+[Bust-A-Move Millennium](#bust-a-move-millennium) | GBC
 [Cannon Fodder](#cannon-fodder) | GBC
 [Captain America and the Avengers](#captain-america-and-the-avengers) | GB
 [Castlevania - The Adventure](#castlevania---the-adventure) | GB
@@ -699,6 +700,14 @@ This patch was updated to fix a bug. (2022/01/11)
 ROM MD5: `fa91adc7023e03f97ec36f66876a569e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BustAMove2.ips).
+
+## Bust-A-Move Millennium
+
+This patch converts `Bust-A-Move Millennium (U,E)` to the `.pocket` format.
+
+ROM MD5: `e98124b30408c00786068387353e39e5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BustAMoveMillennium.ips).
 
 ## Cannon Fodder
 
