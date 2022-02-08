@@ -214,6 +214,7 @@ Game | System
 [Samurai Kid](#samurai-kid) | GBC
 [Samurai Showdown](#samurai-showdown) | GB
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
+[Scooby-Doo! Classic Creep Capers](#scooby-doo-classic-creep-capers) | GBC
 [Sheep It Up!](#sheep-it-up) | GB
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
@@ -2079,6 +2080,14 @@ This patch was updated to fix the target reticule in Maria's mini-game. (2022/01
 ROM MD5: `70883b45a97984cb033c2b95028bef65`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SakuraWars.ips).
+
+## Scooby-Doo! Classic Creep Capers
+
+This patch converts `Scooby-Doo! Classic Creep Capers (U,E)` to the `.pocket` format.
+
+ROM MD5: `117a9babae15960dc4de04ac44066ed2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ScoobyDoo.ips).
 
 ## Sheep It Up!
 
