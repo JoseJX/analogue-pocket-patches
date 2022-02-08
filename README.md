@@ -31,13 +31,14 @@ Game | System
 [Banishing Racer](#banishing-racer) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
 [Bart vs. the Juggernauts](#bart-vs-the-juggernauts) | GB
+[Batman - The Animated Series](#batman---the-animated-series) | GB
+[Batman - Return of the Joker](#batman---return-of-the-joker) | GB
+[Batman - The Video Game](#batman---the-video-game) | GB
 [Battle Arena Toshinden](#battle-arena-toshinden) | GB
 [Battle Bull](#battle-bull) | GB
 [Battleship](#battleship) | GB
 [Battletoads](#battletoads) | GB
-[Batman - The Animated Series](#batman---the-animated-series) | GB
-[Batman - Return of the Joker](#batman---return-of-the-joker) | GB
-[Batman - The Video Game](#batman---the-video-game) | GB
+[Battletoads in Ragnarok's World](#battletoads-in-ragnaroks-world) | GB
 [Beatmania GB](#beatmania-gb) | GBC
 [Beatmania GB2 - Gotcha Mix](#beatmania-gb2---gotcha-mix) | GBC
 [Beavis and Butt-Head](#beavis-and-butt-head) | GB
@@ -504,6 +505,30 @@ ROM MD5: `bc36d55377d7961a49a48a70a2827e5e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BartJuggernauts.ips).
 
+## Batman - The Animated Series
+
+This patch converts `Batman - The Animated Series (U,E)` to the `.pocket` format.
+
+ROM MD5: `ae073c63ff7d151dc2dd406830fbbdc2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanAnimated.ips).
+
+## Batman - Return of the Joker
+
+This patch converts `Batman - Return of the Joker (U,E)` to the `.pocket` format.
+
+ROM MD5: `97bc907deba1e7d7c9bc72fca0310822`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanJoker.ips).
+
+## Batman - The Video Game
+
+This patch converts `Batman - The Video Game (U,E)` to the `.pocket` format.
+
+ROM MD5: `03c6d84a951be6703b7458478f4277b9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Batman.ips).
+
 ## Battle Bull
 
 This patch converts `Battle Bull (U)` to the `.pocket` format.
@@ -528,31 +553,6 @@ ROM MD5: `6d24c94d3acd89b4b703f7bd2a504833`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Battletoads.ips).
 
-## Batman - The Animated Series
-
-This patch converts `Batman - The Animated Series (U,E)` to the `.pocket` format.
-
-ROM MD5: `ae073c63ff7d151dc2dd406830fbbdc2`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanAnimated.ips).
-
-## Batman - Return of the Joker
-
-This patch converts `Batman - Return of the Joker (U,E)` to the `.pocket` format.
-
-ROM MD5: `97bc907deba1e7d7c9bc72fca0310822`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanJoker.ips).
-
-
-## Batman - The Video Game
-
-This patch converts `Batman - The Video Game (U,E)` to the `.pocket` format.
-
-ROM MD5: `03c6d84a951be6703b7458478f4277b9`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Batman.ips).
-
 ## Battle Arena Toshinden
 
 This patch converts `Battle Arena Toshinden (U)` to the `.pocket` format.
@@ -560,6 +560,14 @@ This patch converts `Battle Arena Toshinden (U)` to the `.pocket` format.
 ROM MD5: `75b5f31fbacb972fc104b3e77d09003b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleArena.ips).
+
+## Battletoads in Ragnarok's World
+
+This patch converts `Battletoads in Ragnarok's World (U)` to the `.pocket` format.
+
+ROM MD5: `4866ea7bdaa92c6986d4847209ebbd20`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattletoadsRW.ips).
 
 ## Beatmania GB
 
