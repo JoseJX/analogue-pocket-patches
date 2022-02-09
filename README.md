@@ -14,8 +14,8 @@ Game | System
 [4-in-1 Fun Pack - Volume 2](#4-in-1-fun-pack---volume-2) | GB
 [Adventures of Lolo](#adventures-of-lolo) | GB
 [The Adventures of Star Saver](#the-adventures-of-star-saver) | GB
-[Aladdin](#aladdin) | GB
 [Alfred Chicken](#alfred-chicken) | GB
+[Alien 3](#alien-3) | GB
 [Alleyway](#alleyway) | GB
 [Alone in the Dark - The New Nightmare](#alone-in-the-dark---the-new-nightmare) | GBC
 [Amazing Penguin](#amazing-penguin) | GB
@@ -379,6 +379,14 @@ This patch converts `Alfred Chicken (U)` to the `.pocket` format.
 ROM MD5: `cac921f8eec70d5ccd8a2db8f473a084`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AlfredChicken.ips).
+
+## Alien 3
+
+This patch converts `Alien 3 (U,E)` to the `.pocket` format.
+
+ROM MD5: `b3f3d35f58a0ea3affc0ec6d4ee1183d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Alien3.ips).
 
 ## Alleyway
 
