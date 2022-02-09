@@ -130,6 +130,7 @@ Game | System
 [Hexcite - The Shapes of Victory](#hexcite---the-shapes-of-victory) | GBC
 [Humans](#humans) | GB
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
+[Ishido - The Way of Stones](#ishido---the-way-of-stones) | GB
 [Itchy & Scratchy in Miniature Golf Madness](#itchy--scratchy-in-miniature-golf-madness) | GB
 [James Bond 007](#james-bond-007) | GB
 [John Madden Football](#john-madden-football) | GB
@@ -1345,6 +1346,14 @@ Copy the resulting `game.pocket` file to your SD card. Repeat this process for e
 ROM MD5: `65a5a0cb3c339ec473053c64c2218ab9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/INFGMB.ips).
+
+## Ishido - The Way of Stones
+
+This patch converts `Ishido - The Way of Stones (U,E)` to the `.pocket` format.
+
+ROM MD5: `e904ad95019fad36decd3b8bae8b3f09`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ishido.ips).
 
 ## Itchy & Scratchy in Miniature Golf Madness
 
