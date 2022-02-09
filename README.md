@@ -625,6 +625,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Beavis and Butt-Head (U,E)` to the `.pocket` format.
 
+This patch was updated to fix a crash during the end credits. (2022/02/09)
+
 ROM MD5: `8f160aa0b2f69a019911fd57ac8c5b31`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BnB.ips).
