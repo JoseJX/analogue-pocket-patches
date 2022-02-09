@@ -27,6 +27,7 @@ Game | System
 [Arcade Classic No. 2 - Centipede and Millipede](#arcade-classic-no-2---centipede-and-millipede) | GB
 [Arcade Classic No. 3 - Galaga & Galaxian](#arcade-classic-no-3---galaga-and-galaxian) | GB
 [Asterix](#asterix) | GB
+[Asterix and Obelix](#asterix-and-obelix) | GBC
 [Astro Rabby](#astro-rabby) | GB
 [Balloon Kid](#balloon-kid) | GB
 [Banishing Racer](#banishing-racer) | GB
@@ -481,6 +482,14 @@ This patch converts `Asterix (E)` to the `.pocket` format.
 ROM MD5: `812db832566202610bb1e42e643e2b93`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Asterix.ips).
+
+## Asterix and Obelix
+
+This patch converts `Asterix and Obelix (E)` to the `.pocket` format.
+
+ROM MD5: `6efc4c27d06564f9000667c029ad02a3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AsterxObelix.ips).
 
 ## Astro Rabby
 
