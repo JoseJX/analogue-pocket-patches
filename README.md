@@ -199,6 +199,7 @@ Game | System
 [Perfect Dark](#perfect-dark) | GBC
 [Picross 2](#picross-2) | GB
 [Pipe Dream](#pipe-dream) | GB
+[Pocket Bomberman](#pocket-bomberman) | GBC
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
 [Popeye 2](#popeye-2) | GB
@@ -1948,6 +1949,14 @@ This patch converts `Pipe Dream (U)` to the `.pocket` format.
 ROM MD5: `0f021462180b18436c21299e923cca91`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PipeDream.ips).
+
+## Pocket Bomberman
+
+This patch converts `Pocket Bomberman (U,E)` to the `.pocket` format.
+
+ROM MD5: `2f6b6379f8c7ce5d66a198162f345eaa`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketBomberman.ips).
 
 ## Pokemon Puzzle Challenge
 
