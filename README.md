@@ -301,6 +301,7 @@ Game | System
 [WordZap](#wordzap) | GB
 [World Heroes 2 Jet](#world-heroes-2-jet) | GB
 [Worms](#worms) | GB
+[Xenon 2 - Megablast](#xenon-2---megablast) | GB
 [X-Men - Mutant Academy](#x-men---mutant-academy) | GBC
 [X-Men - Wolverine's Rage](#x-men---wolverines-rage) | GBC
 [Xtreme Sports](#xtreme-sports) | GBC
@@ -2815,6 +2816,14 @@ ROM MD5: `e9ab23a96409060054a05344b536b33c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WordZap.ips).
 
+## World Heroes 2 Jet
+
+This patch converts `World Heroes 2 Jet (U,E)` to the `.pocket` format.
+
+ROM MD5: `8272e012f5c953450a3e2efd88d41aeb`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WorldHeroes2Jet.ips).
+
 ## Worms
 
 This patch converts `Worms (E)` to the `.pocket` format.
@@ -2823,13 +2832,13 @@ ROM MD5: `45dcc259728a00118fe86f841d48564f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Worms.ips).
 
-## World Heroes 2 Jet
+## Xenon 2 - Megablast
 
-This patch converts `World Heroes 2 Jet (U,E)` to the `.pocket` format.
+This patch converts `Xenon 2 - Megablast (U,E)` to the `.pocket` format.
 
-ROM MD5: `8272e012f5c953450a3e2efd88d41aeb`
+ROM MD5: `02d7df9a5ac5d859672b56be46343be1`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WorldHeroes2Jet.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Xenon2.ips).
 
 ## X-Men - Mutant Academy
 
