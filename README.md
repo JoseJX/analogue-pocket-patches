@@ -119,6 +119,7 @@ Game | System
 [Gear Works](#gear-works) | GB
 [George Foreman's KO Boxing](#george-foreman-s-ko-boxing) | GB
 [Ghostbusters II](#ghostbusters-ii) | GB
+[Gold and Glory - The Road to El Dorado](#gold-and-glory---the-road-to-el-dorado) | GBC
 [Gradius - The Interstellar Assault](#gradius---the-interstellar-assault) | GB
 [Grand Theft Auto](#grand-theft-auto) | GBC
 [Grand Theft Auto 2](#grand-theft-auto-2) | GBC
@@ -1262,6 +1263,14 @@ This patch converts `Ghostbusters II (U,E)` to the `.pocket` format.
 ROM MD5: `0841a527b116a52ad26de023b20b1a42`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ghostbusters2.ips).
+
+## Gold and Glory - The Road to El Dorado
+
+This patch converts `Gold and Glory - The Road to El Dorado (U)` to the `.pocket` format.
+
+ROM MD5: `7bf3b13931f2a50ebe071a18ea14f28b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GoldAndGlory.ips).
 
 ## Gradius - The Interstellar Assault
 
