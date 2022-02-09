@@ -15,6 +15,7 @@ Game | System
 [Adventures of Lolo](#adventures-of-lolo) | GB
 [The Adventures of Star Saver](#the-adventures-of-star-saver) | GB
 [Aladdin](#aladdin) | GB
+[Alfred Chicken](#alfred-chicken) | GB
 [Alleyway](#alleyway) | GB
 [Alone in the Dark - The New Nightmare](#alone-in-the-dark---the-new-nightmare) | GBC
 [Amazing Penguin](#amazing-penguin) | GB
@@ -364,6 +365,14 @@ This patch converts `Aladdin (U)` to the `.pocket` format.
 ROM MD5: `ed5525a71dda6eaf4bbf8d5601b6b3b9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Aladdin.ips).
+
+## Alfred Chicken
+
+This patch converts `Alfred Chicken (U)` to the `.pocket` format.
+
+ROM MD5: `cac921f8eec70d5ccd8a2db8f473a084`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AlfredChicken.ips).
 
 ## Alleyway
 
