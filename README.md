@@ -210,6 +210,7 @@ Game | System
 [Primal Rage](#primal-rage) | GB
 [Prince of Persia](#prince-of-persia) | GBC
 [Puzzle Master](#puzzle-master) | GBC
+[Pyramids of Ra](#pyramids-of-ra) | GB
 [QIX](#qix) | GB
 [Rampage World Tour](#rampage-world-tour) | GBC
 [Rats!](#rats) | GBC
@@ -2051,6 +2052,14 @@ This patch converts `Puzzle Master (U)` to the `.pocket` format.
 ROM MD5: `90ecc5fb29cc95d58c33d44fe630d12e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PuzzleMaster.ips).
+
+## Pyramids of Ra
+
+This patch converts `Pyramids of Ra (U)` to the `.pocket` format.
+
+ROM MD5: `1c1619f1caef49132e87160aa20a0a4d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PyramidsOfRa.ips).
 
 ## QIX
 
