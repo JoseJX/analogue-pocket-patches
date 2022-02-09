@@ -117,6 +117,7 @@ Game | System
 [Game Boy Wars 3](#game-boy-wars-3) | GBC
 [Gauntlet II](#gauntlet-ii) | GB
 [Gear Works](#gear-works) | GB
+[George Foreman's KO Boxing](#george-foreman-s-ko-boxing) | GB
 [Ghostbusters II](#ghostbusters-ii) | GB
 [Gradius - The Interstellar Assault](#gradius---the-interstellar-assault) | GB
 [Grand Theft Auto](#grand-theft-auto) | GBC
@@ -1236,6 +1237,14 @@ This patch converts `Gear Works (U,E)` to the `.pocket` format.
 ROM MD5: `16af858484041d572299b501ead2b788`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GearWorks.ips).
+
+## George Foreman's KO Boxing
+
+This patch converts `George Foreman's KO Boxing (U,E)` to the `.pocket` format.
+
+ROM MD5: `8a4245cbeb1d6400b4cb586790400b60`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GeorgeForeman.ips).
 
 ## Ghostbusters II
 
