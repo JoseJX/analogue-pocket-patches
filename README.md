@@ -296,6 +296,7 @@ Game | System
 [Wizardry I - Proving Grounds of the Mad Overlord](#wizardry-i---proving-grounds-of-the-mad-overlord) | GBC
 [Wordtris](#wordtris) | GB
 [WordZap](#wordzap) | GB
+[World Heroes 2 Jet](#world-heroes-2-jet) | GB
 [Worms](#worms) | GB
 [X-Men - Mutant Academy](#x-men---mutant-academy) | GBC
 [X-Men - Wolverine's Rage](#x-men---wolverines-rage) | GBC
@@ -2784,6 +2785,14 @@ This patch converts `Worms (E)` to the `.pocket` format.
 ROM MD5: `45dcc259728a00118fe86f841d48564f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Worms.ips).
+
+## World Heroes 2 Jet
+
+This patch converts `World Heroes 2 Jet (U,E)` to the `.pocket` format.
+
+ROM MD5: `8272e012f5c953450a3e2efd88d41aeb`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WorldHeroes2Jet.ips).
 
 ## X-Men - Mutant Academy
 
