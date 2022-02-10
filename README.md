@@ -210,6 +210,7 @@ Game | System
 [Pokemon Picross](#pokemon-picross) | GBC
 [Popeye 2](#popeye-2) | GB
 [Pop'n Music GB](#popn-music-gb) | GBC
+[Pop'n Music GB - Animation Melody](#popn-music-gb---animation-melody) | GBC
 [Pop'n TwinBee](#popn-twinbee) | GB
 [Populous](#populous) | GB
 [Power Racer](#power-racer) | GB
@@ -2076,6 +2077,14 @@ This patch converts `Pop'n Music GB (J)` to the `.pocket` format.
 ROM MD5: `10e6dcd0a350076e28b9c598c278b6a2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PopnMusic.ips).
+
+## Pop'n Music GB - Animation Melody
+
+This patch converts `Pop'n Music GB - Animation Melody (J)` to the `.pocket` format.
+
+ROM MD5: `7e6d077d50879c57ff70891aaa312e80`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PopnMusicAnimation.ips).
 
 ## Pop'n TwinBee
 
