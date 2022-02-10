@@ -29,6 +29,7 @@ Game | System
 [Asterix](#asterix) | GB
 [Asterix and Obelix](#asterix-and-obelix) | GBC
 [Astro Rabby](#astro-rabby) | GB
+[Atomic Punk](#atomic-punk) | GB
 [Balloon Kid](#balloon-kid) | GB
 [Banishing Racer](#banishing-racer) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
@@ -99,6 +100,7 @@ Game | System
 [Duck Tales](#duck-tales) | GB
 [Duck Tales 2](#duck-tales-2) | GB
 [Duke Nukem](#duke-nukem) | GBC
+[Dynablaster](#dynablaster) | GB
 [Earthworm Jim](#earthworm-jim) | GB
 [Earthworm Jim - Menace 2 the Galaxy](#earthworm-jim---menace-2-the-galaxy) | GBC
 [F-1 Race](#f-1-race) | GB
@@ -516,6 +518,14 @@ This patch converts `Astro Rabby (J)` to the `.pocket` format.
 ROM MD5: `5a88b67ed5475e591747bc7956642456`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AstroRabby.ips).
+
+## Atomic Punk
+
+This patch converts `Atomic Punk (U)` to the `.pocket` format.
+
+ROM MD5: `76010c6ff6bd0c4e8ac934dc69fb96ab`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AtomicPunk.ips).
 
 ## Balloon Kid
 
@@ -1106,6 +1116,14 @@ This patch was updated to fix a crash when pausing the game. (2022/02/03)
 ROM MD5: `b2d3713267c9e21b3dae3cb5f437fccd`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DukeNukem.ips).
+
+## Dynablaster
+
+This patch converts `Dynablaster (E)` to the `.pocket` format.
+
+ROM MD5: `2eb9a6891fc79cd878d8bc12d04a0790`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Dynablaster.ips).
 
 ## Earthworm Jim
 
