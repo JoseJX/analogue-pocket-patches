@@ -282,6 +282,7 @@ Game | System
 [Tony Hawk's Pro Skater 2](#tony-hawks-pro-skater-2) | GBC
 [Tony Hawk's Pro Skater 3](#tony-hawks-pro-skater-3) | GBC
 [Top Gear Pocket 2](#top-gear-pocket-2) | GBC
+[True Lies](#true-lies) | GB
 [Turok 3 - Shadow of Oblivion](#turok-3---shadow-of-oblivion) | GBC
 [Trax](#trax) | GB
 [Trogday 2022](#trogday-2022) | GBC
@@ -2693,6 +2694,14 @@ It is a patch for this ROM available on [itch.io](https://videlectrix.itch.io/tr
 ROM MD5: `6a6931f6d1a6e60b4da9551e83b2742b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trogday2022.ips).
+
+## True Lies
+
+This patch converts `True Lies (U,E)` to the `.pocket` format.
+
+ROM MD5: `c013958fa8447be55f1e037ed4a1a9f9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TrueLies.ips).
 
 ## Turok 3 - Shadow of Oblivion
 
