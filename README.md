@@ -186,6 +186,7 @@ Game | System
 [Metal Walker](#metal-walker) | GBC
 [Mickey's Speedway USA](#mickeys-speedway-usa) | GBC
 [Mighty Morphin Power Rangers - The Movie](#mighty-morphin-power-rangers---the-movie) | GB
+[Miner 2049er Starring Bounty Bob](#miner-2049er-starring-bounty-bob) | GB
 [Mole Mania](#mole-mania) | GB
 [Monster Rancher Battle Card GB](#monster-rancher-battle-card-gb) | GBC
 [Monster Rancher Explorer](#monster-rancher-explorer) | GBC
@@ -1857,6 +1858,14 @@ This patch converts `Mighty Morphin Power Rangers - The Movie (U,E)` to the `.po
 ROM MD5: `967473063a55634223f15e4c0a79dc44` 
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MMPR.ips).
+
+## Miner 2049er Starring Bounty Bob
+
+This patch converts `Miner 2049er Starring Bounty Bob (U)` to the `.pocket` format.
+
+ROM MD5: `e5eba5278bbc6e5f040649afe98a0af4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Miner2049er.ips).
 
 ## Mole Mania
 
