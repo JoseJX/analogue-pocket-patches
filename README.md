@@ -1586,6 +1586,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Konami GB Collection Volume 4 (E)` to the `.pocket` format.
 
+This patch is also compatible with the [conversion patch](https://www.romhacking.net/hacks/2474/) to create a standalone version of Castlevania II.
+
 This patch was updated to fix a crash when the time ran out in Antarctic Adventure. (2022/01/31)
 
 ROM MD5: `f3414d53473e2cc43347774cc5f40495`
