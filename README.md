@@ -165,6 +165,7 @@ Game | System
 [Madden NFL 2002](#madden-nfl-2002) | GBC
 [Magi Nation](#magi-nation) | GB
 [Magical Tetris Challenge](#magical-tetris-challenge) | GBC
+[Makai Mura Gaiden - The Demon Darkness](#makai-mura-gaiden---the-demon-darkness) | GB
 [Marble Madness](#marble-madness) | GB
 [Marble Madness (GBC)](#marble-madness-color) | GBC
 [Mario's Picross](#marios-picross) | GB
@@ -1667,6 +1668,16 @@ This patch converts `Magical Tetris Challenge (U)` to the `.pocket` format.
 ROM MD5: `a13623a452327ede4553ee2bd1b89a1a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagicalTetris.ips).
+
+## Makai Mura Gaiden - The Demon Darkness
+
+This patch converts `Makai Mura Gaiden - The Demon Darkness (J)` to the `.pocket` format.
+
+It is compatible with the [English translation patch](https://www.romhacking.net/translations/1794/) where it is also known as "Gargoyles Quest 2".
+
+ROM MD5: `de731a5f2f4e7d16bcdc4b5953ddcc12`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MakaiMuraGaiden.ips).
 
 ## Marble Madness
 
