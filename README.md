@@ -209,6 +209,7 @@ Game | System
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
 [Popeye 2](#popeye-2) | GB
+[Pop'n Music GB](#popn-music-gb) | GBC
 [Pop'n TwinBee](#popn-twinbee) | GB
 [Populous](#populous) | GB
 [Power Racer](#power-racer) | GB
@@ -2067,6 +2068,14 @@ This patch converts `Popeye 2 (U)` to the `.pocket` format.
 ROM MD5: `30b579d82ae755bd37c1d4157a96129c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Popeye2.ips).
+
+## Pop'n Music GB
+
+This patch converts `Pop'n Music GB (J)` to the `.pocket` format.
+
+ROM MD5: `10e6dcd0a350076e28b9c598c278b6a2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PopnMusic.ips).
 
 ## Pop'n TwinBee
 
