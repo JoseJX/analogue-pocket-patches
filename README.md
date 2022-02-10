@@ -117,7 +117,7 @@ Game | System
 [Game Boy Wars 3](#game-boy-wars-3) | GBC
 [Gauntlet II](#gauntlet-ii) | GB
 [Gear Works](#gear-works) | GB
-[George Foreman's KO Boxing](#george-foreman-s-ko-boxing) | GB
+[George Foreman's KO Boxing](#george-foremans-ko-boxing) | GB
 [Ghostbusters II](#ghostbusters-ii) | GB
 [Gold and Glory - The Road to El Dorado](#gold-and-glory---the-road-to-el-dorado) | GBC
 [Gradius - The Interstellar Assault](#gradius---the-interstellar-assault) | GB
@@ -206,7 +206,7 @@ Game | System
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
 [Popeye 2](#popeye-2) | GB
-[Pop'n TwinBee](#pop-n-twinbee) | GB
+[Pop'n TwinBee](#popn-twinbee) | GB
 [Populous](#populous) | GB
 [Power Racer](#power-racer) | GB
 [Power Quest](#power-quest) | GBC
