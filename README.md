@@ -210,6 +210,7 @@ Game | System
 [Populous](#populous) | GB
 [Power Racer](#power-racer) | GB
 [Power Quest](#power-quest) | GBC
+[Prehistorik Man](#prehistorik-man) | GB
 [Primal Rage](#primal-rage) | GB
 [Prince of Persia](#prince-of-persia) | GBC
 [Puzzle Master](#puzzle-master) | GBC
@@ -2074,6 +2075,14 @@ This patch converts `Primal Rage (U,E)` to the `.pocket` format.
 ROM MD5: `c1cff8487b25700a509ce89cc3c7bcac`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PrimalRage.ips).
+
+## Prehistorik Man
+
+This patch converts `Prehistorik Man (U,E)` to the `.pocket` format.
+
+ROM MD5: `64f43161eb16eb1be99262c36867bc79`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PrehistorikMan.ips).
 
 ## Prince of Persia
 
