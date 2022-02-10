@@ -92,6 +92,7 @@ Game | System
 [Donkey Kong GB - Dinky Kong and Dixie Kong](#donkey-kong-gb---dinky-kong-and-dixie-kong) | GB
 [Dragon Ball Z - Legendary Super Warriors](#dragon-ball-z---legendary-super-warriors) | GBC
 [Dragon's Lair](#dragons-lair) | GBC
+[Dragon Quest Monsters (DE)](#dragon-quest-monsters-de) | GBC
 [Dragon Warrior Monsters 2 - Cobi's Journey](#dragon-warrior-monsters-2---cobis-journey) | GBC
 [Dragon Warrior Monsters 2 - Tara's Adventure](#dragon-warrior-monsters-2---taras-adventure) | GBC
 [Driver - You are the Wheelman](#driver---you-are-the-wheelman) | GBC
@@ -1040,6 +1041,16 @@ This patch converts `Dragon's Lair (U,E)` to the `.pocket` format.
 ROM MD5: `947f96cfd5bab7a03ec2f3fc0ae9238d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonsLair.ips).
+
+## Dragon Quest Monsters (DE)
+
+This patch converts `Dragon Quest Monsters (DE)` to the `.pocket` format.
+
+This is the German version of `Dragon Warrior Monsters`.
+
+ROM MD5: `08bca718c62e3c2870a2df107fc0a562`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonQuestMonstersDE.ips).
 
 ## Dragon Warrior Monsters 2 - Cobi's Journey
 
