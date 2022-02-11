@@ -14,6 +14,7 @@ Game | System
 [4-in-1 Fun Pack - Volume 2](#4-in-1-fun-pack---volume-2) | GB
 [Adventures of Lolo](#adventures-of-lolo) | GB
 [The Adventures of Star Saver](#the-adventures-of-star-saver) | GB
+[Aladdin](#aladdin) | GB
 [Alfred Chicken](#alfred-chicken) | GB
 [Alien 3](#alien-3) | GB
 [Alleyway](#alleyway) | GB
