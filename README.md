@@ -123,6 +123,7 @@ Game | System
 [Game Boy Wars 3](#game-boy-wars-3) | GBC
 [Gauntlet II](#gauntlet-ii) | GB
 [Gear Works](#gear-works) | GB
+[Gekito Power Modeler](#gekito-power-modeler) | GB
 [George Foreman's KO Boxing](#george-foremans-ko-boxing) | GB
 [Gex - Enter the Gecko](#gex---enter-the-gecko) | GBC
 [Ghostbusters II](#ghostbusters-ii) | GB
@@ -1312,6 +1313,14 @@ This patch converts `Gear Works (U,E)` to the `.pocket` format.
 ROM MD5: `16af858484041d572299b501ead2b788`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GearWorks.ips).
+
+## Gekito Power Modeler
+
+This patch converts `Gekito Power Modeler (J)` to the `.pocket` format.
+
+ROM MD5: `255bca32093336ccbacdd185951c8727`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GPM.ips).
 
 ## George Foreman's KO Boxing
 
