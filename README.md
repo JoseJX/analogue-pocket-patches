@@ -121,6 +121,7 @@ Game | System
 [Gauntlet II](#gauntlet-ii) | GB
 [Gear Works](#gear-works) | GB
 [George Foreman's KO Boxing](#george-foremans-ko-boxing) | GB
+[Gex - Enter the Gecko](#gex---enter-the-gecko) | GBC
 [Ghostbusters II](#ghostbusters-ii) | GB
 [Gold and Glory - The Road to El Dorado](#gold-and-glory---the-road-to-el-dorado) | GBC
 [Gradius - The Interstellar Assault](#gradius---the-interstellar-assault) | GB
@@ -1290,6 +1291,14 @@ This patch converts `George Foreman's KO Boxing (U,E)` to the `.pocket` format.
 ROM MD5: `8a4245cbeb1d6400b4cb586790400b60`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GeorgeForeman.ips).
+
+## Gex - Enter the Gecko
+1gg
+This patch converts `Gex - Enter the Gecko (U,E)` to the `.pocket` format.
+
+ROM MD5: `f0462eba75d879c40668e20d1dbdb612`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gex.ips).
 
 ## Ghostbusters II
 
