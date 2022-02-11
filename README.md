@@ -2976,7 +2976,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## WWF - Betrayal
 
-This patch converts `WWF - Betrayal (U)` to the `.pocket` format.
+This patch converts `WWF - Betrayal (U,E)` to the `.pocket` format.
 
 ROM MD5: `f270519e6357bc32fd07fc6386e14dec`
 
