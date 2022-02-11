@@ -87,6 +87,7 @@ Game | System
 [Dead Heat Scramble](#dead-heat-scramble) | GB
 [Deja Vu I & II: The Casebooks of Ace Harding](#deja-vu-i--ii-the-casebooks-of-ace-harding) | GBC
 [Denki Blocks!](#denki-blocks) | GBC
+[Dennis the Menace](#dennis-the-menace) | GB
 [Dexterity](#dexterity) | GB
 [Donald Duck - Goin' Quackers](#donald-duck---goin-quackers) | GBC
 [Donkey Kong Land](#donkey-kong-land) | GB
@@ -999,6 +1000,14 @@ This patch converts `Denki Blocks! (E)` to the `.pocket` format.
 ROM MD5: `e4594f3d22fce6b71642a9f3049a6054`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DenkiBlocks.ips).
+
+## Dennis the Menace
+
+This patch converts `Dennis the Menace (U)` to the `.pocket` format.
+
+ROM MD5: `f064bd662fdcb40a9f6926cc3baee116`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DennisTheMenace.ips).
 
 ## Dexterity
 
