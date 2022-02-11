@@ -222,8 +222,8 @@ Game | System
 [Pop'n Music GB - Animation Melody](#popn-music-gb---animation-melody) | GBC
 [Pop'n TwinBee](#popn-twinbee) | GB
 [Populous](#populous) | GB
-[Power Racer](#power-racer) | GB
 [Power Quest](#power-quest) | GBC
+[Power Racer](#power-racer) | GB
 [Prehistorik Man](#prehistorik-man) | GB
 [Primal Rage](#primal-rage) | GB
 [Prince of Persia](#prince-of-persia) | GBC
@@ -2171,14 +2171,6 @@ ROM MD5: `ab5fac354726b7b0710cfdba22d7142f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Populous.ips).
 
-## Power Racer
-
-This patch converts `Power Racer (U)` to the `.pocket` format.
-
-ROM MD5: `6073cb28e651b48f0bf19e654aab8c7d`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowerRacer.ips).
-
 ## Power Quest
 
 This patch converts `Power Quest (U)` to the `.pocket` format.
@@ -2186,6 +2178,14 @@ This patch converts `Power Quest (U)` to the `.pocket` format.
 ROM MD5: `ac1f4ad52996882c60ce83cac01e9ccf`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowerQuest.ips).
+
+## Power Racer
+
+This patch converts `Power Racer (U)` to the `.pocket` format.
+
+ROM MD5: `6073cb28e651b48f0bf19e654aab8c7d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowerRacer.ips).
 
 ## Primal Rage
 
