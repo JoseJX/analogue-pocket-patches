@@ -296,19 +296,19 @@ Game | System
 [Tony Hawk's Pro Skater 2](#tony-hawks-pro-skater-2) | GBC
 [Tony Hawk's Pro Skater 3](#tony-hawks-pro-skater-3) | GBC
 [Top Gear Pocket 2](#top-gear-pocket-2) | GBC
-[True Lies](#true-lies) | GB
-[Turok 3 - Shadow of Oblivion](#turok-3---shadow-of-oblivion) | GBC
 [Trax](#trax) | GB
 [Trogday 2022](#trogday-2022) | GBC
 [Trouballs](#trouballs) | GBC
+[True Lies](#true-lies) | GB
+[Turok 3 - Shadow of Oblivion](#turok-3---shadow-of-oblivion) | GBC
 [Ultima - Runes of Virtue](#ultima---runes-of-virtue) | GB
 [Ultima - Runes of Virtue II](#ultima---runes-of-virtue-ii) | GB
 [Ultraman Ball](#ultraman-ball) | GB
 [V-Rally - Championship Edition](#v-rally---championship-edition) | GBC
 [Wacky Races](#wacky-races) | GBC
-[Wave Race](#wave-race) | GB
-[Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
 [Warlocked](#warlocked) | GBC
+[Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
+[Wave Race](#wave-race) | GB
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
 [Wetrix GB](#wetrix-gb) | GBC
 [Who Framed Rodger Rabbit?](#who-framed-rodger-rabbit) | GB
@@ -2813,6 +2813,15 @@ ROM MD5: `6a6931f6d1a6e60b4da9551e83b2742b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trogday2022.ips).
 
+## Trouballs
+
+This patch converts `Trouballs (U)` to the `.pocket` format.
+
+ROM MD5: `1b5e155ac68d2c7b89e49c5e1024b45c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trouballs.ips).
+
+
 ## True Lies
 
 This patch converts `True Lies (U,E)` to the `.pocket` format.
@@ -2828,14 +2837,6 @@ This patch converts `Turok 3 - Shadow of Oblivion (U,E)` to the `.pocket` format
 ROM MD5: `a9d2f36d6c2a334e0b2261c57c20f0d4`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Turok3.ips).
-
-## Trouballs
-
-This patch converts `Trouballs (U)` to the `.pocket` format.
-
-ROM MD5: `1b5e155ac68d2c7b89e49c5e1024b45c`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trouballs.ips).
 
 ## Ultima - Runes of Virtue
 
