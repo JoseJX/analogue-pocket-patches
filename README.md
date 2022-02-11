@@ -27,6 +27,7 @@ Game | System
 [Arcade Classic No. 1 - Asteroids and Missile Command](#arcade-classic-no-1---asteroids-and-missile-command) | GB
 [Arcade Classic No. 2 - Centipede and Millipede](#arcade-classic-no-2---centipede-and-millipede) | GB
 [Arcade Classic No. 3 - Galaga & Galaxian](#arcade-classic-no-3---galaga-and-galaxian) | GB
+[Arcade Classic No. 3 - Galaga & Galaxian DX](#arcade-classic-no-3---galaga-and-galaxian-dx) | GB
 [Asterix](#asterix) | GB
 [Asterix and Obelix](#asterix-and-obelix) | GBC
 [Astro Rabby](#astro-rabby) | GB
