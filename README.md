@@ -297,6 +297,7 @@ Game | System
 [Turok 3 - Shadow of Oblivion](#turok-3---shadow-of-oblivion) | GBC
 [Trax](#trax) | GB
 [Trogday 2022](#trogday-2022) | GBC
+[Trouballs](#trouballs) | GBC
 [Ultima - Runes of Virtue](#ultima---runes-of-virtue) | GB
 [Ultima - Runes of Virtue II](#ultima---runes-of-virtue-ii) | GB
 [Ultraman Ball](#ultraman-ball) | GB
@@ -2815,6 +2816,14 @@ This patch converts `Turok 3 - Shadow of Oblivion (U,E)` to the `.pocket` format
 ROM MD5: `a9d2f36d6c2a334e0b2261c57c20f0d4`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Turok3.ips).
+
+## Trouballs
+
+This patch converts `Trouballs (U)` to the `.pocket` format.
+
+ROM MD5: `1b5e155ac68d2c7b89e49c5e1024b45c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trouballs.ips).
 
 ## Ultima - Runes of Virtue
 
