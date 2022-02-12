@@ -135,6 +135,7 @@ Game | System
 [Grand Theft Auto 2](#grand-theft-auto-2) | GBC
 [Grandia - Parallel Trippers](#grandia---parallel-trippers) | GBC
 [Great Greed](#great-greed) | GB
+[Gremlins 2 - The New Batch](#gremlins-2---the-new-batch) | GB
 [Hammerin' Harry - Ghost Building Company](#hammerin-harry---ghost-building-company) | GB
 [Hamtaro - Ham-Hams Unite!](#hamtaro---ham-hams-unite) | GBC 
 [Harry Potter and the Chamber of Secrets](#harry-potter-and-the-chamber-of-secrets) | GBC
@@ -1398,6 +1399,14 @@ This patch converts `Great Greed (U)` to the `.pocket` format.
 ROM MD5: `b83f33f33ab52e0b7ee80715dbb8d415`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GreatGreed.ips).
+
+## Gremlins 2 - The New Batch
+
+This patch converts `Gremlins 2 - The New Batch (U,E)` to the `.pocket` format.
+
+ROM MD5: `f59dbce4cf5b51a5241806e1b35301fb`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gremlins2.ips).
 
 ## Hammerin' Harry - Ghost Building Company
 
