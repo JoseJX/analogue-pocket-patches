@@ -249,6 +249,7 @@ Game | System
 [Sheep It Up!](#sheep-it-up) | GB
 [Shin Megami Tensei Devil Children - Aka no Sho](#shin-megami-tensei-devil-children---aka-no-sho) | GBC
 [Shin Megami Tensei Devil Children - Kuro no Sho](#shin-megami-tensei-devil-children---kuro-no-sho) | GBC
+[Shin Megami Tensai Devil Children - Shiro no Sho](#shin-megami-tensai-devil-children---shiro-no-sho) | GBC
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
 [Smurfs](#smurfs) | GB
@@ -2402,6 +2403,14 @@ It is compatible with the [English translation patch](https://www.romhacking.net
 ROM MD5: `158691457cb7365cafbd0b7bb230fadf`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMTDC-Kuro.ips).
+
+## Shin Megami Tensai Devil Children - Shiro no Sho
+
+This patch converts `Shin Megami Tensai Devil Children - Shiro no Sho (J)` to the `.pocket` format.
+
+ROM MD5: `9354cc341aa23da3e29829da76b8888e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMTDC-Shiro.ips).
 
 ## Side Pocket
 
