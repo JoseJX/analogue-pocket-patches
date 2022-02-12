@@ -257,6 +257,7 @@ Game | System
 [Speedy Gonzales](#speedy-gonzales) | GB
 [Spider-Man](#spider-man) | GBC
 [Spider-Man 2 - The Sinister Six](#spider-man-2---the-sinister-six) | GBC
+[Spider-Man 3 - Invasion of the Spider-Slayers](#spider-man-3---invasion-of-the-spider-slayers) | GB
 [Spider-Man - X-Men](#spider-man---x-men) | GB
 [Spud's Adventure](#spuds-adventure) | GB
 [Spy vs Spy](#spy-vs-spy) | GBC
@@ -2461,6 +2462,14 @@ This patch converts `Spider-Man 2 - The Sinister Six (U,E)` to the `.pocket` for
 ROM MD5: `85bbad46380dffa631f8ce732e9c5d89`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpiderMan2.ips).
+
+## Spider-Man 3 - Invasion of the Spider-Slayers
+
+This patch converts `Spider-Man 3 - Invasion of the Spider-Slayers (U,E)` to the `.pocket` format.
+
+ROM MD5: `8833ae0fd3b4c47b8249a12708c98a98`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpiderMan3.ips).
 
 ## Spider-Man - X-Men
 
