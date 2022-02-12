@@ -247,6 +247,7 @@ Game | System
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
 [Scooby-Doo! Classic Creep Capers](#scooby-doo-classic-creep-capers) | GBC
 [Sheep It Up!](#sheep-it-up) | GB
+[Shin Megami Tensei Devil Children - Aka no Sho](#shin-megami-tensei-devil-children---aka-no-sho) | GBC
 [Shin Megami Tensei Devil Children - Kuro no Sho](#shin-megami-tensei-devil-children---kuro-no-sho) | GBC
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
@@ -2384,6 +2385,14 @@ ROM MD5: `6d22cab0cbb831bc64abf4f5bad464ff`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SheepItUp.ips).
 
+## Shin Megami Tensei Devil Children - Aka no Sho
+
+This patch converts `Shin Megami Tensei Devil Children - Aka no Sho (J)` to the `.pocket` format.
+
+ROM MD5: `3d04e5c70919118ef6e7cb69dae14b10`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMTDC-Aka.ips).
+
 ## Shin Megami Tensei Devil Children - Kuro no Sho
 
 This patch converts `Shin Megami Tensei Devil Children - Kuro no Sho (J)` to the `.pocket` format.
@@ -2393,7 +2402,6 @@ It is compatible with the [English translation patch](https://www.romhacking.net
 ROM MD5: `158691457cb7365cafbd0b7bb230fadf`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMTDC-Kuro.ips).
-
 
 ## Side Pocket
 
