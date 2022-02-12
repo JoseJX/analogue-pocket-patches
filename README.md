@@ -217,6 +217,7 @@ Game | System
 [Picross 2](#picross-2) | GB
 [Pipe Dream](#pipe-dream) | GB
 [Pocket Bomberman](#pocket-bomberman) | GBC
+[Pocket Monsters - Crystal Version (VN)](#pocket-monsters---crystal-version-vn) | GBC
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
 [Popeye 2](#popeye-2) | GB
@@ -2125,6 +2126,14 @@ This patch converts `Pocket Bomberman (U,E)` to the `.pocket` format.
 ROM MD5: `2f6b6379f8c7ce5d66a198162f345eaa`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketBomberman.ips).
+
+## Pocket Monsters - Crystal Version (VN)
+
+This patch converts `Pocket Monsters - Crystal Version (VN)` to the `.pocket` format
+
+ROM MD5: `da3a0c2b387b04209a90338a577d7c80`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketMonstersCrystalVN.ips).
 
 ## Pokemon Puzzle Challenge
 
