@@ -145,6 +145,7 @@ Game | System
 [Hexcite - The Shapes of Victory](#hexcite---the-shapes-of-victory) | GBC
 [Humans](#humans) | GB
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
+[International Track and Field](#international-track-and-field) | GBC
 [Ishido - The Way of Stones](#ishido---the-way-of-stones) | GB
 [Itchy & Scratchy in Miniature Golf Madness](#itchy--scratchy-in-miniature-golf-madness) | GB
 [James Bond 007](#james-bond-007) | GB
@@ -1497,6 +1498,14 @@ Copy the resulting `game.pocket` file to your SD card. Repeat this process for e
 ROM MD5: `65a5a0cb3c339ec473053c64c2218ab9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/INFGMB.ips).
+
+## International Track and Field
+
+This patch converts `International Track and Field (U)` to the `.pocket` format.
+
+ROM MD5: `f855638ad74a7b31cca5786a32bb8868`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/IntlTrackField.ips).
 
 ## Ishido - The Way of Stones
 
