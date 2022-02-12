@@ -200,6 +200,7 @@ Game | System
 [Mighty Morphin Power Rangers - The Movie](#mighty-morphin-power-rangers---the-movie) | GB
 [Miner 2049er Starring Bounty Bob](#miner-2049er-starring-bounty-bob) | GB
 [Mole Mania](#mole-mania) | GB
+[Monster Max](#monster-max) | GB
 [Monster Rancher Battle Card GB](#monster-rancher-battle-card-gb) | GBC
 [Monster Rancher Explorer](#monster-rancher-explorer) | GBC
 [Mortal Kombat](#mortal-kombat) | GB
@@ -1980,6 +1981,14 @@ It has been updated again for another missed register access. (2021/12/30)
 ROM MD5: `f28ade3926852a8ad2e449c274683956`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MoleMania.ips).
+
+## Monster Max
+
+This patch converts `Monster Max (E)` to the `.pocket` format.
+
+ROM MD5: `261ec744fcf7a4eb5a6025c48c0538a3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonsterMax.ips).
 
 ## Monster Rancher Battle Card GB
 
