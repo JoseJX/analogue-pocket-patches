@@ -232,6 +232,7 @@ Game | System
 [Puzzle Master](#puzzle-master) | GBC
 [Pyramids of Ra](#pyramids-of-ra) | GB
 [QIX](#qix) | GB
+[QIX Adventure](#qix-adventure) | GBC
 [Rampage World Tour](#rampage-world-tour) | GBC
 [Rats!](#rats) | GBC
 [Ren and Stimpy Show - Space Cadet Adventures](#ren-and-stimpy-show---space-cadet-adventures) | GB
@@ -2256,6 +2257,14 @@ This patch converts `QIX (W)` to the `.pocket` format.
 ROM MD5: `1c94dccdfaaa0c3e1d6bda5969704885`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/QIX.ips).
+
+## QIX Adventure
+
+This patch converts `QIX Adventure (E)` to the `.pocket` format.
+
+ROM MD5: `95b284df7ba2f862406f747b4ca7c380`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/QIXAdventure.ips).
 
 ## Rampage World Tour
 
