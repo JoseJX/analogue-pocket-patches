@@ -301,6 +301,7 @@ Game | System
 [Teenage Mutant Ninja Turtles III - Radical Rescue](#teenage-mutant-ninja-turtles-iii---radical-rescue) | GB
 [Tennis](#tennis) | GB
 [Terminator 2 - Judgement Day](#terminator-2---judgement-day) | GB
+[Tesserae](#tesserae) | GB
 [Tetris 2](#tetris-2) | GB
 [Tetris Attack](#tetris-attack) | GB
 [Tetris Blast](#tetris-blast) | GB
@@ -2857,6 +2858,14 @@ This patch converts `Terminator 2 - Judgement Day (U,E)` to the `.pocket` format
 ROM MD5: `133ae23114bf442fef6acccd1b8e187a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Terminator2.ips).
+
+## Tesserae
+
+This patch converts `Tesserae (U)` to the `.pocket` format.
+
+ROM MD5: `95517367dd10f6476bcb39a2329ef55a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tesserae.ips).
 
 ## Tetris 2
 
