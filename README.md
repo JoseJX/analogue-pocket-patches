@@ -95,6 +95,7 @@ Game | System
 [Deja Vu I & II: The Casebooks of Ace Harding](#deja-vu-i--ii-the-casebooks-of-ace-harding) | GBC
 [Denki Blocks!](#denki-blocks) | GBC
 [Dennis the Menace](#dennis-the-menace) | GB
+[Densha De Go! 2](#densha-de-go-2) | GBC
 [Dexterity](#dexterity) | GB
 [Donald Duck - Goin' Quackers](#donald-duck---goin-quackers) | GBC
 [Donkey Kong Land](#donkey-kong-land) | GB
@@ -1088,6 +1089,14 @@ This patch converts `Dennis the Menace (U)` to the `.pocket` format.
 ROM MD5: `f064bd662fdcb40a9f6926cc3baee116`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DennisTheMenace.ips).
+
+## Densha De Go! 2
+
+This patch converts `Densha De Go! 2 (J)` to the `.pocket` format.
+
+ROM MD5: `ab58102005b510a2d905ed7de9d6267a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DenshaDeGo2.ips).
 
 ## Dexterity
 
