@@ -56,6 +56,7 @@ Game | System
 [Bionic Commando](#bionic-commando) | GB
 [Bionic Commando - Elite Forces](#bionic-commando---elite-forces) | GBC
 [Blades of Steel](#blades-of-steel) | GB
+[Bomberman Quest](#bomberman-quest) | GBC
 [Bonk's Adventure](#bonks-adventure) | GB
 [Bonk's Revenge](#bonks-revenge) | GB
 [Brain Bender](#brain-bender) | GB
@@ -766,6 +767,14 @@ NOTE: After selecting a menu option, press the buttons a bunch, it seems to get 
 ROM MD5: `302caa3ceddccc5fba36787b44d25da7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BladesOfSteel.ips).
+
+## Bomberman Quest
+
+This patch converts `Bomberman Quest (U)` to the `.pocket` format.
+
+ROM MD5: `ad358f284c3303db01212016ed3944d5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanQuest.ips).
 
 ## Bonk's Adventure
 
