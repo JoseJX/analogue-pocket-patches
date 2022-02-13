@@ -243,6 +243,7 @@ Game | System
 [Power Racer](#power-racer) | GB
 [Prehistorik Man](#prehistorik-man) | GB
 [Primal Rage](#primal-rage) | GB
+[Prince of Persia (1992)](#prince-of-persia-1992) | GB
 [Prince of Persia](#prince-of-persia) | GBC
 [Puzzle Master](#puzzle-master) | GBC
 [Pyramids of Ra](#pyramids-of-ra) | GB
@@ -2378,9 +2379,21 @@ ROM MD5: `64f43161eb16eb1be99262c36867bc79`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PrehistorikMan.ips).
 
+## Prince of Persia (1992)
+
+This patch converts `Prince of Persia (1992) (U)` to the `.pocket` format.
+
+This is the GB version.
+
+ROM MD5: `80034da43f35307291714ae2553d9ddf`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PrinceOfPersia1992.ips).
+
 ## Prince of Persia
 
 This patch converts `Prince of Persia (U,E)` to the `.pocket` format.
+
+This is the GBC version.
 
 ROM MD5: `afeec69d5ba3afa3ce2279fcda944576`
 
