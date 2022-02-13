@@ -189,6 +189,8 @@ Game | System
 [Marble Madness (GBC)](#marble-madness-color) | GBC
 [Mario's Picross](#marios-picross) | GB
 [Mario no Picross](#mario-no-picross) | GB
+[Medarot - Kabuto Version](#medarot---kabuto-version) | GB
+[Medarot - Kabuto Version (English Patch)](#medarot---kabuto-version-english-patch) | GB
 [Mega Man - Dr. Wily's Revenge](#mega-man---dr-wilys-revenge) | GB
 [Mega Man II](#mega-man-ii) | GB
 [Mega Man III](#mega-man-iii) | GB
@@ -1895,6 +1897,24 @@ This is the Japanese version of `Mario's Picross`.
 ROM MD5: `defe3559ef5e8d69ca95289edb6f9f6e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioNoPicross.ips).
+
+## Medarot - Kabuto Version
+
+This patch converts `Medarot - Kabuto Version (J)` to the `.pocket` format.
+
+ROM MD5: `78c568cbfff6314b1416880d9efaeca6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKabuto.ips).
+
+## Medarot - Kabuto Version (English Patch)
+
+This patch converts `Medarot - Kabuto Version (J)` with the [English Translation patch](https://www.romhacking.net/translations/5792/) to the `.pocket` format.
+
+The translation patch must be applied to the Japanese ROM before applying the `.pocket` patch, the MD5 below is for the translation patched ROM.
+
+ROM MD5: `750b777eb1ea2ec167980158061f916f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKabuto-Eng.ips).
 
 ## Mega Man - Dr. Wily's Revenge
 
