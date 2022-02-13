@@ -2351,6 +2351,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Pop'n TwinBee (E)` to the `.pocket` format.
 
+It was updated to fix a crash after game over. (2022/02/13)
+
 ROM MD5: `05d5cf3404868efc22ac06e22ab5ba89`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PopnTwinBee.ips).
