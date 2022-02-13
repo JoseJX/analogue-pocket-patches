@@ -30,6 +30,7 @@ Game | System
 [Arcade Classic No. 3 - Galaga & Galaxian DX](#arcade-classic-no-3---galaga-and-galaxian-dx) | GB
 [Asterix](#asterix) | GB
 [Asterix and Obelix](#asterix-and-obelix) | GBC
+[Asterix and Obelix vs. Caesar](#asterix-and-obelix-vs-caesar) | GBC
 [Astro Rabby](#astro-rabby) | GB
 [Atomic Punk](#atomic-punk) | GB
 [Balloon Kid](#balloon-kid) | GB
@@ -530,6 +531,14 @@ This patch converts `Asterix and Obelix (E)` to the `.pocket` format.
 ROM MD5: `6efc4c27d06564f9000667c029ad02a3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AsterxObelix.ips).
+
+## Asterix and Obelix vs. Caesar
+
+This patch converts `Asterix and Obelix vs. Caesar (E)` to the `.pocket` format.
+
+ROM MD5: `b7d6335b8d3a34b15ce0b631bb9731a2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AsterixObelixCaesar.ips).
 
 ## Astro Rabby
 
