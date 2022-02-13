@@ -2062,7 +2062,11 @@ This patch converts `Motocross Maniacs 2 (U)` to the `.pocket` format.
 
 This patch was updated to fix a missing conversion. (2021/12/31)
 
-ROM MD5: `4d08e5553356aecd728b5ef7d78ee261`
+US MD5: `4d08e5553356aecd728b5ef7d78ee261`
+
+This patch also applies to `Crazy Bikers (E)`.
+
+European MD5: `d6311339384cb70c35975c8d30a1cd98`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Motocross2.ips).
 
