@@ -266,6 +266,7 @@ Game | System
 [Space Marauder](#space-marauder) | GBC
 [Space Station Silicon Valley](#space-station-silicon-valley) | GBC
 [Spanky's Quest](#spankys-quest) | GB
+[Spawn](#spawn) | GBC
 [Speedy Gonzales](#speedy-gonzales) | GB
 [Spider-Man](#spider-man) | GBC
 [Spider-Man 2 - The Sinister Six](#spider-man-2---the-sinister-six) | GBC
@@ -2552,6 +2553,14 @@ This patch converts `Spanky's Quest (U)` to the `.pocket` format.
 ROM MD5: `3c268409bf6869a8707839a7dd1ee1c7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpankysQuest.ips).
+
+## Spawn
+
+This patch converts `Spawn (U)` to the `.pocket` format.
+
+ROM MD5: `febd6cdb9f12b6003d7ef33045ef7079`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Spawn.ips).
 
 ## Speedy Gonzales
 
