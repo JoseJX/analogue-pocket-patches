@@ -191,6 +191,8 @@ Game | System
 [Mario no Picross](#mario-no-picross) | GB
 [Medarot - Kabuto Version](#medarot---kabuto-version) | GB
 [Medarot - Kabuto Version (English Patch)](#medarot---kabuto-version-english-patch) | GB
+[Medarot - Kuwagata Version](#medarot---kuwagata-version) | GB
+[Medarot - Kuwagata Version (English Patch)](#medarot---kuwagata-version-english-patch) | GB
 [Mega Man - Dr. Wily's Revenge](#mega-man---dr-wilys-revenge) | GB
 [Mega Man II](#mega-man-ii) | GB
 [Mega Man III](#mega-man-iii) | GB
@@ -1915,6 +1917,24 @@ The translation patch must be applied to the Japanese ROM before applying the `.
 ROM MD5: `750b777eb1ea2ec167980158061f916f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKabuto-Eng.ips).
+
+## Medarot - Kuwagata Version
+
+This patch converts `Medarot - Kuwagata Version (J)` to the `.pocket` format.
+
+ROM MD5: `a9c9d6b6759c28f2b3986717f4df2f98`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKuwagata.ips).
+
+## Medarot - Kuwagata Version (English Patch)
+
+This patch converts `Medarot - Kuwagata Version (J)` with the [English Translation patch](https://www.romhacking.net/translations/5792/) to the `.pocket` format.
+
+The translation patch must be applied to the Japanese ROM before applying the `.pocket` patch, the MD5 below is for the translation patched ROM.
+
+ROM MD5: `95abb80a0a8aae30faa7c107bb1ca44e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKuwagata-Eng.ips).
 
 ## Mega Man - Dr. Wily's Revenge
 
