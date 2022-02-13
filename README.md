@@ -123,6 +123,7 @@ Game | System
 [Final Fantasy Legend III](#final-fantasy-legend-iii) | GB
 [Flintstones](#flintstones) | GB
 [Flintstones - King Rock Treasure Island](#flintstones---king-rock-treasure-island) | GB
+[Flipull](#flipull) | GB
 [Fortified Zone](#fortified-zone) | GB
 [Game & Watch Gallery](#game--watch-gallery) | GB
 [Game & Watch Gallery 2](#game--watch-gallery-2) | GBC
@@ -1328,6 +1329,14 @@ This patch converts `Flintstones - King Rock Treasure Island (U,E)` to the `.poc
 ROM MD5: `25dfaca5120462af05532aaf4756776a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FlintstonesKingRock.ips).
+
+## Flipull
+
+This patch converts `Flipull (U)` to the `.pocket` format.
+
+ROM MD5: `4fcc13db8144687e6b28200387aed25c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Flipull.ips).
 
 ## Fortified Zone
 
