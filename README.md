@@ -280,6 +280,7 @@ Game | System
 [Star Wars](#star-wars) | GB
 [Star Wars Episode I - Obi-Wan's Adventures](#star-wars-episode-i---obi-wans-adventures) | GBC
 [Star Wars Episode I - Racer](#star-wars-episode-i---racer) | GBC
+[Stop That Roach!](#stop-that-roach) | GB
 [Street Fighter Alpha - Warriors' Dreams](#street-fighter-alpha---warriors-dreams) | GBC
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
@@ -2669,6 +2670,14 @@ This patch converts `Star Wars Episode I - Racer (U,E)` to the `.pocket` format.
 ROM MD5: `d1e875cb7dac0092e83b9e7799b06653`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWarsEp1Racer.ips).
+
+## Stop That Roach!
+
+This patch converts `Stop That Roach! (U)` to the `.pocket` format
+
+ROM MD5: `1a316519500424ae9a2649746c4c83ab`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StopThatRoach.ips).
 
 ## Street Fighter Alpha - Warriors' Dreams
 
