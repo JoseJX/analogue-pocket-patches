@@ -18,6 +18,7 @@ Game | System
 [Alfred Chicken](#alfred-chicken) | GB
 [Alien 3](#alien-3) | GB
 [Alleyway](#alleyway) | GB
+[Alleyway DX](#alleyway-dx) | GBC
 [Alone in the Dark - The New Nightmare](#alone-in-the-dark---the-new-nightmare) | GBC
 [Amazing Penguin](#amazing-penguin) | GB
 [Amazing Spider-Man](#amazing-spider-man) | GB
@@ -435,6 +436,16 @@ This was updated to fix an error on boot. (2021/12/31)
 ROM MD5: `91128778a332495f77699eaf3a37fe30`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Alleyway.ips).
+
+## Alleyway DX
+
+This patch converts the `Alleyway DX` ROM hack to the `.pocket` format.
+
+First, apply the [Alleyway DX patch](https://www.romhacking.net/download/hacks/6510/) to the Alleyway ROM, then apply the provided patch to convert to `.pocket` format. The MD5 shown here is the MD5 of the ROM after applying the Alleyway DX patch.
+
+ROM MD5: `72c44e5ac726ed8f23efbc6c30e60f1b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AlleywayDX.ips).
 
 ## Alone in the Dark - The New Nightmare
 
