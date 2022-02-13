@@ -34,6 +34,7 @@ Game | System
 [Atomic Punk](#atomic-punk) | GB
 [Balloon Kid](#balloon-kid) | GB
 [Banishing Racer](#banishing-racer) | GB
+[Bart and the Beanstalk](#bart-and-the-beanstalk) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
 [Bart vs. the Juggernauts](#bart-vs-the-juggernauts) | GB
 [Batman - The Animated Series](#batman---the-animated-series) | GB
@@ -563,6 +564,18 @@ Updated to fix a crash bug when getting the free life in 2-3. (2022/01/08)
 ROM MD5: `8fdffb08770609255ec3cd314f79f976`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BanishingRacer.ips).
+
+## Bart and the Beanstalk
+
+This patch converts `Bart and the Beanstalk (U,E)` to the `.pocket` format.
+
+US ROM MD5: `19058077b12ac22580aae17b3dd1233f`
+
+It is also compatible with `Bart no Jack to Mame no Ki` (J).
+
+JAPAN ROM MD5: `1d5e05159b0ac6a5119bd6f743c7eb9e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BartBeanstalk.ips).
 
 ## Bart Simpson's Escape from Camp Deadly
 
