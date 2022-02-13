@@ -31,6 +31,7 @@ Game | System
 [Asterix](#asterix) | GB
 [Asterix and Obelix](#asterix-and-obelix) | GBC
 [Asterix and Obelix vs. Caesar](#asterix-and-obelix-vs-caesar) | GBC
+[Asterix - Search for Dogmatix](#asterix---search-for-dogmatix) | GBC
 [Astro Rabby](#astro-rabby) | GB
 [Atomic Punk](#atomic-punk) | GB
 [Balloon Kid](#balloon-kid) | GB
@@ -539,6 +540,14 @@ This patch converts `Asterix and Obelix vs. Caesar (E)` to the `.pocket` format.
 ROM MD5: `b7d6335b8d3a34b15ce0b631bb9731a2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AsterixObelixCaesar.ips).
+
+## Asterix - Search for Dogmatix
+
+This patch converts `Asterix - Search for Dogmatix (U,E)` to the `.pocket` format.
+
+ROM MD5: `1faa6e2a7ec92b95ce32fa2682038b9b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AsterixDogmatix.ips).
 
 ## Astro Rabby
 
