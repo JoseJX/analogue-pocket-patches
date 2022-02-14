@@ -347,6 +347,7 @@ Game | System
 [Wizardry I - Proving Grounds of the Mad Overlord](#wizardry-i---proving-grounds-of-the-mad-overlord) | GBC
 [Wordtris](#wordtris) | GB
 [WordZap](#wordzap) | GB
+[World Beach Volley - 1992 GB Cup](#world-beach-volley---1992-gb-cup) | GB
 [World Heroes 2 Jet](#world-heroes-2-jet) | GB
 [Worms](#worms) | GB
 [WWF - Betrayal](#wwf---betrayal) | GBC
@@ -3266,6 +3267,14 @@ This patch converts `WordZap (U)` to the `.pocket` format.
 ROM MD5: `e9ab23a96409060054a05344b536b33c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WordZap.ips).
+
+## World Beach Volley - 1992 GB Cup
+
+This patch converts `World Beach Volley - 1992 GB Cup (E)` to the `.pocket` format.
+
+ROM MD5: `54cdfd90c8038846714643b2a68c6bb8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WorldBeachVolley.ips).
 
 ## World Heroes 2 Jet
 
