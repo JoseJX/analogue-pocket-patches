@@ -351,6 +351,7 @@ Game | System
 [Worms](#worms) | GB
 [WWF - Betrayal](#wwf---betrayal) | GBC
 [WWF - Superstars](#wwf---superstars) | GB
+[WWF - Superstars 2](#wwf---superstars-2) | GB
 [Xenon 2 - Megablast](#xenon-2---megablast) | GB
 [X-Men - Mutant Academy](#x-men---mutant-academy) | GBC
 [X-Men - Wolverine's Rage](#x-men---wolverines-rage) | GBC
@@ -3294,6 +3295,14 @@ This patch converts `WWF - Superstars (U,E)` to the `.pocket` format.
 ROM MD5: `ba544265b8d949cf35984cd23af63da8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWFSuperStars.ips).
+
+## WWF - Superstars 2
+
+This patch converts `WWF - Superstars 2 (U,E)` to the `.pocket` format.
+
+ROM MD5: `07006fe2f7363d475e34fbf63e4e94d1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWFSuperStars2.ips).
 
 ## Xenon 2 - Megablast
 
