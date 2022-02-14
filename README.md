@@ -350,6 +350,7 @@ Game | System
 [World Heroes 2 Jet](#world-heroes-2-jet) | GB
 [Worms](#worms) | GB
 [WWF - Betrayal](#wwf---betrayal) | GBC
+[WWF - Superstars](#wwf---superstars) | GB
 [Xenon 2 - Megablast](#xenon-2---megablast) | GB
 [X-Men - Mutant Academy](#x-men---mutant-academy) | GBC
 [X-Men - Wolverine's Rage](#x-men---wolverines-rage) | GBC
@@ -3285,6 +3286,14 @@ This patch converts `WWF - Betrayal (U,E)` to the `.pocket` format.
 ROM MD5: `f270519e6357bc32fd07fc6386e14dec`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWF-Betrayal.ips).
+
+## WWF - Superstars
+
+This patch converts `WWF - Superstars (U,E)` to the `.pocket` format.
+
+ROM MD5: `ba544265b8d949cf35984cd23af63da8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWFSuperStars.ips).
 
 ## Xenon 2 - Megablast
 
