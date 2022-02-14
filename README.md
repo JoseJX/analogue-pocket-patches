@@ -352,6 +352,7 @@ Game | System
 [WWF - Betrayal](#wwf---betrayal) | GBC
 [WWF - Superstars](#wwf---superstars) | GB
 [WWF - Superstars 2](#wwf---superstars-2) | GB
+[WWF - War Zone](#wwf---war-zone) | GB
 [WWF - WrestleMania 2000](#wwf---wrestlemania-2000) | GBC
 [Xenon 2 - Megablast](#xenon-2---megablast) | GB
 [X-Men - Mutant Academy](#x-men---mutant-academy) | GBC
@@ -3304,6 +3305,14 @@ This patch converts `WWF - Superstars 2 (U,E)` to the `.pocket` format.
 ROM MD5: `07006fe2f7363d475e34fbf63e4e94d1`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWFSuperStars2.ips).
+
+## WWF - War Zone
+
+This patch converts `WWF - War Zone (U,E)` to the `.pocket` format.
+
+ROM MD5: `4f99d49908e027125473445ea1937817`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWFWarZone.ips).
 
 ## WWF - WrestleMania 2000
 
