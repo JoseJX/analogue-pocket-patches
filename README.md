@@ -213,6 +213,7 @@ Game | System
 [Mickey's Speedway USA](#mickeys-speedway-usa) | GBC
 [Mighty Morphin Power Rangers - The Movie](#mighty-morphin-power-rangers---the-movie) | GB
 [Miner 2049er Starring Bounty Bob](#miner-2049er-starring-bounty-bob) | GB
+[Mobile Golf](#mobile-golf) | GBC
 [Mole Mania](#mole-mania) | GB
 [Monster Max](#monster-max) | GB
 [Monster Rancher Battle Card GB](#monster-rancher-battle-card-gb) | GBC
@@ -2117,6 +2118,16 @@ This patch converts `Miner 2049er Starring Bounty Bob (U)` to the `.pocket` form
 ROM MD5: `e5eba5278bbc6e5f040649afe98a0af4`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Miner2049er.ips).
+
+## Mobile Golf
+
+This patch converts `Mobile Golf (J)` to the `.pocket` format.
+
+It is compatible with the [English translation patch](http://www.romhacking.net/translations/6236/).
+
+ROM MD5: `fbf1ffe76883dffcca299228c81f171f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MobileGolf.ips).
 
 ## Mole Mania
 
