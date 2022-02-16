@@ -371,6 +371,7 @@ Game | System
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
 [Yu-Gi-Oh! - Dark Duel Stories](#yu-gi-oh---dark-duel-stories) | GBC
+[Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories](#yu-gi-oh-duel-monsters-ii---dark-duel-stories) | GBC
 [Zool - Ninja of the N'th Dimension](#zool---ninja-of-the-nth-dimension) | GB
 [Zoop](#zoop) | GB
 
@@ -3469,6 +3470,14 @@ This patch converts `Yu-Gi-Oh! - Dark Duel Stories (U)` to the `.pocket` format.
 ROM MD5: `c30add585d87114288ff8e3726c5381b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YuGiOh-DDS.ips).
+
+## Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories
+
+This patch converts `Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (J)` to the `.pocket` format.
+
+ROM MD5: `782b88b1bf9768a2b1b139177a0c1c33`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YuGiOh-DDS2.ips).
 
 ## Zool - Ninja of the N'th Dimension
 
