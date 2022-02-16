@@ -156,6 +156,7 @@ Game | System
 [Humans](#humans) | GB
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
 [International Track and Field](#international-track-and-field) | GBC
+[International Track and Field - Summer Games](#international-track-and-field---summer-games) | GBC
 [Ishido - The Way of Stones](#ishido---the-way-of-stones) | GB
 [Itchy & Scratchy in Miniature Golf Madness](#itchy--scratchy-in-miniature-golf-madness) | GB
 [James Bond 007](#james-bond-007) | GB
@@ -1620,6 +1621,14 @@ This patch converts `International Track and Field (U)` to the `.pocket` format.
 ROM MD5: `f855638ad74a7b31cca5786a32bb8868`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/IntlTrackField.ips).
+
+## International Track and Field - Summer Games
+
+This patch converts `International Track and Field - Summer Games (E)` to the `.pocket` format.
+
+ROM MD5: `b9795b5d6397d36c1666c3a0bada059f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/IntlTrackField-Summer.ips).
 
 ## Ishido - The Way of Stones
 
