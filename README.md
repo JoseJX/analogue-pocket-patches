@@ -167,6 +167,7 @@ Game | System
 [James Bond 007](#james-bond-007) | GB
 [John Madden Football](#john-madden-football) | GB
 [Judge Dredd](#judge-dredd) | GB
+[Jurassic Park](#jurassic-park) | GB
 [Kaeru no Tame ni Kane wa Naru](#kaeru-no-tame-ni-kane-wa-naru) | GB
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
@@ -1718,6 +1719,14 @@ This patch converts `Judge Dredd (U,E)` to the `.pocket` format.
 ROM MD5: `7e9d69eacd6b4c82527065bcf63e474b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JudgeDredd.ips).
+
+## Jurassic Park
+
+This patch converts `Jurassic Park (U)` to the `.pocket` format.
+
+ROM MD5: `d11d2dc76c6d743c3cc791104a2bdae2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JurassicPark.ips).
 
 ## Kaeru no Tame ni Kane wa Naru
 
