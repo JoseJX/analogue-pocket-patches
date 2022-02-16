@@ -155,6 +155,7 @@ Game | System
 [Harry Potter and the Chamber of Secrets](#harry-potter-and-the-chamber-of-secrets) | GBC
 [Harry Potter and the Sorcerer's Stone](#harry-potter-and-the-sorcerers-stone) | GBC
 [Hercules](#hercules) | GB
+[Hercules - The Legendary Journey](#hercules---the-legendary-journey) | GBC
 [Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
 [Hexcite - The Shapes of Victory](#hexcite---the-shapes-of-victory) | GBC
 [Humans](#humans) | GB
@@ -1610,6 +1611,14 @@ This patch converts `Hercules (U,E)` to the `.pocket` format.
 ROM MD5: `abd4baa57f0b90b402c2e56090394f9e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hercules.ips).
+
+## Hercules - The Legendary Journey
+
+This patch converts `Hercules - The Legendary Journey (E)` to the `.pocket` format.
+
+ROM MD5: `d69fdc8dafd38ab4f48cc6a6b8fa1df9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HerculesJourneys.ips).
 
 ## Heroes of Might and Magic 2
 
