@@ -116,6 +116,7 @@ Game | System
 [Earthworm Jim](#earthworm-jim) | GB
 [Earthworm Jim - Menace 2 the Galaxy](#earthworm-jim---menace-2-the-galaxy) | GBC
 [Elevator Action EX](#elevator-action-ex) | GBC
+[Extra Bases!](#extra-bases) | GB
 [F-1 Race](#f-1-race) | GB
 [Faceball 2000](#faceball-2000) | GB
 [Felix the Cat](#felix-the-cat) | GB
@@ -1284,6 +1285,14 @@ This patch converts `Elevator Action EX (E)` to the `.pocket` format.
 ROM MD5: `f88959b615f284cc120cd17f5263d018`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ElevatorActionEX.ips).
+
+## Extra Bases!
+
+This patch converts `Extra Bases! (U)` to the `.pocket` format.
+
+ROM MD5: `857fdafb5ababd641cc832cfb8fabd58`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ExtraBases.ips).
 
 ## F-1 Race
 
