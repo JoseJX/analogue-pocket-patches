@@ -127,6 +127,7 @@ Game | System
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
 [Final Fantasy Legend III](#final-fantasy-legend-iii) | GB
 [Flintstones](#flintstones) | GB
+[Flintstones - Burgertime in Bedrock](#flintstones---burgertime-in-bedrock) | GBC
 [Flintstones - King Rock Treasure Island](#flintstones---king-rock-treasure-island) | GB
 [Flipull](#flipull) | GB
 [Fortified Zone](#fortified-zone) | GB
@@ -1384,6 +1385,14 @@ This patch converts `Flintstones (U,E)` to the `.pocket` format.
 ROM MD5: `f07ed24e96f84ce78787709f248263c8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Flintstones.ips).
+
+## Flintstones - Burgertime in Bedrock
+
+This patch converts `Flintstones - Burgertime in Bedrock (U)` to the `.pocket` format.
+
+ROM MD5: `50e6d9d88450932743161b7512838ccc`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FlintstonesBurgertime.ips).
 
 ## Flintstones - King Rock Treasure Island
 
