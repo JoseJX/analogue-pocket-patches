@@ -76,6 +76,7 @@ Game | System
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
 [Catrap](#catrap) | GB
 [Chessmaster](#chessmaster) | GB
+[Choplifter II - Rescue and Survive](#choplifter-ii---rescue-and-survive) | GB
 [Commander Keen](#commander-keen) | GBC
 [Conker's Pocket Tales](#conkers-pocket-tales) | GBC
 [Contra III - Alien Wars](#contra-iii---alien-wars) | GB
@@ -943,6 +944,14 @@ This patch converts `Chessmaster (U)` to the `.pocket` format.
 ROM MD5: `3db9f9f0c5913d3c9f7b5d5fbf7b5e02`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Chessmaster.ips).
+
+## Choplifter II - Rescue and Survive
+
+This patch converts `Choplifter II - Rescue and Survive (U)` to the `.pocket` format.
+
+ROM MD5: `d5f88d0799c85b6d59f12542da403691`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Choplifter2.ips).
 
 ## Commander Keen
 
