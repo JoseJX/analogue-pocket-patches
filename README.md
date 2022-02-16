@@ -168,6 +168,7 @@ Game | System
 [John Madden Football](#john-madden-football) | GB
 [Judge Dredd](#judge-dredd) | GB
 [Jurassic Park](#jurassic-park) | GB
+[Jurassic Park (E)](#jurassic-park-e) | GB
 [Kaeru no Tame ni Kane wa Naru](#kaeru-no-tame-ni-kane-wa-naru) | GB
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
@@ -1727,6 +1728,15 @@ This patch converts `Jurassic Park (U)` to the `.pocket` format.
 ROM MD5: `d11d2dc76c6d743c3cc791104a2bdae2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JurassicPark.ips).
+[Jurassic Park (E)](#jurassic-park-e) | GB
+
+## Jurassic Park (E)
+
+This patch converts `Jurassic Park (E)` to the `.pocket` format.
+
+ROM MD5: `7173cecc94bcdb7aeb7240ae87491044`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JurassicParkE.ips).
 
 ## Kaeru no Tame ni Kane wa Naru
 
