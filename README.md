@@ -257,6 +257,7 @@ Game | System
 [QIX Adventure](#qix-adventure) | GBC
 [Rampage World Tour](#rampage-world-tour) | GBC
 [Rats!](#rats) | GBC
+[Real Ghostbusters](#real-ghostbusters) | GB
 [Ren and Stimpy Show - Space Cadet Adventures](#ren-and-stimpy-show---space-cadet-adventures) | GB
 [Ren and Stimpy Show - The Veediots!](#ren-and-stimpy-show---the-veediots) | GB
 [Return of the Ninja](#return-of-the-ninja) | GBC
@@ -2510,6 +2511,14 @@ This patch converts `Rats! (U)` to the `.pocket` format. This game is also known
 ROM MD5: `d240328faacf5583804a30b7003743b3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rats.ips).
+
+## Real Ghostbusters
+
+This patch converts `Real Ghostbusters (U)` to the `.pocket` format.
+
+ROM MD5: `bbca91d6bc19cda45c706046b6e854e6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RealGhostbusters.ips).
 
 ## Ren and Stimpy Show - Space Cadet Adventures
 
