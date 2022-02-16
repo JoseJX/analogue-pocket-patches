@@ -159,6 +159,7 @@ Game | System
 [Hexcite - The Shapes of Victory](#hexcite---the-shapes-of-victory) | GBC
 [Humans](#humans) | GB
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
+[International Karate 2000](#international-karate-2000) | GBC
 [International Track and Field](#international-track-and-field) | GBC
 [International Track and Field - Summer Games](#international-track-and-field---summer-games) | GBC
 [Ishido - The Way of Stones](#ishido---the-way-of-stones) | GB
@@ -1650,6 +1651,14 @@ Copy the resulting `game.pocket` file to your SD card. Repeat this process for e
 ROM MD5: `65a5a0cb3c339ec473053c64c2218ab9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/INFGMB.ips).
+
+## International Karate 2000
+
+This patch converts `International Karate 2000 (E)` to the `.pocket` format.
+
+ROM MD5: `86c1b5f04495e22eedbec15e1a320ff3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/IntlKarate2K.ips).
 
 ## International Track and Field
 
