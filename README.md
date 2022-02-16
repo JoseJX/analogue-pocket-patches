@@ -202,6 +202,7 @@ Game | System
 [Marble Madness (GBC)](#marble-madness-color) | GBC
 [Mario's Picross](#marios-picross) | GB
 [Mario no Picross](#mario-no-picross) | GB
+[Max](#max) | GB
 [Medarot - Kabuto Version](#medarot---kabuto-version) | GB
 [Medarot - Kabuto Version (English Patch)](#medarot---kabuto-version-english-patch) | GB
 [Medarot - Kuwagata Version](#medarot---kuwagata-version) | GB
@@ -2029,6 +2030,14 @@ This is the Japanese version of `Mario's Picross`.
 ROM MD5: `defe3559ef5e8d69ca95289edb6f9f6e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioNoPicross.ips).
+
+## Max
+
+This patch converts `Max (E)` to the `.pocket` format.
+
+ROM MD5: `660a98b774e7d136e302dfe6557405e9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Max.ips).
 
 ## Medarot - Kabuto Version
 
