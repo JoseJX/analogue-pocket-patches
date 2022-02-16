@@ -103,6 +103,7 @@ Game | System
 [Donkey Kong Land III](#donkey-kong-land-iii) | GB
 [Donkey Kong GB - Dinky Kong and Dixie Kong](#donkey-kong-gb---dinky-kong-and-dixie-kong) | GB
 [Double Dragon 3 - The Arcade Game](#double-dragon-3---the-arcade-game) | GB
+[Dracula - Crazy Vampire](#dracula---crazy-vampire) | GBC
 [Dragon Ball Z - Legendary Super Warriors](#dragon-ball-z---legendary-super-warriors) | GBC
 [Dragon's Lair](#dragons-lair) | GBC
 [Dragon Quest Monsters (DE)](#dragon-quest-monsters-de) | GBC
@@ -1175,6 +1176,14 @@ This patch converts `Double Dragon 3 - The Arcade Game (U,E)` to the `.pocket` f
 ROM MD5: `469605e02eb10652f8f2afa8c7ebffd5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DoubleDragon3.ips).
+
+## Dracula - Crazy Vampire
+
+This patch converts `Dracula - Crazy Vampire (U)` to the `.pocket` format.
+
+ROM MD5: `0b943efdf2ca967827a4c7bf951f6448`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DraculaCrazyVampire.ips).
 
 ## Dragon Ball Z - Legendary Super Warriors
 
