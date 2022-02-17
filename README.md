@@ -16,6 +16,7 @@ Game | System
 [The Adventures of Star Saver](#the-adventures-of-star-saver) | GB
 [Aladdin](#aladdin) | GB
 [Alfred Chicken](#alfred-chicken) | GB
+[Alfred's Adventure](#alfreds-adventure) | GBC
 [Alien 3](#alien-3) | GB
 [Aliens - The Thanatos Encounter](#aliens---the-thanatos-encounter) | GBC
 [Alleyway](#alleyway) | GB
@@ -456,6 +457,14 @@ This patch converts `Alfred Chicken (U)` to the `.pocket` format.
 ROM MD5: `cac921f8eec70d5ccd8a2db8f473a084`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AlfredChicken.ips).
+
+## Alfred's Adventure
+
+This patch converts `Alfred's Adventure (E)` to the `.pocket` format.
+
+ROM MD5: `bcc135b000c1c54f12f4ae87c7673b0c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AlfredsAdventure.ips).
 
 ## Alien 3
 
