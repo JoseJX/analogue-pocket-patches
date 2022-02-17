@@ -250,6 +250,7 @@ Game | System
 [Noobow](#noobow) | GB
 [Operation C](#operation-c) | GB
 [Paperboy](#paperboy) | GB
+[Parasol Stars - Rainbow Islands II](#parasol-stars---rainbow-islands-ii) | GB
 [Penguin Wars](#penguin-wars) | GB
 [Perfect Dark](#perfect-dark) | GBC
 [Picross 2](#picross-2) | GB
@@ -2461,6 +2462,14 @@ This patch converts `Paperboy (U,E)` to the `.pocket` format.
 ROM MD5: `dcabc0879c258e54048237d280ffa7da`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Paperboy.ips).
+
+## Parasol Stars - Rainbow Islands II
+
+This patch converts `Parasol Stars - Rainbow Islands II (E)` to the `.pocket` format.
+
+ROM MD5: `ab5e4c728a5b62f7985c22c61551469c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ParasolStars-RI2.ips).
 
 ## Penguin Wars
 
