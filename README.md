@@ -37,6 +37,7 @@ Game | System
 [Astro Rabby](#astro-rabby) | GB
 [Atomic Punk](#atomic-punk) | GB
 [Balloon Kid](#balloon-kid) | GB
+[Balloon Fight GB](#balloon-fight-gb) | GBC
 [Banishing Racer](#banishing-racer) | GB
 [Bart and the Beanstalk](#bart-and-the-beanstalk) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
@@ -632,6 +633,16 @@ This patch converts `Balloon Kid (U,E)` to the `.pocket` format.
 ROM MD5: `f70c60ca87714fa9d81be60c9ac93de0`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BalloonKid.ips).
+
+## Balloon Fight GB
+
+This patch converts `Balloon Fight GB (J)` to the `.pocket` format.
+
+It is compatible with the [English translation patch](https://www.romhacking.net/translations/2573/).
+
+ROM MD5: `f94f61e6beaec6222e0d35229e2e271e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BalloonFightGB.ips).
 
 ## Banishing Racer
 
