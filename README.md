@@ -29,6 +29,7 @@ Game | System
 [Arcade Classic No. 2 - Centipede and Millipede](#arcade-classic-no-2---centipede-and-millipede) | GB
 [Arcade Classic No. 3 - Galaga & Galaxian](#arcade-classic-no-3---galaga-and-galaxian) | GB
 [Arcade Classic No. 3 - Galaga & Galaxian DX](#arcade-classic-no-3---galaga-and-galaxian-dx) | GB
+[Arthur's Absolutely Fun Day!](#arthurs-absolutely-fun-day) | GBC
 [Asterix](#asterix) | GB
 [Asterix and Obelix](#asterix-and-obelix) | GBC
 [Asterix and Obelix vs. Caesar](#asterix-and-obelix-vs-caesar) | GBC
@@ -565,6 +566,14 @@ US ROM MD5: `e7af45fbb8cba8a3bf049eec038452d8`
 Europe ROM MD5: `1b87d9ad90df06c1ee4a2ae280ed6d88`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC3DX.ips).
+
+## Arthur's Absolutely Fun Day!
+
+This patch converts `Arthur's Absolutely Fun Day! (U)` to the `.pocket` format.
+
+ROM MD5: `3d630cb2ff52e7fedfca6c938b82fa24`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ArthursFunDay.ips).
 
 ## Asterix
 
