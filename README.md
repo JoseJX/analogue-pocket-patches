@@ -284,6 +284,7 @@ Game | System
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
 [Scooby-Doo! Classic Creep Capers](#scooby-doo-classic-creep-capers) | GBC
 [Shanghai](#shanghai) | GB
+[Shanghai (J) - Activision](#shanghai-j---activision) | GB
 [Sheep It Up!](#sheep-it-up) | GB
 [Shin Megami Tensei Devil Children - Aka no Sho](#shin-megami-tensei-devil-children---aka-no-sho) | GBC
 [Shin Megami Tensei Devil Children - Kuro no Sho](#shin-megami-tensei-devil-children---kuro-no-sho) | GBC
@@ -2752,6 +2753,14 @@ This patch converts `Shanghai (U)` to the `.pocket` format.
 ROM MD5: `d11777331e12f55ae4bab2f6e0bda918`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Shanghai.ips).
+
+## Shanghai (J) - Activision
+
+This patch converts `Shanghai (J) - Activision` to the `.pocket` format.
+
+ROM MD5: `72c0a7eb38ffc2ef65c0e2ffb1729aa5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShanghaiJA.ips).
 
 ## Sheep It Up!
 
