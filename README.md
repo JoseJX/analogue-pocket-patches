@@ -70,6 +70,7 @@ Game | System
 [Bubsy II](#bubsy-ii) | GB
 [Buffy the Vampire Slayer](#buffy-the-vampire-slayer) | GBC
 [Burai Fighter Deluxe](#burai-fighter-deluxe) | GB
+[BurgerTime Deluxe](#burgertime-deluxe) | GB
 [Burning Paper](#burning-paper) | GB
 [Bust-A-Move 2 - Arcade Edition](#bust-a-move-2---arcade-edition) | GB
 [Bust-A-Move 3 DX](#bust-a-move-3-dx) | GB
@@ -916,6 +917,14 @@ This patch converts `Burai Fighter Deluxe (U,E)` to the `.pocket` format.
 ROM MD5: `dd5aa6e85827a3ce6e4b7500e75a3262`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BuraiFighter.ips).
+
+## BurgerTime Deluxe
+
+This patch converts `BurgerTime Deluxe (W)` to the `.pocket` format.
+
+ROM MD5: `9627134ca3ea6e885275d30460ce3563`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BurgerTimeDeluxe.ips).
 
 ## Burning Paper
 
