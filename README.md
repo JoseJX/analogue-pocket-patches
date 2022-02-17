@@ -283,6 +283,7 @@ Game | System
 [Samurai Showdown](#samurai-showdown) | GB
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
 [Scooby-Doo! Classic Creep Capers](#scooby-doo-classic-creep-capers) | GBC
+[Shanghai](#shanghai) | GB
 [Sheep It Up!](#sheep-it-up) | GB
 [Shin Megami Tensei Devil Children - Aka no Sho](#shin-megami-tensei-devil-children---aka-no-sho) | GBC
 [Shin Megami Tensei Devil Children - Kuro no Sho](#shin-megami-tensei-devil-children---kuro-no-sho) | GBC
@@ -2743,6 +2744,14 @@ This patch converts `Scooby-Doo! Classic Creep Capers (U,E)` to the `.pocket` fo
 ROM MD5: `117a9babae15960dc4de04ac44066ed2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ScoobyDoo.ips).
+
+## Shanghai
+
+This patch converts `Shanghai (U)` to the `.pocket` format.
+
+ROM MD5: `d11777331e12f55ae4bab2f6e0bda918`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Shanghai.ips).
 
 ## Sheep It Up!
 
