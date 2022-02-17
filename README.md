@@ -342,6 +342,7 @@ Game | System
 [Tintin - Prisoners of the Sun](#tintin---prisoners-of-the-sun) | GBC
 [Tintin in Tibet](#tintin-in-tibet) | GBC
 [Tiny Toon Adventures - Babs' Big Break](#tiny-toon-adventures---babs-big-break) | GB
+[Tiny Toon Adventures - Buster Saves the Day](#tiny-toon-adventures---buster-saves-the-day) | GBC
 [Toki Tori](#toki-tori) | GBC
 [Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody](#tokimeki-memorial-pocket---culture-hen---komorebi-no-melody) | GBC
 [Tokimeki Memorial Pocket - Sport Hen - Koutei no Photograph](#tokimeki-memorial-pocket---sport-hen---koutei-no-photograph) | GBC
@@ -3243,6 +3244,14 @@ This patch has been updated to fix a lockup issue after the Dizzy mini game. (20
 ROM MD5: `cbb45188c780ce5bbdf502ceb2b9994a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TinyToon.ips).
+
+## Tiny Toon Adventures - Buster Saves the Day
+
+This patch converts `Tiny Toon Adventures - Buster Saves the Day (U)` to the `.pocket` format.
+
+ROM MD5: `5a93ecb5781a3338c99e35bd06cc6127`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TinyToonBuster.ips).
 
 ## Toki Tori
 
