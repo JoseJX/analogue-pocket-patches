@@ -325,6 +325,7 @@ Game | System
 [Sutte Hakkun GB](#sutte-hakkun-gb) | GBC
 [Sword of Hope](#sword-of-hope) | GB
 [Sword of Hope II](#sword-of-hope-ii) | GB
+[Tail 'Gator](#tail-gator) | GB
 [TaleSpin](#talespin) | GB
 [Taz-Mania](#taz-mania) | GB
 [Taz-Mania 2](#taz-mania-2) | GB
@@ -3103,6 +3104,14 @@ This patch converts `Sword of Hope II (U)` to the `.pocket` format.
 ROM MD5: `64f7f8af18f75a9b3767e4637e693be7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SwordOfHope2.ips).
+
+## Tail 'Gator
+
+This patch converts `Tail 'Gator (U,E)` to the `.pocket` format.
+
+ROM MD5: `cac94925bf098982d31f7c9a2c296d25`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TailGator.ips).
 
 ## TaleSpin
 
