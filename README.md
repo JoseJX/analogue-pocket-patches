@@ -17,6 +17,7 @@ Game | System
 [Aladdin](#aladdin) | GB
 [Alfred Chicken](#alfred-chicken) | GB
 [Alien 3](#alien-3) | GB
+[Aliens - The Thanatos Encounter](#aliens---the-thanatos-encounter) | GBC
 [Alleyway](#alleyway) | GB
 [Alleyway DX](#alleyway-dx) | GBC
 [Alone in the Dark - The New Nightmare](#alone-in-the-dark---the-new-nightmare) | GBC
@@ -463,6 +464,14 @@ This patch converts `Alien 3 (U,E)` to the `.pocket` format.
 ROM MD5: `b3f3d35f58a0ea3affc0ec6d4ee1183d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Alien3.ips).
+
+## Aliens - The Thanatos Encounter
+
+This patch converts `Aliens - The Thanatos Encounter (U)` to the `.pocket` format.
+
+ROM MD5: `73a78663a6388bf4d1c56e05bbf790d4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AliensThanatos.ips).
 
 ## Alleyway
 
