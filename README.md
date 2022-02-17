@@ -355,6 +355,7 @@ Game | System
 [Trogday 2022](#trogday-2022) | GBC
 [Trouballs](#trouballs) | GBC
 [True Lies](#true-lies) | GB
+[Turok 2 - Seeds of Evil](#turok-2---seeds-of-evil) | GBC
 [Turok 3 - Shadow of Oblivion](#turok-3---shadow-of-oblivion) | GBC
 [Ultima - Runes of Virtue](#ultima---runes-of-virtue) | GB
 [Ultima - Runes of Virtue II](#ultima---runes-of-virtue-ii) | GB
@@ -3350,7 +3351,6 @@ ROM MD5: `1b5e155ac68d2c7b89e49c5e1024b45c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trouballs.ips).
 
-
 ## True Lies
 
 This patch converts `True Lies (U,E)` to the `.pocket` format.
@@ -3358,6 +3358,14 @@ This patch converts `True Lies (U,E)` to the `.pocket` format.
 ROM MD5: `c013958fa8447be55f1e037ed4a1a9f9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TrueLies.ips).
+
+## Turok 2 - Seeds of Evil
+
+This patch converts `Turok 2 - Seeds of Evil (U,E)` to the `.pocket` format.
+
+ROM MD5: `28d6c613fdf608fe241fb3ce183aaae5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Turok2.ips).
 
 ## Turok 3 - Shadow of Oblivion
 
