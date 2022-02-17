@@ -312,6 +312,7 @@ Game | System
 [Spy vs Spy](#spy-vs-spy) | GBC
 [Spy vs Spy - Operation Booby Trap](#spy-vs-spy---operation-booby-trap) | GBC
 [Star Ocean - Blue Sphere](#star-ocean---blue-sphere) | GBC
+[Star Trek - The Next Generation](#star-trek---the-next-generation) | GB
 [Star Wars](#star-wars) | GB
 [Star Wars Episode I - Obi-Wan's Adventures](#star-wars-episode-i---obi-wans-adventures) | GBC
 [Star Wars Episode I - Racer](#star-wars-episode-i---racer) | GBC
@@ -2990,6 +2991,14 @@ It is compatible with the English [translation patch](https://archive.org/downlo
 ROM MD5: `820e0a19275fabc03fe619c42db47179`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarOcean.ips).
+
+## Star Trek - The Next Generation
+
+This patch converts `Star Trek - The Next Generation (U,E)` to the `.pocket` format.
+
+ROM MD5: `c9791e6cd453aeef19c722924521d381`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarTrekNG.ips).
 
 ## Star Wars
 
