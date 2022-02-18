@@ -305,6 +305,7 @@ Game | System
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
 [Smurfs](#smurfs) | GB
+[Snow Bros. Jr.](#snow-bros-jr) | GB
 [Solar Striker](#solar-striker) | GB
 [Solitaire FunPak](#solitaire-funpak) | GB
 [Space Invaders](#space-invaders) | GB
@@ -2947,6 +2948,14 @@ This patch converts `Smurfs (U,E)` to the `.pocket` format.
 ROM MD5: `a574e5f7119b31e5112221c3a0ada813`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Smurfs.ips).
+
+## Snow Bros. Jr.
+
+This patch converts `Snow Bros. Jr. (U)` to the `.pocket` format.
+
+ROM MD5: `b4cee49981c3124df8bbd40a60426f9e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnowBrosJr.ips).
 
 ## Solar Striker
 
