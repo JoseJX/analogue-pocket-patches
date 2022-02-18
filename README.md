@@ -212,6 +212,7 @@ Game | System
 [Mario's Picross](#marios-picross) | GB
 [Mario no Picross](#mario-no-picross) | GB
 [Max](#max) | GB
+[Mary-Kate and Ashley - Get a Clue!](#mary-kate-and-ashley---get-a-clue) | GBC
 [Medarot - Kabuto Version](#medarot---kabuto-version) | GB
 [Medarot - Kabuto Version (English Patch)](#medarot---kabuto-version-english-patch) | GB
 [Medarot - Kuwagata Version](#medarot---kuwagata-version) | GB
@@ -2131,6 +2132,14 @@ This patch converts `Max (E)` to the `.pocket` format.
 ROM MD5: `660a98b774e7d136e302dfe6557405e9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Max.ips).
+
+## Mary-Kate and Ashley - Get a Clue!
+
+This patch converts `Mary-Kate and Ashley - Get a Clue! (U,E)` to the `.pocket` format.
+
+ROM MD5: `cc7639a2269210338b52e626096a99d9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MKnA-GetAClue.ips).
 
 ## Medarot - Kabuto Version
 
