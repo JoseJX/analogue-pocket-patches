@@ -408,7 +408,9 @@ Game | System
 
 ## How to Use the Patches
 
-You will need [IPS patching software](https://www.marcrobledo.com/RomPatcher.js/), the IPS patch for your chosen game and the specific ROM revision for the patch, making sure to match the MD5 provided. Once the IPS patch is applied you will need to change the file extension from `.gb` to `.pocket` and place them in a `GB Studio` folder on the root of your microSD card. Please make sure to keep the filename short, longer filenames appear to cause trouble.
+The best way to use these patches is to use the awesome [RetroPatcher](https://retropatcher.jonabrams.com/), written by [Jon Abrahms](https://twitter.com/JonathanAbrams). It will automatically apply the correct patch for the ROM version you've got.
+
+If you'd like to do this manually or you need to apply a translation patch first, you will need to use [IPS patching software](https://www.marcrobledo.com/RomPatcher.js/), select the IPS patch for your chosen game and the specific ROM revision for the patch, making sure to match the MD5 provided. Once the IPS patch is applied you will need to change the file extension from `.gb` to `.pocket` and place it in the `GB Studio` folder on the root of your microSD card. Please make sure to keep the filename short, longer filenames appear to cause trouble.
 
 Please note that link cable functionality and the real-time clock are not supported in GB Studio mode.
 
