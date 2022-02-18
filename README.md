@@ -252,6 +252,7 @@ Game | System
 [New Chessmaster](#new-chessmaster) | GB
 [Nemesis](#nemesis) | GB
 [Ninja Boy](#ninja-boy) | GB
+[Ninja Boy 2](#ninja-boy-2) | GB
 [Noobow](#noobow) | GB
 [Operation C](#operation-c) | GB
 [Paperboy](#paperboy) | GB
@@ -2483,6 +2484,15 @@ This patch converts `Ninja Boy (U,E)` to the `.pocket` format.
 ROM MD5: `28c1ef075f37bcf4951ac11385a1104f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NinjaBoy.ips).
+
+## Ninja Boy 2
+
+This patch converts `Ninja Boy 2 (U,E)` to the `.pocket` format.
+
+ROM MD5: `504e1a39167c467b15d5ad56b744ad48`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NinjaBoy2.ips).
+
 
 ## Noobow
 
