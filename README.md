@@ -123,6 +123,7 @@ Game | System
 [Dynablaster](#dynablaster) | GB
 [Earthworm Jim](#earthworm-jim) | GB
 [Earthworm Jim - Menace 2 the Galaxy](#earthworm-jim---menace-2-the-galaxy) | GBC
+[Elevator Action](#elevator-action) | GB
 [Elevator Action EX](#elevator-action-ex) | GBC
 [Extra Bases!](#extra-bases) | GB
 [F-1 Race](#f-1-race) | GB
@@ -1371,6 +1372,14 @@ This patch converts `Earthworm Jim - Menace 2 the Galaxy (U,E)` to the `.pocket`
 ROM MD5: `002d0d5fd2f668798da1991b5fd5b4d8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/EarthwormJim2.ips).
+
+## Elevator Action
+
+This patch converts `Elevator Action (U,E)` to the `.pocket` format.
+
+ROM MD5: `7876945a990ea94ac6b1fe5cf01bc00f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ElevatorAction.ips).
 
 ## Elevator Action EX
 
