@@ -242,6 +242,7 @@ Game | System
 [Monster Rancher Explorer](#monster-rancher-explorer) | GBC
 [Mortal Kombat](#mortal-kombat) | GB
 [Mortal Kombat II](#mortal-kombat-ii) | GB
+[Mortal Kombat 4](#mortal-kombat-4) | GBC
 [Motocross Maniacs](#motocross-maniacs) | GB
 [Motocross Maniacs 2](#motocross-maniacs-2) | GBC
 [Mr. Driller](#mr-driller) | GBC
@@ -2395,6 +2396,14 @@ This patch converts `Mortal Kombat II (U,E)` to the `.pocket` format.
 ROM MD5: `ce2927987765182b9c69f26f758656e9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MortalKombat2.ips).
+
+## Mortal Kombat 4
+
+This patch converts `Mortal Kombat 4 (U,E)` to the `.pocket` format.
+
+ROM MD5: `168ae412b379786f7df07bd8231baf44`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MK4.ips).
 
 ## Motocross Maniacs
 
