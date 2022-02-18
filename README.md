@@ -206,6 +206,7 @@ Game | System
 [Lunar Chase](#lunar-chase) | GB
 [Madden NFL 2002](#madden-nfl-2002) | GBC
 [Magi Nation](#magi-nation) | GB
+[Magical Drop](#magical-drop) | GBC
 [Magical Tetris Challenge](#magical-tetris-challenge) | GBC
 [Makai Mura Gaiden - The Demon Darkness](#makai-mura-gaiden---the-demon-darkness) | GB
 [Marble Madness](#marble-madness) | GB
@@ -2079,6 +2080,14 @@ This patch converts `Magi Nation (U)` to the `.pocket` format.
 ROM MD5: `1624f857098ca278b15629914f48352b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagiNation.ips).
+
+## Magical Drop
+
+This patch converts `Magical Drop (U)` to the `.pocket` format.
+
+ROM MD5: `af157e560d1ff87970c1bd2ee90d0932`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagicalDrop.ips).
 
 ## Magical Tetris Challenge
 
