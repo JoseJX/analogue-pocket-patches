@@ -331,6 +331,8 @@ Game | System
 [Sword of Hope II](#sword-of-hope-ii) | GB
 [Tail 'Gator](#tail-gator) | GB
 [TaleSpin](#talespin) | GB
+[Tasmania Monogatari](#tasmania-monogatari) | GB
+[Tasmania Story](#tasmania-story) | GB
 [Taz-Mania](#taz-mania) | GB
 [Taz-Mania 2](#taz-mania-2) | GB
 [Tecmo Bowl](#tecmo-bowl) | GB
@@ -3158,6 +3160,22 @@ This patch converts `TaleSpin (U,E)` to the `.pocket` format.
 ROM MD5: `26c65da146faa09505c554447792e493`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TaleSpin.ips).
+
+## Tasmania Monogatari
+
+This patch converts `Tasmania Monogatari (J)` to the `.pocket` format.
+
+ROM MD5: `d413f826b00d3f2384555490d0f1271d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TasmaniaMonogatari.ips).
+
+## Tasmania Story
+
+This patch converts `Tasmania Story (U)` to the `.pocket` format.
+
+ROM MD5: `46972f66b5c73b6b19fe21077b195669`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TasmaniaStory.ips).
 
 ## Taz-Mania
 
