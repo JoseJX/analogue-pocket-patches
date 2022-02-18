@@ -308,6 +308,7 @@ Game | System
 [Snow Bros. Jr.](#snow-bros-jr) | GB
 [Solar Striker](#solar-striker) | GB
 [Solitaire FunPak](#solitaire-funpak) | GB
+[Solomon's Club](#solomons-club) | GB
 [Space Invaders](#space-invaders) | GB
 [Space Marauder](#space-marauder) | GBC
 [Space Station Silicon Valley](#space-station-silicon-valley) | GBC
@@ -2972,6 +2973,14 @@ This patch converts `Solitaire FunPak (U,E)` to the `.pocket` format.
 ROM MD5: `78da1015ca2b5b4e83f7aea41214e779`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Solitaire.ips).
+
+## Solomon's Club
+
+This patch converts `Solomon's Club (U)` to the `.pocket` format.
+
+ROM MD5: `8a5ccf172f31a0dbfa0600d40b388fdc`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SolomonsClub.ips).
 
 ## Space Invaders
 
