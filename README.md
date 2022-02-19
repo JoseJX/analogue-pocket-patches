@@ -273,6 +273,7 @@ Game | System
 [Popeye 2](#popeye-2) | GB
 [Pop'n Music GB](#popn-music-gb) | GBC
 [Pop'n Music GB - Animation Melody](#popn-music-gb---animation-melody) | GBC
+[Pop'n Music GB - Disney Tunes](#popn-music-gb---disney-tunes) | GBC
 [Pop'n TwinBee](#popn-twinbee) | GB
 [Populous](#populous) | GB
 [Power Quest](#power-quest) | GBC
@@ -2663,6 +2664,14 @@ This patch converts `Pop'n Music GB - Animation Melody (J)` to the `.pocket` for
 ROM MD5: `7e6d077d50879c57ff70891aaa312e80`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PopnMusicAnimation.ips).
+
+## Pop'n Music GB - Disney Tunes
+
+This patch converts `Pop'n Music GB - Disney Tunes (J)` to the `.pocket` format.
+
+ROM MD5: `92978c96b2368e4aebd84966af8bd06f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PopnMusicDisney.ips).
 
 ## Pop'n TwinBee
 
