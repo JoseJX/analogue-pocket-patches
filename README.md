@@ -17,6 +17,8 @@ Game | System
 [Adventures of Lolo](#adventures-of-lolo) | GB
 [The Adventures of Star Saver](#the-adventures-of-star-saver) | GB
 [Aladdin](#aladdin) | GB
+[Aladdin GBC](#aladdin-gbc) | GBC
+[Aladdin GBC (E)](#aladdin-gbc-e) | GBC
 [Alfred Chicken](#alfred-chicken) | GB
 [Alfred's Adventure](#alfreds-adventure) | GBC
 [Alien 3](#alien-3) | GB
@@ -475,6 +477,22 @@ This patch converts `Aladdin (U)` to the `.pocket` format.
 ROM MD5: `ed5525a71dda6eaf4bbf8d5601b6b3b9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Aladdin.ips).
+
+## Aladdin GBC
+
+This patch converts `Aladdin GBC (U)` to the `.pocket` format.
+
+ROM MD5: `644c2c3cf2dc2e3fce741844e497a18f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AladdinGBC.ips).
+
+## Aladdin GBC (E)
+
+This patch converts `Aladdin GBC (E)` to the `.pocket` format.
+
+ROM MD5: `bad95d30c38a92e7906feecb6d6bd272`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AladdinGBC-Eur.ips).
 
 ## Alfred Chicken
 
