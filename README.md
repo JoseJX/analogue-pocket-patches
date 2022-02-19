@@ -361,6 +361,7 @@ Game | System
 [Toki Tori](#toki-tori) | GBC
 [Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody](#tokimeki-memorial-pocket---culture-hen---komorebi-no-melody) | GBC
 [Tokimeki Memorial Pocket - Sport Hen - Koutei no Photograph](#tokimeki-memorial-pocket---sport-hen---koutei-no-photograph) | GBC
+[Tom and Jerry in Mouse Attacks!](#tom-and-jerry-in-mouse-attacks) | GBC
 [Tomb Raider - Curse of the Sword](#tomb-raider---curse-of-the-sword) | GBC
 [Tony Hawk's Pro Skater](#tony-hawks-pro-skater) | GBC
 [Tony Hawk's Pro Skater 2](#tony-hawks-pro-skater-2) | GBC
@@ -3419,6 +3420,14 @@ I am not aware of a translation for this game, please let me know if there is on
 ROM MD5: `20b1ed1ae966b173c3a0f7f7f267e408`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TMP-SportHen.ips).
+
+## Tom and Jerry in Mouse Attacks!
+
+This patch converts `Tom and Jerry in Mouse Attacks! (U)` to the `.pocket` format.
+
+ROM MD5: `7a826122ccc3818dce9a8e8db6d77edb`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TomAndJerry.ips).
 
 ## Tomb Raider - Curse of the Sword
 
