@@ -272,6 +272,7 @@ Game | System
 [Pocket Monsters - Crystal Version (VN)](#pocket-monsters---crystal-version-vn) | GBC
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
+[Pokemon Pinball (E)](#pokemon-pinball-e) | GBC
 [Popeye 2](#popeye-2) | GB
 [Pop'n Music GB](#popn-music-gb) | GBC
 [Pop'n Music GB - Animation Melody](#popn-music-gb---animation-melody) | GBC
@@ -2658,6 +2659,14 @@ And the English patch (v1.2):
 ROM MD5: `c720f6f16ca28b942701855c73d75c3e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonPicross.ips).
+
+## Pokemon Pinball (E)
+
+This patch converts `Pokemon Pinball (E)` to the `.pocket` format.
+
+ROM MD5: `3757c89c36bec5e2093741a3e51d22df`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonPinballEur.ips).
 
 ## Popeye 2
 
