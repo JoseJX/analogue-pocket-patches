@@ -357,6 +357,7 @@ Game | System
 [Tennis](#tennis) | GB
 [Terminator 2 - Judgement Day](#terminator-2---judgement-day) | GB
 [Tesserae](#tesserae) | GB
+[Tetris 1.0 (J)](#tetris-1-0-j) | GB
 [Tetris 2](#tetris-2) | GB
 [Tetris Attack](#tetris-attack) | GB
 [Tetris Blast](#tetris-blast) | GB
@@ -3383,6 +3384,16 @@ This patch converts `Tesserae (U)` to the `.pocket` format.
 ROM MD5: `95517367dd10f6476bcb39a2329ef55a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tesserae.ips).
+
+## Tetris 1.0 (J)
+
+This patch converts `Tetris 1.0 (J)` to the `.pocket` format.
+
+This version is also known as the `minuet` version.
+
+ROM MD5: `084f1e457749cdec86183189bd88ce69`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tetris1.0.ips).
 
 ## Tetris 2
 
