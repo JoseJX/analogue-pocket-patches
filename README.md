@@ -265,6 +265,7 @@ Game | System
 [Out of Gas](#out-of-gas) | GB
 [Paperboy](#paperboy) | GB
 [Parasol Stars - Rainbow Islands II](#parasol-stars---rainbow-islands-ii) | GB
+[Parodius Da!](#parodius-da) | GB
 [Penguin Wars](#penguin-wars) | GB
 [Perfect Dark](#perfect-dark) | GBC
 [Picross 2](#picross-2) | GB
@@ -2595,6 +2596,14 @@ This patch converts `Parasol Stars - Rainbow Islands II (E)` to the `.pocket` fo
 ROM MD5: `ab5e4c728a5b62f7985c22c61551469c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ParasolStars-RI2.ips).
+
+## Parodius Da!
+
+This patch converts `Parodius Da! (J)` to the `.pocket` format.
+
+ROM MD5: `2e3a0305f79b058cc4618565bc2db745`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ParodiusDa.ips).
 
 ## Penguin Wars
 
