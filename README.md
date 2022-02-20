@@ -2208,11 +2208,11 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Medarot - Kabuto Version (English Patch)
 
-This patch converts `Medarot - Kabuto Version (J)` with the [English Translation patch](https://www.romhacking.net/translations/5792/) to the `.pocket` format.
+This patch converts `Medarot - Kabuto Version (J)` with the [English Translation patch](https://github.com/Medabots/medarot1/releases/download/0.6.7%2BEN.txt.19/m1kabuto-2091-adec3f2d49a83fc7f581bfd0311a79a4e01af1df.ips) to the `.pocket` format.
 
 The translation patch must be applied to the Japanese ROM before applying the `.pocket` patch, the MD5 below is for the translation patched ROM.
 
-ROM MD5: `750b777eb1ea2ec167980158061f916f`
+ROM MD5: `cdfb608f2af7ea31d1e5c5c39706baab`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKabuto-Eng.ips).
 
