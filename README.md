@@ -262,6 +262,7 @@ Game | System
 [Ninja Boy 2](#ninja-boy-2) | GB
 [Noobow](#noobow) | GB
 [Operation C](#operation-c) | GB
+[Out of Gas](#out-of-gas) | GB
 [Paperboy](#paperboy) | GB
 [Parasol Stars - Rainbow Islands II](#parasol-stars---rainbow-islands-ii) | GB
 [Penguin Wars](#penguin-wars) | GB
@@ -2570,6 +2571,14 @@ This patch converts `Operation C (U)` to the `.pocket` format.
 ROM MD5: `c6effb3a51b36056411760d1ffe048f7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/OperationC.ips).
+
+## Out of Gas
+
+This patch converts `Out of Gas (U)` to the `.pocket` format.
+
+ROM MD5: `0b7cbe56d1cf6370e60699e553d091a1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/OutOfGas.ips).
 
 ## Paperboy
 
