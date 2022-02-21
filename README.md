@@ -301,7 +301,8 @@ Game | System
 [Revelations - The Demon Slayer](#revelations---the-demon-slayer) | GBC
 [Revenge of the 'Gator](#revenge-of-the-gator) | GB
 [RoboCop](#robocop) | GB
-[Robocop vs the Terminator](#robocop-vs-the-terminator) | GB
+[RoboCop vs the Terminator](#robocop-vs-the-terminator) | GB
+[Robopon - Sun Version](#robopon---sun-version) | GBC
 [Sagaia](#sagaia) | GB
 [Samurai Kid](#samurai-kid) | GBC
 [Samurai Showdown](#samurai-showdown) | GB
@@ -2918,13 +2919,21 @@ ROM MD5: `a477ac86be35d1fa70b708ad08dc88b8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCop.ips).
 
-## Robocop vs the Terminator
+## RoboCop vs the Terminator
 
-This patch converts `Robocop Vs the Terminator (U)` to the `.pocket` format.
+This patch converts `RoboCop Vs the Terminator (U)` to the `.pocket` format.
 
 ROM MD5: `0e82b5210966e9eb53d5b7ef906a0f40`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCopVsTerminator.ips).
+
+## Robopon - Sun Version
+
+This patch converts `Robopon - Sun Version (U)` to the `.pocket` format.
+
+ROM MD5: `398f7b60ea114b90b24503178f47e8d8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboponSun.ips).
 
 ## Sagaia
 
