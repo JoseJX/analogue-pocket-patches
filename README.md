@@ -275,6 +275,7 @@ Game | System
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
 [Pokemon Pinball (E)](#pokemon-pinball-e) | GBC
+[Pokemon Prism](#pokemon-prism) | GBC
 [Popeye 2](#popeye-2) | GB
 [Pop'n Music GB](#popn-music-gb) | GBC
 [Pop'n Music GB - Animation Melody](#popn-music-gb---animation-melody) | GBC
@@ -2690,6 +2691,16 @@ This patch converts `Pokemon Pinball (E)` to the `.pocket` format.
 ROM MD5: `3757c89c36bec5e2093741a3e51d22df`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonPinballEur.ips).
+
+## Pokemon Prism
+
+This patch converts `Pokemon Prism (v0.94, build 0237)` to the `.pocket` format.
+
+Pokemon Prism is a fan conversion of Pokemon Crystal. You must apply the patch to Pokemon crystal before converting to the `.pocket` format.
+
+Patched ROM MD5: `3cd828587eb8d3fe818d57f99b3a3c95`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokePrism.ips).
 
 ## Popeye 2
 
