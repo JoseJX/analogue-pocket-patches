@@ -360,7 +360,7 @@ Game | System
 [Tennis](#tennis) | GB
 [Terminator 2 - Judgement Day](#terminator-2---judgement-day) | GB
 [Tesserae](#tesserae) | GB
-[Tetris 1.0 (J)](#tetris-1-0-j) | GB
+[Tetris 1.0 (J)](#tetris-10-j) | GB
 [Tetris 2](#tetris-2) | GB
 [Tetris Attack](#tetris-attack) | GB
 [Tetris Blast](#tetris-blast) | GB
