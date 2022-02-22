@@ -400,6 +400,7 @@ Game | System
 [Wild Snake](#wild-snake) | GB
 [Wizards and Warriors Chapter X - The Fortress of Fear](#wizards-and-warriors-chapter-x---the-fortress-of-fear) | GB
 [Wizardry I - Proving Grounds of the Mad Overlord](#wizardry-i---proving-grounds-of-the-mad-overlord) | GBC
+[Woody Woodpecker](#woody-woodpecker) | GBC
 [Wordtris](#wordtris) | GB
 [WordZap](#wordzap) | GB
 [World Beach Volley - 1992 GB Cup](#world-beach-volley---1992-gb-cup) | GB
@@ -3755,6 +3756,14 @@ It is compatible with the [English translation patch](https://www.romhacking.net
 ROM MD5: `6b94c050291c68d6fb13c642c46873ab`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry1.ips).
+
+## Woody Woodpecker
+
+This patch converts `Woody Woodpecker (U)` to the `.pocket` format.
+
+ROM MD5: `2a26b9d248bf62788e23aa897e8e355c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WoodyWoodpecker.ips).
 
 ## Wordtris
 
