@@ -380,6 +380,7 @@ Game | System
 [Tony Hawk's Pro Skater 2](#tony-hawks-pro-skater-2) | GBC
 [Tony Hawk's Pro Skater 3](#tony-hawks-pro-skater-3) | GBC
 [Top Gear Pocket 2](#top-gear-pocket-2) | GBC
+[Top Ranking Tennis](#top-ranking-tennis) | GB
 [Trax](#trax) | GB
 [Trogday 2022](#trogday-2022) | GBC
 [Trouballs](#trouballs) | GBC
@@ -3590,6 +3591,14 @@ USA ROM MD5: `7d9585c947a7637703fb8ccd6a691ed7`
 EUR ROM MD5: `0a1cf1904c87b60308c404d93bab2702`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TopGearPocket2.ips).
+
+## Top Ranking Tennis
+
+This patch converts `Top Ranking Tennis (E)` to the `.pocket` format.
+
+ROM MD5: `ea82922267095a2268d76e4f21d4ff93`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TopRankingTennis.ips).
 
 ## Trax
 
