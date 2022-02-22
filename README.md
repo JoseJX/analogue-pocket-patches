@@ -337,6 +337,7 @@ Game | System
 [Star Ocean - Blue Sphere](#star-ocean---blue-sphere) | GBC
 [Star Trek - The Next Generation](#star-trek---the-next-generation) | GB
 [Star Wars](#star-wars) | GB
+[Star Wars - The Empire Strikes Back](#star-wars---the-empire-strikes-back) | GB
 [Star Wars Episode I - Obi-Wan's Adventures](#star-wars-episode-i---obi-wans-adventures) | GBC
 [Star Wars Episode I - Racer](#star-wars-episode-i---racer) | GBC
 [Stop That Roach!](#stop-that-roach) | GB
@@ -3223,6 +3224,14 @@ This patch converts `Star Wars (U,E)` to the `.pocket` format.
 ROM MD5: `63098fde8f2dcb977c9a8f0389e0d033`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWars.ips).
+
+## Star Wars - The Empire Strikes Back
+
+This patch converts `Star Wars - The Empire Strikes Back (U)` to the `.pocket` format.
+
+ROM MD5: `05f7b63c25b4871440968fd4ce25440a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWars-ESB.ips).
 
 ## Star Wars Episode I - Obi-Wan's Adventures
 
