@@ -308,6 +308,7 @@ Game | System
 [Samurai Showdown](#samurai-showdown) | GB
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
 [Scooby-Doo! Classic Creep Capers](#scooby-doo-classic-creep-capers) | GBC
+[Shadowgate Classic](#shadowgate-classic) | GBC
 [Shanghai](#shanghai) | GB
 [Shanghai (J) - Activision](#shanghai-j---activision) | GB
 [Sheep It Up!](#sheep-it-up) | GB
@@ -2985,6 +2986,14 @@ This patch converts `Scooby-Doo! Classic Creep Capers (U,E)` to the `.pocket` fo
 ROM MD5: `117a9babae15960dc4de04ac44066ed2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ScoobyDoo.ips).
+
+## Shadowgate Classic
+
+This patch converts `Shadowgate Classic (U,E)` to the `.pocket` format.
+
+ROM MD5: `90280833c156e2ca8e4eaa29adf369b2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShadowgateClassic.ips).
 
 ## Shanghai
 
