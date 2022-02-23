@@ -66,6 +66,7 @@ Game | System
 [Bionic Commando](#bionic-commando) | GB
 [Bionic Commando - Elite Forces](#bionic-commando---elite-forces) | GBC
 [Blades of Steel](#blades-of-steel) | GB
+[Boggle Plus](#boggle-plus) | GB
 [Bomberman Quest](#bomberman-quest) | GBC
 [Bonk's Adventure](#bonks-adventure) | GB
 [Bonk's Revenge](#bonks-revenge) | GB
@@ -901,6 +902,14 @@ NOTE: After selecting a menu option, press the buttons a bunch, it seems to get 
 ROM MD5: `302caa3ceddccc5fba36787b44d25da7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BladesOfSteel.ips).
+
+## Boggle Plus
+
+This patch converts `Boggle Plus (U)` to the `.pocket` format.
+
+ROM MD5: `b3be58ae099ab2a695cfebe9881c7461`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BogglePlus.ips).
 
 ## Bomberman Quest
 
