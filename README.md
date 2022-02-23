@@ -383,6 +383,7 @@ Game | System
 [Top Gear Pocket 2](#top-gear-pocket-2) | GBC
 [Top Ranking Tennis](#top-ranking-tennis) | GB
 [Trax](#trax) | GB
+[Trade and Battle Card Hero](#trade-and-battle-card-hero) | GBC
 [Trogday 2022](#trogday-2022) | GBC
 [Trouballs](#trouballs) | GBC
 [True Lies](#true-lies) | GB
@@ -3616,6 +3617,14 @@ This patch converts `Trax (U,E)` to the `.pocket` format.
 ROM MD5: `89ecf5b28d5cc84208cfc39dc2d96598`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trax.ips).
+
+## Trade and Battle Card Hero
+
+This patch converts `Trade and Battle Card Hero (J)` to the `.pocket` format.
+
+ROM MD5: `92d36245a65305a209700608971b0597`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TnBCardHero.ips).
 
 ## Trogday 2022
 
