@@ -314,6 +314,7 @@ Game | System
 [Shanghai (J) - Activision](#shanghai-j---activision) | GB
 [Shanghai Pocket](#shanghai-pocket) | GBC
 [Shanghai Pocket (Rev A)](#shanghai-pocket-rev-a) | GBC
+[Shanghai Pocket (J)](#shanghai-pocket-j) | GB
 [Sheep It Up!](#sheep-it-up) | GB
 [Shin Megami Tensei Devil Children - Aka no Sho](#shin-megami-tensei-devil-children---aka-no-sho) | GBC
 [Shin Megami Tensei Devil Children - Kuro no Sho](#shin-megami-tensei-devil-children---kuro-no-sho) | GBC
@@ -3040,6 +3041,14 @@ This patch converts `Shanghai Pocket (Rev A) (U,E)` to the `.pocket` format.
 ROM MD5: `f7e13de010decf104efa3db865971f34`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShanghaiPocketA.ips).
+
+## Shanghai Pocket (J)
+
+This patch converts `Shanghai Pocket (J)` to the `.pocket` format.
+
+ROM MD5: `c042681adbbe175b354d0abee3413219`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShanghaiPocketJ.ips).
 
 ## Sheep It Up!
 
