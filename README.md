@@ -403,6 +403,7 @@ Game | System
 [Wave Race](#wave-race) | GB
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
 [Wetrix GB](#wetrix-gb) | GBC
+[Wheel of Fortune](#wheel-of-fortune) | GB
 [Who Framed Rodger Rabbit?](#who-framed-rodger-rabbit) | GB
 [Wild Snake](#wild-snake) | GB
 [Wizards and Warriors Chapter X - The Fortress of Fear](#wizards-and-warriors-chapter-x---the-fortress-of-fear) | GB
@@ -3785,6 +3786,14 @@ This patch converts `Wetrix (E)` to the `.pocket` format.
 ROM MD5: `916d740fc366ecbf9e5626218e56562d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wetrix.ips).
+
+## Wheel of Fortune
+
+This patch converts `Wheel of Fortune (U)` to the `.pocket` format.
+
+ROM MD5: `ee81c7d7481bb6db26bef691bf9d5645`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WheelOfFortune.ips).
 
 ## Who Framed Rodger Rabbit?
 
