@@ -190,6 +190,7 @@ Game | System
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
 [Killer Instinct](#killer-instinct) | GB
 [King of Fighers '95](#king-of-fighers-95) | GB
+[King of Fighters - Heat of Battle](#king-of-fighters---heat-of-battle) | GB
 [Kirby's Block Ball](#kirbys-block-ball) | GB
 [Kirby's Dream Land](#kirbys-dream-land) | GB
 [Kirby's Dream Land DX with Fluffy Repair Service - Basic](#kirbys-dream-land-dx-with-fluffy-repair-service---basic) | GBC
@@ -1947,6 +1948,14 @@ This patch converts `King of Fighers '95 (U)` to the `.pocket` format.
 ROM MD5: `b68c4141b4c4f778bd13100b9a3db82c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KoF95.ips).
+
+## King of Fighters - Heat of Battle
+
+This patch converts `King of Fighters - Heat of Battle (E)` to the `.pocket` format.
+
+ROM MD5: `cf6ec3c13cd20240ef0c0c63ec06558f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KoF-HoB.ips).
 
 ## Kirby's Block Ball
 
