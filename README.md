@@ -210,6 +210,7 @@ Game | System
 [Lion King](#lion-king) | GB
 [Lion King - Simba's Mighty Adventure](#lion-king---simbas-mighty-adventure) | GBC
 [Lock n' Chase ~ Lock 'n' Chase](#lock-n-chase-lock-n-chase) | GB
+[Looney Tunes](#looney-tunes) | GB
 [Lunar Chase](#lunar-chase) | GB
 [Madden NFL 2002](#madden-nfl-2002) | GBC
 [Magi Nation](#magi-nation) | GB
@@ -2127,6 +2128,14 @@ This patch converts `Lock n' Chase ~ Lock 'n' Chase (W)` to the `.pocket` format
 ROM MD5: `8bb31f539e8999d5c4e9449fe1befad6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LockNChase.ips).
+
+## Looney Tunes
+
+This patch converts `Looney Tunes (U,E)` to the `.pocket` format.
+
+ROM MD5: `6e9dd3c1fb169da79292a1962e95a884`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunes.ips).
 
 ## Lunar Chase
 
