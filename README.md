@@ -391,6 +391,7 @@ Game | System
 [Top Ranking Tennis](#top-ranking-tennis) | GB
 [Trax](#trax) | GB
 [Trade and Battle Card Hero](#trade-and-battle-card-hero) | GBC
+[Track and Field](#track-and-field) | GB
 [Trogday 2022](#trogday-2022) | GBC
 [Trouballs](#trouballs) | GBC
 [True Lies](#true-lies) | GB
@@ -2806,7 +2807,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Porklike
 
-I compiled the source into a .pocket format. I have contacted the author and this will be removed if they would like to host it themselves.
+I compiled the source into the `.pocket` format. Make sure to visit the author's page and let them know if you're enjoying it!
 
 You can [download the Analogue Pocket .pocket file here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/porklike.pocket).
 
@@ -3690,9 +3691,19 @@ ROM MD5: `92d36245a65305a209700608971b0597`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TnBCardHero.ips).
 
+## Track and Field
+
+This patch converts `Track and Field (U,E)` to the `.pocket` format.
+
+ROM MD5: `e07a8d8ac2a2770ea1a808ac517384cc`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TrackField.ips).
+
 ## Trogday 2022
 
 This patch converts `Trogday 2022` to the `.pocket` format.
+
+It has been superseeded by an official .pocket relase! Use that instead!
 
 It is a patch for this ROM available on [itch.io](https://videlectrix.itch.io/trogday-micro-game).
 
