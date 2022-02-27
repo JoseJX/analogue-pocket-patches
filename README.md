@@ -341,6 +341,7 @@ Game | System
 [Spider-Man 2 - The Sinister Six](#spider-man-2---the-sinister-six) | GBC
 [Spider-Man 3 - Invasion of the Spider-Slayers](#spider-man-3---invasion-of-the-spider-slayers) | GB
 [Spider-Man - X-Men](#spider-man---x-men) | GB
+[SpongeBob SquarePants - Legend of the Lost Spatula](#spongebob-squarepants---legend-of-the-lost-spatula) | GBC
 [Spud's Adventure](#spuds-adventure) | GB
 [Spy vs Spy](#spy-vs-spy) | GBC
 [Spy vs Spy - Operation Booby Trap](#spy-vs-spy---operation-booby-trap) | GBC
@@ -3268,6 +3269,14 @@ This patch converts `Spider-Man - X-Men (U,E)` to the `.pocket` format.
 ROM MD5: `634532de88aa7c35bd9231ee5356ae8a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpiderMan-XMen.ips).
+
+## SpongeBob SquarePants - Legend of the Lost Spatula
+
+This patch converts `SpongeBob SquarePants - Legend of the Lost Spatula (U,E)` to the `.pocket` format.
+
+ROM MD5: `4272d192cf2b14db93f1e2d1bc07aa74`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpongeBob.ips).
 
 ## Spud's Adventure
 
