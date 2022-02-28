@@ -43,6 +43,7 @@ Game | System
 [Asterix - Search for Dogmatix](#asterix---search-for-dogmatix) | GBC
 [Astro Rabby](#astro-rabby) | GB
 [Atomic Punk](#atomic-punk) | GB
+[Bad Apple (Demo)](#bad-apple-demo) | GBC
 [Balloon Kid](#balloon-kid) | GB
 [Balloon Fight GB](#balloon-fight-gb) | GBC
 [Banishing Racer](#banishing-racer) | GB
@@ -726,6 +727,14 @@ This patch converts `Atomic Punk (U)` to the `.pocket` format.
 ROM MD5: `76010c6ff6bd0c4e8ac934dc69fb96ab`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AtomicPunk.ips).
+
+## Bad Apple (Demo)
+
+This patch converts [Bad Apple (Demo)](https://gbhh.avivace.com/game/bad-apple) to the `.pocket` format.
+
+ROM MD5: `1e8c2c4cdf5e67e708c51c9739e6f2c8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BadApple.ips).
 
 ## Balloon Kid
 
