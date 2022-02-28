@@ -332,6 +332,7 @@ Game | System
 [Shin Megami Tensei Devil Children - Aka no Sho](#shin-megami-tensei-devil-children---aka-no-sho) | GBC
 [Shin Megami Tensei Devil Children - Kuro no Sho](#shin-megami-tensei-devil-children---kuro-no-sho) | GBC
 [Shin Megami Tensai Devil Children - Shiro no Sho](#shin-megami-tensai-devil-children---shiro-no-sho) | GBC
+[Seiken Densetsu - Final Fantasy Gaiden](#seiken-densetsu---final-fantasy-gaiden) | GB
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
 [Smurfs](#smurfs) | GB
@@ -3209,6 +3210,14 @@ This patch converts `Shin Megami Tensai Devil Children - Shiro no Sho (J)` to th
 ROM MD5: `9354cc341aa23da3e29829da76b8888e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMTDC-Shiro.ips).
+
+## Seiken Densetsu - Final Fantasy Gaiden
+
+This patch converts `Seiken Densetsu - Final Fantasy Gaiden (J)` to the `.pocket` format.
+
+ROM MD5: `3b359e9fec183bff5f964e25b599b246`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SeikenDensetsu.ips).
 
 ## Side Pocket
 
