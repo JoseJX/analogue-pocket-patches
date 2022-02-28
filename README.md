@@ -102,6 +102,7 @@ Game | System
 [Cubix - Robots for Everyone - Race 'n Robots](#cubix---robots-for-everyone---race-n-robots) | GBC
 [Daikatana](#daikatana) | GBC
 [Daedalian Opus](#daedalian-opus) | GB
+[Daffy Duck](#daffy-duck) | GB
 [Dance Dance Revolution GB](#dance-dance-revolution-gb) | GBC
 [Dance Dance Revolution GB2](#dance-dance-revolution-gb2) | GBC
 [Dance Dance Revolution GB3](#dance-dance-revolution-gb3) | GBC
@@ -1222,6 +1223,14 @@ This patch converts `Daedalian Opus (U)` to the `.pocket` format.
 ROM MD5: `34b3d0f0843b83e5b0e00bc3d0669793`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaedalianOpus.ips).
+
+## Daffy Duck
+
+This patch converts `Daffy Duck (U,E)` to the `.pocket` format.
+
+ROM MD5: `7c9cef32db758d3f6b8a8a23b6902e2d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaffyDuck.ips).
 
 ## Dance Dance Revolution GB
 
