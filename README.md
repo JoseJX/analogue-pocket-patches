@@ -201,6 +201,7 @@ Game | System
 [Kirby's Pinball Land](#kirbys-pinball-land) | GB
 [Kirby's Star Stacker](#kirbys-star-stacker) | GB
 [Klax](#klax) | GB
+[Klondike](#klondike) | GBC
 [Konami GB Collection Volume 2](#konami-gb-collection-volume-2) | GBC
 [Konami GB Collection Volume 3](#konami-gb-collection-volume-3) | GBC
 [Konami GB Collection Volume 4](#konami-gb-collection-volume-4) | GBC
@@ -2062,6 +2063,14 @@ This patch converts `Klax (U)` to the `.pocket` format.
 ROM MD5: `7d4f3bf92bbff701583eb74f36951bb9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Klax.ips).
+
+## Klondike
+
+This patch converts [Klondike](https://www.oocities.org/hergtoler/files/Klondike/ReadMe.txt) to the `.pocket` format.
+
+ROM MD5: `7f79af6e30ac9b0cd865caf073103268`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Klondike.ips).
 
 ## Konami GB Collection Volume 2
 
