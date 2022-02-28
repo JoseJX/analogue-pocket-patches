@@ -383,6 +383,7 @@ Game | System
 [Tintin in Tibet](#tintin-in-tibet) | GBC
 [Tiny Toon Adventures - Babs' Big Break](#tiny-toon-adventures---babs-big-break) | GB
 [Tiny Toon Adventures - Buster Saves the Day](#tiny-toon-adventures---buster-saves-the-day) | GBC
+[Tobu Tobu Girl](#tobu-tobu-girl) | GB
 [Toki Tori](#toki-tori) | GBC
 [Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody](#tokimeki-memorial-pocket---culture-hen---komorebi-no-melody) | GBC
 [Tokimeki Memorial Pocket - Sport Hen - Koutei no Photograph](#tokimeki-memorial-pocket---sport-hen---koutei-no-photograph) | GBC
@@ -3626,6 +3627,14 @@ This patch converts `Tiny Toon Adventures - Buster Saves the Day (U)` to the `.p
 ROM MD5: `5a93ecb5781a3338c99e35bd06cc6127`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TinyToonBuster.ips).
+
+## Tobu Tobu Girl
+
+This patch converts [Tobu Tobu Girl](https://tangramgames.dk/tobutobugirl/) to the `.pocket` format.
+
+ROM MD5: `48ea776eace6f2582b70dc965cf2df1f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tobu.ips).
 
 ## Toki Tori
 
