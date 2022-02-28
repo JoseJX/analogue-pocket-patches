@@ -262,6 +262,9 @@ Game | System
 [Ms. Pac-Man](#ms-pac-man) | GB
 [Mysterium](#mysterium) | GB
 [Mystical Ninja Starring Goemon](#mystical-ninja-starring-goemon) | GB
+[Mystic Quest (De)](#mystic-quest-de) | GB
+[Mystic Quest (E)](#mystic-quest-e) | GB
+[Mystic Quest (Fr)](#mystic-quest-fr) | GB
 [Nectaris GB](#nectaris-gb) | GB
 [New Chessmaster](#new-chessmaster) | GB
 [Nemesis](#nemesis) | GB
@@ -2596,6 +2599,30 @@ This patch converts `Mystical Ninja Starring Goemon (U)` to the `.pocket` format
 ROM MD5: `feaa1bbb7e532872cf1d37d80af6fdb4`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MysticalNinja.ips).
+
+## Mystic Quest (De)
+
+This patch converts `Mystic Quest (De)` to the `.pocket` format.
+
+ROM MD5: `b6a08c7e3af4ec8c9559cd268115d97c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MysticQuestG.ips).
+
+## Mystic Quest (E)
+
+This patch converts `Mystic Quest (E)` to the `.pocket` format.
+
+ROM MD5: `5f41a4de9f480c72cbc6eaad6bcc3753`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MysticQuestE.ips).
+
+## Mystic Quest (Fr)
+
+This patch converts `Mystic Quest (Fr)` to the `.pocket` format.
+
+ROM MD5: `2efe1569e3be81e7e19b13eafc60cd24`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MysticQuestF.ips).
 
 ## Nectaris GB
 
