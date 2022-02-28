@@ -414,6 +414,7 @@ Game | System
 [Wild Snake](#wild-snake) | GB
 [Wizards and Warriors Chapter X - The Fortress of Fear](#wizards-and-warriors-chapter-x---the-fortress-of-fear) | GB
 [Wizardry I - Proving Grounds of the Mad Overlord](#wizardry-i---proving-grounds-of-the-mad-overlord) | GBC
+[Wizardry Gaiden 1 - Joou no Junan](#wizardry-gaiden-1---joou-no-junan) | GB
 [Woody Woodpecker](#woody-woodpecker) | GBC
 [Wordtris](#wordtris) | GB
 [WordZap](#wordzap) | GB
@@ -3884,6 +3885,16 @@ It is compatible with the [English translation patch](https://www.romhacking.net
 ROM MD5: `6b94c050291c68d6fb13c642c46873ab`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry1.ips).
+
+## Wizardry Gaiden 1 - Joou no Junan
+
+This patch converts `Wizardry Gaiden 1 - Joou no Junan (J)` to the `.pocket` format.
+
+This game is also known as "Wizardy Gaiden: Suffering of the Queen".
+
+ROM MD5: `14d6a5e430452dca394bd3e641dc327b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden1.ips).
 
 ## Woody Woodpecker
 
