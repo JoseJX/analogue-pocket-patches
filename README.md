@@ -303,6 +303,7 @@ Game | System
 [Real Ghostbusters](#real-ghostbusters) | GB
 [Ren and Stimpy Show - Space Cadet Adventures](#ren-and-stimpy-show---space-cadet-adventures) | GB
 [Ren and Stimpy Show - The Veediots!](#ren-and-stimpy-show---the-veediots) | GB
+[Resident Evil Gaiden (E)](#resident-evil-gaiden-e) | GBC
 [Return of the Ninja](#return-of-the-ninja) | GBC
 [Revelations - The Demon Slayer](#revelations---the-demon-slayer) | GBC
 [Revenge of the 'Gator](#revenge-of-the-gator) | GB
@@ -2955,6 +2956,14 @@ This patch converts `Ren and Stimpy Show - The Veediots! (U,E)` to the `.pocket`
 ROM MD5: `99d9043a801704007d7ad227676fa6f1`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RnS-Veediots.ips).
+
+## Resident Evil Gaiden (E)
+
+This patch converts `Resident Evil Gaiden (E)` to the `.pocket` format.
+
+ROM MD5: `8a7f483857e251d56a16594ca84d1a7e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ResidentEvilGaidenEur.ips).
 
 ## Return of the Ninja
 
