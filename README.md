@@ -3894,6 +3894,8 @@ This patch converts `Wizardry Gaiden I - Joou no Junan (J)` to the `.pocket` for
 
 This game is also known as "Wizardry Gaiden I: Suffering of the Queen".
 
+This game is compatible with the [Translation Patch](https://www.romhacking.net/translations/2095/). The translation patch must be applied first.
+
 ROM MD5: `14d6a5e430452dca394bd3e641dc327b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden1.ips).
@@ -3904,15 +3906,19 @@ This patch converts `Wizardry Gaiden II - Kodai Koutei no Noroi (J)` to the `.po
 
 This game is also known as `Wizardry Gaiden II - Curse of the Ancient Emperor`.
 
+This patch is compatible with the [Translation Patch](https://www.romhacking.net/translations/2150/). The translation patch must be applied first.
+
 ROM MD5: `177f5fc642f650e45bae33b10ba1fe48`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden2.ips).
 
 ## Wizardry Gaiden III - Yami no Seiten
 
-This patch converts `Wizardry Gaiden III - Yami no Seiten (U,E)` to the `.pocket` format.
+This patch converts `Wizardry Gaiden III - Yami no Seiten (J)` to the `.pocket` format.
 
 This game is also known as `Wizardry Gaiden III - Scripture of the Dark`.
+
+This patch is compatible with the [Translation Patch](https://www.romhacking.net/translations/2252/). The translation patch must be applied first.
 
 ROM MD5: `2be59d4c20728300c84a71fcfcb565f9`
 
