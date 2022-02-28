@@ -251,6 +251,7 @@ Game | System
 [Miner 2049er Starring Bounty Bob](#miner-2049er-starring-bounty-bob) | GB
 [Mobile Golf](#mobile-golf) | GBC
 [Mole Mania](#mole-mania) | GB
+[Monkey Puncher](#monkey-puncher) | GBC
 [Monster Max](#monster-max) | GB
 [Monster Rancher Battle Card GB](#monster-rancher-battle-card-gb) | GBC
 [Monster Rancher Explorer](#monster-rancher-explorer) | GBC
@@ -2505,6 +2506,14 @@ It has been updated again for another missed register access. (2021/12/30)
 ROM MD5: `f28ade3926852a8ad2e449c274683956`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MoleMania.ips).
+
+## Monkey Puncher
+
+This patch converts `Monkey Puncher (E)` to the `.pocket` format.
+
+ROM MD5: `65da43aef4c10cfd8feee70e842a46ae`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonkeyPuncher.ips).
 
 ## Monster Max
 
