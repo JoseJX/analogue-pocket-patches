@@ -416,6 +416,7 @@ Game | System
 [Wizardry I - Proving Grounds of the Mad Overlord](#wizardry-i---proving-grounds-of-the-mad-overlord) | GBC
 [Wizardry Gaiden I - Joou no Junan](#wizardry-gaiden-i---joou-no-junan) | GB
 [Wizardry Gaiden II - Kodai Koutei no Noroi](#wizardry-gaiden-ii---kodai-koutei-no-noroi) | GB
+[Wizardry Gaiden III - Yami no Seiten](#wizardry-gaiden-iii---yami-no-seiten) | GB
 [Woody Woodpecker](#woody-woodpecker) | GBC
 [Wordtris](#wordtris) | GB
 [WordZap](#wordzap) | GB
@@ -3891,7 +3892,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Wizardry Gaiden I - Joou no Junan (J)` to the `.pocket` format.
 
-This game is also known as "Wizardy Gaiden I: Suffering of the Queen".
+This game is also known as "Wizardry Gaiden I: Suffering of the Queen".
 
 ROM MD5: `14d6a5e430452dca394bd3e641dc327b`
 
@@ -3901,11 +3902,21 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Wizardry Gaiden II - Kodai Koutei no Noroi (J)` to the `.pocket` format.
 
-This game is also known as `Wizardy Gaiden II - Curse of the Ancient Emperor`.
+This game is also known as `Wizardry Gaiden II - Curse of the Ancient Emperor`.
 
 ROM MD5: `177f5fc642f650e45bae33b10ba1fe48`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden2.ips).
+
+## Wizardry Gaiden III - Yami no Seiten
+
+This patch converts `Wizardry Gaiden III - Yami no Seiten (U,E)` to the `.pocket` format.
+
+This game is also known as `Wizardry Gaiden III - Scripture of the Dark`.
+
+ROM MD5: `2be59d4c20728300c84a71fcfcb565f9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden3.ips).
 
 ## Woody Woodpecker
 
