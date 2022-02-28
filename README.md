@@ -354,6 +354,7 @@ Game | System
 [Star Wars Episode I - Racer](#star-wars-episode-i---racer) | GBC
 [Stop That Roach!](#stop-that-roach) | GB
 [Street Fighter Alpha - Warriors' Dreams](#street-fighter-alpha---warriors-dreams) | GBC
+[Super Imposter Bros.](#super-imposter-bros) | GBC
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
 [Super Robot Taisen](#super-robot-taisen) | GB
@@ -3380,6 +3381,14 @@ This patch converts `Street Fighter Alpha - Warriors' Dreams (U)` to the `.pocke
 ROM MD5: `db1aeaa7135bd5707dbbccc427808cd7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SFA.ips).
+
+## Super Imposter Bros.
+
+This patch converts [Super Imposter Bros](https://lumpytouch.itch.io/super-impostor-bros) to the `.pocket` format.
+
+ROM MD5: `a455a70d52a9ffcfe8c4d8c164267500`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperImposterBros.ips).
 
 ## Super Off Road
 
