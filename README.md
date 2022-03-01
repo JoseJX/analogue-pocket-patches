@@ -268,6 +268,7 @@ Game | System
 [Mystic Quest (De)](#mystic-quest-de) | GB
 [Mystic Quest (E)](#mystic-quest-e) | GB
 [Mystic Quest (Fr)](#mystic-quest-fr) | GB
+[NBA Jam](#nba-jam) | GB
 [Nectaris GB](#nectaris-gb) | GB
 [New Chessmaster](#new-chessmaster) | GB
 [Nemesis](#nemesis) | GB
@@ -2652,6 +2653,14 @@ This patch converts `Mystic Quest (Fr)` to the `.pocket` format.
 ROM MD5: `2efe1569e3be81e7e19b13eafc60cd24`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MysticQuestF.ips).
+
+## NBA Jam
+
+This patch converts `NBA Jam (U,E)` to the `.pocket` format.
+
+ROM MD5: `1a4aaf4af4b3610ca74ef3b307b6b2a9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NBAJam.ips).
 
 ## Nectaris GB
 
