@@ -51,6 +51,7 @@ Game | System
 [Bart and the Beanstalk](#bart-and-the-beanstalk) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
 [Bart vs. the Juggernauts](#bart-vs-the-juggernauts) | GB
+[Baseball](#baseball) | GB
 [Batman - The Animated Series](#batman---the-animated-series) | GB
 [Batman Forever](#batman-forever) | GB
 [Batman - Return of the Joker](#batman---return-of-the-joker) | GB
@@ -808,6 +809,14 @@ This patch converts `Bart vs. The Juggernauts (U,E)` to the `.pocket` format.
 ROM MD5: `bc36d55377d7961a49a48a70a2827e5e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BartJuggernauts.ips).
+
+## Baseball
+
+This patch converts `Baseball (U,E)` to the `.pocket` format.
+
+ROM MD5: `e7bcb3f5534c8363f855ba92d83cb2d9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Baseball.ips).
 
 ## Batman - The Animated Series
 
