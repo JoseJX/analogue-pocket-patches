@@ -431,6 +431,7 @@ Game | System
 [Wild Snake](#wild-snake) | GB
 [Wizards and Warriors Chapter X - The Fortress of Fear](#wizards-and-warriors-chapter-x---the-fortress-of-fear) | GB
 [Wizardry I - Proving Grounds of the Mad Overlord](#wizardry-i---proving-grounds-of-the-mad-overlord) | GBC
+[Wizardry II - Llylgamyn no Isan](#wizardry-ii---llylgamyn-no-isan) | GBC
 [Wizardry Gaiden I - Joou no Junan](#wizardry-gaiden-i---joou-no-junan) | GB
 [Wizardry Gaiden II - Kodai Koutei no Noroi](#wizardry-gaiden-ii---kodai-koutei-no-noroi) | GB
 [Wizardry Gaiden III - Yami no Seiten](#wizardry-gaiden-iii---yami-no-seiten) | GB
@@ -4042,6 +4043,14 @@ It is compatible with the [English translation patch](https://www.romhacking.net
 ROM MD5: `6b94c050291c68d6fb13c642c46873ab`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry1.ips).
+
+## Wizardry II - Llylgamyn no Isan
+
+This patch converts `Wizardry II - Llylgamyn no Isan (J)` to the `.pocket` format.
+
+ROM MD5: `8d0a97cc2c5235656e722b0fb9627504`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry2.ips).
 
 ## Wizardry Gaiden I - Joou no Junan
 
