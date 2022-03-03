@@ -215,6 +215,7 @@ Game | System
 [Legend of the River King 2](#legend-of-the-river-king-2) | GBC
 [Lemmings](#lemmings) | GBC
 [Lemmings 2 - The Tribes](#lemmings-2---the-tribes) | GB
+[Link's Awakening Redux](#links-awakening-redux) | GBC
 [Lion King](#lion-king) | GB
 [Lion King - Simba's Mighty Adventure](#lion-king---simbas-mighty-adventure) | GBC
 [Lock n' Chase ~ Lock 'n' Chase](#lock-n-chase-lock-n-chase) | GB
@@ -2196,6 +2197,14 @@ This patch converts `Lemmings 2 - The Tribes (E)` to the `.pocket` format.
 ROM MD5: `7b96adfd6d3576cb2bab2afd06d8bd6e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Lemmings2.ips).
+
+## Link's Awakening Redux
+
+This patch converts `Link's Awakening Redux` to the `.pocket` format. The MD5 below is after applying the [Redux patch](https://www.romhacking.net/hacks/4672/) to `Link's Awakening DX`, but not any of the optional patches. The other options are untested, but please report if you have any issues stacking those as well.
+
+ROM MD5: `d0e0403d20475edea7ec035b836c15a3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LinksAwakeningRedux.ips).
 
 ## Lion King
 
