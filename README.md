@@ -182,6 +182,7 @@ Game | System
 [Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
 [Hexcite - The Shapes of Victory](#hexcite---the-shapes-of-victory) | GBC
 [Humans](#humans) | GB
+[Ikari no Yousai](#ikari-no-yousai) | GB
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
 [International Karate 2000](#international-karate-2000) | GBC
 [International Track and Field](#international-track-and-field) | GBC
@@ -1899,6 +1900,14 @@ This patch converts `The Humans (U)` to the `.pocket` format.
 ROM MD5: `4a1ecc8ccc706ed5fdce2fdab2aaf03e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Humans.ips).
+
+## Ikari no Yousai
+
+This patch converts `Ikari no Yousai (J)` to the `.pocket` format.
+
+ROM MD5: `ac04d143de6734e181a223d05178bde8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FortifiedZoneJ.ips).
 
 ## INFGMB
 
