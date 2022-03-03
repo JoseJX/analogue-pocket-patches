@@ -151,6 +151,7 @@ Game | System
 [Flintstones - King Rock Treasure Island](#flintstones---king-rock-treasure-island) | GB
 [Flipull](#flipull) | GB
 [Fortified Zone](#fortified-zone) | GB
+[Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou](#fushigi-no-dungeon---fuurai-no-shiren-gb2---sabaku-no-majou) | GBC
 [Game & Watch Gallery](#game--watch-gallery) | GB
 [Game & Watch Gallery 2](#game--watch-gallery-2) | GBC
 [Game & Watch Gallery 3](#game--watch-gallery-3) | GBC
@@ -1645,6 +1646,14 @@ This patch converts `Fortified Zone (U,E)` to the `.pocket` format.
 ROM MD5: `a981378da19c08597db03f3ee02cd6d7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FortifiedZone.ips).
+
+## Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou
+
+This patch converts `Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou (J)` to the `.pocket` format.
+
+ROM MD5: `9e3d4ff0ba3d6deec5080f6dbed4fef8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShirenGB2.ips).
 
 ## Game & Watch Gallery
 This patch converts `Game & Watch Gallery (U)` to the `.pocket` format.
