@@ -4049,6 +4049,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Wizardry II - Llylgamyn no Isan (J)` to the `.pocket` format.
 
+It is compatible with the [English translation patch](https://www.romhacking.net/translations/55/). Note that the name of the game is incorrect (Wizardry III instead of II, but this is the right patch). Also, note that you must use the `switches` option to enable the translation on first startup.
+
 ROM MD5: `8d0a97cc2c5235656e722b0fb9627504`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry2.ips).
@@ -4056,6 +4058,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 ## Wizardry III - Diamond no Kishi
 
 This patch converts `Wizardry III - Diamond no Kishi (J)` to the `.pocket` format.
+
+It is compatible with the [English translation patch](https://www.romhacking.net/translations/54/). Note that the name of the game is incorrect (Wizardry II instead of III, but this is the right patch). Also, note that you must use the `switches` option to enable the translation on first startup.
 
 ROM MD5: `e81e4977a1380a6a0bac49bfd9e04671`
 
