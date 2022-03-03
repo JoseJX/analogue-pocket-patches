@@ -163,6 +163,7 @@ Game | System
 [George Foreman's KO Boxing](#george-foremans-ko-boxing) | GB
 [Gex - Enter the Gecko](#gex---enter-the-gecko) | GBC
 [Ghostbusters II](#ghostbusters-ii) | GB
+[Gimmick Land](#gimmick-land) | GBC
 [Godzilla](#godzilla) | GB
 [Gold and Glory - The Road to El Dorado](#gold-and-glory---the-road-to-el-dorado) | GBC
 [Gradius - The Interstellar Assault](#gradius---the-interstellar-assault) | GB
@@ -1742,6 +1743,14 @@ This patch converts `Ghostbusters II (U,E)` to the `.pocket` format.
 ROM MD5: `0841a527b116a52ad26de023b20b1a42`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ghostbusters2.ips).
+
+## Gimmick Land
+
+This patch converts `Gimmick Land (J)` to the `.pocket` format. Note that this game was unreleased.
+
+ROM MD5: `a562bbe876b8467cc530213ec84eba0a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GimmickLand.ips).
 
 ## Godzilla
 
