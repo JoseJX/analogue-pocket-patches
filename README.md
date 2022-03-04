@@ -12,6 +12,7 @@ Game | System
 --- | --- 
 [007 James Bond - The World is Not Enough](#007-james-bond---the-world-is-not-enough) | GBC
 [3D Pocket Pool](#3d-pocket-pool) | GBC
+[3-D Ultra Pinball - Thrillride](#3-d-ultra-pinball---thrillride) | GBC
 [4000AD by PROTODOME](#4000ad-by-protodome) | GB
 [4-in-1 Fun Pack](#4-in-1-fun-pack) | GB
 [4-in-1 Fun Pack - Volume 2](#4-in-1-fun-pack---volume-2) | GB
@@ -494,6 +495,14 @@ This patch converts `3D Pocket Pool (E)` to the `.pocket` format.
 ROM MD5: `429e6da4b32d8caa22e78d92c0febd12`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/3DPocketPool.ips).
+
+## 3-D Ultra Pinball - Thrillride
+
+This patch converts `3-D Ultra Pinball - Thrillride (U,E)` to the `.pocket` format.
+
+ROM MD5: `b9cf8d2416f8a6dd3b412afd91337f40`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/3DUltraPinball.ips).
 
 ## 4000AD by PROTODOME
 
