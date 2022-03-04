@@ -70,6 +70,7 @@ Game | System
 [Bionic Commando](#bionic-commando) | GB
 [Bionic Commando - Elite Forces](#bionic-commando---elite-forces) | GBC
 [Blades of Steel](#blades-of-steel) | GB
+[Blues Brothers](#blues-brothers) | GB
 [Boggle Plus](#boggle-plus) | GB
 [Bomberman GB](#bomberman-gb) | GB
 [Bomberman Quest](#bomberman-quest) | GBC
@@ -974,6 +975,14 @@ NOTE: After selecting a menu option, press the buttons a bunch, it seems to get 
 ROM MD5: `302caa3ceddccc5fba36787b44d25da7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BladesOfSteel.ips).
+
+## Blues Brothers
+
+This patch converts `Blues Brothers (U,E)` to the `.pocket` format.
+
+ROM MD5: `ceaedf86193a8708a8a67e0e472b57fb`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BluesBrothers.ips).
 
 ## Boggle Plus
 
