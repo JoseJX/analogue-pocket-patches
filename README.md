@@ -187,6 +187,7 @@ Game | System
 [Hexcite - The Shapes of Victory](#hexcite---the-shapes-of-victory) | GBC
 [Humans](#humans) | GB
 [Ikari no Yousai](#ikari-no-yousai) | GB
+[Indiana Jones and the Last Crusade](#indiana-jones-and-the-last-crusade) | GB
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
 [International Karate 2000](#international-karate-2000) | GBC
 [International Track and Field](#international-track-and-field) | GBC
@@ -1950,6 +1951,14 @@ This patch converts `Ikari no Yousai (J)` to the `.pocket` format.
 ROM MD5: `ac04d143de6734e181a223d05178bde8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FortifiedZoneJ.ips).
+
+## Indiana Jones and the Last Crusade
+
+This patch converts `Indiana Jones and the Last Crusade (U,E)` to the `.pocket` format.
+
+ROM MD5: `a27e15cde0a8fbfc4489e0f599a53a9a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/IndianaJonesLastCrusade.ips).
 
 ## INFGMB
 
