@@ -286,6 +286,7 @@ Game | System
 [Noobow](#noobow) | GB
 [Operation C](#operation-c) | GB
 [Out of Gas](#out-of-gas) | GB
+[Pac-Man - Special Color Edition](#pac-man---special-color-edition) | GBC
 [Paperboy](#paperboy) | GB
 [Parasol Stars - Rainbow Islands II](#parasol-stars---rainbow-islands-ii) | GB
 [Parodius Da!](#parodius-da) | GB
@@ -2812,6 +2813,14 @@ This patch converts `Out of Gas (U)` to the `.pocket` format.
 ROM MD5: `0b7cbe56d1cf6370e60699e553d091a1`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/OutOfGas.ips).
+
+## Pac-Man - Special Color Edition
+
+This patch converts `Pac-Man - Special Color Edition (U)` to the `.pocket` format.
+
+ROM MD5: `b81ddb7d86302384efe1675f75cc35f6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PacManSCE.ips).
 
 ## Paperboy
 
