@@ -106,6 +106,7 @@ Game | System
 [Daikatana](#daikatana) | GBC
 [Daedalian Opus](#daedalian-opus) | GB
 [Daffy Duck](#daffy-duck) | GB
+[Daffy Duck - Fowl Play](#daffy-duck---fowl-play) | GBC
 [Dance Dance Revolution GB](#dance-dance-revolution-gb) | GBC
 [Dance Dance Revolution GB2](#dance-dance-revolution-gb2) | GBC
 [Dance Dance Revolution GB3](#dance-dance-revolution-gb3) | GBC
@@ -1275,6 +1276,14 @@ This patch converts `Daffy Duck (U,E)` to the `.pocket` format.
 ROM MD5: `7c9cef32db758d3f6b8a8a23b6902e2d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaffyDuck.ips).
+
+## Daffy Duck - Fowl Play
+
+This patch converts `Daffy Duck - Fowl Play (U,E)` to the `.pocket` format.
+
+ROM MD5: `882a7b4d2cadedd7ed2e21d22ca8f93d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaffyDuckFowlPlay.ips).
 
 ## Dance Dance Revolution GB
 
