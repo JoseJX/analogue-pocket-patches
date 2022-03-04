@@ -254,6 +254,7 @@ Game | System
 [Metal Walker](#metal-walker) | GBC
 [Mickey Mouse](#mickey-mouse) | GB
 [Mickey's Speedway USA](#mickeys-speedway-usa) | GBC
+[Mickey's Ultimate Challenge](#mickeys-ultimate-challenge) | GB
 [Mighty Morphin Power Rangers - The Movie](#mighty-morphin-power-rangers---the-movie) | GB
 [Miner 2049er Starring Bounty Bob](#miner-2049er-starring-bounty-bob) | GB
 [Mobile Golf](#mobile-golf) | GBC
@@ -2542,6 +2543,14 @@ This patch converts `Mickey's Speedway USA (U,E)` to the `.pocket` format.
 ROM MD5: `ff9b78e1f399fc2bd665b8a08ba27456`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeysSpeedway.ips).
+
+## Mickey's Ultimate Challenge
+
+This patch converts `Mickey's Ultimate Challenge (U,E)` to the `.pocket` format.
+
+ROM MD5: `f7d266bc81c150796ae373bddd0a9a84`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeysUltimateChallenge.ips).
 
 ## Mighty Morphin Power Rangers - The Movie
 
