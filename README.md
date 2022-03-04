@@ -313,6 +313,8 @@ Game | System
 [Prince of Persia (1992)](#prince-of-persia-1992) | GB
 [Prince of Persia](#prince-of-persia) | GBC
 [Puzzle Master](#puzzle-master) | GBC
+[Puzzled](#puzzled) | GBC
+[Puzzled (E)](#puzzled-e) | GBC
 [Pyramids of Ra](#pyramids-of-ra) | GB
 [QIX](#qix) | GB
 [QIX Adventure](#qix-adventure) | GBC
@@ -3063,6 +3065,22 @@ This patch converts `Puzzle Master (U)` to the `.pocket` format.
 ROM MD5: `90ecc5fb29cc95d58c33d44fe630d12e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PuzzleMaster.ips).
+
+## Puzzled
+
+This patch converts `Puzzled (U)` to the `.pocket` format.
+
+ROM MD5: `9108d1246f11d0e0f2cec608e79efd65`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Puzzled.ips).
+
+## Puzzled (E)
+
+This patch converts `Puzzled (E)` to the `.pocket` format.
+
+ROM MD5: `ccdcb901229a2278d0be673472f411b9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PuzzledE.ips).
 
 ## Pyramids of Ra
 
