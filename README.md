@@ -267,6 +267,8 @@ Game | System
 [Motocross Maniacs](#motocross-maniacs) | GB
 [Motocross Maniacs 2](#motocross-maniacs-2) | GBC
 [Mr. Driller](#mr-driller) | GBC
+[Mr. Nutz](#mr-nutz) | GBC
+[Mr. Nutz (E)](#mr-nutz-e) | GBC
 [Ms. Pac-Man](#ms-pac-man) | GB
 [Mysterium](#mysterium) | GB
 [Mystical Ninja Starring Goemon](#mystical-ninja-starring-goemon) | GB
@@ -2653,6 +2655,21 @@ ROM MD5: `76fa4014bfbb0ee2b63267af7ac373f2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MrDriller.ips).
 
+## Mr. Nutz
+
+This patch converts `Mr. Nutz (U)` to the `.pocket` format.
+
+ROM MD5: `9ba7b607ec310589c5ccfb1a8149df59`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MrNutz.ips).
+
+## Mr. Nutz (E)
+
+This patch converts `Mr. Nutz (E)` to the `.pocket` format.
+
+ROM MD5: `83b67b8a10f704a9e3e7ca3814e5b3ca`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MrNutzE.ips).
 
 ## Ms. Pac-Man
 
