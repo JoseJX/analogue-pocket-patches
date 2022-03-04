@@ -11,6 +11,7 @@
 Game | System 
 --- | --- 
 [007 James Bond - The World is Not Enough](#007-james-bond---the-world-is-not-enough) | GBC
+[1942](#1942) | GBC
 [3D Pocket Pool](#3d-pocket-pool) | GBC
 [3-D Ultra Pinball - Thrillride](#3-d-ultra-pinball---thrillride) | GBC
 [4000AD by PROTODOME](#4000ad-by-protodome) | GB
@@ -487,6 +488,14 @@ This patch converts `007 James Bond - The World is Not Enough (U,E)` to the `.po
 ROM MD5: `1f1fb3cf8783f880bc796d667be60231`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/007TWINE.ips).
+
+## 1942
+
+This patch converts `1942 (U,E)` to the `.pocket` format.
+
+ROM MD5: `a31652b6d1e7fc647c4af7b9dfe05ff5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/1942.ips).
 
 ## 3D Pocket Pool
 
