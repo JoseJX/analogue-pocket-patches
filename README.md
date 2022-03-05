@@ -59,6 +59,7 @@ Game | System
 [Batman - Return of the Joker](#batman---return-of-the-joker) | GB
 [Batman - The Video Game](#batman---the-video-game) | GB
 [Batman Beyond - Return of the Joker](#batman-beyond---return-of-the-joker) | GBC
+[Batman of the Future - Return of the Joker](#batman-of-the-future---return-of-the-joker) | GBC
 [Battle Arena Toshinden](#battle-arena-toshinden) | GB
 [Battle Bull](#battle-bull) | GB
 [Battleship](#battleship) | GB
@@ -919,6 +920,15 @@ This patch converts `Battletoads (U,E)` to the `.pocket` format.
 ROM MD5: `6d24c94d3acd89b4b703f7bd2a504833`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Battletoads.ips).
+
+## Batman of the Future - Return of the Joker
+
+This patch converts `Batman of the Future - Return of the Joker (E)` to the `.pocket` format.
+
+ROM MD5: `19cd9d45c6bb221613101b22c72593b2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanReturnOfTheJokerE.ips).
+
 
 ## Battle Arena Toshinden
 
