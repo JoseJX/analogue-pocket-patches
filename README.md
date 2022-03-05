@@ -468,6 +468,7 @@ Game | System
 [WWF - WrestleMania 2000](#wwf---wrestlemania-2000) | GBC
 [Xenon 2 - Megablast](#xenon-2---megablast) | GB
 [X-Men - Mutant Academy](#x-men---mutant-academy) | GBC
+[X-Men - Mutant Wars](#x-men---mutant-wars) | GBC
 [X-Men - Wolverine's Rage](#x-men---wolverines-rage) | GBC
 [Xtreme Sports](#xtreme-sports) | GBC
 [Yoshi](#yoshi) | GB
@@ -4377,6 +4378,14 @@ This patch converts `X-Men - Mutant Academy (U,E)` to the `.pocket` format.
 ROM MD5: `cc17f52e5140c0d1ad892d1856d05212`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/XMen-MA.ips).
+
+## X-Men - Mutant Wars
+
+This patch converts `X-Men - Mutant Wars (U,E)` to the `.pocket` format.
+
+ROM MD5: `2c74082758017e30990e30b145c2f841`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/XMen-MW.ips).
 
 ## X-Men - Wolverine's Rage
 
