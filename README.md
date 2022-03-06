@@ -392,6 +392,7 @@ Game | System
 [Super Imposter Bros.](#super-imposter-bros) | GBC
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
+[Super Robot Pinball](#super-robot-pinball) | GBC
 [Super Robot Taisen](#super-robot-taisen) | GB
 [Survival Kids 2 - Dasshutsu!! Futago-Jima!](#survival-kids-2---dasshutsu-futago-jima) | GBC
 [Sutte Hakkun GB](#sutte-hakkun-gb) | GBC
@@ -3730,6 +3731,14 @@ This patch was updated to fix a crash. (2022/01/23)
 ROM MD5: `9ba2999ef3ecf9e27ac6c88e995c9d7a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRC.ips).
+
+## Super Robot Pinball
+
+This patch converts `Super Robot Pinball (J)` to the `.pocket` format.
+
+ROM MD5: `6c7dc7ce74088a9e42a6fb8d98a67714`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRobotPinball.ips).
 
 ## Super Robot Taisen
 
