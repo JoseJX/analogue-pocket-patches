@@ -331,6 +331,7 @@ Game | System
 [R-Type](#r-type) | GB
 [Rampage World Tour](#rampage-world-tour) | GBC
 [Rats!](#rats) | GBC
+[Rayman 2 - The Great Escape](#rayman-2---the-great-escape) | GBC
 [Real Ghostbusters](#real-ghostbusters) | GB
 [Ren and Stimpy Show - Space Cadet Adventures](#ren-and-stimpy-show---space-cadet-adventures) | GB
 [Ren and Stimpy Show - The Veediots!](#ren-and-stimpy-show---the-veediots) | GB
@@ -3216,13 +3217,21 @@ ROM MD5: `f0bfbded7125dd312eaf36d16c1556a1`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rampage.ips).
 
-## Rats
+## Rats!
 
 This patch converts `Rats! (U)` to the `.pocket` format. This game is also known as "Reservoir Rat".
 
 ROM MD5: `d240328faacf5583804a30b7003743b3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rats.ips).
+
+## Rayman 2 - The Great Escape
+
+This patch converts `Rayman 2 - The Great Escape (U,E)` to the `.pocket` format.
+
+ROM MD5: `feb32471ea029a55d7bdea7e0bdc6961`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rayman2.ips).
 
 ## Real Ghostbusters
 
