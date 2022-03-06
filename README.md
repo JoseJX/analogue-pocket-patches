@@ -72,6 +72,7 @@ Game | System
 [Bill and Ted's Excellent Game Boy Adventure](#bill-and-teds-excellent-game-boy-adventure) | GB
 [Bionic Commando](#bionic-commando) | GB
 [Bionic Commando - Elite Forces](#bionic-commando---elite-forces) | GBC
+[Blade](#blade) | GBC
 [Blades of Steel](#blades-of-steel) | GB
 [Blues Brothers](#blues-brothers) | GB
 [Boggle Plus](#boggle-plus) | GB
@@ -1005,6 +1006,14 @@ This patch converts `Bionic Commando - Elite Forces (U,E,A)` to the `.pocket` fo
 ROM MD5: `b3347b3219a7183697e83655f4628827`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BCElite.ips).
+
+## Blade
+
+This patch converts `Blade (U,E)` to the `.pocket` format.
+
+ROM MD5: `6b3ceb7bb280c0c0cb7543fe33925cb7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Blade.ips).
 
 ## Blades of Steel
 
