@@ -230,6 +230,7 @@ Game | System
 [Looney Tunes](#looney-tunes) | GB
 [Lucky Luke](#lucky-luke) | GBC
 [Lucky Luke (E)](#lucky-luke-e) | GBC
+[Lucky Luke - Desperado Train](#lucky-luke---desperado-train) | GBC
 [Lunar Chase](#lunar-chase) | GB
 [Madden NFL 2002](#madden-nfl-2002) | GBC
 [Magi Nation](#magi-nation) | GB
@@ -2336,6 +2337,14 @@ This patch converts `Lucky Luke (E)` to the `.pocket` format.
 ROM MD5: `eb76fda958f100fb791111b928ffe46f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LuckyLukeE.ips).
+
+## Lucky Luke - Desperado Train
+
+This patch converts `Lucky Luke - Desperado Train (E)` to the `.pocket` format.
+
+ROM MD5: `31770f7197ea4a7ff99cad7cef5c58b8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LuckyLukeDesperado.ips).
 
 ## Lunar Chase
 
