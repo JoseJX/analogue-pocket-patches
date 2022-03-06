@@ -378,6 +378,7 @@ Game | System
 [Spy vs Spy](#spy-vs-spy) | GBC
 [Spy vs Spy - Operation Booby Trap](#spy-vs-spy---operation-booby-trap) | GBC
 [Star Ocean - Blue Sphere](#star-ocean---blue-sphere) | GBC
+[Star Trek - 25th Anniversary](#star-trek---25th-anniversary) | GB
 [Star Trek - The Next Generation](#star-trek---the-next-generation) | GB
 [Star Wars](#star-wars) | GB
 [Star Wars - The Empire Strikes Back](#star-wars---the-empire-strikes-back) | GB
@@ -3613,6 +3614,14 @@ It is compatible with the English [translation patch](https://archive.org/downlo
 ROM MD5: `820e0a19275fabc03fe619c42db47179`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarOcean.ips).
+
+## Star Trek - 25th Anniversary
+
+This patch converts `Star Trek - 25th Anniversary (U,E)` to the `.pocket` format.
+
+ROM MD5: `e1b8b8158c54df9188d54c4d5331e53d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarTrek25th.ips).
 
 ## Star Trek - The Next Generation
 
