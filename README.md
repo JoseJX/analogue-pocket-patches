@@ -312,6 +312,7 @@ Game | System
 [Pokemon Picross](#pokemon-picross) | GBC
 [Pokemon Pinball (E)](#pokemon-pinball-e) | GBC
 [Pokemon Prism](#pokemon-prism) | GBC
+[Pong - The Next Level](#pong---the-next-level) | GBC
 [Popeye 2](#popeye-2) | GB
 [Pop'n Music GB](#popn-music-gb) | GBC
 [Pop'n Music GB - Animation Melody](#popn-music-gb---animation-melody) | GBC
@@ -3070,6 +3071,14 @@ Pokemon Prism is a fan conversion of Pokemon Crystal. You must apply the patch t
 Patched ROM MD5: `3cd828587eb8d3fe818d57f99b3a3c95`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokePrism.ips).
+
+## Pong - The Next Level
+
+This patch converts `Pong - The Next Level (U,E)` to the `.pocket` format.
+
+ROM MD5: `0a3da06446d9a2c7e1ea8149c9026434`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PongNextLevel.ips).
 
 ## Popeye 2
 
