@@ -47,6 +47,7 @@ Game | System
 [Astro Rabby](#astro-rabby) | GB
 [Atomic Punk](#atomic-punk) | GB
 [Bad Apple (Demo)](#bad-apple-demo) | GBC
+[Ballistic](#ballistic) | GBC
 [Balloon Kid](#balloon-kid) | GB
 [Balloon Fight GB](#balloon-fight-gb) | GBC
 [Banishing Racer](#banishing-racer) | GB
@@ -809,6 +810,14 @@ This patch converts [Bad Apple (Demo)](https://gbhh.avivace.com/game/bad-apple) 
 ROM MD5: `1e8c2c4cdf5e67e708c51c9739e6f2c8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BadApple.ips).
+
+## Ballistic
+
+This patch converts `Ballistic (U)` to the `.pocket` format.
+
+ROM MD5: `3b783f3fded9c61f2f9bb1d956bfd6cd`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ballistic.ips).
 
 ## Balloon Kid
 
