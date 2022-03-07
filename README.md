@@ -232,6 +232,7 @@ Game | System
 [Lion King - Simba's Mighty Adventure](#lion-king---simbas-mighty-adventure) | GBC
 [Lock n' Chase ~ Lock 'n' Chase](#lock-n-chase-lock-n-chase) | GB
 [Looney Tunes](#looney-tunes) | GB
+[Loopz](#loopz) | GB
 [Lucky Luke](#lucky-luke) | GBC
 [Lucky Luke (E)](#lucky-luke-e) | GBC
 [Lucky Luke - Desperado Train](#lucky-luke---desperado-train) | GBC
@@ -2375,6 +2376,14 @@ This patch converts `Looney Tunes (U,E)` to the `.pocket` format.
 ROM MD5: `6e9dd3c1fb169da79292a1962e95a884`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunes.ips).
+
+## Loopz
+
+This patch converts `Loopz (W)` to the `.pocket` format.
+
+ROM MD5: `7e68c061d77a2e8925442a9b6fa0a0ed`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Loopz.ips).
 
 ## Lucky Luke
 
