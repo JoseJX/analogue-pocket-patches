@@ -77,6 +77,7 @@ Game | System
 [Blues Brothers](#blues-brothers) | GB
 [Boggle Plus](#boggle-plus) | GB
 [Bomberman GB](#bomberman-gb) | GB
+[Bomberman Max - Blue Champion](#bomberman-max---blue-champion) | GBC
 [Bomberman Quest](#bomberman-quest) | GBC
 [Bonk's Adventure](#bonks-adventure) | GB
 [Bonk's Revenge](#bonks-revenge) | GB
@@ -1056,6 +1057,14 @@ This patch converts `Bomberman GB (U,E)` to the `.pocket` format.
 ROM MD5: `7e4c9c3620bea7b633394beb67e9680b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanGB.ips).
+
+## Bomberman Max - Blue Champion
+
+This patch converts `Bomberman Max - Blue Champion (U)` to the `.pocket` format.
+
+ROM MD5: `c987f711dfb9cba8dc1174219877360f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanMax.ips).
 
 ## Bomberman Quest
 
