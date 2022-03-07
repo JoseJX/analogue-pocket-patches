@@ -311,6 +311,7 @@ Game | System
 [Pipe Dream](#pipe-dream) | GB
 [Pocket Bomberman](#pocket-bomberman) | GBC
 [Pocket Monsters - Crystal Version (VN)](#pocket-monsters---crystal-version-vn) | GBC
+[Pocket Music](#pocket-music) | GBC
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
 [Pokemon Pinball (E)](#pokemon-pinball-e) | GBC
@@ -3052,6 +3053,14 @@ This patch converts `Pocket Monsters - Crystal Version (VN)` to the `.pocket` fo
 ROM MD5: `da3a0c2b387b04209a90338a577d7c80`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketMonstersCrystalVN.ips).
+
+## Pocket Music
+
+This patch converts `Pocket Music (E)` to the `.pocket` format.
+
+ROM MD5: `84eede6bb298dd354f251eccb1259316`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketMusic.ips).
 
 ## Pokemon Puzzle Challenge
 
