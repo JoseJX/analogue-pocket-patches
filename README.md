@@ -193,6 +193,7 @@ Game | System
 [Hexcite - The Shapes of Victory](#hexcite---the-shapes-of-victory) | GBC
 [Humans](#humans) | GB
 [Ikari no Yousai](#ikari-no-yousai) | GB
+[Ikari no Yousai 2](#ikari-no-yousai-2) | GB
 [Indiana Jones and the Infernal Machine](#indiana-jones-and-the-infernal-machine) | GBC
 [Indiana Jones and the Last Crusade](#indiana-jones-and-the-last-crusade) | GB
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
@@ -2024,6 +2025,16 @@ This patch converts `Ikari no Yousai (J)` to the `.pocket` format.
 ROM MD5: `ac04d143de6734e181a223d05178bde8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FortifiedZoneJ.ips).
+
+## Ikari no Yousai 2
+
+This patch converts `Ikari no Yousai 2 (J)` to the `.pocket` format.
+
+It is compatible with the [translation patch](https://www.romhacking.net/download/translations/1613/).
+
+ROM MD5: `1efea4210026a8d733a5b2ade2b005f1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/IkariNoYousai2.ips).
 
 ## Indiana Jones and the Infernal Machine
 
