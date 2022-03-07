@@ -186,6 +186,7 @@ Game | System
 [Hamtaro - Ham-Hams Unite!](#hamtaro---ham-hams-unite) | GBC 
 [Harry Potter and the Chamber of Secrets](#harry-potter-and-the-chamber-of-secrets) | GBC
 [Harry Potter and the Sorcerer's Stone](#harry-potter-and-the-sorcerers-stone) | GBC
+[Heiankyo Alien](#heiankyo-alien) | GB
 [Hercules](#hercules) | GB
 [Hercules - The Legendary Journey](#hercules---the-legendary-journey) | GBC
 [Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
@@ -1967,6 +1968,14 @@ This patch converts `Harry Potter and the Sorcerer's Stone (U,E)` to the `.pocke
 ROM MD5: `ba85a2ae8aa5829c440eef2d5549506c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HP1.ips).
+
+## Heiankyo Alien
+
+This patch converts `Heiankyo Alien (U)` to the `.pocket` format.
+
+ROM MD5: `b236e81e9f5c19148c24c4984d8ef90f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HeiankyoAlien.ips).
 
 ## Hercules
 
