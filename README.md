@@ -292,6 +292,7 @@ Game | System
 [Nectaris GB](#nectaris-gb) | GB
 [New Chessmaster](#new-chessmaster) | GB
 [Nemesis](#nemesis) | GB
+[Nemesis II](#nemesis-ii) | GB
 [Ninja Boy](#ninja-boy) | GB
 [Ninja Boy 2](#ninja-boy-2) | GB
 [Noobow](#noobow) | GB
@@ -2885,6 +2886,14 @@ This patch converts `Nemesis (U)` to the `.pocket` format.
 ROM MD5: `1eb7ff636e532321a18885eea660604a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Nemesis.ips).
+
+## Nemesis II
+
+This patch converts `Nemesis II (J)` to the `.pocket` format.
+
+ROM MD5: `c4dc3987a841a428f837db26bddc586e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Nemesis2.ips).
 
 ## Ninja Boy
 
