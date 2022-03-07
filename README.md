@@ -364,6 +364,8 @@ Game | System
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
 [Smurfs](#smurfs) | GB
+[Smurfs' Nightmare](#smurfs-nightmare) | GBC
+[Smurfs' Nightmare (E)](#smurfs-nightmare-e) | GBC
 [Snow Bros. Jr.](#snow-bros-jr) | GB
 [Solar Striker](#solar-striker) | GB
 [Solitaire FunPak](#solitaire-funpak) | GB
@@ -3514,6 +3516,22 @@ This patch converts `Smurfs (U,E)` to the `.pocket` format.
 ROM MD5: `a574e5f7119b31e5112221c3a0ada813`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Smurfs.ips).
+
+## Smurfs' Nightmare
+
+This patch converts `Smurfs' Nightmare (U)` to the `.pocket` format.
+
+ROM MD5: `20052c527795a4f332be14aff49d4d4b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SmurfsNightmare.ips).
+
+## Smurfs' Nightmare (E)
+
+This patch converts `Smurfs' Nightmare (E)` to the `.pocket` format.
+
+ROM MD5: `5da63fe252b4cb3e17dd4986fb276690`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SmurfsNightmareE.ips).
 
 ## Snow Bros. Jr.
 
