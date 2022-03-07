@@ -291,6 +291,7 @@ Game | System
 [NBA Jam](#nba-jam) | GB
 [NBA Jam - Tournament Edition](#nba-jam---tournament-edition) | GB
 [Nectaris GB](#nectaris-gb) | GB
+[New Batman Adventures - Chaos in Gotham](#new-batman-adventures---chaos-in-gotham) | GBC
 [New Chessmaster](#new-chessmaster) | GB
 [Nemesis](#nemesis) | GB
 [Nemesis II](#nemesis-ii) | GB
@@ -2883,6 +2884,14 @@ This patch is compatible with the [translation patch](https://www.romhacking.net
 ROM MD5: `1080141c1b99b5b92d187990bdc85c6a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Nectaris.ips).
+
+## New Batman Adventures - Chaos in Gotham
+
+This patch converts `New Batman Adventures - Chaos in Gotham (U)` to the `.pocket` format.
+
+ROM MD5: `3d818762aa83330ce4426f8005cc374b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NewBatman.ips).
 
 ## New Chessmaster
 
