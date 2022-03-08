@@ -340,6 +340,7 @@ Game | System
 [Pyramids of Ra](#pyramids-of-ra) | GB
 [QIX](#qix) | GB
 [QIX Adventure](#qix-adventure) | GBC
+[Quarth](#quarth) | GB
 [R-Type](#r-type) | GB
 [Rampage World Tour](#rampage-world-tour) | GBC
 [Rampart](#rampart) | GB
@@ -3316,6 +3317,14 @@ This patch converts `QIX Adventure (E)` to the `.pocket` format.
 ROM MD5: `95b284df7ba2f862406f747b4ca7c380`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/QIXAdventure.ips).
+
+## Quarth
+
+This patch converts `Quarth (U,E)` to the `.pocket` format.
+
+ROM MD5: `de2236723c8d218e04c93849ebcda72d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Quarth.ips).
 
 ## R-Type
 
