@@ -342,6 +342,7 @@ Game | System
 [QIX Adventure](#qix-adventure) | GBC
 [R-Type](#r-type) | GB
 [Rampage World Tour](#rampage-world-tour) | GBC
+[Rampart](#rampart) | GB
 [Rats!](#rats) | GBC
 [Rayman 2 - The Great Escape](#rayman-2---the-great-escape) | GBC
 [Real Ghostbusters](#real-ghostbusters) | GB
@@ -3330,6 +3331,14 @@ This patch converts `Rampage World Tour (U)` to the `.pocket` format.
 ROM MD5: `f0bfbded7125dd312eaf36d16c1556a1`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rampage.ips).
+
+## Rampart
+
+This patch converts `Rampart (U,E)` to the `.pocket` format.
+
+ROM MD5: `aba4c0670730f413d4946d88aab28629`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rampart.ips).
 
 ## Rats!
 
