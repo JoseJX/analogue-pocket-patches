@@ -186,6 +186,8 @@ Game | System
 [Hamtaro - Ham-Hams Unite!](#hamtaro---ham-hams-unite) | GBC 
 [Harry Potter and the Chamber of Secrets](#harry-potter-and-the-chamber-of-secrets) | GBC
 [Harry Potter and the Sorcerer's Stone](#harry-potter-and-the-sorcerers-stone) | GBC
+[Harvest Moon 2 GBC](#harvest-moon-2-gbc) | GBC
+[Harvest Moon 2 GBC (E)](#harvest-moon-2-gbc-e) | GBC
 [Heiankyo Alien](#heiankyo-alien) | GB
 [Hercules](#hercules) | GB
 [Hercules - The Legendary Journey](#hercules---the-legendary-journey) | GBC
@@ -1974,6 +1976,22 @@ This patch converts `Harry Potter and the Sorcerer's Stone (U,E)` to the `.pocke
 ROM MD5: `ba85a2ae8aa5829c440eef2d5549506c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HP1.ips).
+
+## Harvest Moon 2 GBC
+
+This patch converts `Harvest Moon 2 GBC (U)` to the `.pocket` format.
+
+ROM MD5: `a539a7a02639395ad8d7723199c81eae`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HarvestMoon2.ips).
+
+## Harvest Moon 2 GBC (E)
+
+This patch converts `Harvest Moon 2 GBC (E)` to the `.pocket` format.
+
+ROM MD5: `74c9fe928dd97ae193e9f937ce340dcc`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HarvestMoon2E.ips).
 
 ## Heiankyo Alien
 
