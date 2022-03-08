@@ -101,6 +101,7 @@ Game | System
 [Castlevania Legends](#castlevania-legends) | GB
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
 [Catrap](#catrap) | GB
+[Chalvo 55 - Super Puzzle Action](#chalvo-55---super-puzzle-action) | GB
 [Chessmaster](#chessmaster) | GB
 [Choplifter II - Rescue and Survive](#choplifter-ii---rescue-and-survive) | GB
 [Commander Keen](#commander-keen) | GBC
@@ -1272,6 +1273,16 @@ This patch converts `Catrap (U)` to the `.pocket` format.
 ROM MD5: `5a75fe8de54e4cbd09cae23f050f6965`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Catrap.ips).
+
+## Chalvo 55 - Super Puzzle Action
+
+This patch converts `Chalvo 55 - Super Puzzle Action (J)` to the `.pocket` format.
+
+It is compatible with the [English translation patch](https://www.romhacking.net/translations/1101/).
+
+ROM MD5: `ba50565630891680c9cf8b1827fca429`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Chalvo55.ips).
 
 ## Chessmaster
 
