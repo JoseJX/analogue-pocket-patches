@@ -476,6 +476,7 @@ Game | System
 [Wetrix GB](#wetrix-gb) | GBC
 [Wheel of Fortune](#wheel-of-fortune) | GB
 [Who Framed Rodger Rabbit?](#who-framed-rodger-rabbit) | GB
+[Who Wants to be a Millionare 2nd Edition](#who-wants-to-be-a-millionare-2nd-edition) | GBC
 [Wild Snake](#wild-snake) | GB
 [Wizards and Warriors Chapter X - The Fortress of Fear](#wizards-and-warriors-chapter-x---the-fortress-of-fear) | GB
 [Wizardry I - Proving Grounds of the Mad Overlord](#wizardry-i---proving-grounds-of-the-mad-overlord) | GBC
@@ -4446,6 +4447,14 @@ This patch converts `Who Framed Rodger Rabbit? (U)` to the `.pocket` format.
 ROM MD5: `692fc5a0b6a9893d6ea25326c55caae5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RogerRabbit.ips).
+
+## Who Wants to be a Millionare 2nd Edition
+
+This patch converts `Who Wants to be a Millionare 2nd Edition (U)` to the `.pocket` format.
+
+ROM MD5: `866dca02365fd72f9ad396dca758d8b5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Millionaire2nd.ips).
 
 ## Wild Snake
 
