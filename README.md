@@ -172,6 +172,8 @@ Game | System
 [Gekito Power Modeler](#gekito-power-modeler) | GB
 [George Foreman's KO Boxing](#george-foremans-ko-boxing) | GB
 [Gex - Enter the Gecko](#gex---enter-the-gecko) | GBC
+[Gex 3 - Deep Cover Gecko](#gex-3---deep-cover-gecko) | GBC
+[Gex 3 - Deep Pocket Gecko](#gex-3---deep-pocket-gecko) | GBC
 [Ghostbusters II](#ghostbusters-ii) | GB
 [Gimmick Land](#gimmick-land) | GBC
 [Godzilla](#godzilla) | GB
@@ -1862,6 +1864,22 @@ This patch converts `Gex - Enter the Gecko (U,E)` to the `.pocket` format.
 ROM MD5: `f0462eba75d879c40668e20d1dbdb612`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gex.ips).
+
+## Gex 3 - Deep Pocket Gecko
+
+This patch converts `Gex 3 - Deep Pocket Gecko (U)` to the `.pocket` format.
+
+ROM MD5: `91eb6db42e92e2df05cc2b40f0dbc2f0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gex3.ips).
+
+## Gex 3 - Deep Cover Gecko
+
+This patch converts `Gex 3 - Deep Cover Gecko (E)` to the `.pocket` format.
+
+ROM MD5: `89d563bcc7b6f2f087cdafa8a78a8aa7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gex3E.ips).
 
 ## Ghostbusters II
 
