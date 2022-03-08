@@ -328,6 +328,8 @@ Game | System
 [Pop'n Music GB - Disney Tunes](#popn-music-gb---disney-tunes) | GBC
 [Pop'n TwinBee](#popn-twinbee) | GB
 [Populous](#populous) | GB
+[Porklike](#porklike) | GBC
+[Power Mission](#power-mission) | GB
 [Power Quest](#power-quest) | GBC
 [Power Racer](#power-racer) | GB
 [Prehistorik Man](#prehistorik-man) | GB
@@ -3217,6 +3219,14 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 I compiled the source into the `.pocket` format. Make sure to visit the author's page and let them know if you're enjoying it!
 
 You can [download the Analogue Pocket .pocket file here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/porklike.pocket).
+
+## Power Mission
+
+This patch converts `Power Mission (U)` to the `.pocket` format.
+
+ROM MD5: `3c8dfc25fd8d2691cfe1cb2c375e097c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowerMission.ips).
 
 ## Power Quest
 
