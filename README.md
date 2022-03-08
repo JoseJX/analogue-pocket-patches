@@ -360,6 +360,7 @@ Game | System
 [Samurai Showdown](#samurai-showdown) | GB
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
 [Scooby-Doo! Classic Creep Capers](#scooby-doo-classic-creep-capers) | GBC
+[Seiken Densetsu - Final Fantasy Gaiden](#seiken-densetsu---final-fantasy-gaiden) | GB
 [Shadowgate Classic](#shadowgate-classic) | GBC
 [Shanghai](#shanghai) | GB
 [Shanghai (J) - Activision](#shanghai-j---activision) | GB
@@ -370,9 +371,9 @@ Game | System
 [Shin Megami Tensei Devil Children - Aka no Sho](#shin-megami-tensei-devil-children---aka-no-sho) | GBC
 [Shin Megami Tensei Devil Children - Kuro no Sho](#shin-megami-tensei-devil-children---kuro-no-sho) | GBC
 [Shin Megami Tensai Devil Children - Shiro no Sho](#shin-megami-tensai-devil-children---shiro-no-sho) | GBC
-[Seiken Densetsu - Final Fantasy Gaiden](#seiken-densetsu---final-fantasy-gaiden) | GB
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
+[Skate or Die - Bad 'N Rad](#skate-or-die---bad-n-rad) | GB
 [Smurfs](#smurfs) | GB
 [Smurfs' Nightmare](#smurfs-nightmare) | GBC
 [Smurfs' Nightmare (E)](#smurfs-nightmare-e) | GBC
@@ -3485,6 +3486,14 @@ ROM MD5: `117a9babae15960dc4de04ac44066ed2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ScoobyDoo.ips).
 
+## Seiken Densetsu - Final Fantasy Gaiden
+
+This patch converts `Seiken Densetsu - Final Fantasy Gaiden (J)` to the `.pocket` format.
+
+ROM MD5: `3b359e9fec183bff5f964e25b599b246`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SeikenDensetsu.ips).
+
 ## Shadowgate Classic
 
 This patch converts `Shadowgate Classic (U,E)` to the `.pocket` format.
@@ -3567,14 +3576,6 @@ ROM MD5: `9354cc341aa23da3e29829da76b8888e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMTDC-Shiro.ips).
 
-## Seiken Densetsu - Final Fantasy Gaiden
-
-This patch converts `Seiken Densetsu - Final Fantasy Gaiden (J)` to the `.pocket` format.
-
-ROM MD5: `3b359e9fec183bff5f964e25b599b246`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SeikenDensetsu.ips).
-
 ## Side Pocket
 
 This patch converts `Side Pocket (U)` to the `.pocket` format.
@@ -3592,6 +3593,14 @@ This patch was updated to fix a potential problem, but it does not fix the statu
 ROM MD5: `2a4f3309fe05b47a98d8c5b4c81b91e5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SimpsonsTreeHouse.ips).
+
+## Skate or Die - Bad 'N Rad
+
+This patch converts `Skate or Die - Bad 'N Rad (U)` to the `.pocket` format.
+
+ROM MD5: `ed7318b615b0a827f3edcff0c817caea`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SkateOrDieRad.ips).
 
 ## Smurfs
 
