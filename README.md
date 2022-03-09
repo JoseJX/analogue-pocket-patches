@@ -477,6 +477,7 @@ Game | System
 [Ultraman Ball](#ultraman-ball) | GB
 [V-Rally - Championship Edition](#v-rally---championship-edition) | GBC
 [Wacky Races](#wacky-races) | GBC
+[Walt Disney's Alice In Wonderland](#walt-disneys-alice-in-wonderland) | GBC
 [Warlocked](#warlocked) | GBC
 [Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
 [Wave Race](#wave-race) | GB
@@ -4481,6 +4482,14 @@ This patch converts `Wario Blast featuring Bomberman! (U,E)` to the `.pocket` fo
 ROM MD5: `14fe7234ee4bcb14adf20c743f084a35`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioBlast.ips).
+
+## Walt Disney's Alice In Wonderland
+
+This patch converts `Walt Disney's Alice In Wonderland (U)` to the `.pocket` format.
+
+ROM MD5: `0ed5b9ffe7ad90d819cac810d05b669c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AliceInWonderland.ips).
 
 ## Warlocked
 
