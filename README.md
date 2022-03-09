@@ -97,6 +97,7 @@ Game | System
 [Bust-A-Move Millennium](#bust-a-move-millennium) | GBC
 [Cannon Fodder](#cannon-fodder) | GBC
 [Captain America and the Avengers](#captain-america-and-the-avengers) | GB
+[Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai](#cardcaptor-sakura---tomoeda-shougakkou-daiundoukai) | GBC
 [Castlevania - The Adventure](#castlevania---the-adventure) | GB
 [Castlevania Legends](#castlevania-legends) | GB
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
@@ -1240,6 +1241,14 @@ This patch converts `Captain America and the Avengers (U)` to the `.pocket` form
 ROM MD5: `dd5d45d9f8722f8ded9ab85097daa4e5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CaptainAmerica.ips).
+
+## Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai
+
+This patch converts `Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (J)` to the `.pocket` format.
+
+ROM MD5: `3a998a2ec99c89696c9b23bbbd87f116`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CardcaptorSakuraTomoeda.ips).
 
 ## Castlevania - The Adventure
 
