@@ -306,6 +306,7 @@ Game | System
 [NBA Jam](#nba-jam) | GB
 [NBA Jam - Tournament Edition](#nba-jam---tournament-edition) | GB
 [Nectaris GB](#nectaris-gb) | GB
+[Nettou Samurai Spirits - Zankurou Musouken](#nettou-samurai-spirits---zankurou-musouken) | GB
 [New Batman Adventures - Chaos in Gotham](#new-batman-adventures---chaos-in-gotham) | GBC
 [New Chessmaster](#new-chessmaster) | GB
 [Nemesis](#nemesis) | GB
@@ -3024,6 +3025,14 @@ This patch is compatible with the [translation patch](https://www.romhacking.net
 ROM MD5: `1080141c1b99b5b92d187990bdc85c6a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Nectaris.ips).
+
+## Nettou Samurai Spirits - Zankurou Musouken
+
+This patch converts `Nettou Samurai Spirits - Zankurou Musouken (J)` to the `.pocket` format.
+
+ROM MD5: `4426b35ef04094f9c5518d6fb6414d55`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NettouSamuraiSpirits.ips).
 
 ## New Batman Adventures - Chaos in Gotham
 
