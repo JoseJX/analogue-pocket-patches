@@ -200,6 +200,7 @@ Game | System
 [Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
 [Hexcite - The Shapes of Victory](#hexcite---the-shapes-of-victory) | GBC
 [Humans](#humans) | GB
+[Hyper Lode Runner](#hyper-lode-runner) | GB
 [Ikari no Yousai](#ikari-no-yousai) | GB
 [Ikari no Yousai 2](#ikari-no-yousai-2) | GB
 [Indiana Jones and the Infernal Machine](#indiana-jones-and-the-infernal-machine) | GBC
@@ -2101,6 +2102,14 @@ This patch converts `The Humans (U)` to the `.pocket` format.
 ROM MD5: `4a1ecc8ccc706ed5fdce2fdab2aaf03e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Humans.ips).
+
+## Hyper Lode Runner
+
+This patch converts `Hyper Lode Runner (W)` to the `.pocket` format.
+
+ROM MD5: `dc79b733997e469e961e2d850448db23`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HyperLodeRunner.ips).
 
 ## Ikari no Yousai
 
