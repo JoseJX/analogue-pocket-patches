@@ -74,6 +74,7 @@ Game | System
 [Bionic Commando](#bionic-commando) | GB
 [Bionic Commando - Elite Forces](#bionic-commando---elite-forces) | GBC
 [Bishoujo Senshi Sailor Moon](#bishoujo-senshi-sailor-moon) | GB
+[Bishoujo Senshi Sailor Moon R](#bishoujo-senshi-sailor-moon-r) | GB
 [Blade](#blade) | GBC
 [Blades of Steel](#blades-of-steel) | GB
 [Blues Brothers](#blues-brothers) | GB
@@ -1054,6 +1055,14 @@ This patch converts `Bishoujo Senshi Sailor Moon (J)` to the `.pocket` format.
 ROM MD5: `7afb675171d58105112dbacf2ced77cb`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SailorMoon.ips).
+
+## Bishoujo Senshi Sailor Moon R
+
+This patch converts `Bishoujo Senshi Sailor Moon R (J)` to the `.pocket` format.
+
+ROM MD5: `84634fb36156bb1b9e54bc62fbaf3525`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SailorMoonR.ips).
 
 ## Blade
 
