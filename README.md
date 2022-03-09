@@ -418,6 +418,7 @@ Game | System
 [Street Fighter Alpha - Warriors' Dreams](#street-fighter-alpha---warriors-dreams) | GBC
 [Street Fighter II](#street-fighter-ii) | GB
 [Super Imposter Bros.](#super-imposter-bros) | GBC
+[Super Momotarou Dentetsu II](#super-momotarou-dentetsu-ii) | GB
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
 [Super Robot Pinball](#super-robot-pinball) | GBC
@@ -3964,6 +3965,14 @@ This patch converts `Street Fighter II (U)` to the `.pocket` format.
 ROM MD5: `dc3ef8d3fad26cba840327cc428cadbc`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SF2.ips).
+
+## Super Momotarou Dentetsu II
+
+This patch converts `Super Momotarou Dentetsu II (J)` to the `.pocket` format.
+
+ROM MD5: `4c30d454b5520414fd81d5ffa51375c5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperMomotarouDentetsu2.ips).
 
 ## Super Off Road
 
