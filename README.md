@@ -203,6 +203,7 @@ Game | System
 [Hyper Lode Runner](#hyper-lode-runner) | GB
 [Ikari no Yousai](#ikari-no-yousai) | GB
 [Ikari no Yousai 2](#ikari-no-yousai-2) | GB
+[Incredible Crash Dummies](#incredible-crash-dummies) | GB
 [Indiana Jones and the Infernal Machine](#indiana-jones-and-the-infernal-machine) | GBC
 [Indiana Jones and the Last Crusade](#indiana-jones-and-the-last-crusade) | GB
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
@@ -2130,6 +2131,14 @@ It is compatible with the [translation patch](https://www.romhacking.net/downloa
 ROM MD5: `1efea4210026a8d733a5b2ade2b005f1`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/IkariNoYousai2.ips).
+
+## Incredible Crash Dummies
+
+This patch converts `Incredible Crash Dummies (U,E)` to the `.pocket` format.
+
+ROM MD5: `c21058af21efc29413797f0a2c532e16`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/IncredibleCrashDummies.ips).
 
 ## Indiana Jones and the Infernal Machine
 
