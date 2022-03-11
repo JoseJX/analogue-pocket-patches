@@ -112,6 +112,7 @@ Game | System
 [Conker's Pocket Tales](#conkers-pocket-tales) | GBC
 [Contra III - Alien Wars](#contra-iii---alien-wars) | GB
 [Cool Bricks](#cool-bricks) | GBC
+[Cool Spot](#cool-spot) | GB
 [Cosmo Tank](#cosmo-tank) | GB
 [Crystalis](#crystalis) | GBC
 [Cubix - Robots for Everyone - Race 'n Robots](#cubix---robots-for-everyone---race-n-robots) | GBC
@@ -412,6 +413,8 @@ Game | System
 [Spider-Man 3 - Invasion of the Spider-Slayers](#spider-man-3---invasion-of-the-spider-slayers) | GB
 [Spider-Man - X-Men](#spider-man---x-men) | GB
 [SpongeBob SquarePants - Legend of the Lost Spatula](#spongebob-squarepants---legend-of-the-lost-spatula) | GBC
+[Spot](#spot) | GB
+[Spot - The Cool Adventure](#spot---the-cool-adventure) | GB
 [Spud's Adventure](#spuds-adventure) | GB
 [Spy vs Spy](#spy-vs-spy) | GBC
 [Spy vs Spy - Operation Booby Trap](#spy-vs-spy---operation-booby-trap) | GBC
@@ -1383,6 +1386,14 @@ This patch converts `Cool Bricks (E)` to the `.pocket` format.
 ROM MD5: `5a7673f1e61cd707bdc880ff76396a3d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CoolBricks.ips).
+
+## Cool Spot
+
+This patch converts `Cool Spot (U)` to the `.pocket` format.
+
+ROM MD5: `27d7c8ae7cc36c1d5dfd8bd15df57e8d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CoolSpot.ips).
 
 ## Cosmo Tank
 
@@ -3927,6 +3938,22 @@ This patch converts `SpongeBob SquarePants - Legend of the Lost Spatula (U,E)` t
 ROM MD5: `4272d192cf2b14db93f1e2d1bc07aa74`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpongeBob.ips).
+
+## Spot
+
+This patch converts `Spot (U)` to the `.pocket` format.
+
+ROM MD5: `2524230d0300f46ebf423ae1b37747eb`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Spot.ips).
+
+## Spot - The Cool Adventure
+
+This patch converts `Spot - The Cool Adventure (U)` to the `.pocket` format.
+
+ROM MD5: `58e1cd396548b0e57b0514d8bec066d9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpotCoolAdventure.ips).
 
 ## Spud's Adventure
 
