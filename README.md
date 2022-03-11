@@ -241,6 +241,7 @@ Game | System
 [Krusty's Fun House](#krustys-fun-house) | GB
 [Kwirk - He's A-maze-ing](#kwirk---hes-a-maze-ing) | GB
 [Legend of the River King 2](#legend-of-the-river-king-2) | GBC
+[Legend of the Sea King](#legend-of-the-sea-king) | GB
 [Lemmings](#lemmings) | GBC
 [Lemmings 2 - The Tribes](#lemmings-2---the-tribes) | GB
 [Link's Awakening Redux](#links-awakening-redux) | GBC
@@ -2479,6 +2480,14 @@ This patch converts `Legend of the River King 2 (U)` to the `.pocket` format.
 ROM MD5: `3519c45ce55aad2f0565513723c90672`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendOfTheRiverKing2.ips).
+
+## Legend of the Sea King
+
+This patch converts `Legend of the Sea King` to the `.pocket` format. Note, this game was unreleased.
+
+ROM MD5: `36dbbefd222bdb0921189c4be4fa1ead`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendSeaKing.ips).
 
 ## Lemmings
 
