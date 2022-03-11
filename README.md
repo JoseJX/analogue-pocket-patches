@@ -394,6 +394,7 @@ Game | System
 [Smurfs' Nightmare](#smurfs-nightmare) | GBC
 [Smurfs' Nightmare (E)](#smurfs-nightmare-e) | GBC
 [Snoopy's - Magic Show](#snoopys---magic-show) | GB
+[Snoopy's Magic Show DX](#snoopys-magic-show-dx) | GBC
 [Snow Bros. Jr.](#snow-bros-jr) | GB
 [Solar Striker](#solar-striker) | GB
 [Solitaire FunPak](#solitaire-funpak) | GB
@@ -3780,6 +3781,14 @@ ROM (U,E) MD5: `8a06994b2e265244147a4d6d0e80623f`
 ROM (J) MD5: `3d8f6eccc13f3344c8d971b7e141f064`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyMagicShow.ips).
+
+## Snoopy's Magic Show DX
+
+This patch converts `Snoopy's Magic Show DX` to the `.pocket` format. The base ROM for this version is the Japan version with the [colorization patch](https://www.romhacking.net/hacks/6657/) applied.
+
+ROM MD5: `6fd39be1e41aea4b354fd291d9677b39`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyMagicShowDX.ips).
 
 ## Snow Bros. Jr.
 
