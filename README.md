@@ -393,6 +393,7 @@ Game | System
 [Smurfs](#smurfs) | GB
 [Smurfs' Nightmare](#smurfs-nightmare) | GBC
 [Smurfs' Nightmare (E)](#smurfs-nightmare-e) | GBC
+[Snoopy's - Magic Show](#snoopys---magic-show) | GB
 [Snow Bros. Jr.](#snow-bros-jr) | GB
 [Solar Striker](#solar-striker) | GB
 [Solitaire FunPak](#solitaire-funpak) | GB
@@ -3769,6 +3770,16 @@ This patch converts `Smurfs' Nightmare (E)` to the `.pocket` format.
 ROM MD5: `5da63fe252b4cb3e17dd4986fb276690`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SmurfsNightmareE.ips).
+
+## Snoopy's - Magic Show
+
+This patch converts `Snoopy's - Magic Show (U,E)` to the `.pocket` format. It is also compatible with `Snoopy's - Magic Show (J)`.
+
+ROM (U,E) MD5: `8a06994b2e265244147a4d6d0e80623f`
+
+ROM (J) MD5: `3d8f6eccc13f3344c8d971b7e141f064`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyMagicShow.ips).
 
 ## Snow Bros. Jr.
 
