@@ -299,6 +299,7 @@ Game | System
 [Motocross Maniacs](#motocross-maniacs) | GB
 [Motocross Maniacs 2](#motocross-maniacs-2) | GBC
 [Mr. Driller](#mr-driller) | GBC
+[Mr. Driller (J)](#mr-driller-j) | GBC
 [Mr. Nutz](#mr-nutz) | GBC
 [Mr. Nutz (E)](#mr-nutz-e) | GBC
 [Ms. Pac-Man](#ms-pac-man) | GB
@@ -2976,6 +2977,14 @@ This patch converts `Mr. Driller (U)` to the `.pocket` format.
 ROM MD5: `76fa4014bfbb0ee2b63267af7ac373f2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MrDriller.ips).
+
+## Mr. Driller (J)
+
+This patch converts `Mr. Driller (J) (J)` to the `.pocket` format.
+
+ROM MD5: `b4c21d6cf67f5742ef3a19860eb31d2e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MrDrillerJ.ips).
 
 ## Mr. Nutz
 
