@@ -17,8 +17,9 @@ Game | System
 [4000AD by PROTODOME](#4000ad-by-protodome) | GB
 [4-in-1 Fun Pack](#4-in-1-fun-pack) | GB
 [4-in-1 Fun Pack - Volume 2](#4-in-1-fun-pack---volume-2) | GB
+[Adulting! v2.0](#adulting-v2-0) | GB
 [Adventures of Lolo](#adventures-of-lolo) | GB
-[The Adventures of Star Saver](#the-adventures-of-star-saver) | GB
+[Adventures of Star Saver](#adventures-of-star-saver) | GB
 [Aladdin](#aladdin) | GB
 [Aladdin GBC](#aladdin-gbc) | GBC
 [Aladdin GBC (E)](#aladdin-gbc-e) | GBC
@@ -598,6 +599,14 @@ ROM MD5: `71feb6c7d5b764d5192c28efe74d13c6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/4in1V2.ips).
 
+## Adulting! v2.0
+
+This patch converts `Adulting! v2.0` to the `.pocket` format. Get your copy from the [game author here](https://eric-c-wilder.itch.io/adulting).
+
+ROM MD5: `95a0f644d8778b1c934ac5ae8791d80f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Adulting-v2.ips).
+
 ## Adventures of Lolo
 
 This patch converts `Adventures of Lolo (E)` to the `.pocket` format.
@@ -606,7 +615,7 @@ ROM MD5: `8f6b6ef366a787852f664d945c86eb72`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AdventuresOfLolo.ips).
 
-## The Adventures of Star Saver
+## Adventures of Star Saver
 
 This patch converts `The Adventures of Star Saver (U,E)` to the `.pocket` format.
 
