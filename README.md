@@ -162,6 +162,7 @@ Game | System
 [Final Fantasy Legend](#final-fantasy-legend) | GB
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
 [Final Fantasy Legend III](#final-fantasy-legend-iii) | GB
+[Final Fantasy XI - Adventure](#final-fantasy-xi---adventure) | GB
 [Flintstones](#flintstones) | GB
 [Flintstones - Burgertime in Bedrock](#flintstones---burgertime-in-bedrock) | GBC
 [Flintstones - King Rock Treasure Island](#flintstones---king-rock-treasure-island) | GB
@@ -1808,6 +1809,14 @@ This patch has been updated to fix a crash when using the E-Ray. (2022/01/22)
 ROM MD5: `db156bc96b528996ce1bf771195171af`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FFL3.ips).
+
+## Final Fantasy XI - Adventure
+
+This patch converts `Final Fantasy XI - Adventure` to the `.pocket` format. It converts the ROM available at the [author's site](https://kazy.itch.io/ffxi-adventure).
+
+ROM MD5: `efaf761d789e9f6e7cddf81b500576d8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FFXI-Adventure.ips).
 
 ## Flintstones
 
