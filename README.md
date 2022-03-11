@@ -93,6 +93,7 @@ Game | System
 [Bubble Ghost](#bubble-ghost) | GB
 [Bubsy II](#bubsy-ii) | GB
 [Buffy the Vampire Slayer](#buffy-the-vampire-slayer) | GBC
+[Bugs Bunny Collection](#bugs-bunny-collection) | GB
 [Burai Fighter Deluxe](#burai-fighter-deluxe) | GB
 [BurgerTime Deluxe](#burgertime-deluxe) | GB
 [Burning Paper](#burning-paper) | GB
@@ -1229,6 +1230,14 @@ This patch converts `Buffy the Vampire Slayer (U,E)` to the `.pocket` format.
 ROM MD5: `49561c4082206a7e5d5ca2032be81eed`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Buffy.ips).
+
+## Bugs Bunny Collection
+
+This patch converts `Bugs Bunny Collection (J)` to the `.pocket` format.
+
+ROM MD5: `32628dd7b39919a3a5ab77b245cd6b63`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BugsBunnyCollection.ips).
 
 ## Burai Fighter Deluxe
 
