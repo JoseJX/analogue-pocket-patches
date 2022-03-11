@@ -136,6 +136,7 @@ Game | System
 [Donkey Kong Land](#donkey-kong-land) | GB
 [Donkey Kong Land III](#donkey-kong-land-iii) | GB
 [Donkey Kong GB - Dinky Kong and Dixie Kong](#donkey-kong-gb---dinky-kong-and-dixie-kong) | GB
+[dots](#dots) | GBC
 [Double Dragon 3 - The Arcade Game](#double-dragon-3---the-arcade-game) | GB
 [Dracula - Crazy Vampire](#dracula---crazy-vampire) | GBC
 [Dragon Ball Z - Legendary Super Warriors](#dragon-ball-z---legendary-super-warriors) | GBC
@@ -1590,6 +1591,14 @@ It is compatible with the English [translation patch](https://www.romhacking.net
 ROM MD5: `22afe691095c65f34aeaba3c283b2a9c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DK3Color.ips).
+
+## dots
+
+This patch converts `dots` to the `.pocket` format. You can get a copy of the game from the [author's site](http://www.gmiller.net/2019/04/dots-for-gameboy-color/).
+
+ROM MD5: `9b6bae8d17c89b1831047854a530ce5d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/dots.ips).
 
 ## Double Dragon 3 - The Arcade Game
 
