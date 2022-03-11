@@ -69,6 +69,7 @@ Game | System
 [Battletoads in Ragnarok's World](#battletoads-in-ragnaroks-world) | GB
 [Beatmania GB](#beatmania-gb) | GBC
 [Beatmania GB2 - Gotcha Mix](#beatmania-gb2---gotcha-mix) | GBC
+[Beatmania GB - Gotcha Mix 2](#beatmania-gb---gotcha-mix-2) | GBC
 [Beavis and Butt-Head](#beavis-and-butt-head) | GB
 [Bill and Ted's Excellent Game Boy Adventure](#bill-and-teds-excellent-game-boy-adventure) | GB
 [Bionic Commando](#bionic-commando) | GB
@@ -1023,6 +1024,14 @@ This patch converts `Beatmania GB2 - Gotcha Mix (J)` to the `.pocket` format.
 ROM MD5: `25f20cdc0f6f70d0bc5430a9b0d48742`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BeatmaniaGotcha.ips).
+
+## Beatmania GB - Gotcha Mix 2
+
+This patch converts `Beatmania GB - Gotcha Mix 2 (J)` to the `.pocket` format.
+
+ROM MD5: `490cf7b762f7b735f249c3a3107c3e55`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BeatmaniaGotcha2.ips).
 
 ## Beavis and Butt-Head
 
