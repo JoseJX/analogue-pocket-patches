@@ -377,6 +377,7 @@ Game | System
 [Revelations - The Demon Slayer](#revelations---the-demon-slayer) | GBC
 [Revenge of the 'Gator](#revenge-of-the-gator) | GB
 [Road Rash (Color)](#road-rash-color) | GBC
+[Road Rash - (with Repair Service)](#road-rash---with-repair-service) | GB
 [RoboCop](#robocop) | GB
 [RoboCop vs the Terminator](#robocop-vs-the-terminator) | GB
 [Robopon - Sun Version](#robopon---sun-version) | GBC
@@ -3640,6 +3641,14 @@ This patch converts `Road Rash (Color) (U,E)` to the `.pocket` format.
 ROM MD5: `f5767f97f44365b703eae78afb7562e6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoadRashGBC.ips).
+
+## Road Rash - (with Repair Service)
+
+This patch converts `Road Rash (U,E)` to the `.pocket` format. To use this patch, you must first apply the [Road Rash - Repair Service](https://www.romhacking.net/hacks/6054/) patch to the original ROM using the `plus.ips` version, then, apply this patch. The MD5 below is for the combined `Road Rash` and the `plus.ips` patch.
+
+ROM MD5: `830b84643d24fb2cc9c4fde1305f9610`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoadRashRepairService.ips).
 
 ## RoboCop
 
