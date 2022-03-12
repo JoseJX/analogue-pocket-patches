@@ -362,6 +362,7 @@ Game | System
 [Puzzled](#puzzled) | GBC
 [Puzzled (E)](#puzzled-e) | GBC
 [Pyramids of Ra](#pyramids-of-ra) | GB
+[Q Billion](#q-billion) | GB
 [QIX](#qix) | GB
 [QIX Adventure](#qix-adventure) | GBC
 [Quarth](#quarth) | GB
@@ -3523,6 +3524,14 @@ This patch converts `Pyramids of Ra (U)` to the `.pocket` format.
 ROM MD5: `1c1619f1caef49132e87160aa20a0a4d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PyramidsOfRa.ips).
+
+## Q Billion
+
+This patch converts `Q Billion (U)` to the `.pocket` format.
+
+ROM MD5: `ab7a5f3d9e818a434cc64915c3dbd31f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/QBillion.ips).
 
 ## QIX
 
