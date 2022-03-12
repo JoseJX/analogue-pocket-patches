@@ -103,6 +103,7 @@ Game | System
 [Cannon Fodder](#cannon-fodder) | GBC
 [Captain America and the Avengers](#captain-america-and-the-avengers) | GB
 [Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai](#cardcaptor-sakura---tomoeda-shougakkou-daiundoukai) | GBC
+[Carmageddon - Carpocalypse Now](#carmageddon---carpocalypse-now) | GBC
 [Castlevania - The Adventure](#castlevania---the-adventure) | GB
 [Castlevania Legends](#castlevania-legends) | GB
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
@@ -1317,6 +1318,14 @@ This patch converts `Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (J)` to 
 ROM MD5: `3a998a2ec99c89696c9b23bbbd87f116`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CardcaptorSakuraTomoeda.ips).
+
+## Carmageddon - Carpocalypse Now
+
+This patch converts `Carmageddon - Carpocalypse Now (U,E)` to the `.pocket` format.
+
+ROM MD5: `f73c5cc4935ede64f5b2d62754c90262`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CarmagedonCarpocalypse.ips).
 
 ## Castlevania - The Adventure
 
