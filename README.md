@@ -118,6 +118,7 @@ Game | System
 [Cosmo Tank](#cosmo-tank) | GB
 [Crystalis](#crystalis) | GBC
 [Cubix - Robots for Everyone - Race 'n Robots](#cubix---robots-for-everyone---race-n-robots) | GBC
+[Cyraid](#cyraid) | GB
 [Daikatana](#daikatana) | GBC
 [Daedalian Opus](#daedalian-opus) | GB
 [Daffy Duck](#daffy-duck) | GB
@@ -1443,6 +1444,14 @@ This patch converts `Cubix - Robots for Everyone - Race 'n Robots (U)` to the `.
 ROM MD5: `9eb8be5600d2408352bf9ef32b91d1df`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Cubix.ips).
+
+## Cyraid
+
+This patch converts `Cyraid (U)` to the `.pocket` format.
+
+ROM MD5: `e55ecbd33d5813fe6e9a4ca1d04e9f15`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Cyraid.ips).
 
 ## Daikatana
 
