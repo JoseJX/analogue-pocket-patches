@@ -134,6 +134,7 @@ Game | System
 [Dennis the Menace](#dennis-the-menace) | GB
 [Densha De Go! 2](#densha-de-go-2) | GBC
 [Dexterity](#dexterity) | GB
+[Dexter's Laboratory - Robot Rampage](#dexters-laboratory---robot-rampage) | GBC
 [Donald Duck - Goin' Quackers](#donald-duck---goin-quackers) | GBC
 [Donkey Kong Land](#donkey-kong-land) | GB
 [Donkey Kong Land III](#donkey-kong-land-iii) | GB
@@ -1569,6 +1570,14 @@ This patch converts `Dexterity (U,E)` to the `.pocket` format.
 ROM MD5: `a58f2b1a317cfb1d60b59f3875f6a9c2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Dexterity.ips).
+
+## Dexter's Laboratory - Robot Rampage
+
+This patch converts `Dexter's Laboratory - Robot Rampage (U)` to the `.pocket` format.
+
+ROM MD5: `2a147b2d7731ac26a999390c3f5ff2ac`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DextersLab.ips).
 
 ## Donald Duck - Goin' Quackers
 
