@@ -496,6 +496,7 @@ Game | System
 [Ultima - Runes of Virtue](#ultima---runes-of-virtue) | GB
 [Ultima - Runes of Virtue II](#ultima---runes-of-virtue-ii) | GB
 [Ultraman Ball](#ultraman-ball) | GB
+[Vigilante 8](#vigilante-8) | GBC
 [V-Rally - Championship Edition](#v-rally---championship-edition) | GBC
 [Wacky Races](#wacky-races) | GBC
 [Walt Disney's Alice In Wonderland](#walt-disneys-alice-in-wonderland) | GBC
@@ -4643,6 +4644,14 @@ It is compatible with the [English translation patch](https://www.romhacking.net
 ROM MD5: `90a0bc783fbe56748989d8fad9ae48ed`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/UltramanBall.ips).
+
+## Vigilante 8
+
+This patch converts `Vigilante 8 (U)` to the `.pocket` format.
+
+ROM MD5: `cb5348c1b469d698eccddce99a16d384`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Vigilante8.ips).
 
 ## V-Rally - Championship Edition
 
