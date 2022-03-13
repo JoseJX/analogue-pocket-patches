@@ -104,6 +104,7 @@ Game | System
 [Captain America and the Avengers](#captain-america-and-the-avengers) | GB
 [Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai](#cardcaptor-sakura---tomoeda-shougakkou-daiundoukai) | GBC
 [Carmageddon - Carpocalypse Now](#carmageddon---carpocalypse-now) | GBC
+[Carmageddon TDR 2000](#carmageddon-tdr-2000) | GBC
 [Castlevania - The Adventure](#castlevania---the-adventure) | GB
 [Castlevania Legends](#castlevania-legends) | GB
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
@@ -1326,6 +1327,14 @@ This patch converts `Carmageddon - Carpocalypse Now (U,E)` to the `.pocket` form
 ROM MD5: `f73c5cc4935ede64f5b2d62754c90262`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CarmagedonCarpocalypse.ips).
+
+## Carmageddon TDR 2000
+
+This patch converts `Carmageddon TDR 2000` to the `.pocket` format. This game was unreleased and is part of the lot check leak.
+
+ROM MD5: `02f25d1192d129ee73104c5bfc127a94`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CarmagedonTDR2K.ips).
 
 ## Castlevania - The Adventure
 
