@@ -498,6 +498,7 @@ Game | System
 [Trogday 2022](#trogday-2022) | GBC
 [Trouballs](#trouballs) | GBC
 [True Lies](#true-lies) | GB
+[Tumble Pop](#tumble-pop) | GB
 [Turok 2 - Seeds of Evil](#turok-2---seeds-of-evil) | GBC
 [Turok 3 - Shadow of Oblivion](#turok-3---shadow-of-oblivion) | GBC
 [Ultima - Runes of Virtue](#ultima---runes-of-virtue) | GB
@@ -4666,6 +4667,14 @@ This patch converts `True Lies (U,E)` to the `.pocket` format.
 ROM MD5: `c013958fa8447be55f1e037ed4a1a9f9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TrueLies.ips).
+
+## Tumble Pop
+
+This patch converts `Tumble Pop (U,E)` to the `.pocket` format.
+
+ROM MD5: `9038a85be1595de2a4f16b6f6db0f3fd`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TumblePop.ips).
 
 ## Turok 2 - Seeds of Evil
 
