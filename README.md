@@ -295,6 +295,7 @@ Game | System
 [Mickey Mouse](#mickey-mouse) | GB
 [Mickey's Speedway USA](#mickeys-speedway-usa) | GBC
 [Mickey's Ultimate Challenge](#mickeys-ultimate-challenge) | GB
+[Microsoft Pinball Arcade](#microsoft-pinball-arcade) | GBC
 [Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack](#microsoft---the-6-in-1-puzzle-collection-entertainment-pack) | GBC
 [Mighty Morphin Power Rangers - The Movie](#mighty-morphin-power-rangers---the-movie) | GB
 [Miner 2049er Starring Bounty Bob](#miner-2049er-starring-bounty-bob) | GB
@@ -2952,6 +2953,14 @@ This patch converts `Mickey's Ultimate Challenge (U,E)` to the `.pocket` format.
 ROM MD5: `f7d266bc81c150796ae373bddd0a9a84`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeysUltimateChallenge.ips).
+
+## Microsoft Pinball Arcade
+
+This patch converts `Microsoft Pinball Arcade (U)` to the `.pocket` format.
+
+ROM MD5: `31f7a606b52e8d10fc010b4efe9fb514`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MSPinball.ips).
 
 ## Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack
 
