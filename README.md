@@ -331,6 +331,7 @@ Game | System
 [Nemesis II](#nemesis-ii) | GB
 [Ninja Boy](#ninja-boy) | GB
 [Ninja Boy 2](#ninja-boy-2) | GB
+[Nintedo World Cup](#nintedo-world-cup) | GB
 [Noobow](#noobow) | GB
 [Operation C](#operation-c) | GB
 [Out of Gas](#out-of-gas) | GB
@@ -3257,6 +3258,13 @@ ROM MD5: `504e1a39167c467b15d5ad56b744ad48`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NinjaBoy2.ips).
 
+## Nintedo World Cup
+
+This patch converts `Nintedo World Cup (U,E)` to the `.pocket` format.
+
+ROM MD5: `c9200b1be878f079cee6cbebbeaa27ea`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NintendoWorldCup.ips).
 
 ## Noobow
 
