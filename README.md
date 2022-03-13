@@ -315,6 +315,7 @@ Game | System
 [Mr. Nutz](#mr-nutz) | GBC
 [Mr. Nutz (E)](#mr-nutz-e) | GBC
 [Ms. Pac-Man](#ms-pac-man) | GB
+[Muppets](#muppets) | GBC
 [Mysterium](#mysterium) | GB
 [Mystical Ninja Starring Goemon](#mystical-ninja-starring-goemon) | GB
 [Mystic Quest (De)](#mystic-quest-de) | GB
@@ -3125,6 +3126,14 @@ This patch converts `Ms. Pac-Man (U)` to the `.pocket` format.
 ROM MD5: `ffa8642a18781fbe79df436a761a9775`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MsPacMan.ips).
+
+## Muppets
+
+This patch converts `Muppets (U)` to the `.pocket` format.
+
+ROM MD5: `3a70f79e33ed4ea546d0ba41a7f2ef25`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Muppets.ips).
 
 ## Mysterium
 
