@@ -409,6 +409,7 @@ Game | System
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
 [Skate or Die - Bad 'N Rad](#skate-or-die---bad-n-rad) | GB
+[Skate or Die - Tour de Thrash](#skate-or-die---tour-de-thrash) | GB
 [Smurfs](#smurfs) | GB
 [Smurfs' Nightmare](#smurfs-nightmare) | GBC
 [Smurfs' Nightmare (E)](#smurfs-nightmare-e) | GBC
@@ -3922,6 +3923,14 @@ This patch converts `Skate or Die - Bad 'N Rad (U)` to the `.pocket` format.
 ROM MD5: `ed7318b615b0a827f3edcff0c817caea`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SkateOrDieRad.ips).
+
+## Skate or Die - Tour de Thrash
+
+This patch converts `Skate or Die - Tour de Thrash (U)` to the `.pocket` format.
+
+ROM MD5: `f8d92a05c7be07964824830e9ce3ff30`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SkateOrDieThrash.ips).
 
 ## Smurfs
 
