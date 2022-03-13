@@ -190,6 +190,7 @@ Game | System
 [Gex 3 - Deep Pocket Gecko](#gex-3---deep-pocket-gecko) | GBC
 [Ghostbusters II](#ghostbusters-ii) | GB
 [Gimmick Land](#gimmick-land) | GBC
+[God Medicine - Hukkoku Ban](#god-medicine---hukkoku-ban) | GB
 [Godzilla](#godzilla) | GB
 [Gold and Glory - The Road to El Dorado](#gold-and-glory---the-road-to-el-dorado) | GBC
 [Gradius - The Interstellar Assault](#gradius---the-interstellar-assault) | GB
@@ -2045,6 +2046,16 @@ This patch converts `Gimmick Land (J)` to the `.pocket` format. Note that this g
 ROM MD5: `a562bbe876b8467cc530213ec84eba0a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GimmickLand.ips).
+
+## God Medicine - Hukkoku Ban
+
+This patch converts `God Medicine - Hukkoku Ban (J)` to the `.pocket` format.
+
+It is compatible with the [English Translation patch](https://www.romhacking.net/translations/600/).
+
+ROM MD5: `4057131cb9cedfb2fcdbc36904e7896d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GodMedicine.ips).
 
 ## Godzilla
 
