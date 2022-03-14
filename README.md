@@ -453,6 +453,7 @@ Game | System
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
 [Super Robot Pinball](#super-robot-pinball) | GBC
 [Super Robot Taisen](#super-robot-taisen) | GB
+[Survival Kids](#survival-kids) | GBC
 [Survival Kids 2 - Dasshutsu!! Futago-Jima!](#survival-kids-2---dasshutsu-futago-jima) | GBC
 [Sutte Hakkun GB](#sutte-hakkun-gb) | GBC
 [Sword of Hope](#sword-of-hope) | GB
@@ -4285,6 +4286,14 @@ It is compatible with the [English Translation patch](https://www.romhacking.net
 ROM MD5: `7bb8a5bc9e55a05eba1a3fcbf460a9b5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRobotTaisen.ips).
+
+## Survival Kids
+
+This patch converts `Survival Kids (U)` to the `.pocket` format.
+
+ROM MD5: `07d4df7a1c93f5bef617e5a90b9edee2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SurvivalKids.ips).
 
 ## Survival Kids 2 - Dasshutsu!! Futago-Jima!
 
