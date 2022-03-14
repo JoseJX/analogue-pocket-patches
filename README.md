@@ -454,6 +454,7 @@ Game | System
 [Super Robot Pinball](#super-robot-pinball) | GBC
 [Super Robot Taisen](#super-robot-taisen) | GB
 [Survival Kids](#survival-kids) | GBC
+[Survival Kids - Kotou no Boukensha](#survival-kids---kotou-no-boukensha) | GBC
 [Survival Kids 2 - Dasshutsu!! Futago-Jima!](#survival-kids-2---dasshutsu-futago-jima) | GBC
 [Sutte Hakkun GB](#sutte-hakkun-gb) | GBC
 [Sword of Hope](#sword-of-hope) | GB
@@ -4294,6 +4295,14 @@ This patch converts `Survival Kids (U)` to the `.pocket` format.
 ROM MD5: `07d4df7a1c93f5bef617e5a90b9edee2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SurvivalKids.ips).
+
+## Survival Kids - Kotou no Boukensha
+
+This patch converts `Survival Kids - Kotou no Boukensha (J)` to the `.pocket` format.
+
+ROM MD5: `41530a4366254265021eb0668ae9884d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SurvivalKidsJ.ips).
 
 ## Survival Kids 2 - Dasshutsu!! Futago-Jima!
 
