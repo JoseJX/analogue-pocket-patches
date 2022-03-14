@@ -163,6 +163,7 @@ Game | System
 [F-1 Race](#f-1-race) | GB
 [Faceball 2000](#faceball-2000) | GB
 [Felix the Cat](#felix-the-cat) | GB
+[Fish Dude](#fish-dude) | GB
 [Fish Files](#fish-files) | GBC
 [Final Fantasy Adventure](#final-fantasy-adventure) | GB
 [Final Fantasy Legend](#final-fantasy-legend) | GB
@@ -1830,6 +1831,14 @@ This patch converts `Felix the Cat (U,E)` to the `.pocket` format.
 ROM MD5: `4d606ab4ffd5c3d3ecf914a6af1c1f90`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Felix.ips).
+
+## Fish Dude
+
+This patch converts `Fish Dude (U)` to the `.pocket` format.
+
+ROM MD5: `0beb67de765ef358d50c28836a39bfb0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FishDude.ips).
 
 ## Fish Files
 
