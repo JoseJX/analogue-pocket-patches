@@ -347,6 +347,7 @@ Game | System
 [Pocket Bomberman](#pocket-bomberman) | GBC
 [Pocket Monsters - Crystal Version (VN)](#pocket-monsters---crystal-version-vn) | GBC
 [Pocket Music](#pocket-music) | GBC
+[Pocket Puyo Puyo Tsuu](#pocket-puyo-puyo-tsuu) | GB
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
 [Pokemon Pinball (E)](#pokemon-pinball-e) | GBC
@@ -3396,6 +3397,14 @@ This patch converts `Pocket Music (E)` to the `.pocket` format.
 ROM MD5: `84eede6bb298dd354f251eccb1259316`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketMusic.ips).
+
+## Pocket Puyo Puyo Tsuu
+
+This patch converts `Pocket Puyo Puyo Tsuu (J)` to the `.pocket` format.
+
+ROM MD5: `296cb17655e184bb65c1cd2a3bc68d8a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketPuyoPuyo.ips).
 
 ## Pokemon Puzzle Challenge
 
