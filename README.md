@@ -461,6 +461,7 @@ Game | System
 [Sutte Hakkun GB](#sutte-hakkun-gb) | GBC
 [Sword of Hope](#sword-of-hope) | GB
 [Sword of Hope II](#sword-of-hope-ii) | GB
+[T2 - The Arcade Game](#t2---the-arcade-game) | GB
 [Tail 'Gator](#tail-gator) | GB
 [TaleSpin](#talespin) | GB
 [Tarzan](#tarzan) | GB
@@ -4357,6 +4358,14 @@ This patch converts `Sword of Hope II (U)` to the `.pocket` format.
 ROM MD5: `64f7f8af18f75a9b3767e4637e693be7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SwordOfHope2.ips).
+
+## T2 - The Arcade Game
+
+This patch converts `T2 - The Arcade Game (U,E)` to the `.pocket` format.
+
+ROM MD5: `43e26f216d50106a8fccbcc04cda0c29`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/T2.ips).
 
 ## Tail 'Gator
 
