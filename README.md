@@ -367,6 +367,7 @@ Game | System
 [Primal Rage](#primal-rage) | GB
 [Prince of Persia (1992)](#prince-of-persia-1992) | GB
 [Prince of Persia](#prince-of-persia) | GBC
+[Punisher - Ultimate Payback](#punisher---ultimate-payback) | GB
 [Puzzle Master](#puzzle-master) | GBC
 [Puzzled](#puzzled) | GBC
 [Puzzled (E)](#puzzled-e) | GBC
@@ -3579,6 +3580,14 @@ This is the GBC version.
 ROM MD5: `afeec69d5ba3afa3ce2279fcda944576`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PrinceOfPersia.ips).
+
+## Punisher - Ultimate Payback
+
+This patch converts `Punisher - Ultimate Payback (U)` to the `.pocket` format.
+
+ROM MD5: `84133af3324fc1aaf00c0769e15708c0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Punisher.ips).
 
 ## Puzzle Master
 
