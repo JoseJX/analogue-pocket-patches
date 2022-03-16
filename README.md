@@ -252,6 +252,7 @@ Game | System
 [Konami GB Collection Volume 4](#konami-gb-collection-volume-4) | GBC
 [Krusty's Fun House](#krustys-fun-house) | GB
 [Kwirk - He's A-maze-ing](#kwirk---hes-a-maze-ing) | GB
+[Lazlo's Leap](#lazlos-leap) | GB
 [Legend of the River King 2](#legend-of-the-river-king-2) | GBC
 [Legend of the Sea King](#legend-of-the-sea-king) | GB
 [Lemmings](#lemmings) | GBC
@@ -2598,6 +2599,14 @@ This patch converts `Kwirk - He's A-maze-ing (U,E)` to the `.pocket` format.
 ROM MD5: `3a4bb57e9fbd4ef563c0c7b59a1c82a5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Kwirk.ips).
+
+## Lazlo's Leap
+
+This patch converts `Lazlo's Leap (U)` to the `.pocket` format.
+
+ROM MD5: `68a06792ae4401f9fc09d460120ec2a1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LazlosLeap.ips).
 
 ## Legend of the River King 2
 
