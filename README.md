@@ -207,6 +207,7 @@ Game | System
 [Harry Potter and the Sorcerer's Stone](#harry-potter-and-the-sorcerers-stone) | GBC
 [Harvest Moon 2 GBC](#harvest-moon-2-gbc) | GBC
 [Harvest Moon 2 GBC (E)](#harvest-moon-2-gbc-e) | GBC
+[Hatris](#hatris) | GB
 [Heiankyo Alien](#heiankyo-alien) | GB
 [Hercules](#hercules) | GB
 [Hercules - The Legendary Journey](#hercules---the-legendary-journey) | GBC
@@ -2199,6 +2200,14 @@ This patch converts `Harvest Moon 2 GBC (E)` to the `.pocket` format.
 ROM MD5: `74c9fe928dd97ae193e9f937ce340dcc`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HarvestMoon2E.ips).
+
+## Hatris
+
+This patch converts `Hatris (J,U)` to the `.pocket` format.
+
+ROM MD5: `b9d3d91d8389cc510aa8fe9063228644`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hatris.ips).
 
 ## Heiankyo Alien
 
