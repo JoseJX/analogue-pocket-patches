@@ -434,6 +434,7 @@ Game | System
 [Spider-Man 2 - The Sinister Six](#spider-man-2---the-sinister-six) | GBC
 [Spider-Man 3 - Invasion of the Spider-Slayers](#spider-man-3---invasion-of-the-spider-slayers) | GB
 [Spider-Man - X-Men](#spider-man---x-men) | GB
+[Splitz](#splitz) | GB
 [SpongeBob SquarePants - Legend of the Lost Spatula](#spongebob-squarepants---legend-of-the-lost-spatula) | GBC
 [Spot](#spot) | GB
 [Spot - The Cool Adventure](#spot---the-cool-adventure) | GB
@@ -4135,6 +4136,14 @@ This patch converts `Spider-Man - X-Men (U,E)` to the `.pocket` format.
 ROM MD5: `634532de88aa7c35bd9231ee5356ae8a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpiderMan-XMen.ips).
+
+## Splitz
+
+This patch converts `Splitz (E)` to the `.pocket` format.
+
+ROM MD5: `9ecb13a68c8c58d90dd15157440d5b10`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Splitz.ips).
 
 ## SpongeBob SquarePants - Legend of the Lost Spatula
 
