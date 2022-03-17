@@ -357,6 +357,7 @@ Game | System
 [Pokemon Picross](#pokemon-picross) | GBC
 [Pokemon Pinball (E)](#pokemon-pinball-e) | GBC
 [Pokemon Prism](#pokemon-prism) | GBC
+[Pokemon Yellow - 151](#pokemon-yellow---151) | GB
 [Pong - The Next Level](#pong---the-next-level) | GBC
 [Popeye 2](#popeye-2) | GB
 [Pop'n Music GB](#popn-music-gb) | GBC
@@ -3504,6 +3505,14 @@ Pokemon Prism is a fan conversion of Pokemon Crystal. You must apply the patch t
 Patched ROM MD5: `3cd828587eb8d3fe818d57f99b3a3c95`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokePrism.ips).
+
+## Pokemon Yellow - 151
+
+This patch converts `Pokemon Yellow - 151` to the `.pocket` format. It is a ROM hack for `Pokemon Yellow` which allows all Pokemon to be caught during gameplay and other quality of life hacks. Apply the [Pokemon Yellow - 151 patch](https://www.romhacking.net/hacks/5746/) first, the resulting ROM will have the MD5 provided below. Then apply this pocket patch for the `.pocket` file.
+
+ROM MD5: `51e89f222ec7572a3a892a6e77fb30a8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonYellow151.ips).
 
 ## Pong - The Next Level
 
