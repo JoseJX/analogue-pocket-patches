@@ -352,6 +352,7 @@ Game | System
 [Pocket Monsters - Crystal Version (VN)](#pocket-monsters---crystal-version-vn) | GBC
 [Pocket Music](#pocket-music) | GBC
 [Pocket Puyo Puyo Tsuu](#pocket-puyo-puyo-tsuu) | GB
+[Pokemon Brown](#pokemon-brown) | GB
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
 [Pokemon Pinball (E)](#pokemon-pinball-e) | GBC
@@ -3447,6 +3448,14 @@ This patch converts `Pocket Puyo Puyo Tsuu (J)` to the `.pocket` format.
 ROM MD5: `296cb17655e184bb65c1cd2a3bc68d8a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketPuyoPuyo.ips).
+
+## Pokemon Brown
+
+This patch converts `Pokemon Brown` to the `.pocket` format. Pokemon Brown is a ROM hack for Pokemon Red. First apply the [Pokemon Brown patch](http://www.romhacking.net/hacks/134), the resulting MD5 will match the one provided here. Afterwards, apply this patch to convert to `.pocket` format.
+
+ROM MD5: `854390c4a18d0a1744fb437037b4a531`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonBrown.ips).
 
 ## Pokemon Puzzle Challenge
 
