@@ -139,6 +139,7 @@ Game | System
 [Densha De Go! 2](#densha-de-go-2) | GBC
 [Dexterity](#dexterity) | GB
 [Dexter's Laboratory - Robot Rampage](#dexters-laboratory---robot-rampage) | GBC
+[Dick Tracy](#dick-tracy) | GB
 [Donald Duck - Goin' Quackers](#donald-duck---goin-quackers) | GBC
 [Donkey Kong Land](#donkey-kong-land) | GB
 [Donkey Kong Land III](#donkey-kong-land-iii) | GB
@@ -1635,6 +1636,14 @@ This patch converts `Dexter's Laboratory - Robot Rampage (U)` to the `.pocket` f
 ROM MD5: `2a147b2d7731ac26a999390c3f5ff2ac`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DextersLab.ips).
+
+## Dick Tracy
+
+This patch converts `Dick Tracy (U)` to the `.pocket` format.
+
+ROM MD5: `ab5f50d0e31a07e19739453bb9a2d328`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DickTracy.ips).
 
 ## Donald Duck - Goin' Quackers
 
