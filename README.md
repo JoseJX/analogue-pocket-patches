@@ -344,6 +344,7 @@ Game | System
 [Parasol Stars - Rainbow Islands II](#parasol-stars---rainbow-islands-ii) | GB
 [Parodius Da!](#parodius-da) | GB
 [Penguin Wars](#penguin-wars) | GB
+[Penta Dragon](#penta-dragon) | GB
 [Perfect Dark](#perfect-dark) | GBC
 [Picross 2](#picross-2) | GB
 [Pipe Dream](#pipe-dream) | GB
@@ -3376,6 +3377,16 @@ This patch converts `Penguin Wars (U)` to the `.pocket` format.
 ROM MD5: `9c17a77f10f8c8024addc299cfd74b8b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PenguinWars.ips).
+
+## Penta Dragon
+
+This patch converts `Penta Dragon (J)` to the `.pocket` format.
+
+It is compatible with the [English translation patch](https://www.romhacking.net/translations/653/).
+
+ROM MD5: `df43e0adfdc74b2829c7e95e91c71a28`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PentaDragon.ips).
 
 ## Perfect Dark
 
