@@ -21,6 +21,7 @@ Game | System
 [Adulting! v2.0](#adulting-v2-0) | GB
 [Adventures of Lolo](#adventures-of-lolo) | GB
 [Adventures of Star Saver](#adventures-of-star-saver) | GB
+[Air Force Delta](#air-force-delta) | GBC
 [Aladdin](#aladdin) | GB
 [Aladdin GBC](#aladdin-gbc) | GBC
 [Aladdin GBC (E)](#aladdin-gbc-e) | GBC
@@ -659,6 +660,14 @@ This patch converts `The Adventures of Star Saver (U,E)` to the `.pocket` format
 ROM MD5: `91ecec5f8d06f18724bd1462b53c4b3d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarSaver.ips).
+
+## Air Force Delta
+
+This patch converts `Air Force Delta (U)` to the `.pocket` format.
+
+ROM MD5: `ee37c79e8df6475d90e99e527823f92f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AirForceDelta.ips).
 
 ## Aladdin
 
