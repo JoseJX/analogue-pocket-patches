@@ -340,6 +340,7 @@ Game | System
 [Ninja Boy 2](#ninja-boy-2) | GB
 [Nintedo World Cup](#nintedo-world-cup) | GB
 [Noobow](#noobow) | GB
+[Ohastua Dance Dance Revolution GB](#ohastua-dance-dance-revolution-gb) | GBC
 [Operation C](#operation-c) | GB
 [Out of Gas](#out-of-gas) | GB
 [Pac-Man - Special Color Edition](#pac-man---special-color-edition) | GBC
@@ -3350,6 +3351,14 @@ It is compatible with the [English translation patch](https://www.romhacking.net
 ROM MD5: `ccd0cf7cc240714a9694e1fe296afb7c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Noobow.ips).
+
+## Ohastua Dance Dance Revolution GB
+
+This patch converts `Ohastua Dance Dance Revolution GB (J)` to the `.pocket` format.
+
+ROM MD5: `521f0e017a4266355f3f4dc015f1dd46`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/OhasutaDDR.ips).
 
 ## Operation C
 
