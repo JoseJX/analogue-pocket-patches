@@ -164,6 +164,7 @@ Game | System
 [Elevator Action EX](#elevator-action-ex) | GBC
 [Extra Bases!](#extra-bases) | GB
 [F-1 Race](#f-1-race) | GB
+[F-18 Thunder Strike](#f-18-thunder-strike) | GBC
 [Faceball 2000](#faceball-2000) | GB
 [Felix the Cat](#felix-the-cat) | GB
 [Fish Dude](#fish-dude) | GB
@@ -1853,6 +1854,14 @@ This patch converts `F-1 Race (W)` to the `.pocket` format.
 ROM MD5: `3ad6a2e9c2872cd8f92d86e18332262c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/F1Race.ips).
+
+## F-18 Thunder Strike
+
+This patch converts `F-18 Thunder Strike (U,E)` to the `.pocket` format.
+
+ROM MD5: `58670204ec7b8791576e3c88ba7c1ddf`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/F18Thunder.ips).
 
 ## Faceball 2000
 
