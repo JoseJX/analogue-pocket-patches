@@ -67,6 +67,7 @@ Game | System
 [Battle Arena Toshinden](#battle-arena-toshinden) | GB
 [Battle Bull](#battle-bull) | GB
 [Battleship](#battleship) | GB
+[BattleTanx](#battletanx) | GBC
 [Battletoads](#battletoads) | GB
 [Battletoads - Double Dragon](#battletoads---double-dragon) | GB
 [Battletoads in Ragnarok's World](#battletoads-in-ragnaroks-world) | GB
@@ -1039,6 +1040,14 @@ This patch converts `Battleship (U,E)` to the `.pocket` format.
 ROM MD5: `d4f7ade01af0818a79bc809cf96118bb`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Battleship.ips).
+
+## BattleTanx
+
+This patch converts `BattleTanx (U)` to the `.pocket` format.
+
+ROM MD5: `4ca71b12d89a5bcfcc52095081ae9f51`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleTanx.ips).
 
 ## Battletoads
 
