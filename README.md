@@ -351,6 +351,7 @@ Game | System
 [Penta Dragon](#penta-dragon) | GB
 [Perfect Dark](#perfect-dark) | GBC
 [Picross 2](#picross-2) | GB
+[Pinball Fantasies](#pinball-fantasies) | GB
 [Pipe Dream](#pipe-dream) | GB
 [Pocket Bomberman](#pocket-bomberman) | GBC
 [Pocket Monsters - Crystal Version (VN)](#pocket-monsters---crystal-version-vn) | GBC
@@ -3448,6 +3449,14 @@ It is compatible with the [translation patch](https://www.romhacking.net/transla
 ROM MD5: `142d1f9f4b868780824cca20010ad4d8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Picross2.ips).
+
+## Pinball Fantasies
+
+This patch converts `Pinball Fantasies (U,E)` to the `.pocket` format.
+
+ROM MD5: `3496b0cab86ae1981142c0ddb9ae6183`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PinballFantasies.ips).
 
 ## Pipe Dream
 
