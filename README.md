@@ -391,6 +391,7 @@ Game | System
 [Rampage World Tour](#rampage-world-tour) | GBC
 [Rampart](#rampart) | GB
 [Ranma 1/2](#ranma-1-2) | GB
+[Ranma 1/2 - Kakugeki Mondou!!](#ranma-1-2---kakugeki-mondou) | GB
 [Ranma 1/2 - Netsuretsu Kakutou Hen](#ranma-1-2---netsuretsu-kakutou-hen) | GB
 [Rats!](#rats) | GBC
 [Rayman 2 - The Great Escape](#rayman-2---the-great-escape) | GBC
@@ -3792,6 +3793,14 @@ This patch converts `Ranma 1/2 (J)` to the `.pocket` format.
 ROM MD5: `12d88fa2c0e6707f05beb556b661702d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ranma12.ips).
+
+## Ranma 1/2 - Kakugeki Mondou!!
+
+This patch converts `Ranma 1/2 - Kakugeki Mondou!! (J)` to the `.pocket` format.
+
+ROM MD5: `f8b0f3889fc7b9936f7e556a3f73825f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ranma12-KM.ips).
 
 ## Ranma 1/2 - Netsuretsu Kakutou Hen
 
