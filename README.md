@@ -507,6 +507,7 @@ Game | System
 [Tom and Jerry in Mouse Attacks!](#tom-and-jerry-in-mouse-attacks) | GBC
 [Tom Clancy's Rainbow Six](#tom-clancys-rainbow-six) | GBC
 [Tomb Raider - Curse of the Sword](#tomb-raider---curse-of-the-sword) | GBC
+[Tonic Trouble](#tonic-trouble) | GBC
 [Tony Hawk's Pro Skater](#tony-hawks-pro-skater) | GBC
 [Tony Hawk's Pro Skater 2](#tony-hawks-pro-skater-2) | GBC
 [Tony Hawk's Pro Skater 3](#tony-hawks-pro-skater-3) | GBC
@@ -4755,6 +4756,14 @@ This patch converts `Tomb Raider - Curse of the Sword (U)` to the `.pocket` form
 ROM MD5: `a0b4538f687fc61bc88f7ee111170355`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TombRaider.ips).
+
+## Tonic Trouble
+
+This patch converts `Tonic Trouble (E)` to the `.pocket` format.
+
+ROM MD5: `b5f00d021a370663458b346fad6903cc`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TonicTrouble.ips).
 
 ## Tony Hawk's Pro Skater
 
