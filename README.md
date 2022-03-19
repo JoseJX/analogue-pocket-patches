@@ -521,6 +521,7 @@ Game | System
 [Ultima - Runes of Virtue](#ultima---runes-of-virtue) | GB
 [Ultima - Runes of Virtue II](#ultima---runes-of-virtue-ii) | GB
 [Ultraman Ball](#ultraman-ball) | GB
+[Vegas Stakes](#vegas-stakes) | GB
 [Vigilante 8](#vigilante-8) | GBC
 [V-Rally - Championship Edition](#v-rally---championship-edition) | GBC
 [Wacky Races](#wacky-races) | GBC
@@ -4873,6 +4874,14 @@ It is compatible with the [English translation patch](https://www.romhacking.net
 ROM MD5: `90a0bc783fbe56748989d8fad9ae48ed`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/UltramanBall.ips).
+
+## Vegas Stakes
+
+This patch converts `Vegas Stakes (U,E)` to the `.pocket` format.
+
+ROM MD5: `f597728869d7ca129f507e723d17bca1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/VegasStakes.ips).
 
 ## Vigilante 8
 
