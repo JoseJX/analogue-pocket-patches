@@ -389,6 +389,7 @@ Game | System
 [R-Type](#r-type) | GB
 [Rampage World Tour](#rampage-world-tour) | GBC
 [Rampart](#rampart) | GB
+[Ranma 1/2 - Netsuretsu Kakutou Hen](#ranma-1-2---netsuretsu-kakutou-hen) | GB
 [Rats!](#rats) | GBC
 [Rayman 2 - The Great Escape](#rayman-2---the-great-escape) | GBC
 [Real Ghostbusters](#real-ghostbusters) | GB
@@ -3772,6 +3773,14 @@ This patch converts `Rampart (U,E)` to the `.pocket` format.
 ROM MD5: `aba4c0670730f413d4946d88aab28629`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rampart.ips).
+
+## Ranma 1/2 - Netsuretsu Kakutou Hen
+
+This patch converts `Ranma 1/2 - Netsuretsu Kakutou Hen (J)` to the `.pocket` format.
+
+ROM MD5: `cd5b7ab41c9c5b1f0f70f4a736628dc0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ranma12-NKH.ips).
 
 ## Rats!
 
