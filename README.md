@@ -390,9 +390,9 @@ Game | System
 [R-Type](#r-type) | GB
 [Rampage World Tour](#rampage-world-tour) | GBC
 [Rampart](#rampart) | GB
-[Ranma 1/2](#ranma-1-2) | GB
-[Ranma 1/2 - Kakugeki Mondou!!](#ranma-1-2---kakugeki-mondou) | GB
-[Ranma 1/2 - Netsuretsu Kakutou Hen](#ranma-1-2---netsuretsu-kakutou-hen) | GB
+[Ranma 1/2](#ranma-12) | GB
+[Ranma 1/2 - Kakugeki Mondou!!](#ranma-12---kakugeki-mondou) | GB
+[Ranma 1/2 - Netsuretsu Kakutou Hen](#ranma-12---netsuretsu-kakutou-hen) | GB
 [Rats!](#rats) | GBC
 [Rayman 2 - The Great Escape](#rayman-2---the-great-escape) | GBC
 [Real Ghostbusters](#real-ghostbusters) | GB
