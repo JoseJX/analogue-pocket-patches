@@ -358,6 +358,7 @@ Game | System
 [Pocket Monsters - Crystal Version (VN)](#pocket-monsters---crystal-version-vn) | GBC
 [Pocket Music](#pocket-music) | GBC
 [Pocket Puyo Puyo Tsuu](#pocket-puyo-puyo-tsuu) | GB
+[Pocket Soccer](#pocket-soccer) | GBC
 [Pokemon Brown](#pokemon-brown) | GB
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
@@ -3509,6 +3510,14 @@ This patch converts `Pocket Puyo Puyo Tsuu (J)` to the `.pocket` format.
 ROM MD5: `296cb17655e184bb65c1cd2a3bc68d8a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketPuyoPuyo.ips).
+
+## Pocket Soccer
+
+This patch converts `Pocket Soccer (E)` to the `.pocket` format.
+
+ROM MD5: `03da498c5503d8747dc1eccf1101fce3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketSoccer.ips).
 
 ## Pokemon Brown
 
