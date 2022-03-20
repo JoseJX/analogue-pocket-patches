@@ -45,6 +45,7 @@ Game | System
 [Army Men](#army-men) | GBC
 [Army Men 2](#army-men-2) | GBC
 [Army Men - Air Combat](#army-men---air-combat) | GBC
+[Army Men - Sarge's Heroes 2](#army-men---sarges-heroes-2) | GBC
 [Arthur's Absolutely Fun Day!](#arthurs-absolutely-fun-day) | GBC
 [Asterix](#asterix) | GB
 [Asterix and Obelix](#asterix-and-obelix) | GBC
@@ -877,6 +878,14 @@ This patch converts `Army Men - Air Combat (U,E)` to the `.pocket` format.
 ROM MD5: `c48de261bb5111681bd77ca5f0d68a1b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ArmyMenAirCombat.ips).
+
+## Army Men - Sarge's Heroes 2
+
+This patch converts `Army Men - Sarge's Heroes 2 (U)` to the `.pocket` format.
+
+ROM MD5: `3dc508d4da71f2e89ca63b42899741a4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ArmyMenSargesHeroes.ips).
 
 ## Arthur's Absolutely Fun Day!
 
