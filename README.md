@@ -44,6 +44,7 @@ Game | System
 [Arcade Hits - Moon Patrol and Spy Hunter](#arcade-hits---moon-patrol-and-spy-hunter) | GBC
 [Army Men](#army-men) | GBC
 [Army Men 2](#army-men-2) | GBC
+[Army Men - Air Combat](#army-men---air-combat) | GBC
 [Arthur's Absolutely Fun Day!](#arthurs-absolutely-fun-day) | GBC
 [Asterix](#asterix) | GB
 [Asterix and Obelix](#asterix-and-obelix) | GBC
@@ -868,6 +869,14 @@ This patch converts `Army Men 2 (U,E)` to the `.pocket` format.
 ROM MD5: `66a744231189d65db54aa4d670975c5a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ArmyMen2.ips).
+
+## Army Men - Air Combat
+
+This patch converts `Army Men - Air Combat (U,E)` to the `.pocket` format.
+
+ROM MD5: `c48de261bb5111681bd77ca5f0d68a1b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ArmyMenAirCombat.ips).
 
 ## Arthur's Absolutely Fun Day!
 
