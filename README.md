@@ -107,6 +107,7 @@ Game | System
 [Bust-A-Move 2 - Arcade Edition](#bust-a-move-2---arcade-edition) | GB
 [Bust-A-Move 3 DX](#bust-a-move-3-dx) | GB
 [Bust-A-Move Millennium](#bust-a-move-millennium) | GBC
+[Buzz Lightyear of Star Command](#buzz-lightyear-of-star-command) | GBC
 [Cannon Fodder](#cannon-fodder) | GBC
 [Captain America and the Avengers](#captain-america-and-the-avengers) | GB
 [Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai](#cardcaptor-sakura---tomoeda-shougakkou-daiundoukai) | GBC
@@ -1389,6 +1390,14 @@ This patch converts `Bust-A-Move Millennium (U,E)` to the `.pocket` format.
 ROM MD5: `e98124b30408c00786068387353e39e5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BustAMoveMillennium.ips).
+
+## Buzz Lightyear of Star Command
+
+This patch converts `Buzz Lightyear of Star Command (U)` to the `.pocket` format.
+
+ROM MD5: `560e27a4d80b88280d8ad7358467c301`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BuzzLightyear.ips).
 
 ## Cannon Fodder
 
