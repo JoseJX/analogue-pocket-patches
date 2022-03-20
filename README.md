@@ -43,6 +43,7 @@ Game | System
 [Arcade Classic No. 3 - Galaga & Galaxian DX](#arcade-classic-no-3---galaga-and-galaxian-dx) | GB
 [Arcade Hits - Moon Patrol and Spy Hunter](#arcade-hits---moon-patrol-and-spy-hunter) | GBC
 [Army Men](#army-men) | GBC
+[Army Men 2](#army-men-2) | GBC
 [Arthur's Absolutely Fun Day!](#arthurs-absolutely-fun-day) | GBC
 [Asterix](#asterix) | GB
 [Asterix and Obelix](#asterix-and-obelix) | GBC
@@ -859,6 +860,14 @@ This patch converts `Army Men (U,E)` to the `.pocket` format.
 ROM MD5: `c75bf50b9fec4e89ced9a2bdfbeb4245`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ArmyMen.ips).
+
+## Army Men 2
+
+This patch converts `Army Men 2 (U,E)` to the `.pocket` format.
+
+ROM MD5: `66a744231189d65db54aa4d670975c5a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ArmyMen2.ips).
 
 ## Arthur's Absolutely Fun Day!
 
