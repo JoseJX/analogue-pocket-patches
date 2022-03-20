@@ -381,6 +381,7 @@ Game | System
 [Prince of Persia (1992)](#prince-of-persia-1992) | GB
 [Prince of Persia](#prince-of-persia) | GBC
 [Punisher - Ultimate Payback](#punisher---ultimate-payback) | GB
+[Puyo Puyo Gaiden - Puyo Wars](#puyo-puyo-gaiden---puyo-wars) | GBC
 [Puzzle Master](#puzzle-master) | GBC
 [Puzzled](#puzzled) | GBC
 [Puzzled (E)](#puzzled-e) | GBC
@@ -3716,6 +3717,14 @@ This patch converts `Punisher - Ultimate Payback (U)` to the `.pocket` format.
 ROM MD5: `84133af3324fc1aaf00c0769e15708c0`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Punisher.ips).
+
+## Puyo Puyo Gaiden - Puyo Wars
+
+This patch converts `Puyo Puyo Gaiden - Puyo Wars (J)` to the `.pocket` format.
+
+ROM MD5: `ec0985bdad4b519c492f07f2d01f1613`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PuyoWars.ips).
 
 ## Puzzle Master
 
