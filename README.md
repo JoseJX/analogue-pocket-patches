@@ -123,6 +123,7 @@ Game | System
 [Commander Keen](#commander-keen) | GBC
 [Conker's Pocket Tales](#conkers-pocket-tales) | GBC
 [Contra III - Alien Wars](#contra-iii---alien-wars) | GB
+[Cool Ball](#cool-ball) | GB
 [Cool Bricks](#cool-bricks) | GBC
 [Cool Spot](#cool-spot) | GB
 [Cosmo Tank](#cosmo-tank) | GB
@@ -1542,6 +1543,14 @@ This patch was updated to fix lockups in the password and options menus. (2022/0
 ROM MD5: `8d885e185ad2a0cb5c9e3b152bd24583`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ContraAW.ips).
+
+## Cool Ball
+
+This patch converts `Cool Ball (U)` to the `.pocket` format.
+
+ROM MD5: `57b192b42b4e1945cc7f20c98f7e1dab`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CoolBall.ips).
 
 ## Cool Bricks
 
