@@ -428,6 +428,7 @@ Game | System
 [Samurai Showdown](#samurai-showdown) | GB
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
 [Scooby-Doo! Classic Creep Capers](#scooby-doo-classic-creep-capers) | GBC
+[Scrabble](#scrabble) | GBC
 [Seiken Densetsu - Final Fantasy Gaiden](#seiken-densetsu---final-fantasy-gaiden) | GB
 [Shadowgate Classic](#shadowgate-classic) | GBC
 [Shanghai](#shanghai) | GB
@@ -4122,6 +4123,14 @@ This patch converts `Scooby-Doo! Classic Creep Capers (U,E)` to the `.pocket` fo
 ROM MD5: `117a9babae15960dc4de04ac44066ed2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ScoobyDoo.ips).
+
+## Scrabble
+
+This patch converts `Scrabble (E)` to the `.pocket` format.
+
+ROM MD5: `0e31b2dcde31c590a0835b22f653fd2d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Scrabble.ips).
 
 ## Seiken Densetsu - Final Fantasy Gaiden
 
