@@ -185,6 +185,7 @@ Game | System
 [Flintstones - King Rock Treasure Island](#flintstones---king-rock-treasure-island) | GB
 [Flipull](#flipull) | GB
 [Fortified Zone](#fortified-zone) | GB
+[Friday the 13th the GB Game](#friday-the-13th-the-gb-game) | GBC
 [Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou](#fushigi-no-dungeon---fuurai-no-shiren-gb2---sabaku-no-majou) | GBC
 [Game & Watch Gallery](#game--watch-gallery) | GB
 [Game & Watch Gallery 2](#game--watch-gallery-2) | GBC
@@ -2043,6 +2044,14 @@ This patch converts `Fortified Zone (U,E)` to the `.pocket` format.
 ROM MD5: `a981378da19c08597db03f3ee02cd6d7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FortifiedZone.ips).
+
+## Friday the 13th the GB Game
+
+This patch converts `Friday the 13th the GB Game` to the `.pocket` format. This game is [available here](https://jwgllc.itch.io/friday-the-13th-the-gameboy-game) on the developer's itch account.
+
+ROM MD5: `c416450b06fc81fc07ab792c07790d3a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Friday13th.ips).
 
 ## Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou
 
