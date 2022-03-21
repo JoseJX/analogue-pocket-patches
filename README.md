@@ -515,6 +515,7 @@ Game | System
 [Tennis](#tennis) | GB
 [Terminator 2 - Judgement Day](#terminator-2---judgement-day) | GB
 [Tesserae](#tesserae) | GB
+[Test Drive 2001](#test-drive-2001) | GBC
 [Tetris 1.0 (J)](#tetris-10-j) | GB
 [Tetris 2](#tetris-2) | GB
 [Tetris Attack](#tetris-attack) | GB
@@ -4845,6 +4846,14 @@ This patch converts `Tesserae (U)` to the `.pocket` format.
 ROM MD5: `95517367dd10f6476bcb39a2329ef55a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tesserae.ips).
+
+## Test Drive 2001
+
+This patch converts `Test Drive 2001 (U)` to the `.pocket` format.
+
+ROM MD5: `4a1eefb91466fd1a2368617d4e697c30`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TestDrive2001.ips).
 
 ## Tetris 1.0 (J)
 
