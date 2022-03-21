@@ -496,6 +496,8 @@ Game | System
 [Teenage Mutant Ninja Turtles - Fall of the Foot Clan](#teenage-mutant-ninja-turtles---fall-of-the-foot-clan) | GB
 [Teenage Mutant Ninja Turtles II - Back From the Sewers](#teenage-mutant-ninja-turtles-ii---back-from-the-sewers) | GB
 [Teenage Mutant Ninja Turtles III - Radical Rescue](#teenage-mutant-ninja-turtles-iii---radical-rescue) | GB
+[Telefang - Power Edition (NoRTC)](#telefang---power-edition-nortc) | GBC
+[Telefang - Speed Edition (NoRTC)](#telefang---speed-edition-nortc) | GBC
 [Tennis](#tennis) | GB
 [Terminator 2 - Judgement Day](#terminator-2---judgement-day) | GB
 [Tesserae](#tesserae) | GB
@@ -4669,6 +4671,23 @@ This patch was updated to address bug #13 where the hud wasn't shown correctly. 
 ROM MD5: `e6104df1feb1318ff1764c791eb4ce0e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TMNT3.ips).
+
+## Telefang - Power Edition (NoRTC)
+
+This patch converts `Telefang - Power Edition (NoRTC)` to the `.pocket` format. It is a patched version of [the English Translation](https://github.com/telefang/telefang/tree/patch) project outuput and is the pre-release version of v151. This patches the original Japanese ROM with the MD5 below.
+
+ROM MD5: `04f7ea139fef2bc2e3f70b2c23933d2e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TelefangPowerEng.ips).
+
+## Telefang - Speed Edition (NoRTC)
+
+This patch converts `Telefang - Speed Edition (NoRTC)` to the `.pocket` format. It is a patched version of [the English Translation](https://github.com/telefang/telefang/tree/patch) project outuput and is the pre-release version of v151. This patches the original Japanese ROM with the MD5 below.
+
+ROM MD5: `ebfe05828463cc004898e6a95ee57fea`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TelefangSpeedEng.ips).
+
 
 ## Tennis
 
