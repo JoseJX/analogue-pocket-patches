@@ -486,6 +486,7 @@ Game | System
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
 [Super Robot Pinball](#super-robot-pinball) | GBC
 [Super Robot Taisen](#super-robot-taisen) | GB
+[Super Scrabble](#super-scrabble) | GB
 [Survival Kids](#survival-kids) | GBC
 [Survival Kids - Kotou no Boukensha](#survival-kids---kotou-no-boukensha) | GBC
 [Survival Kids 2 - Dasshutsu!! Futago-Jima!](#survival-kids-2---dasshutsu-futago-jima) | GBC
@@ -4597,6 +4598,14 @@ It is compatible with the [English Translation patch](https://www.romhacking.net
 ROM MD5: `7bb8a5bc9e55a05eba1a3fcbf460a9b5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRobotTaisen.ips).
+
+## Super Scrabble
+
+This patch converts `Super Scrabble (U)` to the `.pocket` format.
+
+ROM MD5: `5c39c161b85481d7154f19081ff40f42`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperScrabble.ips).
 
 ## Survival Kids
 
