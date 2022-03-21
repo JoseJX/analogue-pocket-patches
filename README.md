@@ -183,6 +183,7 @@ Game | System
 [Final Fantasy XI - Adventure](#final-fantasy-xi---adventure) | GB
 [Fish Dude](#fish-dude) | GB
 [Fish Files](#fish-files) | GBC
+[Fist of the North Star](#fist-of-the-north-star) | GB
 [Flintstones](#flintstones) | GB
 [Flintstones - Burgertime in Bedrock](#flintstones---burgertime-in-bedrock) | GBC
 [Flintstones - King Rock Treasure Island](#flintstones---king-rock-treasure-island) | GB
@@ -2044,6 +2045,13 @@ ROM MD5: `edf021b521a496fe7afc5e15949f5c80`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FishFiles.ips).
 
+## Fist of the North Star
+
+This patch converts `Fist of the North Star (U)` to the `.pocket` format.
+
+ROM MD5: `c88d94a984afde869426694a3b992894`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FistOfTheNorthStar.ips).
 
 ## Flintstones
 
