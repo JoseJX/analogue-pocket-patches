@@ -552,6 +552,7 @@ Game | System
 [Who Framed Rodger Rabbit?](#who-framed-rodger-rabbit) | GB
 [Who Wants to be a Millionare 2nd Edition](#who-wants-to-be-a-millionare-2nd-edition) | GBC
 [Wild Snake](#wild-snake) | GB
+[Wink and the Broken Robot v5.7](#wink-and-the-broken-robot-v5-7) | GBC
 [Wizards and Warriors Chapter X - The Fortress of Fear](#wizards-and-warriors-chapter-x---the-fortress-of-fear) | GB
 [Wizardry I - Proving Grounds of the Mad Overlord](#wizardry-i---proving-grounds-of-the-mad-overlord) | GBC
 [Wizardry II - Llylgamyn no Isan](#wizardry-ii---llylgamyn-no-isan) | GBC
@@ -5143,6 +5144,14 @@ This patch converts `Wild Snake (U)` to the `.pocket` format.
 ROM MD5: `f9302265fcbc4178c84aaeac3138af97`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WildSnake.ips).
+
+## Wink and the Broken Robot v5.7
+
+This patch converts `Wink and the Broken Robot v5.7` to the `.pocket` format. You can get a copy of this game from the [developer's itch site](https://maxoakland.itch.io/wink-gameboy).
+
+ROM MD5: `a7af0986e61230b5f232c970912fb013`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wink-v57.ips).
 
 ## Wizards and Warriors Chapter X - The Fortress of Fear
 
