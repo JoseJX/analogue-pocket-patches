@@ -226,6 +226,7 @@ Game | System
 [Hercules - The Legendary Journey](#hercules---the-legendary-journey) | GBC
 [Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
 [Hexcite - The Shapes of Victory](#hexcite---the-shapes-of-victory) | GBC
+[Hudson Hawk](#hudson-hawk) | GB
 [Humans](#humans) | GB
 [Hyper Lode Runner](#hyper-lode-runner) | GB
 [Ikari no Yousai](#ikari-no-yousai) | GB
@@ -2393,6 +2394,14 @@ This patch converts `Hexcite - The Shapes of Victory (U,E)` to the `.pocket` for
 ROM MD5: `4b068708fb29fdabbee834114fe4a09d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hexcite.ips).
+
+## Hudson Hawk
+
+This patch converts `Hudson Hawk (U)` to the `.pocket` format.
+
+ROM MD5: `9c1efb1bd07fd91765f680e7e9bc44f1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HudsonHawk.ips).
 
 ## Humans
 
