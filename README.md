@@ -174,13 +174,14 @@ Game | System
 [F-18 Thunder Strike](#f-18-thunder-strike) | GBC
 [Faceball 2000](#faceball-2000) | GB
 [Felix the Cat](#felix-the-cat) | GB
-[Fish Dude](#fish-dude) | GB
-[Fish Files](#fish-files) | GBC
+[Fidgetts](#fidgetts) | GB
 [Final Fantasy Adventure](#final-fantasy-adventure) | GB
 [Final Fantasy Legend](#final-fantasy-legend) | GB
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
 [Final Fantasy Legend III](#final-fantasy-legend-iii) | GB
 [Final Fantasy XI - Adventure](#final-fantasy-xi---adventure) | GB
+[Fish Dude](#fish-dude) | GB
+[Fish Files](#fish-files) | GBC
 [Flintstones](#flintstones) | GB
 [Flintstones - Burgertime in Bedrock](#flintstones---burgertime-in-bedrock) | GBC
 [Flintstones - King Rock Treasure Island](#flintstones---king-rock-treasure-island) | GB
@@ -1958,7 +1959,6 @@ ROM MD5: `05ba7f165dab1ffd49b63b4f5c704c02`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Faceball2000.ips).
 
-
 ## Felix the Cat
 
 This patch converts `Felix the Cat (U,E)` to the `.pocket` format.
@@ -1967,21 +1967,13 @@ ROM MD5: `4d606ab4ffd5c3d3ecf914a6af1c1f90`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Felix.ips).
 
-## Fish Dude
+## Fidgetts
 
-This patch converts `Fish Dude (U)` to the `.pocket` format.
+This patch converts `Fidgetts (U,E)` to the `.pocket` format.
 
-ROM MD5: `0beb67de765ef358d50c28836a39bfb0`
+ROM MD5: `ac2cd2a4227b38765f23fb5b72de6229`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FishDude.ips).
-
-## Fish Files
-
-This patch converts `Fish Files (E)` to the `.pocket` format.
-
-ROM MD5: `edf021b521a496fe7afc5e15949f5c80`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FishFiles.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Fidgetts.ips).
 
 ## Final Fantasy Adventure
 
@@ -2024,6 +2016,23 @@ This patch converts `Final Fantasy XI - Adventure` to the `.pocket` format. It c
 ROM MD5: `efaf761d789e9f6e7cddf81b500576d8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FFXI-Adventure.ips).
+
+## Fish Dude
+
+This patch converts `Fish Dude (U)` to the `.pocket` format.
+
+ROM MD5: `0beb67de765ef358d50c28836a39bfb0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FishDude.ips).
+
+## Fish Files
+
+This patch converts `Fish Files (E)` to the `.pocket` format.
+
+ROM MD5: `edf021b521a496fe7afc5e15949f5c80`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FishFiles.ips).
+
 
 ## Flintstones
 
