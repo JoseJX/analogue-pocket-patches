@@ -149,6 +149,7 @@ Game | System
 [Dick Tracy](#dick-tracy) | GB
 [Donald Duck - Goin' Quackers](#donald-duck---goin-quackers) | GBC
 [Donkey Kong Land](#donkey-kong-land) | GB
+[Donkey Kong Land - New Colors Mode](#donkey-kong-land---new-colors-mode) | GBC
 [Donkey Kong Land III](#donkey-kong-land-iii) | GB
 [Donkey Kong GB - Dinky Kong and Dixie Kong](#donkey-kong-gb---dinky-kong-and-dixie-kong) | GB
 [dots](#dots) | GBC
@@ -1745,6 +1746,14 @@ This patch was updated to fix a crash bug. (2022/01/31)
 ROM MD5: `89bb0d67d5af35c2ebf09d9aef2e34ad`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DK1.ips).
+
+## Donkey Kong Land - New Colors Mode
+
+This patch converts `Donkey Kong Land - New Colors Mode` to the `.pocket` format. You must apply the [colorization patch](https://www.romhacking.net/hacks/6076/) first, then apply this patch, the MD5 below is for the patched ROM.
+
+ROM MD5: `830aae1221b7c48866aa434bd626bc19`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DK1-Color.ips).
 
 ## Donkey Kong Land III
 
