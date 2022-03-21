@@ -4676,7 +4676,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Telefang - Power Edition (NoRTC)` to the `.pocket` format. It is a patched version of [the English Translation](https://github.com/telefang/telefang/tree/patch) project outuput, version 151. This patches the original Japanese ROM with the MD5 below.
 
-This patch was updated to fix a crash. (2022/03/21)
+This patch was updated to fix a crash and to fix saving. (2022/03/21)
 
 ROM MD5: `04f7ea139fef2bc2e3f70b2c23933d2e`
 
@@ -4686,7 +4686,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Telefang - Speed Edition (NoRTC)` to the `.pocket` format. It is a patched version of [the English Translation](https://github.com/telefang/telefang/tree/patch) project outuput, version 151. This patches the original Japanese ROM with the MD5 below.
 
-This patch was updated to fix a crash. (2022/03/21)
+This patch was updated to fix a crash and to fix saving. (2022/03/21)
 
 ROM MD5: `ebfe05828463cc004898e6a95ee57fea`
 
