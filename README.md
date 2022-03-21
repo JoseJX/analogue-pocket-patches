@@ -266,6 +266,10 @@ Game | System
 [Lazlo's Leap](#lazlos-leap) | GB
 [Legend of the River King 2](#legend-of-the-river-king-2) | GBC
 [Legend of the Sea King](#legend-of-the-sea-king) | GB
+[Legend of Zelda - Link's Awakening](#legend-of-zelda---links-awakening) | GB
+[Legend of Zelda - Link's Awakening (RevA)](#legend-of-zelda---links-awakening-reva) | GB
+[Legend of Zelda - Link's Awakening (F)](#legend-of-zelda---links-awakening-f) | GB
+[Legend of Zelda - Link's Awakening (G)](#legend-of-zelda---links-awakening-g) | GB
 [Lemmings](#lemmings) | GBC
 [Lemmings 2 - The Tribes](#lemmings-2---the-tribes) | GB
 [Link's Awakening Redux](#links-awakening-redux) | GBC
@@ -585,6 +589,7 @@ Game | System
 [Yu-Gi-Oh! - Dark Duel Stories](#yu-gi-oh---dark-duel-stories) | GBC
 [Yu-Gi-Oh! Duel Monsters](#yu-gi-oh-duel-monsters) | GB
 [Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories](#yu-gi-oh-duel-monsters-ii---dark-duel-stories) | GBC
+[Zelda no Densetsu: Yume o Miru Shima](#zelda-no-densetsu-yume-o-miru-shima) | GB
 [Zool - Ninja of the N'th Dimension](#zool---ninja-of-the-nth-dimension) | GB
 [Zoop](#zoop) | GB
 
@@ -2739,6 +2744,38 @@ This patch converts `Legend of the Sea King` to the `.pocket` format. Note, this
 ROM MD5: `36dbbefd222bdb0921189c4be4fa1ead`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendSeaKing.ips).
+
+## Legend of Zelda - Link's Awakening
+
+This patch converts `Legend of Zelda - Link's Awakening (U,E)` to the `.pocket` format.
+
+ROM MD5: `c4360f89e2b09a21307fe864258ecab7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZeldaLinksAwakening.ips).
+
+## Legend of Zelda - Link's Awakening (RevA)
+
+This patch converts `Legend of Zelda - Link's Awakening (RevA) (U,E)` to the `.pocket` format.
+
+ROM MD5: `e202ee96a60ce347e39fe3f5d9fd65e7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZeldaLinksAwakeningA.ips).
+
+## Legend of Zelda - Link's Awakening (F)
+
+This patch converts `Legend of Zelda - Link's Awakening (F)` to the `.pocket` format.
+
+ROM MD5: `5bc0913d533000522c7c9cac1ef6f97f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZeldaLinksAwakeningF.ips).
+
+## Legend of Zelda - Link's Awakening (G)
+
+This patch converts `Legend of Zelda - Link's Awakening (G) (U,E)` to the `.pocket` format.
+
+ROM MD5: `8b7af1a8ca96c74301d633e0ce83ba0b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZeldaLinksAwakeningG.ips).
 
 ## Lemmings
 
@@ -5432,6 +5469,14 @@ This patch converts `Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (J)` to the 
 ROM MD5: `782b88b1bf9768a2b1b139177a0c1c33`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YuGiOh-DDS2.ips).
+
+## Zelda no Densetsu: Yume o Miru Shima
+
+This patch converts `Zelda no Densetsu: Yume o Miru Shima (J)` to the `.pocket` format.
+
+ROM MD5: `ae08c1f73f822116060ef58293b94ed8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZeldaLinksAwakeningJ.ips).
 
 ## Zool - Ninja of the N'th Dimension
 
