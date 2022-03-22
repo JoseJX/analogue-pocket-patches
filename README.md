@@ -378,6 +378,7 @@ Game | System
 [Pocket Puyo Puyo Tsuu](#pocket-puyo-puyo-tsuu) | GB
 [Pocket Soccer](#pocket-soccer) | GBC
 [Pokemon Brown](#pokemon-brown) | GB
+[Pokemon - Edicion Amarilla - Edicion Especial Pikachu](#pokemon---edicion-amarilla---edicion-especial-pikachu) | GBC
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
 [Pokemon Pinball (E)](#pokemon-pinball-e) | GBC
@@ -3698,6 +3699,14 @@ This patch converts `Pokemon Brown` to the `.pocket` format. Pokemon Brown is a 
 ROM MD5: `854390c4a18d0a1744fb437037b4a531`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonBrown.ips).
+
+## Pokemon - Edicion Amarilla - Edicion Especial Pikachu
+
+This patch converts `Pokemon - Edicion Amarilla - Edicion Especial Pikachu (Es)` to the `.pocket` format.
+
+ROM MD5: `f0da8b1cff3aab898ecde9dcbda6d817`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonYellowEs.ips).
 
 ## Pokemon Puzzle Challenge
 
