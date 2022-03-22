@@ -597,6 +597,7 @@ Game | System
 [X-Men - Mutant Wars](#x-men---mutant-wars) | GBC
 [X-Men - Wolverine's Rage](#x-men---wolverines-rage) | GBC
 [Xtreme Sports](#xtreme-sports) | GBC
+[Yakuman](#yakuman) | GB
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
 [Yu-Gi-Oh! - Dark Duel Stories](#yu-gi-oh---dark-duel-stories) | GBC
@@ -5547,6 +5548,16 @@ This patch converts `Xtreme Sports (U)` to the `.pocket` format.
 ROM MD5: `af1d1e17a5c568df796f4004be872649`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/XtremeSports.ips).
+
+## Yakuman
+
+This patch converts `Yakuman (J)` to the `.pocket` format.
+
+It is also compatible with the [English Translation](https://www.romhacking.net/translations/6349/).
+
+ROM MD5: `2acfc8d0213b186552124fb8b3085fa1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Yakuman.ips).
 
 ## Yoshi
 
