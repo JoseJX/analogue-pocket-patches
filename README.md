@@ -95,6 +95,7 @@ Game | System
 [Bonk's Adventure](#bonks-adventure) | GB
 [Bonk's Revenge](#bonks-revenge) | GB
 [Brain Bender](#brain-bender) | GB
+[BreakThru!](#breakthru) | GB
 [Bubble Bobble](#bubble-bobble) | GB
 [Bubble Bobble Part 2](#bubble-bobble-part-2) | GB
 [Bubble Ghost](#bubble-ghost) | GB
@@ -1315,6 +1316,14 @@ This patch converts `Brain Bender (U)` to the `.pocket` format.
 ROM MD5: `63bbfce4fb22f4b77e68cc67f02c4b05`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BrainBender.ips).
+
+## BreakThru!
+
+This patch converts `BreakThru! (U)` to the `.pocket` format.
+
+ROM MD5: `797580a91cf9dc710c37f5af04dbbca5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BreakThru.ips).
 
 ## Bubble Bobble
 
