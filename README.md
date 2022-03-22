@@ -429,9 +429,10 @@ Game | System
 [RoboCop vs the Terminator](#robocop-vs-the-terminator) | GB
 [Robopon - Sun Version](#robopon---sun-version) | GBC
 [Sagaia](#sagaia) | GB
+[Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
 [Samurai Kid](#samurai-kid) | GBC
 [Samurai Showdown](#samurai-showdown) | GB
-[Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
+[San Francisco Rush 2049](#san-francisco-rush-2049) | GBC
 [Scooby-Doo! Classic Creep Capers](#scooby-doo-classic-creep-capers) | GBC
 [Scrabble](#scrabble) | GBC
 [Seiken Densetsu - Final Fantasy Gaiden](#seiken-densetsu---final-fantasy-gaiden) | GB
@@ -4129,6 +4130,20 @@ ROM MD5: `70a9ef90ad443881ca90cdd8d910ae66`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Sagaia.ips).
 
+## Sakura Taisen GB - Geki Hana Gumi Nyuutai!
+
+Also known as `Sakura Wars GB`
+
+This patch converts `Sakura Taisen GB - Geki Hana Gumi Nyuutai! (J)` to the `.pocket` format.
+
+This patch is compatible with the English [translation patch](https://github.com/vinheim3/sakuraWars1-disasm/releases/download/0.0.1/sakuraWars1.ips).
+
+This patch was updated to fix the target reticule in Maria's mini-game. (2022/01/15)
+
+ROM MD5: `70883b45a97984cb033c2b95028bef65`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SakuraWars.ips).
+
 ## Samurai Kid
 
 This patch converts `Samurai Kid (J)` to the `.pocket` format.
@@ -4147,19 +4162,13 @@ ROM MD5: `cb5fe1c733f610ad6151216b6887285a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SamuraiShodown.ips).
 
-## Sakura Taisen GB - Geki Hana Gumi Nyuutai!
+## San Francisco Rush 2049
 
-Also known as `Sakura Wars GB`
+This patch converts `San Francisco Rush 2049 (U)` to the `.pocket` format.
 
-This patch converts `Sakura Taisen GB - Geki Hana Gumi Nyuutai! (J)` to the `.pocket` format.
+ROM MD5: `19601e4fc1f7084076128dca0182f5a7`
 
-This patch is compatible with the English [translation patch](https://github.com/vinheim3/sakuraWars1-disasm/releases/download/0.0.1/sakuraWars1.ips).
-
-This patch was updated to fix the target reticule in Maria's mini-game. (2022/01/15)
-
-ROM MD5: `70883b45a97984cb033c2b95028bef65`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SakuraWars.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SFRush2049.ips).
 
 ## Scooby-Doo! Classic Creep Capers
 
