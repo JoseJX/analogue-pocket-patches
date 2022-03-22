@@ -428,6 +428,7 @@ Game | System
 [Road Rash (Color)](#road-rash-color) | GBC
 [Road Rash - (with Repair Service)](#road-rash---with-repair-service) | GB
 [RoboCop](#robocop) | GB
+[RoboCop (J)](#robocop-j) | GB
 [RoboCop vs the Terminator](#robocop-vs-the-terminator) | GB
 [Robopon - Sun Version](#robopon---sun-version) | GBC
 [Sagaia](#sagaia) | GB
@@ -4125,6 +4126,14 @@ This patch was updated to fix a lockup and glitches in the minigame after the fi
 ROM MD5: `a477ac86be35d1fa70b708ad08dc88b8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCop.ips).
+
+## RoboCop (J)
+
+This patch converts `RoboCop (J)` to the `.pocket` format.
+
+ROM MD5: `4b248813c7f2317e55690b5c95f163b2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCopJ.ips).
 
 ## RoboCop vs the Terminator
 
