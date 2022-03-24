@@ -3062,15 +3062,25 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Medarot - Kabuto Version (English Patch)
 
-This patch converts `Medarot - Kabuto Version (J)` with the [English Translation patch](https://github.com/Medabots/medarot1/releases/download/0.6.7%2BEN.txt.19/m1kabuto-2091-adec3f2d49a83fc7f581bfd0311a79a4e01af1df.ips) to the `.pocket` format.
+This patch converts `Medarot - Kabuto Version (J)` with the [English Translation patch](https://github.com/Medabots/medarot1/releases/download/0.6.7%2BEN.txt.20/m1kabuto-2198-ac8ec9b062466dc4133b3e6ba0d35bae4982ab09.ips) to the `.pocket` format.
 
-This patch was updated for the current version of the translation patch. (2022-02-19)
+This patch was updated for the current version of the translation patch. (2022-03-24)
 
 The translation patch must be applied to the Japanese ROM before applying the `.pocket` patch, the MD5 below is for the translation patched ROM.
 
-ROM MD5: `cdfb608f2af7ea31d1e5c5c39706baab`
+ROM MD5: `5168e5f5779ec09bf333580c4fa65e42`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKabuto-Eng.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKabuto-EN.ips).
+
+## Medarot - Kabuto Version (US English Patch)
+
+This patch converts `Medarot - Kabuto Version (J)` with the [US English Translation patch](https://github.com/Medabots/medarot1/releases/download/0.6.7%2BEN-US.txt.20/m1kabuto-2199-d8ebee3ce6ecfcd220b0f8e5bc4de120783ec16b.ips) to the `.pocket` format.
+
+The translation patch must be applied to the Japanese ROM before applying the `.pocket` patch, the MD5 below is for the translation patched ROM.
+
+ROM MD5: `e2ccd9a7b098f83cfe66f959f402a4a2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKabuto-EN-US.ips).
 
 ## Medarot - Kuwagata Version
 
@@ -3082,15 +3092,25 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Medarot - Kuwagata Version (English Patch)
 
-This patch converts `Medarot - Kuwagata Version (J)` with the [English Translation patch](https://github.com/Medabots/medarot1/releases/download/0.6.7%2BEN.txt.19/m1kuwagata-2091-adec3f2d49a83fc7f581bfd0311a79a4e01af1df.ips) to the `.pocket` format.
+This patch converts `Medarot - Kuwagata Version (J)` with the [English Translation patch](https://github.com/Medabots/medarot1/releases/download/0.6.7%2BEN.txt.20/m1kuwagata-2198-ac8ec9b062466dc4133b3e6ba0d35bae4982ab09.ips) to the `.pocket` format.
 
-This patch was updated for the current version of the translation patch. (2022-02-19)
+This patch was updated for the current version of the translation patch. (2022-03-24)
 
 The translation patch must be applied to the Japanese ROM before applying the `.pocket` patch, the MD5 below is for the translation patched ROM.
 
-ROM MD5: `7b1657d322e9967f4dff3ff7fa586ee7`
+ROM MD5: `49515d0da23d5ea4bde8a06dff4a9904`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKuwagata-Eng.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKuwagata-EN.ips).
+
+## Medarot - Kuwagata Version (US English Patch)
+
+This patch converts `Medarot - Kuwagata Version (J)` with the [US English Translation patch](https://github.com/Medabots/medarot1/releases/download/0.6.7%2BEN-US.txt.20/m1kuwagata-2199-d8ebee3ce6ecfcd220b0f8e5bc4de120783ec16b.ips) to the `.pocket` format.
+
+The translation patch must be applied to the Japanese ROM before applying the `.pocket` patch, the MD5 below is for the translation patched ROM.
+
+ROM MD5: `f0871152b2e929c83f7be0d7fdf36f55`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKuwagata-EN-US.ips).
 
 ## Mega Man - Dr. Wily's Revenge
 
