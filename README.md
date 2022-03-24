@@ -493,6 +493,7 @@ Game | System
 [Street Fighter Alpha - Warriors' Dreams](#street-fighter-alpha---warriors-dreams) | GBC
 [Street Fighter II](#street-fighter-ii) | GB
 [Super Imposter Bros.](#super-imposter-bros) | GBC
+[Super Mario Land 2 DX and Patches](#super-mario-land-2-dx-and-patches) | GBC
 [Super Momotarou Dentetsu II](#super-momotarou-dentetsu-ii) | GB
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
@@ -4691,6 +4692,18 @@ This patch converts `Street Fighter II (U)` to the `.pocket` format.
 ROM MD5: `dc3ef8d3fad26cba840327cc428cadbc`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SF2.ips).
+
+## Super Mario Land 2 DX and Patches
+
+This patch converts `Super Mario Land 2: Six Golden Coins (U,E)` to the `.pocket` format. It also applies the following patches:
+
+- [Super Mario Land 2 DX](https://www.romhacking.net/hacks/3784/)
+- [Super Mario Land 2 DX - Bunny Mario Graphics Fix](https://www.romhacking.net/hacks/5624/)
+- [Super Mario Land 2 - Sound Improvement](https://www.romhacking.net/hacks/6682/)
+
+ROM MD5: `a8413347d5df8c9d14f97f0330d67bce`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SML2DX.ips).
 
 ## Super Momotarou Dentetsu II
 
