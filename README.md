@@ -2704,6 +2704,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Kirby's Pinball Land DX` to the `.pocket` format. This is a colorization patch of Kirby's Pinball Land. The [colorization patch](https://www.romhacking.net/hacks/6079/) must be applied before applying this patch. The MD5 below is the MD5 for the colorized game.
 
+This patch was updated to fix a crash in the pause screen. (2022/03/24).
+
 ROM MD5: `a3ed04cc416176c2dc1b5f5e20f135a2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysPinballDX.ips).
