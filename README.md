@@ -318,6 +318,7 @@ Game | System
 [Metal Gear Solid (European Version)](#metal-gear-solid-european-version) | GBC
 [Metal Walker](#metal-walker) | GBC
 [Mickey Mouse](#mickey-mouse) | GB
+[Mickey Mouse - Magic Wands](#mickey-mouse---magic-wands) | GB
 [Mickey's Speedway USA](#mickeys-speedway-usa) | GBC
 [Mickey's Ultimate Challenge](#mickeys-ultimate-challenge) | GB
 [Microsoft Pinball Arcade](#microsoft-pinball-arcade) | GBC
@@ -3200,7 +3201,16 @@ This patch converts `Mickey Mouse (E)` to the `.pocket` format.
 
 ROM MD5: `fecc3f5a95ccaec78f83892933d8159f`
 t
+
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeyMouse.ips).
+
+## Mickey Mouse - Magic Wands
+
+This patch converts `Mickey Mouse - Magic Wands (U,E)` to the `.pocket` format.
+
+ROM MD5: `38b65d28ac0bd619f5dee5a45d5fc542`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeyMouseMagicWands.ips).
 
 ## Mickey's Speedway USA
 
