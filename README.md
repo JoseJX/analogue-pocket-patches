@@ -568,6 +568,7 @@ Game | System
 [Walt Disney's Alice In Wonderland](#walt-disneys-alice-in-wonderland) | GBC
 [Warlocked](#warlocked) | GBC
 [Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
+[Wario Land - Super Mario Land 3 DX](#wario-land---super-mario-land-3-dx) | GBC
 [Wave Race](#wave-race) | GB
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
 [Wetrix GB](#wetrix-gb) | GBC
@@ -5321,6 +5322,16 @@ This patch converts `Wario Blast featuring Bomberman! (U,E)` to the `.pocket` fo
 ROM MD5: `14fe7234ee4bcb14adf20c743f084a35`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioBlast.ips).
+
+## Wario Land - Super Mario Land 3 DX
+
+This patch converts `Wario Land - Super Mario Land 3 DX` to the `.pocket` format.
+
+This patch is applied after the [colorization patch](https://www.romhacking.net/hacks/6683/) has been applied to the original ROM, the MD5 below is for the patched ROM.
+
+ROM MD5: `a0727807a05cfb8f1292f01656ae3a50`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioLandDX.ips).
 
 ## Walt Disney's Alice In Wonderland
 
