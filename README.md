@@ -146,6 +146,7 @@ Game | System
 [Denki Blocks!](#denki-blocks) | GBC
 [Dennis the Menace](#dennis-the-menace) | GB
 [Densha De Go! 2](#densha-de-go-2) | GBC
+[Desert Strike - Return to the Gulf](#desert-strike---return-to-the-gulf) | GB
 [Dexterity](#dexterity) | GB
 [Dexter's Laboratory - Robot Rampage](#dexters-laboratory---robot-rampage) | GBC
 [Dick Tracy](#dick-tracy) | GB
@@ -1737,6 +1738,14 @@ This patch converts `Densha De Go! 2 (J)` to the `.pocket` format.
 ROM MD5: `ab58102005b510a2d905ed7de9d6267a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DenshaDeGo2.ips).
+
+## Desert Strike - Return to the Gulf
+
+This patch converts `Desert Strike - Return to the Gulf (U)` to the `.pocket` format.
+
+ROM MD5: `a926508282da0b7889ab4f0947916068`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DesertStrikeGulf.ips).
 
 ## Dexterity
 
