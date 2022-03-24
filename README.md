@@ -4141,7 +4141,9 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `RoboCop (J)` to the `.pocket` format.
 
-This patch was updated to fix some graphic corruption. There are still some issues that need to be resolved. (2022/03/22)
+This patch was updated to fix some graphic corruption. (2022/03/22)
+
+This patch was updated to fix some graphic corruption with bullets. (2022/03/24)
 
 ROM MD5: `4b248813c7f2317e55690b5c95f163b2`
 
