@@ -365,6 +365,7 @@ Game | System
 [Operation C](#operation-c) | GB
 [Out of Gas](#out-of-gas) | GB
 [Pac-Attack](#pac-attack) | GB
+[Pac-in-Time](#pac-in-time) | GB
 [Pac-Man - Special Color Edition](#pac-man---special-color-edition) | GBC
 [Paperboy](#paperboy) | GB
 [Parasol Stars - Rainbow Islands II](#parasol-stars---rainbow-islands-ii) | GB
@@ -3620,6 +3621,14 @@ This patch converts `Pac-Attack (U)` to the `.pocket` format.
 ROM MD5: `8a0430cf49abda1fc055c16d2bbea387`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PacAtack.ips).
+
+## Pac-in-Time
+
+This patch converts `Pac-in-Time (U)` to the `.pocket` format.
+
+ROM MD5: `e3b7b3649e52ee6aa6fd98baf88d50de`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PacInTime.ips).
 
 ## Pac-Man - Special Color Edition
 
