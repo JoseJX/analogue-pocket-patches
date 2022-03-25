@@ -346,6 +346,7 @@ Game | System
 [Mr. Nutz (E)](#mr-nutz-e) | GBC
 [Ms. Pac-Man](#ms-pac-man) | GB
 [Ms. Pac-Man - Special Color Edition](#ms-pac-man---special-color-edition) | GBC
+[MTV Sports - Pure Ride](#mtv-sports---pure-ride) | GBC
 [Muppets](#muppets) | GBC
 [Mysterium](#mysterium) | GB
 [Mystical Ninja Starring Goemon](#mystical-ninja-starring-goemon) | GB
@@ -3469,6 +3470,14 @@ This patch converts `Ms. Pac-Man - Special Color Edition (U)` to the `.pocket` f
 ROM MD5: `4d090ceaa53d571db00d7160ca4be69d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MsPacMan-SCE.ips).
+
+## MTV Sports - Pure Ride
+
+This patch converts `MTV Sports - Pure Ride (U,E)` to the `.pocket` format.
+
+ROM MD5: `94e1575453f54cbe157d13eae6e78d92`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MTVPureRide.ips).
 
 ## Muppets
 
