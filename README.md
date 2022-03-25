@@ -88,6 +88,7 @@ Game | System
 [Blades of Steel](#blades-of-steel) | GB
 [Blues Brothers](#blues-brothers) | GB
 [Boggle Plus](#boggle-plus) | GB
+[Bo Jackson - Two Games in One](#bo-jackson---two-games-in-one) | GB
 [Bomberman GB](#bomberman-gb) | GB
 [Bomberman Max - Blue Champion](#bomberman-max---blue-champion) | GBC
 [Bomberman Max - Red Challenger](#bomberman-max---red-challenger) | GBC
@@ -1267,6 +1268,14 @@ This patch converts `Boggle Plus (U)` to the `.pocket` format.
 ROM MD5: `b3be58ae099ab2a695cfebe9881c7461`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BogglePlus.ips).
+
+## Bo Jackson - Two Games in One
+
+This patch converts `Bo Jackson - Two Games in One (U)` to the `.pocket` format.
+
+ROM MD5: `24b4f33417fc95fe6b092bcd30605cb2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BoJackson.ips).
 
 ## Bomberman GB
 
