@@ -280,6 +280,7 @@ Game | System
 [Legend of Zelda - Link's Awakening (G)](#legend-of-zelda---links-awakening-g) | GB
 [Lemmings](#lemmings) | GBC
 [Lemmings 2 - The Tribes](#lemmings-2---the-tribes) | GB
+[Lingo](#lingo) | GB
 [Link's Awakening Redux](#links-awakening-redux) | GBC
 [Lion King](#lion-king) | GB
 [Lion King - Simba's Mighty Adventure](#lion-king---simbas-mighty-adventure) | GBC
@@ -2881,6 +2882,14 @@ This patch converts `Lemmings 2 - The Tribes (E)` to the `.pocket` format.
 ROM MD5: `7b96adfd6d3576cb2bab2afd06d8bd6e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Lemmings2.ips).
+
+## Lingo
+
+This patch converts `Lingo (E)` to the `.pocket` format.
+
+ROM MD5: `cb66b804aea0db325d5f2dd795c71a6a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Lingo.ips).
 
 ## Link's Awakening Redux
 
