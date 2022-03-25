@@ -141,6 +141,7 @@ Game | System
 [Dance Dance Revolution GB3](#dance-dance-revolution-gb3) | GBC
 [Dance Dance Revolution GB - Disney Mix](#dance-dance-revolution-gb---disney-mix) | GBC
 [Darkwing Duck](#darkwing-duck) | GB
+[Dave Mirra Freestyle BMX](#dave-mirra-freestyle-bmx) | GBC
 [David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob](#david-cranes-the-rescue-of-princess-blobette-starring-a-boy-and-his-blob) | GB
 [Dead Heat Scramble](#dead-heat-scramble) | GB
 [Deja Vu I & II: The Casebooks of Ace Harding](#deja-vu-i--ii-the-casebooks-of-ace-harding) | GBC
@@ -1704,6 +1705,14 @@ This patch converts `Darkwing Duck (U)` to the `.pocket` format.
 ROM MD5: `7d776329212fa7cc2b00c5a46f06dd92`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DarkwingDuck.ips).
+
+## Dave Mirra Freestyle BMX
+
+This patch converts `Dave Mirra Freestyle BMX (U,E)` to the `.pocket` format.
+
+ROM MD5: `1e062837d15d5e4e43bb2253207115ae`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaveMirraFreestyleBMX.ips).
 
 ## David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob
 
