@@ -576,6 +576,7 @@ Game | System
 [Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
 [Wario Land - Super Mario Land 3 DX](#wario-land---super-mario-land-3-dx) | GBC
 [Wave Race](#wave-race) | GB
+[WCW Mayhem](#wcw-mayhem) | GBC
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
 [Wetrix GB](#wetrix-gb) | GBC
 [Wheel of Fortune](#wheel-of-fortune) | GB
@@ -5361,13 +5362,13 @@ ROM MD5: `716de1a7f4178fd941edf22d1a907624`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WackyRaces.ips).
 
-## Wave Race
+## Walt Disney's Alice In Wonderland
 
-This patch converts `Wave Race (U,E)` to the `.pocket` format.
+This patch converts `Walt Disney's Alice In Wonderland (U)` to the `.pocket` format.
 
-ROM MD5: `10fd41703b816fcb2a3d6766574b98f9`
+ROM MD5: `0ed5b9ffe7ad90d819cac810d05b669c`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WaveRace.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AliceInWonderland.ips).
 
 ## Wario Blast featuring Bomberman!
 
@@ -5387,14 +5388,6 @@ ROM MD5: `a0727807a05cfb8f1292f01656ae3a50`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioLandDX.ips).
 
-## Walt Disney's Alice In Wonderland
-
-This patch converts `Walt Disney's Alice In Wonderland (U)` to the `.pocket` format.
-
-ROM MD5: `0ed5b9ffe7ad90d819cac810d05b669c`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AliceInWonderland.ips).
-
 ## Warlocked
 
 This patch converts `Warlocked (U)` to the `.pocket` format.
@@ -5402,6 +5395,22 @@ This patch converts `Warlocked (U)` to the `.pocket` format.
 ROM MD5: `b5eb859e6ea60a0bd83100a10206d9c9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Warlocked.ips).
+
+## Wave Race
+
+This patch converts `Wave Race (U,E)` to the `.pocket` format.
+
+ROM MD5: `10fd41703b816fcb2a3d6766574b98f9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WaveRace.ips).
+
+## WCW Mayhem
+
+This patch converts `WCW Mayhem (U,E)` to the `.pocket` format.
+
+ROM MD5: `8940ba032d30f87e6956fbd8009420e3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WCWMayhem.ips).
 
 ## Wendy - Every Witch Way
 
