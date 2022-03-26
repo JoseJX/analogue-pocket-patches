@@ -32,6 +32,7 @@ Game | System
 [Alleyway](#alleyway) | GB
 [Alleyway DX](#alleyway-dx) | GBC
 [Alone in the Dark - The New Nightmare](#alone-in-the-dark---the-new-nightmare) | GBC
+[Altered Space - A 3-D Alien Adventure](#altered-space---a-3-d-alien-adventure) | GB
 [Amazing Penguin](#amazing-penguin) | GB
 [Amazing Spider-Man](#amazing-spider-man) | GB
 [A-mazing Tater](#a-mazing-tater) | GB
@@ -806,6 +807,14 @@ This patch converts `Alone in the Dark - The New Nightmare (U)` to the `.pocket`
 ROM MD5: `d97055e4a2fd4624fc924c4834ace35e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AloneInTheDark.ips).
+
+## Altered Space - A 3-D Alien Adventure
+
+This patch converts `Altered Space - A 3-D Alien Adventure (U)` to the `.pocket` format.
+
+ROM MD5: `012ee0a196c03cca91a43a9eadbecfb6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AlteredSpace.ips).
 
 ## Amazing Penguin
 
