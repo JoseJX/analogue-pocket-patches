@@ -444,6 +444,7 @@ Game | System
 [RoboCop vs the Terminator](#robocop-vs-the-terminator) | GB
 [Robopon - Sun Version](#robopon---sun-version) | GBC
 [Sagaia](#sagaia) | GB
+[Saigo No Nindou](#saigo-no-nindou) | GB
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
 [Samurai Kid](#samurai-kid) | GBC
 [Samurai Showdown](#samurai-showdown) | GB
@@ -4296,6 +4297,14 @@ This patch converts `Sagaia (J)` to the `.pocket` format.
 ROM MD5: `70a9ef90ad443881ca90cdd8d910ae66`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Sagaia.ips).
+
+## Saigo No Nindou
+
+This patch converts `Saigo No Nindou (J)` to the `.pocket` format.
+
+ROM MD5: `322965849b9103a3d6906c9697a19c09`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SaigoNoNindou.ips).
 
 ## Sakura Taisen GB - Geki Hana Gumi Nyuutai!
 
