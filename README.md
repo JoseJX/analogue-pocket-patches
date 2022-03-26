@@ -76,6 +76,7 @@ Game | System
 [Battletoads](#battletoads) | GB
 [Battletoads - Double Dragon](#battletoads---double-dragon) | GB
 [Battletoads in Ragnarok's World](#battletoads-in-ragnaroks-world) | GB
+[Battle Unit Zeoth](#battle-unit-zeoth) | GB
 [Beatmania GB](#beatmania-gb) | GBC
 [Beatmania GB2 - Gotcha Mix](#beatmania-gb2---gotcha-mix) | GBC
 [Beatmania GB - Gotcha Mix 2](#beatmania-gb---gotcha-mix-2) | GBC
@@ -1141,6 +1142,14 @@ This patch converts `Battletoads (U,E)` to the `.pocket` format.
 ROM MD5: `6d24c94d3acd89b4b703f7bd2a504833`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Battletoads.ips).
+
+## Battle Unit Zeoth
+
+This patch converts `Battle Unit Zeoth (U,E)` to the `.pocket` format.
+
+ROM MD5: `023a8fd8eacad0656b5110da26dcdd44`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleUnitZeoth.ips).
 
 ## Batman of the Future - Return of the Joker
 
