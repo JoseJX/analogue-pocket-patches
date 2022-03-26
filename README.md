@@ -308,6 +308,7 @@ Game | System
 [Mario's Picross](#marios-picross) | GB
 [Mario no Picross](#mario-no-picross) | GB
 [Mary-Kate and Ashley - Get a Clue!](#mary-kate-and-ashley---get-a-clue) | GBC
+[Mat Hoffman's Pro BMX](#mat-hoffmans-pro-bmx) | GBC
 [Max](#max) | GB
 [Medarot - Kabuto Version](#medarot---kabuto-version) | GB
 [Medarot - Kabuto Version (English Patch)](#medarot---kabuto-version-english-patch) | GB
@@ -3121,6 +3122,14 @@ This patch converts `Mary-Kate and Ashley - Get a Clue! (U,E)` to the `.pocket` 
 ROM MD5: `cc7639a2269210338b52e626096a99d9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MKnA-GetAClue.ips).
+
+## Mat Hoffman's Pro BMX
+
+This patch converts `Mat Hoffman's Pro BMX (U)` to the `.pocket` format.
+
+ROM MD5: `8bf8f9a1e0080d257820ec5506a3fc8f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MatHoffmanProBMX.ips).
 
 ## Max
 
