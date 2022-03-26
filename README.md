@@ -130,6 +130,7 @@ Game | System
 [Cool Ball](#cool-ball) | GB
 [Cool Bricks](#cool-bricks) | GBC
 [Cool Spot](#cool-spot) | GB
+[Core Machina](#core-machina) | GBC
 [Cosmo Tank](#cosmo-tank) | GB
 [Crystalis](#crystalis) | GBC
 [Cubix - Robots for Everyone - Race 'n Robots](#cubix---robots-for-everyone---race-n-robots) | GBC
@@ -1624,6 +1625,14 @@ This patch converts `Cool Spot (U)` to the `.pocket` format.
 ROM MD5: `27d7c8ae7cc36c1d5dfd8bd15df57e8d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CoolSpot.ips).
+
+## Core Machina
+
+This patch converts `Core Machina` to the `.pocket` format. It applies to [version 1.2c](https://pearacidic.itch.io/core-machina).
+
+ROM MD5: `fff3d5d9d280ad7c4aa5e8721c47d880`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CoreMachina1.2c.ips).
 
 ## Cosmo Tank
 
