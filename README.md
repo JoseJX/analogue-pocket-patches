@@ -197,6 +197,8 @@ Game | System
 [Fortified Zone](#fortified-zone) | GB
 [Friday the 13th the GB Game](#friday-the-13th-the-gb-game) | GBC
 [Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou](#fushigi-no-dungeon---fuurai-no-shiren-gb2---sabaku-no-majou) | GBC
+[Gargoyle's Quest Quest II - The Demon Darkness](#gargoyles-quest-quest-ii---the-demon-darkness) | GB
+[Gargoyle's Quest Quest II - The Demon Darkness (E)](#gargoyles-quest-quest-ii---the-demon-darkness-e) | GB
 [Game & Watch Gallery](#game--watch-gallery) | GB
 [Game & Watch Gallery 2](#game--watch-gallery-2) | GBC
 [Game & Watch Gallery 3](#game--watch-gallery-3) | GBC
@@ -2175,6 +2177,22 @@ This patch converts `Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou
 ROM MD5: `9e3d4ff0ba3d6deec5080f6dbed4fef8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShirenGB2.ips).
+
+## Gargoyle's Quest Quest II - The Demon Darkness
+
+This patch converts `Gargoyle's Quest Quest II - The Demon Darkness` to the `.pocket` format. It was not released and was part of the `lotcheck` leak.
+
+ROM MD5: `56a1787b8a2dde07756b3cc36e79a9a0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GargoylesQuest2.ips).
+
+## Gargoyle's Quest Quest II - The Demon Darkness (E)
+
+This patch converts `Gargoyle's Quest Quest II - The Demon Darkness (E)` to the `.pocket` format. It was not released and was part of the `lotcheck` leak.
+
+ROM MD5: `409da59eb0050f04834bd2d7a83368ab`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GargoylesQuest2E.ips).
 
 ## Game & Watch Gallery
 This patch converts `Game & Watch Gallery (U)` to the `.pocket` format.
