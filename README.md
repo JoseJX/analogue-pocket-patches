@@ -279,6 +279,8 @@ Game | System
 [Krusty's Fun House](#krustys-fun-house) | GB
 [Kwirk - He's A-maze-ing](#kwirk---hes-a-maze-ing) | GB
 [Lazlo's Leap](#lazlos-leap) | GB
+[Legend of the Mana Sword - Amanda](#legend-of-the-mana-sword---amanda) | GB
+[Legend of the Mana Sword - Duke](#legend-of-the-mana-sword---duke) | GB
 [Legend of the River King 2](#legend-of-the-river-king-2) | GBC
 [Legend of the Sea King](#legend-of-the-sea-king) | GB
 [Legend of Zelda - Link's Awakening](#legend-of-zelda---links-awakening) | GB
@@ -2889,6 +2891,22 @@ This patch converts `Lazlo's Leap (U)` to the `.pocket` format.
 ROM MD5: `68a06792ae4401f9fc09d460120ec2a1`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LazlosLeap.ips).
+
+## Legend of the Mana Sword - Amanda
+
+This patch converts `Legend of the Mana Sword - Amanda` to the `.pocket` format. This is a ROM hack for Final Fantasy Adventure. The patch must be applied to the original ROM first, then this patch is applied. The patched ROM will have the MD5 below.
+
+ROM MD5: `cfe651f3a3bf2fd9a6b4d0337bfceb21`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LotMS-Amanda.ips).
+
+## Legend of the Mana Sword - Duke
+
+This patch converts `Legend of the Mana Sword - Duke` to the `.pocket` format. This is a ROM hack for Final Fantasy Adventure. The patch must be applied to the original ROM first, then this patch is applied. The patched ROM will have the MD5 below.
+
+ROM MD5: `c5300bd9d4ab7e2b24d632f6289e5938`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LotMS-Duke.ips).
 
 ## Legend of the River King 2
 
