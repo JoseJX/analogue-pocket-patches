@@ -585,6 +585,7 @@ Game | System
 [Warlocked](#warlocked) | GBC
 [Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
 [Wario Land - Super Mario Land 3 DX](#wario-land---super-mario-land-3-dx) | GBC
+[Wario Land II](#wario-land-ii) | GB
 [Wave Race](#wave-race) | GB
 [WCW Mayhem](#wcw-mayhem) | GBC
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
@@ -5477,6 +5478,14 @@ This patch is applied after the [colorization patch](https://www.romhacking.net/
 ROM MD5: `a0727807a05cfb8f1292f01656ae3a50`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioLandDX.ips).
+
+## Wario Land II
+
+This patch converts `Wario Land II (U,E)` to the `.pocket` format.
+
+ROM MD5: `e5e8910d436acb9fd218559a216501a3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioLand2.ips).
 
 ## Warlocked
 
