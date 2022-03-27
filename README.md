@@ -196,6 +196,7 @@ Game | System
 [Flintstones - Burgertime in Bedrock](#flintstones---burgertime-in-bedrock) | GBC
 [Flintstones - King Rock Treasure Island](#flintstones---king-rock-treasure-island) | GB
 [Flipull](#flipull) | GB
+[Force 21](#force-21) | GBC
 [Fortified Zone](#fortified-zone) | GB
 [Friday the 13th the GB Game](#friday-the-13th-the-gb-game) | GBC
 [Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou](#fushigi-no-dungeon---fuurai-no-shiren-gb2---sabaku-no-majou) | GBC
@@ -2181,6 +2182,14 @@ This patch converts `Flipull (U)` to the `.pocket` format.
 ROM MD5: `4fcc13db8144687e6b28200387aed25c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Flipull.ips).
+
+## Force 21
+
+This patch converts `Force 21 (U)` to the `.pocket` format.
+
+ROM MD5: `2a447279016f60776b5c0f515b5b97f5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Force21.ips).
 
 ## Fortified Zone
 
