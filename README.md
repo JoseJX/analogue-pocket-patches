@@ -293,6 +293,7 @@ Game | System
 [Link's Awakening Redux](#links-awakening-redux) | GBC
 [Lion King](#lion-king) | GB
 [Lion King - Simba's Mighty Adventure](#lion-king---simbas-mighty-adventure) | GBC
+[Little Mermaid II - Pinball Frenzy](#little-mermaid-ii---pinball-frenzy) | GBC
 [Lock n' Chase ~ Lock 'n' Chase](#lock-n-chase-lock-n-chase) | GB
 [Looney Tunes](#looney-tunes) | GB
 [Loopz](#loopz) | GB
@@ -3003,6 +3004,14 @@ This patch converts `Lion King - Simba's Mighty Adventure (U,E)` to the `.pocket
 ROM MD5: `67117cc76e2b270e65c2778c734f905f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LionKingSMA.ips).
+
+## Little Mermaid II - Pinball Frenzy
+
+This patch converts `Little Mermaid II - Pinball Frenzy (U)` to the `.pocket` format.
+
+ROM MD5: `7f8c472f3c7bd1eec56a3bad10a2e94c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LittleMermaid2.ips).
 
 ## Lock n' Chase ~ Lock 'n' Chase
 
