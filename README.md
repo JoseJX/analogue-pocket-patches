@@ -446,6 +446,7 @@ Game | System
 [RoboCop (J)](#robocop-j) | GB
 [RoboCop vs the Terminator](#robocop-vs-the-terminator) | GB
 [Robopon - Sun Version](#robopon---sun-version) | GBC
+[Rodland](#rodland) | GB
 [Sagaia](#sagaia) | GB
 [Saigo No Nindou](#saigo-no-nindou) | GB
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
@@ -4317,6 +4318,14 @@ This patch converts `Robopon - Sun Version (U)` to the `.pocket` format.
 ROM MD5: `398f7b60ea114b90b24503178f47e8d8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboponSun.ips).
+
+## Rodland
+
+This patch converts `Rodland (E)` to the `.pocket` format.
+
+ROM MD5: `e4fcc98cf30ab2db7d3c08f322667be1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rodland.ips).
 
 ## Sagaia
 
