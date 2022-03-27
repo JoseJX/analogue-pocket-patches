@@ -122,6 +122,7 @@ Game | System
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
 [Catrap](#catrap) | GB
 [Chalvo 55 - Super Puzzle Action](#chalvo-55---super-puzzle-action) | GB
+[Cherry Rescue](#cherry-rescue) | GB
 [Chessmaster](#chessmaster) | GB
 [Choplifter II - Rescue and Survive](#choplifter-ii---rescue-and-survive) | GB
 [Commander Keen](#commander-keen) | GBC
@@ -1562,6 +1563,14 @@ It is compatible with the [English translation patch](https://www.romhacking.net
 ROM MD5: `ba50565630891680c9cf8b1827fca429`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Chalvo55.ips).
+
+## Cherry Rescue
+
+This patch converts `Cherry Rescue (v1.0)` to the `.pocket` format. Get a copy of this game from the [author's itch site](https://grafxkid.itch.io/cherry-rescue).
+
+ROM MD5: `1e0c5af7d66e1acb389ecd93b572e38a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CherryRescue1.0.ips).
 
 ## Chessmaster
 
