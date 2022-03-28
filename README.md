@@ -294,6 +294,7 @@ Game | System
 [Legend of Zelda - Link's Awakening (G)](#legend-of-zelda---links-awakening-g) | GB
 [Lemmings](#lemmings) | GBC
 [Lemmings 2 - The Tribes](#lemmings-2---the-tribes) | GB
+[Lethal Weapon](#lethal-weapon) | GB
 [Lingo](#lingo) | GB
 [Link's Awakening Redux](#links-awakening-redux) | GBC
 [Lion King](#lion-king) | GB
@@ -3019,6 +3020,14 @@ This patch converts `Lemmings 2 - The Tribes (E)` to the `.pocket` format.
 ROM MD5: `7b96adfd6d3576cb2bab2afd06d8bd6e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Lemmings2.ips).
+
+## Lethal Weapon
+
+This patch converts `Lethal Weapon (U,E)` to the `.pocket` format.
+
+ROM MD5: `d345b97e4b43f20a01fa2e4ea4a63a2b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LethalWeapon.ips).
 
 ## Lingo
 
