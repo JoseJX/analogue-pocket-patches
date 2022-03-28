@@ -381,7 +381,7 @@ Game | System
 [Ninja Boy](#ninja-boy) | GB
 [Ninja Boy 2](#ninja-boy-2) | GB
 [Nintedo World Cup](#nintedo-world-cup) | GB
-[Nobunga's Ambition](#nobungas-ambition) | GB
+[Nobunaga's Ambition](#nobunagas-ambition) | GB
 [Noobow](#noobow) | GB
 [Ohastua Dance Dance Revolution GB](#ohastua-dance-dance-revolution-gb) | GBC
 [Operation C](#operation-c) | GB
@@ -3777,9 +3777,9 @@ ROM MD5: `c9200b1be878f079cee6cbebbeaa27ea`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NintendoWorldCup.ips).
 
-## Nobunga's Ambition
+## Nobunaga's Ambition
 
-This patch converts `Nobunga's Ambition (U)` to the `.pocket` format.
+This patch converts `Nobunaga's Ambition (U)` to the `.pocket` format.
 
 ROM MD5: `7cc78ea5dbc099e8f89849a11a08c38e`
 
