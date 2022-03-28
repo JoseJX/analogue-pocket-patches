@@ -156,6 +156,7 @@ Game | System
 [Dexterity](#dexterity) | GB
 [Dexter's Laboratory - Robot Rampage](#dexters-laboratory---robot-rampage) | GBC
 [Dick Tracy](#dick-tracy) | GB
+[Disney's Tarzan](#disneys-tarzan) | GBC
 [Donald Duck - Goin' Quackers](#donald-duck---goin-quackers) | GBC
 [Donkey Kong Land](#donkey-kong-land) | GB
 [Donkey Kong Land - New Colors Mode](#donkey-kong-land---new-colors-mode) | GBC
@@ -1844,6 +1845,14 @@ This patch converts `Dick Tracy (U)` to the `.pocket` format.
 ROM MD5: `ab5f50d0e31a07e19739453bb9a2d328`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DickTracy.ips).
+
+## Disney's Tarzan
+
+This patch converts `Disney's Tarzan (U,E)` to the `.pocket` format.
+
+ROM MD5: `55fea8e7be17975374ab24518bd83171`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DisneyTarzan.ips).
 
 ## Donald Duck - Goin' Quackers
 
