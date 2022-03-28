@@ -255,6 +255,7 @@ Game | System
 [Ishido - The Way of Stones](#ishido---the-way-of-stones) | GB
 [Itchy & Scratchy in Miniature Golf Madness](#itchy--scratchy-in-miniature-golf-madness) | GB
 [James Bond 007](#james-bond-007) | GB
+[Jelly Boy](#jelly-boy) | GB
 [John Madden Football](#john-madden-football) | GB
 [Judge Dredd](#judge-dredd) | GB
 [Jurassic Park](#jurassic-park) | GB
@@ -2677,6 +2678,14 @@ This patch converts `James Bond 007 (U,E)` to the `.pocket` format.
 ROM MD5: `669a4ecf89794505591b36d617e51f8a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JamesBond007.ips).
+
+## Jelly Boy
+
+This patch converts `Jelly Boy (E)` to the `.pocket` format.
+
+ROM MD5: `0acefb175380637bf0d49ad96da23d52`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JellyBoy.ips).
 
 ## John Madden Football
 
