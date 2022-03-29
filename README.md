@@ -310,7 +310,7 @@ Game | System
 [Lucky Luke (E)](#lucky-luke-e) | GBC
 [Lucky Luke - Desperado Train](#lucky-luke---desperado-train) | GBC
 [Lucle](#lucle) | GB
-[Lufia - The Legend Returns-(U)](#lufia---the-legend-returns-u) | GBC
+[Lufia - The Legend Returns (U)](#lufia---the-legend-returns-u) | GBC
 [Lunar Chase](#lunar-chase) | GB
 [Madden NFL 2002](#madden-nfl-2002) | GBC
 [Magi Nation](#magi-nation) | GB
