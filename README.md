@@ -103,6 +103,7 @@ Game | System
 [Brain Bender](#brain-bender) | GB
 [BreakThru!](#breakthru) | GB
 [Bubble Bobble](#bubble-bobble) | GB
+[Bubble Bobble Junior](#bubble-bobble-junior) | GB
 [Bubble Bobble Part 2](#bubble-bobble-part-2) | GB
 [Bubble Ghost](#bubble-ghost) | GB
 [Bubsy II](#bubsy-ii) | GB
@@ -1426,6 +1427,14 @@ This patch converts `Bubble Bobble (U,E)` to the `.pocket` format.
 ROM MD5: `11c49d405eef2174d9c14682204bb458`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BubbleBobble.ips).
+
+## Bubble Bobble Junior
+
+This patch converts `Bubble Bobble Junior (J)` to the `.pocket` format.
+
+ROM MD5: `09dbad535406168486b8b688caf33a9c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BubbleBobbleJunior.ips).
 
 ## Bubble Bobble Part 2
 
