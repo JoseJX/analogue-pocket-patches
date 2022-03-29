@@ -308,6 +308,7 @@ Game | System
 [Lucky Luke (E)](#lucky-luke-e) | GBC
 [Lucky Luke - Desperado Train](#lucky-luke---desperado-train) | GBC
 [Lucle](#lucle) | GB
+[Lufia - The Legend Returns](#lufia---the-legend-returns) | GBC
 [Lunar Chase](#lunar-chase) | GB
 [Madden NFL 2002](#madden-nfl-2002) | GBC
 [Magi Nation](#magi-nation) | GB
@@ -3132,6 +3133,14 @@ This patch converts `Lucle (E,J)` to the `.pocket` format.
 ROM MD5: `e1d28ce25a61b4f623c3c8013ce55b89`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Lucle.ips).
+
+## Lufia - The Legend Returns
+
+This patch converts `Lufia - The Legend Returns (U)` to the `.pocket` format.
+
+ROM MD5: `a00012533e76649f4e7e1b7aa5a9ee07`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Lufia.ips).
 
 ## Lunar Chase
 
