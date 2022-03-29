@@ -494,6 +494,7 @@ Game | System
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
 [Skate or Die - Bad 'N Rad](#skate-or-die---bad-n-rad) | GB
 [Skate or Die - Tour de Thrash](#skate-or-die---tour-de-thrash) | GB
+[Small Soldiers](#small-soldiers) | GB
 [Smurfs](#smurfs) | GB
 [Smurfs' Nightmare](#smurfs-nightmare) | GBC
 [Smurfs' Nightmare (E)](#smurfs-nightmare-e) | GBC
@@ -4742,6 +4743,14 @@ This patch converts `Skate or Die - Tour de Thrash (U)` to the `.pocket` format.
 ROM MD5: `f8d92a05c7be07964824830e9ce3ff30`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SkateOrDieThrash.ips).
+
+## Small Soldiers
+
+This patch converts `Small Soldiers (U)` to the `.pocket` format.
+
+ROM MD5: `46b6ae39b3140f81d66be8338a8bcea3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SmallSoldiers.ips).
 
 ## Smurfs
 
