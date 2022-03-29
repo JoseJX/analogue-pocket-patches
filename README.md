@@ -1363,6 +1363,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Bomberman Quest (U)` to the `.pocket` format.
 
+This patch was updated to fix a graphics glitch. (2022/03/28)
+
 ROM MD5: `ad358f284c3303db01212016ed3944d5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanQuest.ips).
