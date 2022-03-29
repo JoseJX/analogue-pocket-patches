@@ -140,6 +140,7 @@ Game | System
 [Core Machina](#core-machina) | GBC
 [Cosmo Tank](#cosmo-tank) | GB
 [Crystalis](#crystalis) | GBC
+[Crystal Quest](#crystal-quest) | GB
 [Cubix - Robots for Everyone - Race 'n Robots](#cubix---robots-for-everyone---race-n-robots) | GBC
 [Cyraid](#cyraid) | GB
 [Daikatana](#daikatana) | GBC
@@ -1741,6 +1742,14 @@ This patch converts `Crystalis (U)` to the `.pocket` format.
 ROM MD5: `f36a0ed25a601c039b1171d9daf241d6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Crystalis.ips).
+
+## Crystal Quest
+
+This patch converts `Crystal Quest (U)` to the `.pocket` format.
+
+ROM MD5: `e15a6b601c845e425f62ef2b7aed691f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CrystalQuest.ips).
 
 ## Cubix - Robots for Everyone - Race 'n Robots
 
