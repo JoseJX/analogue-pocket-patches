@@ -92,6 +92,7 @@ Game | System
 [Boggle Plus](#boggle-plus) | GB
 [Bo Jackson - Two Games in One](#bo-jackson---two-games-in-one) | GB
 [Bomberman GB](#bomberman-gb) | GB
+[Bomberman GB (J)](#bomberman-gb-j) | GB
 [Bomberman Max - Blue Champion](#bomberman-max---blue-champion) | GBC
 [Bomberman Max - Red Challenger](#bomberman-max---red-challenger) | GBC
 [Bomberman Quest](#bomberman-quest) | GBC
@@ -1333,6 +1334,14 @@ This patch converts `Bomberman GB (U,E)` to the `.pocket` format.
 ROM MD5: `7e4c9c3620bea7b633394beb67e9680b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanGB.ips).
+
+## Bomberman GB (J)
+
+This patch converts `Bomberman GB (J)` to the `.pocket` format.
+
+ROM MD5: `2cad6ee6df3402aeb8f8ab7921517779`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanGBJ.ips).
 
 ## Bomberman Max - Blue Champion
 
