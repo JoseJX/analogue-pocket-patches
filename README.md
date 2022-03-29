@@ -157,6 +157,8 @@ Game | System
 [Dexterity](#dexterity) | GB
 [Dexter's Laboratory - Robot Rampage](#dexters-laboratory---robot-rampage) | GBC
 [Dick Tracy](#dick-tracy) | GB
+[Disco Elysium Game Boy Edition](#disco-elysium-game-boy-edition) | GB
+[Disco Elysium Game Boy Edition (Music)](#disco-elysium-game-boy-edition-music) | GBC
 [Disney's Tarzan](#disneys-tarzan) | GBC
 [Donald Duck - Goin' Quackers](#donald-duck---goin-quackers) | GBC
 [Donkey Kong Land](#donkey-kong-land) | GB
@@ -1859,6 +1861,22 @@ This patch converts `Dick Tracy (U)` to the `.pocket` format.
 ROM MD5: `ab5f50d0e31a07e19739453bb9a2d328`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DickTracy.ips).
+
+## Disco Elysium Game Boy Edition
+
+This patch converts `Disco Elysium Game Boy Edition` to the `.pocket` format. You can get the ROM on the developer's [Itch.io site](https://csbrannan.itch.io/disco-elysium-game-boy-edition).
+
+ROM MD5: `07b3756a52db31f1accc85f71d5f34c7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DiscoElysiumGB.ips).
+
+## Disco Elysium Game Boy Edition (Music)
+
+This patch converts `Disco Elysium Game Boy Edition (Music)` to the `.pocket` format. You can get the ROM on the developer's [Itch.io site](https://csbrannan.itch.io/disco-elysium-game-boy-edition).
+
+ROM MD5: `196ce465a2e60ebfa68f377577e6b4aa`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DiscoElysiumGBMusic.ips).
 
 ## Disney's Tarzan
 
