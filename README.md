@@ -213,6 +213,7 @@ Game | System
 [Game & Watch Gallery](#game--watch-gallery) | GB
 [Game & Watch Gallery 2](#game--watch-gallery-2) | GBC
 [Game & Watch Gallery 3](#game--watch-gallery-3) | GBC
+[Game Boy Test Cartridge](#game-boy-test-cartridge) | GB
 [Game Boy Wars Turbo](#game-boy-wars-turbo) | GB
 [Game Boy Wars 3](#game-boy-wars-3) | GBC
 [Garfield Labyrinth](#garfield-labyrinth) | GB
@@ -2334,6 +2335,14 @@ This patch converts `Game & Watch Gallery 3 (U,E)` to the `.pocket` format.
 ROM MD5: `f1bb0127347994b46258adbda0dc0b16`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GnW3.ips).
+
+## Game Boy Test Cartridge
+
+This patch converts `Game Boy Test Cartridge` to the `.pocket` format. It was an internal, unreleased testing tool.
+
+ROM MD5: `d36c2b60c8e71fd40b965ead209b2a1e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBTestCart.ips).
 
 ## Game Boy Wars Turbo
 
