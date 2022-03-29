@@ -244,6 +244,7 @@ Game | System
 [Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
 [Hexcite - The Shapes of Victory](#hexcite---the-shapes-of-victory) | GBC
 [Hoshi no Kirby](#hoshi-no-kirby) | GB
+[Hoshi no Kirby 2](#hoshi-no-kirby-2) | GB
 [Hudson Hawk](#hudson-hawk) | GB
 [Humans](#humans) | GB
 [Hyper Lode Runner](#hyper-lode-runner) | GB
@@ -2583,6 +2584,14 @@ This patch converts `Hoshi no Kirby (J)` to the `.pocket` format.
 ROM MD5: `b7963a68f95d644f8adedb269d29666c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HoshiNoKirby.ips).
+
+## Hoshi no Kirby 2
+
+This patch converts `Hoshi no Kirby 2 (J)` to the `.pocket` format.
+
+ROM MD5: `28a8263bb19b7ef3ddcac5ee83f62aee`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HoshiNoKirby2.ips).
 
 ## Hudson Hawk
 
