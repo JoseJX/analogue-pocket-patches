@@ -154,6 +154,7 @@ Game | System
 [Dave Mirra Freestyle BMX](#dave-mirra-freestyle-bmx) | GBC
 [David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob](#david-cranes-the-rescue-of-princess-blobette-starring-a-boy-and-his-blob) | GB
 [Dead Heat Scramble](#dead-heat-scramble) | GB
+[Death Planet](#death-planet) | GB
 [Deja Vu I & II: The Casebooks of Ace Harding](#deja-vu-i--ii-the-casebooks-of-ace-harding) | GBC
 [Denki Blocks!](#denki-blocks) | GBC
 [Dennis the Menace](#dennis-the-menace) | GB
@@ -1848,6 +1849,14 @@ This patch converts `Dead Heat Scramble (U)` to the `.pocket` format.
 ROM MD5: `c2212d75077638539d6af4673b4939e6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeadHeatScramble.ips).
+
+## Death Planet
+
+This patch converts `Death Planet` to the `.pocket` format. You can get the ROM from the developer at the [Itch.io site](https://makrill.itch.io/death-planet).
+
+ROM MD5: `e5c07daa704a35dd105604286546d56e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeathPlanet.ips).
 
 ## Deja Vu I & II: The Casebooks of Ace Harding
 
