@@ -174,6 +174,7 @@ Game | System
 [Donkey Kong GB - Dinky Kong and Dixie Kong](#donkey-kong-gb---dinky-kong-and-dixie-kong) | GB
 [dots](#dots) | GBC
 [Double Dragon 3 - The Arcade Game](#double-dragon-3---the-arcade-game) | GB
+[Double Dribble - 5 on 5](#double-dribble---5-on-5) | GB
 [Dracula - Crazy Vampire](#dracula---crazy-vampire) | GBC
 [Dragon Ball Z - Legendary Super Warriors](#dragon-ball-z---legendary-super-warriors) | GBC
 [Dragon's Lair](#dragons-lair) | GBC
@@ -2024,6 +2025,14 @@ This patch converts `Double Dragon 3 - The Arcade Game (U,E)` to the `.pocket` f
 ROM MD5: `469605e02eb10652f8f2afa8c7ebffd5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DoubleDragon3.ips).
+
+## Double Dribble - 5 on 5
+
+This patch converts `Double Dribble - 5 on 5 (U)` to the `.pocket` format.
+
+ROM MD5: `ff3e6d70d42987dd7f6214067dc83afe`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DoubleDribble5on5.ips).
 
 ## Dracula - Crazy Vampire
 
