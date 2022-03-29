@@ -543,6 +543,7 @@ Game | System
 [Super Robot Pinball](#super-robot-pinball) | GBC
 [Super Robot Taisen](#super-robot-taisen) | GB
 [Super Scrabble](#super-scrabble) | GB
+[Super Star Wars - Return of the Jedi](#super-star-wars---return-of-the-jedi) | GB
 [Survival Kids](#survival-kids) | GBC
 [Survival Kids - Kotou no Boukensha](#survival-kids---kotou-no-boukensha) | GBC
 [Survival Kids 2 - Dasshutsu!! Futago-Jima!](#survival-kids-2---dasshutsu-futago-jima) | GBC
@@ -5146,6 +5147,14 @@ This patch converts `Super Scrabble (U)` to the `.pocket` format.
 ROM MD5: `5c39c161b85481d7154f19081ff40f42`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperScrabble.ips).
+
+## Super Star Wars - Return of the Jedi
+
+This patch converts `Super Star Wars - Return of the Jedi (U,E)` to the `.pocket` format.
+
+ROM MD5: `55945a517d1e89003003d51c7ec938be`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperStarWars-RotJ.ips).
 
 ## Survival Kids
 
