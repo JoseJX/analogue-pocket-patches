@@ -362,6 +362,7 @@ Game | System
 [Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack](#microsoft---the-6-in-1-puzzle-collection-entertainment-pack) | GBC
 [Mighty Morphin Power Rangers - The Movie](#mighty-morphin-power-rangers---the-movie) | GB
 [Miner 2049er Starring Bounty Bob](#miner-2049er-starring-bounty-bob) | GB
+[Mission Impossible](#mission-impossible) | GBC
 [Mobile Golf](#mobile-golf) | GBC
 [Mole Mania](#mole-mania) | GB
 [Monkey Puncher](#monkey-puncher) | GBC
@@ -3640,6 +3641,14 @@ This patch converts `Miner 2049er Starring Bounty Bob (U)` to the `.pocket` form
 ROM MD5: `e5eba5278bbc6e5f040649afe98a0af4`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Miner2049er.ips).
+
+## Mission Impossible
+
+This patch converts `Mission Impossible (U)` to the `.pocket` format.
+
+ROM MD5: `11454ce5a4ad703c29b3a8bdc8b5c3ab`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MissionImposible.ips).
 
 ## Mobile Golf
 
