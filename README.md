@@ -369,6 +369,7 @@ Game | System
 [Mortal Kombat 4](#mortal-kombat-4) | GBC
 [Motocross Maniacs](#motocross-maniacs) | GB
 [Motocross Maniacs 2](#motocross-maniacs-2) | GBC
+[Mr. Do!](#mr-do) | GB
 [Mr. Driller](#mr-driller) | GBC
 [Mr. Driller (J)](#mr-driller-j) | GBC
 [Mr. Nutz](#mr-nutz) | GBC
@@ -3696,6 +3697,14 @@ This patch also applies to `Crazy Bikers (E)`.
 European MD5: `d6311339384cb70c35975c8d30a1cd98`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Motocross2.ips).
+
+## Mr. Do!
+
+This patch converts `Mr. Do! (U)` to the `.pocket` format.
+
+ROM MD5: `65e455737df458e59cc7b0892b95e6cd`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MrDo.ips).
 
 ## Mr. Driller
 
