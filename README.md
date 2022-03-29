@@ -300,6 +300,7 @@ Game | System
 [Legend of the Mana Sword - Amanda](#legend-of-the-mana-sword---amanda) | GB
 [Legend of the Mana Sword - Duke](#legend-of-the-mana-sword---duke) | GB
 [Legend of the River King 2](#legend-of-the-river-king-2) | GBC
+[Legend of the River King 2 (E)](#legend-of-the-river-king-2-e) | GBC
 [Legend of the Sea King](#legend-of-the-sea-king) | GB
 [Legend of Zelda - Link's Awakening](#legend-of-zelda---links-awakening) | GB
 [Legend of Zelda - Link's Awakening (RevA)](#legend-of-zelda---links-awakening-reva) | GB
@@ -3086,9 +3087,17 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Legend of the River King 2
 
-This patch converts `Legend of the River King 2 (U)` to the `.pocket` format.
+This patch converts `Legend of the River King 2 (U)` to the `.pocket` format. It is also compatible with the European version of the ROM.
 
 ROM MD5: `3519c45ce55aad2f0565513723c90672`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendOfTheRiverKing2.ips).
+
+## Legend of the River King 2 (E)
+
+This patch converts `Legend of the River King 2 (E)` to the `.pocket` format. It is also compatible with the US verison of the ROM.
+
+ROM MD5: `052cd45a69af16f025a545b29bc8f450`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendOfTheRiverKing2.ips).
 
