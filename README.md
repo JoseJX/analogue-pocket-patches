@@ -3857,7 +3857,7 @@ This patch converts `Nobunaga's Ambition (U)` to the `.pocket` format.
 
 ROM MD5: `7cc78ea5dbc099e8f89849a11a08c38e`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NobungasAmbition.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NobunagasAmbition.ips).
 
 ## Noobow
 
