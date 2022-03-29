@@ -299,6 +299,7 @@ Game | System
 [Lazlo's Leap](#lazlos-leap) | GB
 [Legend of the Mana Sword - Amanda](#legend-of-the-mana-sword---amanda) | GB
 [Legend of the Mana Sword - Duke](#legend-of-the-mana-sword---duke) | GB
+[Legend of the River King (E)](#legend-of-the-river-king-e) | GBC
 [Legend of the River King 2](#legend-of-the-river-king-2) | GBC
 [Legend of the River King 2 (E)](#legend-of-the-river-king-2-e) | GBC
 [Legend of the Sea King](#legend-of-the-sea-king) | GB
@@ -3084,6 +3085,14 @@ This patch converts `Legend of the Mana Sword - Duke` to the `.pocket` format. T
 ROM MD5: `c5300bd9d4ab7e2b24d632f6289e5938`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LotMS-Duke.ips).
+
+## Legend of the River King (E)
+
+This patch converts `Legend of the River King (E)` to the `.pocket` format.
+
+ROM MD5: `cb5fe636114fcb0925d08ceced82dc23`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendOfTheRiverKingE.ips).
 
 ## Legend of the River King 2
 
