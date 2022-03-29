@@ -421,6 +421,8 @@ Game | System
 [Pocket Soccer](#pocket-soccer) | GBC
 [Pokemon Brown](#pokemon-brown) | GB
 [Pokemon - Edicion Amarilla - Edicion Especial Pikachu](#pokemon---edicion-amarilla---edicion-especial-pikachu) | GBC
+[Pokemon Red++ v3 (Hard)](#pokemon-red-v3-hard) | GBC
+[Pokemon Red++ v3 (Normal)](#pokemon-red-v3-normal) | GBC
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
 [Pokemon Pinball (E)](#pokemon-pinball-e) | GBC
@@ -4125,6 +4127,22 @@ This patch converts `Pokemon - Edicion Amarilla - Edicion Especial Pikachu (Es)`
 ROM MD5: `f0da8b1cff3aab898ecde9dcbda6d817`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonYellowEs.ips).
+
+## Pokemon Red++ v3 (Hard)
+
+This patch converts `Pokemon Red++ v3 (Hard)` to the `.pocket` format. You must apply the [Pokemon Red++ v3 hard patch](https://github.com/JustRegularLuna/rpp-backup/raw/master/patches/rpp%20v3%20hard.ips) first, the resulting ROM will match the MD5 below.
+
+ROM MD5: `aa74d623585627a71d76411f2f5f8d5c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/r++_hard.ips).
+
+## Pokemon Red++ v3 (Normal)
+
+This patch converts `Pokemon Red++ v3 (Normal)` to the `.pocket` format. You must apply the [Pokemon Red++ v3 normal patch](https://github.com/JustRegularLuna/rpp-backup/raw/master/patches/rpp%20v3%20normal.ips) first, the resulting ROM will match the MD5 below.
+
+ROM MD5: `371ca8999e1dc0d04b6935b07582fa49`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/r++_normal.ips).
 
 ## Pokemon Puzzle Challenge
 
