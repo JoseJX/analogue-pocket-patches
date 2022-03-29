@@ -96,6 +96,7 @@ Game | System
 [Bomberman Max - Blue Champion](#bomberman-max---blue-champion) | GBC
 [Bomberman Max - Red Challenger](#bomberman-max---red-challenger) | GBC
 [Bomberman Quest](#bomberman-quest) | GBC
+[Bomberman Quest (E)](#bomberman-quest-e) | GBC
 [Bomberman Quest (J)](#bomberman-quest-j) | GBC
 [Bonk's Adventure](#bonks-adventure) | GB
 [Bonk's Revenge](#bonks-revenge) | GB
@@ -1370,13 +1371,21 @@ ROM MD5: `ad358f284c3303db01212016ed3944d5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanQuest.ips).
 
+## Bomberman Quest (E)
+
+This patch converts `Bomberman Quest (E)` to the `.pocket` format.
+
+ROM MD5: `e6f36322946499f2f55b724c3db916cd`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanQuestE.ips).
+
 ## Bomberman Quest (J)
 
 This patch converts `Bomberman Quest (J)` to the `.pocket` format.
 
 ROM MD5: `632793107d6a279a2f38236955353906`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BomberManQuestJ.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanQuestJ.ips).
 
 ## Bonk's Adventure
 
