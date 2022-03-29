@@ -243,6 +243,7 @@ Game | System
 [Hercules - The Legendary Journey](#hercules---the-legendary-journey) | GBC
 [Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
 [Hexcite - The Shapes of Victory](#hexcite---the-shapes-of-victory) | GBC
+[Hoshi no Kirby](#hoshi-no-kirby) | GB
 [Hudson Hawk](#hudson-hawk) | GB
 [Humans](#humans) | GB
 [Hyper Lode Runner](#hyper-lode-runner) | GB
@@ -2574,6 +2575,14 @@ This patch converts `Hexcite - The Shapes of Victory (U,E)` to the `.pocket` for
 ROM MD5: `4b068708fb29fdabbee834114fe4a09d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hexcite.ips).
+
+## Hoshi no Kirby
+
+This patch converts `Hoshi no Kirby (J)` to the `.pocket` format.
+
+ROM MD5: `b7963a68f95d644f8adedb269d29666c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HoshiNoKirby.ips).
 
 ## Hudson Hawk
 
