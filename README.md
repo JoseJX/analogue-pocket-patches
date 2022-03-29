@@ -60,6 +60,7 @@ Game | System
 [Balloon Fight GB](#balloon-fight-gb) | GBC
 [Banishing Racer](#banishing-racer) | GB
 [Bart and the Beanstalk](#bart-and-the-beanstalk) | GB
+[Bart no Jack to Mame no Ki](#bart-no-jack-to-mame-no-ki) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
 [Bart vs. the Juggernauts](#bart-vs-the-juggernauts) | GB
 [Baseball](#baseball) | GB
@@ -496,6 +497,7 @@ Game | System
 [Smurfs' Nightmare](#smurfs-nightmare) | GBC
 [Smurfs' Nightmare (E)](#smurfs-nightmare-e) | GBC
 [Snoopy's - Magic Show](#snoopys---magic-show) | GB
+[Snoopy's - Magic Show (J)](#snoopys---magic-show-j) | GB
 [Snoopy's Magic Show DX](#snoopys-magic-show-dx) | GBC
 [Snow Bros. Jr.](#snow-bros-jr) | GB
 [Solar Striker](#solar-striker) | GB
@@ -584,7 +586,11 @@ Game | System
 [Tony Hawk's Pro Skater 2](#tony-hawks-pro-skater-2) | GBC
 [Tony Hawk's Pro Skater 3](#tony-hawks-pro-skater-3) | GBC
 [Top Gear Pocket 2](#top-gear-pocket-2) | GBC
+[Top Gear Rally 2](#top-gear-rally-2) | GBC
 [Top Ranking Tennis](#top-ranking-tennis) | GB
+[Toy Story](#toy-story) | GB
+[Toy Story (Rev A)](#toy-story-rev-a) | GB
+[Toy Story (E)](#toy-story-e) | GB
 [Track and Field](#track-and-field) | GB
 [Track Meet](#track-meet) | GB
 [Trade and Battle Card Hero](#trade-and-battle-card-hero) | GBC
@@ -1068,13 +1074,17 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Bart and the Beanstalk
 
-This patch converts `Bart and the Beanstalk (U,E)` to the `.pocket` format.
+This patch converts `Bart and the Beanstalk (U,E)` to the `.pocket` format. It is also compatible with the J version of the ROM.
 
-US ROM MD5: `19058077b12ac22580aae17b3dd1233f`
+ROM MD5: `19058077b12ac22580aae17b3dd1233f`
 
-It is also compatible with `Bart no Jack to Mame no Ki` (J).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BartBeanstalk.ips).
 
-JAPAN ROM MD5: `1d5e05159b0ac6a5119bd6f743c7eb9e`
+## Bart no Jack to Mame no Ki
+
+This patch converts `Bart no Jack to Mame no Ki (J)` to the `.pocket` format. It is also compatible with the U,E version of the ROM, `Bart and the Beanstalk`.
+
+ROM MD5: `1d5e05159b0ac6a5119bd6f743c7eb9e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BartBeanstalk.ips).
 
@@ -4754,6 +4764,12 @@ This patch converts `Snoopy's - Magic Show (U,E)` to the `.pocket` format. It is
 
 ROM (U,E) MD5: `8a06994b2e265244147a4d6d0e80623f`
 
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyMagicShow.ips).
+
+## Snoopy's - Magic Show (J)
+
+This patch converts `Snoopy's - Magic Show (J)` to the `.pocket` format. It is also compatible with `Snoopy's - Magic Show (U,E)`.
+
 ROM (J) MD5: `3d8f6eccc13f3344c8d971b7e141f064`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyMagicShow.ips).
@@ -5488,7 +5504,13 @@ This patch converts `Top Gear Pocket 2 (U)` to the `.pocket` format. It is also 
 
 USA ROM MD5: `7d9585c947a7637703fb8ccd6a691ed7`
 
-EUR ROM MD5: `0a1cf1904c87b60308c404d93bab2702`
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TopGearPocket2.ips).
+
+## Top Gear Rally 2
+
+This patch converts `Top Gear Rally 2 (E)` to the `.pocket` format. This is the same patch as for `Top Gear Pocket 2`.
+
+ROM MD5: `0a1cf1904c87b60308c404d93bab2702`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TopGearPocket2.ips).
 
@@ -5499,6 +5521,30 @@ This patch converts `Top Ranking Tennis (E)` to the `.pocket` format.
 ROM MD5: `ea82922267095a2268d76e4f21d4ff93`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TopRankingTennis.ips).
+
+## Toy Story
+
+This patch converts `Toy Story (U)` to the `.pocket` format.
+
+ROM MD5: `d4e7caf41d3a12facc5d7d5185631567`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ToyStory.ips).
+
+## Toy Story (Rev A)
+
+This patch converts `Toy Story (Rev A) (U)` to the `.pocket` format. It is also compatible with `Toy Story (E)`.
+
+ROM MD5: `344ed70fe1a7a8cc904eda886543252c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ToyStoryA.ips).
+
+## Toy Story (E)
+
+This patch converts `Toy Story (E)` to the `.pocket` format. It is also compatible with `Toy Story (Rev A) (U)`.
+
+ROM MD5: `508e937dc634f36d738d65734f3ae0ab`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ToyStoryA.ips).
 
 ## Track and Field
 
