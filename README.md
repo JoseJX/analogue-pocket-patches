@@ -402,6 +402,7 @@ Game | System
 [Nemesis II](#nemesis-ii) | GB
 [Ninja Boy](#ninja-boy) | GB
 [Ninja Boy 2](#ninja-boy-2) | GB
+[Ninja Taro](#ninja-taro) | GB
 [Nintendo World Cup](#nintendo-world-cup) | GB
 [Nobunaga's Ambition](#nobunagas-ambition) | GB
 [Noobow](#noobow) | GB
@@ -3982,6 +3983,14 @@ This patch converts `Ninja Boy 2 (U,E)` to the `.pocket` format.
 ROM MD5: `504e1a39167c467b15d5ad56b744ad48`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NinjaBoy2.ips).
+
+## Ninja Taro
+
+This patch converts `Ninja Taro (U)` to the `.pocket` format.
+
+ROM MD5: `1a52fb8f767e24dc75c3bb2d08679f6c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NinjaTaro.ips).
 
 ## Nintendo World Cup
 
