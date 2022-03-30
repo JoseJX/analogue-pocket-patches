@@ -140,6 +140,7 @@ Game | System
 [Cool Spot](#cool-spot) | GB
 [Core Machina](#core-machina) | GBC
 [Cosmo Tank](#cosmo-tank) | GB
+[Crazy Bikers](#crazy-bikers) | GBC
 [Crystalis](#crystalis) | GBC
 [Crystal Quest](#crystal-quest) | GB
 [Cubix - Robots for Everyone - Race 'n Robots](#cubix---robots-for-everyone---race-n-robots) | GBC
@@ -1758,6 +1759,14 @@ This patch converts `Cosmo Tank (U)` to the `.pocket` format.
 ROM MD5: `b340bad71c781bd1394d95241ed1adce`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CosmoTank.ips).
+
+## Crazy Bikers
+
+This patch converts `Crazy Bikers (E)` to the `.pocket` format. This game is also known as `Motocross Maniacs 2`.
+
+ROM MD5: `d6311339384cb70c35975c8d30a1cd98`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Motocross2.ips).
 
 ## Crystalis
 
@@ -3759,15 +3768,11 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Motocross Maniacs 2
 
-This patch converts `Motocross Maniacs 2 (U)` to the `.pocket` format.
+This patch converts `Motocross Maniacs 2 (U)` to the `.pocket` format. This game is also known as `Crazy Bikers`.
 
 This patch was updated to fix a missing conversion. (2021/12/31)
 
-US MD5: `4d08e5553356aecd728b5ef7d78ee261`
-
-This patch also applies to `Crazy Bikers (E)`.
-
-European MD5: `d6311339384cb70c35975c8d30a1cd98`
+ROM MD5: `4d08e5553356aecd728b5ef7d78ee261`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Motocross2.ips).
 
