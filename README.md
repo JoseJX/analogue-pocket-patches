@@ -299,6 +299,7 @@ Game | System
 [Konami GB Collection Volume 3](#konami-gb-collection-volume-3) | GBC
 [Konami GB Collection Volume 4](#konami-gb-collection-volume-4) | GBC
 [Krusty's Fun House](#krustys-fun-house) | GB
+[Kung-Fu Master](#kung-fu-master) | GB
 [Kwirk - He's A-maze-ing](#kwirk---hes-a-maze-ing) | GB
 [Lazlo's Leap](#lazlos-leap) | GB
 [Legend of the Mana Sword - Amanda](#legend-of-the-mana-sword---amanda) | GB
@@ -3103,6 +3104,14 @@ This patch converts `Krusty's Fun House (U,E)` to the `.pocket` format.
 ROM MD5: `38b05e5167a24089cb18cc95e3911019`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KrustysFunHouse.ips).
+
+## Kung-Fu Master
+
+This patch converts `Kung-Fu Master (U,E)` to the `.pocket` format.
+
+ROM MD5: `18fe3526f170f47a277e0fac17d90170`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KungFuMaster.ips).
 
 ## Kwirk - He's A-maze-ing
 
