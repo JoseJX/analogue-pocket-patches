@@ -549,6 +549,9 @@ Game | System
 [Street Fighter Alpha - Warriors' Dreams](#street-fighter-alpha---warriors-dreams) | GBC
 [Street Fighter II](#street-fighter-ii) | GB
 [Super Imposter Bros.](#super-imposter-bros) | GBC
+[Super Mario Land 2 - 6 Golden Coins (Rev A)](#super-mario-land-2---6-golden-coins-rev-a) | GB
+[Super Mario Land 2 - 6 Golden Coins (Rev B)](#super-mario-land-2---6-golden-coins-rev-b) | GB
+[Super Mario Land 2 - 6-tsu no Kinka](#super-mario-land-2---6-tsu-no-kinka) | GB
 [Super Mario Land 2 DX and Patches](#super-mario-land-2-dx-and-patches) | GBC
 [Super Momotarou Dentetsu II](#super-momotarou-dentetsu-ii) | GB
 [Super Off Road](#super-off-road) | GB
@@ -5204,6 +5207,30 @@ This patch converts `Street Fighter II (U)` to the `.pocket` format.
 ROM MD5: `dc3ef8d3fad26cba840327cc428cadbc`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SF2.ips).
+
+## Super Mario Land 2 - 6 Golden Coins (Rev A)
+
+This patch converts `Super Mario Land 2 - 6 Golden Coins (Rev A) (U,E)` to the `.pocket` format.
+
+ROM MD5: `1d2c316f9f32727261328c7a49b22e2c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SML2A.ips).
+
+## Super Mario Land 2 - 6 Golden Coins (Rev B)
+
+This patch converts `Super Mario Land 2 - 6 Golden Coins (Rev B) (U,E)` to the `.pocket` format.
+
+ROM MD5: `4bd6e929ec716a5c7fe7dc684860d551`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SML2B.ips).
+
+## Super Mario Land 2 - 6-tsu no Kinka
+
+This patch converts `Super Mario Land 2 - 6-tsu no Kinka (J)` to the `.pocket` format.
+
+ROM MD5: `98dab710bdf256c1f1cf92c31d58d632`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SML2J.ips).
 
 ## Super Mario Land 2 DX and Patches
 
