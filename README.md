@@ -5782,13 +5782,13 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Top Gear Pocket 2 (U)` to the `.pocket` format. It is also compatible with `Top Gear Rally 2 (E)`
 
-USA ROM MD5: `7d9585c947a7637703fb8ccd6a691ed7`
+ROM MD5: `7d9585c947a7637703fb8ccd6a691ed7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TopGearPocket2.ips).
 
 ## Top Gear Rally 2
 
-This patch converts `Top Gear Rally 2 (E)` to the `.pocket` format. This is the same patch as for `Top Gear Pocket 2`.
+This patch converts `Top Gear Rally 2 (E)` to the `.pocket` format. It is also compatible with `Top Gear Pocket 2 (U)`.
 
 ROM MD5: `0a1cf1904c87b60308c404d93bab2702`
 
