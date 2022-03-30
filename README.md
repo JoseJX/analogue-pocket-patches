@@ -99,6 +99,7 @@ Game | System
 [Bomberman Quest](#bomberman-quest) | GBC
 [Bomberman Quest (E)](#bomberman-quest-e) | GBC
 [Bomberman Quest (J)](#bomberman-quest-j) | GBC
+[Bomb Jack](#bomb-jack) | GB
 [Bonk's Adventure](#bonks-adventure) | GB
 [Bonk's Revenge](#bonks-revenge) | GB
 [Brain Bender](#brain-bender) | GB
@@ -1418,6 +1419,14 @@ This patch converts `Bomberman Quest (J)` to the `.pocket` format.
 ROM MD5: `632793107d6a279a2f38236955353906`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanQuestJ.ips).
+
+## Bomb Jack
+
+This patch converts `Bomb Jack (E)` to the `.pocket` format.
+
+ROM MD5: `7615154dc9afb1a7d7d2fe63b76c68e4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombJack.ips).
 
 ## Bonk's Adventure
 
