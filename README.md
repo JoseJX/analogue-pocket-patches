@@ -475,6 +475,7 @@ Game | System
 [Return of the Ninja](#return-of-the-ninja) | GBC
 [Revelations - The Demon Slayer](#revelations---the-demon-slayer) | GBC
 [Revenge of the 'Gator](#revenge-of-the-gator) | GB
+[Ring Rage](#ring-rage) | GB
 [Road Champs - BXS Stunt Biking](#road-champs---bxs-stunt-biking) | GBC
 [Road Rash (Color)](#road-rash-color) | GBC
 [Road Rash - (with Repair Service)](#road-rash---with-repair-service) | GB
@@ -4598,6 +4599,14 @@ This patch converts `Revenge of the 'Gator (U,E)` to the `.pocket` format.
 ROM MD5: `113d8f894df6b8c3641b2ba1fe60c250`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gator.ips).
+
+## Ring Rage
+
+This patch converts `Ring Rage (U)` to the `.pocket` format.
+
+ROM MD5: `6c4d2f2a4aa7029759441d2c16d8c931`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RingRage.ips).
 
 ## Road Champs - BXS Stunt Biking
 
