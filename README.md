@@ -4441,7 +4441,9 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Punisher - Ultimate Payback (U)` to the `.pocket` format.
 
-This patch was updated to fix a lock up issue. (2022/03/30)
+This patch was updated to fix a lock up issue after the first level. (2022/03/30)
+
+This patch was updated to fix a lock up issue at the end. (2022/03/30)
 
 ROM MD5: `84133af3324fc1aaf00c0769e15708c0`
 
