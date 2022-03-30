@@ -271,6 +271,7 @@ Game | System
 [Itchy & Scratchy in Miniature Golf Madness](#itchy--scratchy-in-miniature-golf-madness) | GB
 [James Bond 007](#james-bond-007) | GB
 [Jelly Boy](#jelly-boy) | GB
+[Jetsons - Robot Panic](#jetsons---robot-panic) | GB
 [John Madden Football](#john-madden-football) | GB
 [Judge Dredd](#judge-dredd) | GB
 [Jurassic Park](#jurassic-park) | GB
@@ -2844,6 +2845,14 @@ This patch converts `Jelly Boy (E)` to the `.pocket` format.
 ROM MD5: `0acefb175380637bf0d49ad96da23d52`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JellyBoy.ips).
+
+## Jetsons - Robot Panic
+
+This patch converts `Jetsons - Robot Panic (U,E)` to the `.pocket` format.
+
+ROM MD5: `70cd582d3b1f15cb251620203d8b00c9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JetsonsRobotPanic.ips).
 
 ## John Madden Football
 
