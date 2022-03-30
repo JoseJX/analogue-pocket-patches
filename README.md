@@ -679,6 +679,7 @@ Game | System
 [Yu-Gi-Oh! Duel Monsters](#yu-gi-oh-duel-monsters) | GB
 [Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories](#yu-gi-oh-duel-monsters-ii---dark-duel-stories) | GBC
 [Zelda no Densetsu: Yume o Miru Shima](#zelda-no-densetsu-yume-o-miru-shima) | GB
+[Zen - Intergalactic Ninja](#zen---intergalactic-ninja) | GB
 [Zool - Ninja of the N'th Dimension](#zool---ninja-of-the-nth-dimension) | GB
 [Zoop](#zoop) | GB
 
@@ -6308,6 +6309,14 @@ This patch converts `Zelda no Densetsu: Yume o Miru Shima (J)` to the `.pocket` 
 ROM MD5: `ae08c1f73f822116060ef58293b94ed8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZeldaLinksAwakeningJ.ips).
+
+## Zen - Intergalactic Ninja
+
+This patch converts `Zen - Intergalactic Ninja (U)` to the `.pocket` format.
+
+ROM MD5: `a517826d1cc3984a141f0f08d3ad72ee`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZenIntergalacticNinja.ips).
 
 ## Zool - Ninja of the N'th Dimension
 
