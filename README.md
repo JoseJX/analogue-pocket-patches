@@ -485,6 +485,7 @@ Game | System
 [Robopon - Sun Version](#robopon---sun-version) | GBC
 [Rodland](#rodland) | GB
 [Rolan's Curse](#rolans-curse) | GB
+[Rolan's Curse II](#rolans-curse-ii) | GB
 [Sagaia](#sagaia) | GB
 [Saigo No Nindou](#saigo-no-nindou) | GB
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
@@ -4683,6 +4684,14 @@ This patch converts `Rolan's Curse (U)` to the `.pocket` format.
 ROM MD5: `ebd1866dc6c13ca48f45538ed33ea46f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RolansCurse.ips).
+
+## Rolan's Curse II
+
+This patch converts `Rolan's Curse II (U)` to the `.pocket` format.
+
+ROM MD5: `27f2c99b13cbdb5a5be4afce87b9039b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RolansCurse2.ips).
 
 ## Sagaia
 
