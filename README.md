@@ -339,6 +339,7 @@ Game | System
 [Marble Madness (GBC)](#marble-madness-color) | GBC
 [Mario's Picross](#marios-picross) | GB
 [Mario no Picross](#mario-no-picross) | GB
+[Maru's Mission](#marus-mission) | GB
 [Mary-Kate and Ashley - Get a Clue!](#mary-kate-and-ashley---get-a-clue) | GBC
 [Mat Hoffman's Pro BMX](#mat-hoffmans-pro-bmx) | GBC
 [Max](#max) | GB
@@ -3430,6 +3431,14 @@ This is the Japanese version of `Mario's Picross`.
 ROM MD5: `defe3559ef5e8d69ca95289edb6f9f6e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioNoPicross.ips).
+
+## Maru's Mission
+
+This patch converts `Maru's Mission (U)` to the `.pocket` format.
+
+ROM MD5: `7f26dd90f8e80b52ead8fc0e3609d4f2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarusMission.ips).
 
 ## Mary-Kate and Ashley - Get a Clue!
 
