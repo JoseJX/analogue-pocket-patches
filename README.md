@@ -129,7 +129,7 @@ Game | System
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
 [Catrap](#catrap) | GB
 [Chalvo 55 - Super Puzzle Action](#chalvo-55---super-puzzle-action) | GB
-[Chase HQ - Secret Police](#chase-hq---secret-police) | GBC
+[Chase H.Q. - Secret Police](#chase-hq---secret-police) | GBC
 [Cherry Rescue](#cherry-rescue) | GB
 [Chessmaster](#chessmaster) | GB
 [Choplifter II - Rescue and Survive](#choplifter-ii---rescue-and-survive) | GB
@@ -1669,9 +1669,9 @@ ROM MD5: `ba50565630891680c9cf8b1827fca429`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Chalvo55.ips).
 
-## Chase HQ - Secret Police
+## Chase H.Q. - Secret Police
 
-This patch converts `Chase HQ - Secret Police (U)` to the `.pocket` format.
+This patch converts `Chase H.Q. - Secret Police (U)` to the `.pocket` format.
 
 ROM MD5: `ff92e59c47a990815bc548e5e253c390`
 
