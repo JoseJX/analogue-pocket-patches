@@ -324,6 +324,8 @@ Game | System
 [Little Mermaid II - Pinball Frenzy](#little-mermaid-ii---pinball-frenzy) | GBC
 [Lock n' Chase ~ Lock 'n' Chase](#lock-n-chase-lock-n-chase) | GB
 [Looney Tunes](#looney-tunes) | GB
+[Looney Tunes (GBC)](#looney-tunes-gbc) | GBC
+[Looney Tunes (GBC) (E)](#looney-tunes-gbc-e) | GBC
 [Loopz](#loopz) | GB
 [Lucky Luke](#lucky-luke) | GBC
 [Lucky Luke (E)](#lucky-luke-e) | GBC
@@ -3308,6 +3310,22 @@ This patch converts `Looney Tunes (U,E)` to the `.pocket` format.
 ROM MD5: `6e9dd3c1fb169da79292a1962e95a884`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunes.ips).
+
+## Looney Tunes (GBC)
+
+This patch converts `Looney Tunes (GBC) (U)` to the `.pocket` format. It is also compatible with the European version of the ROM.
+
+ROM MD5: `f687b51a0fab72e03766356b62261a49`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesGBC.ips).
+
+## Looney Tunes (GBC) (E)
+
+This patch converts `Looney Tunes (GBC) (E)` to the `.pocket` format. It is also compatible with the US version of the ROM.
+
+ROM MD5: `a539a0ae1b1ed8034fc3a4733b4298c3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesGBC.ips).
 
 ## Loopz
 
