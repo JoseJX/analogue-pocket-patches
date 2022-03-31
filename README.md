@@ -182,6 +182,7 @@ Game | System
 [Dracula - Crazy Vampire](#dracula---crazy-vampire) | GBC
 [Dragon Ball Z - Legendary Super Warriors](#dragon-ball-z---legendary-super-warriors) | GBC
 [Dragon's Lair](#dragons-lair) | GBC
+[Dragon Quest III: Soshite Densetsu e...](#dragon-quest-iii-soshite-densetsu-e) | GBC
 [Dragon Quest Monsters (DE)](#dragon-quest-monsters-de) | GBC
 [Dragon Warrior Monsters 2 - Cobi's Journey](#dragon-warrior-monsters-2---cobis-journey) | GBC
 [Dragon Warrior Monsters 2 - Tara's Adventure](#dragon-warrior-monsters-2---taras-adventure) | GBC
@@ -2125,6 +2126,14 @@ This patch converts `Dragon's Lair (U,E)` to the `.pocket` format.
 ROM MD5: `947f96cfd5bab7a03ec2f3fc0ae9238d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonsLair.ips).
+
+## Dragon Quest III: Soshite Densetsu e...
+
+This patch converts `Dragon Quest III: Soshite Densetsu e... (J)` to the `.pocket` format.
+
+ROM MD5: `729934ddb7aa39779a456523a81b4a45`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonQuest3J.ips).
 
 ## Dragon Quest Monsters (DE)
 
