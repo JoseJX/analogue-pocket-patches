@@ -326,6 +326,7 @@ Game | System
 [Looney Tunes](#looney-tunes) | GB
 [Looney Tunes (GBC)](#looney-tunes-gbc) | GBC
 [Looney Tunes (GBC) (E)](#looney-tunes-gbc-e) | GBC
+[Looney Tunes - Twouble!](#looney-tunes---twouble) | GBC
 [Loopz](#loopz) | GB
 [Lucky Luke](#lucky-luke) | GBC
 [Lucky Luke (E)](#lucky-luke-e) | GBC
@@ -3328,6 +3329,14 @@ This patch converts `Looney Tunes (GBC) (E)` to the `.pocket` format. It is also
 ROM MD5: `a539a0ae1b1ed8034fc3a4733b4298c3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesGBC.ips).
+
+## Looney Tunes - Twouble!
+
+This patch converts `Looney Tunes - Twouble! (U)` to the `.pocket` format.
+
+ROM MD5: `1d31fa1e431ec840e5f769fdd019405f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesTwouble.ips).
 
 ## Loopz
 
