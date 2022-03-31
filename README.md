@@ -344,6 +344,7 @@ Game | System
 [Mary-Kate and Ashley - Get a Clue!](#mary-kate-and-ashley---get-a-clue) | GBC
 [Mat Hoffman's Pro BMX](#mat-hoffmans-pro-bmx) | GBC
 [Max](#max) | GB
+[McDonaldland](#mcdonaldland) | GB
 [Medarot - Kabuto Version](#medarot---kabuto-version) | GB
 [Medarot - Kabuto Version (English Patch)](#medarot---kabuto-version-english-patch) | GB
 [Medarot - Kuwagata Version](#medarot---kuwagata-version) | GB
@@ -3474,6 +3475,13 @@ ROM MD5: `660a98b774e7d136e302dfe6557405e9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Max.ips).
 
+## McDonaldland
+
+This patch converts `McDonaldland (E)` to the `.pocket` format.
+
+ROM MD5: `dcf79d785d5ce187f727f7dc2e00dc8c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/McDonaldland.ips).
 
 ## Medarot - Kabuto Version
 
