@@ -416,6 +416,8 @@ Game | System
 [Noobow](#noobow) | GB
 [Ohastua Dance Dance Revolution GB](#ohastua-dance-dance-revolution-gb) | GBC
 [Operation C](#operation-c) | GB
+[Othello](#othello) | GB
+[Othello (J)](#othello-j) | GB
 [Out of Gas](#out-of-gas) | GB
 [Pac-Attack](#pac-attack) | GB
 [Pac-in-Time](#pac-in-time) | GB
@@ -4107,6 +4109,22 @@ This patch converts `Operation C (U)` to the `.pocket` format.
 ROM MD5: `c6effb3a51b36056411760d1ffe048f7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/OperationC.ips).
+
+## Othello
+
+This patch converts `Othello (E)` to the `.pocket` format.
+
+ROM MD5: `f57101bf26e140991a4e2f50a968ce7c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Othello.ips).
+
+## Othello (J)
+
+This patch converts `Othello (J)` to the `.pocket` format.
+
+ROM MD5: `f57101bf26e140991a4e2f50a968ce7c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/OthelloJ.ips).
 
 ## Out of Gas
 
