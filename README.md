@@ -3614,6 +3614,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Mega Man III (U)` to the `.pocket` format.
 
+This patch was updated to fix a HUD rendering issue (2022/3/31)
+
 ROM MD5: `4c614f884a07872f12056ad1a421e1f9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan3.ips).
