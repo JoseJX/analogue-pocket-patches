@@ -398,6 +398,7 @@ Game | System
 [Mystic Quest (De)](#mystic-quest-de) | GB
 [Mystic Quest (E)](#mystic-quest-e) | GB
 [Mystic Quest (Fr)](#mystic-quest-fr) | GB
+[NBA All Star Challenge](#nba-all-star-challenge) | GB
 [NBA Jam](#nba-jam) | GB
 [NBA Jam - Tournament Edition](#nba-jam---tournament-edition) | GB
 [Nectaris GB](#nectaris-gb) | GB
@@ -3955,6 +3956,14 @@ This patch converts `Mystic Quest (Fr)` to the `.pocket` format.
 ROM MD5: `2efe1569e3be81e7e19b13eafc60cd24`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MysticQuestF.ips).
+
+## NBA All Star Challenge
+
+This patch converts `NBA All Star Challenge (U,E)` to the `.pocket` format.
+
+ROM MD5: `709726eb6de8d45e63a88063529605bc`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NBAAllStar.ips).
 
 ## NBA Jam
 
