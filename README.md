@@ -408,6 +408,7 @@ Game | System
 [New Chessmaster](#new-chessmaster) | GB
 [Nemesis](#nemesis) | GB
 [Nemesis II](#nemesis-ii) | GB
+[New Addams Family Series](#new-addams-family-series) | GBC
 [Ninja Boy](#ninja-boy) | GB
 [Ninja Boy 2](#ninja-boy-2) | GB
 [Ninja Taro](#ninja-taro) | GB
@@ -4043,6 +4044,14 @@ This patch converts `Nemesis II (J)` to the `.pocket` format.
 ROM MD5: `c4dc3987a841a428f837db26bddc586e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Nemesis2.ips).
+
+## New Addams Family Series
+
+This patch converts `New Addams Family Series (E)` to the `.pocket` format.
+
+ROM MD5: `2d2a8314f789d490bf83ed3c44538fe3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NewAddamsFamily.ips).
 
 ## Ninja Boy
 
