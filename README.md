@@ -238,6 +238,7 @@ Game | System
 [God Medicine - Hukkoku Ban](#god-medicine---hukkoku-ban) | GB
 [Godzilla](#godzilla) | GB
 [Gold and Glory - The Road to El Dorado](#gold-and-glory---the-road-to-el-dorado) | GBC
+[Go! Go! Tank](#go-go-tank) | GB
 [Gradius - The Interstellar Assault](#gradius---the-interstellar-assault) | GB
 [Grand Theft Auto](#grand-theft-auto) | GBC
 [Grand Theft Auto 2](#grand-theft-auto-2) | GBC
@@ -2587,6 +2588,14 @@ This patch converts `Gold and Glory - The Road to El Dorado (U)` to the `.pocket
 ROM MD5: `7bf3b13931f2a50ebe071a18ea14f28b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GoldAndGlory.ips).
+
+## Go! Go! Tank
+
+This patch converts `Go! Go! Tank (U)` to the `.pocket` format.
+
+ROM MD5: `23824d72928a05e9fcf052d42f3c91c6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GoGoTank.ips).
 
 ## Gradius - The Interstellar Assault
 
