@@ -672,6 +672,7 @@ Game | System
 [World Beach Volley - 1992 GB Cup](#world-beach-volley---1992-gb-cup) | GB
 [World Heroes 2 Jet](#world-heroes-2-jet) | GB
 [Worms](#worms) | GB
+[WWF - Attitude](#wwf---attitude) | GBC
 [WWF - Betrayal](#wwf---betrayal) | GBC
 [WWF - Raw](#wwf---raw) | GB
 [WWF - Superstars](#wwf---superstars) | GB
@@ -6266,6 +6267,14 @@ This patch converts `Worms (E)` to the `.pocket` format.
 ROM MD5: `45dcc259728a00118fe86f841d48564f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Worms.ips).
+
+## WWF - Attitude
+
+This patch converts `WWF - Attitude (U,E)` to the `.pocket` format.
+
+ROM MD5: `87c5862edce9eae3d6afe964bfed5204`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWFAttitude.ips).
 
 ## WWF - Betrayal
 
