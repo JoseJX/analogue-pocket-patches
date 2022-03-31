@@ -582,6 +582,7 @@ Game | System
 [Sutte Hakkun GB](#sutte-hakkun-gb) | GBC
 [Sword of Hope](#sword-of-hope) | GB
 [Sword of Hope II](#sword-of-hope-ii) | GB
+[Sylvester and Tweety - Breakfast on the Run](#sylvester-and-tweety---breakfast-on-the-run) | GBC
 [T2 - The Arcade Game](#t2---the-arcade-game) | GB
 [Tail 'Gator](#tail-gator) | GB
 [TaleSpin](#talespin) | GB
@@ -5501,6 +5502,14 @@ This patch converts `Sword of Hope II (U)` to the `.pocket` format.
 ROM MD5: `64f7f8af18f75a9b3767e4637e693be7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SwordOfHope2.ips).
+
+## Sylvester and Tweety - Breakfast on the Run
+
+This patch converts `Sylvester and Tweety - Breakfast on the Run (E)` to the `.pocket` format.
+
+ROM MD5: `88e01db4aee70b3c48324f991d149a2a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnT-BotR.ips).
 
 ## T2 - The Arcade Game
 
