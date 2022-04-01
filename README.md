@@ -4449,6 +4449,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Pop'n Music GB - Disney Tunes (J)` to the `.pocket` format.
 
+It was updated to fix numerous graphical issues. (2022/03/31)
+
 ROM MD5: `92978c96b2368e4aebd84966af8bd06f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PopnMusicDisney.ips).
