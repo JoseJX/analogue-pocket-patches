@@ -405,6 +405,7 @@ Game | System
 [Mystic Quest (De)](#mystic-quest-de) | GB
 [Mystic Quest (E)](#mystic-quest-e) | GB
 [Mystic Quest (Fr)](#mystic-quest-fr) | GB
+[NBA 3-on-3 Featuring Kobe Bryant](#nba-3-on-3-featuring-kobe-bryant) | GBC
 [NBA All Star Challenge](#nba-all-star-challenge) | GB
 [NBA Jam](#nba-jam) | GB
 [NBA Jam - Tournament Edition](#nba-jam---tournament-edition) | GB
@@ -4026,6 +4027,14 @@ This patch converts `Mystic Quest (Fr)` to the `.pocket` format.
 ROM MD5: `2efe1569e3be81e7e19b13eafc60cd24`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MysticQuestF.ips).
+
+## NBA 3-on-3 Featuring Kobe Bryant
+
+This patch converts `NBA 3-on-3 Featuring Kobe Bryant (U)` to the `.pocket` format.
+
+ROM MD5: `8cbb9b7401be513c913a3a54eee0da54`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NBA3on3.ips).
 
 ## NBA All Star Challenge
 
