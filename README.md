@@ -408,6 +408,7 @@ Game | System
 [NBA All Star Challenge](#nba-all-star-challenge) | GB
 [NBA Jam](#nba-jam) | GB
 [NBA Jam - Tournament Edition](#nba-jam---tournament-edition) | GB
+[NBA Jam 2001](#nba-jam-2001) | GBC
 [Nectaris GB](#nectaris-gb) | GB
 [Nettou Samurai Spirits - Zankurou Musouken](#nettou-samurai-spirits---zankurou-musouken) | GB
 [New Batman Adventures - Chaos in Gotham](#new-batman-adventures---chaos-in-gotham) | GBC
@@ -4049,6 +4050,14 @@ This patch converts `NBA Jam - Tournament Edition (U)` to the `.pocket` format.
 ROM MD5: `802cfbc386bb79b0889d7dd2b6abdc13`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NBAJam-Tournament.ips).
+
+## NBA Jam 2001
+
+This patch converts `NBA Jam 2001 (U,E)` to the `.pocket` format.
+
+ROM MD5: `14bfce85af0ae19affbdcef23a9d6baf`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NBAJam2001.ips).
 
 ## Nectaris GB
 
