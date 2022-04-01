@@ -367,6 +367,7 @@ Game | System
 [Metal Gear Solid](#metal-gear-solid) | GBC
 [Metal Gear Solid (European Version)](#metal-gear-solid-european-version) | GBC
 [Metal Walker](#metal-walker) | GBC
+[mGB](#mgb) | GBC
 [Mickey Mouse](#mickey-mouse) | GB
 [Mickey Mouse - Magic Wands](#mickey-mouse---magic-wands) | GB
 [Mickey's Speedway USA](#mickeys-speedway-usa) | GBC
@@ -3710,12 +3711,19 @@ ROM MD5: `82d17beb1aefd1b93621d6fa61dfa1cb`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalWalker.ips).
 
+## mGB
+
+This patch converts `mGB` to the `.pocket` format. It is available from the author's [project page](https://github.com/trash80/mGB).
+
+ROM MD5: `457c212fe19e7552060dad8715868170`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/mGB.ips).
+
 ## Mickey Mouse
 
 This patch converts `Mickey Mouse (E)` to the `.pocket` format.
 
 ROM MD5: `fecc3f5a95ccaec78f83892933d8159f`
-t
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeyMouse.ips).
 
