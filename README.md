@@ -199,6 +199,7 @@ Game | System
 [F-1 Race](#f-1-race) | GB
 [F-18 Thunder Strike](#f-18-thunder-strike) | GBC
 [Faceball 2000](#faceball-2000) | GB
+[Fatass (Fast Tracker II Clone for GB)](#fatass-fast-tracker-ii-clone-for-gb) | GBC
 [Felix the Cat](#felix-the-cat) | GB
 [Fidgetts](#fidgetts) | GB
 [Final Fantasy Adventure](#final-fantasy-adventure) | GB
@@ -2270,6 +2271,14 @@ This patch converts `Faceball 2000 (U)` to the `.pocket` format.
 ROM MD5: `05ba7f165dab1ffd49b63b4f5c704c02`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Faceball2000.ips).
+
+## Fatass (Fast Tracker II Clone for GB)
+
+This patch converts `Fatass (Fast Tracker II Clone for GB)` to the `.pocket` format. You can get a copy of the ROM from the [developer's website](https://jeremyevers.com/fatass/).
+
+ROM MD5: `32c52dd5930156df8d08ccbf50c6f570`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/fatass.ips).
 
 ## Felix the Cat
 
