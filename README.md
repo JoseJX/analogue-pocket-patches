@@ -263,6 +263,7 @@ Game | System
 [Hoshi no Kirby 2](#hoshi-no-kirby-2) | GB
 [Hudson Hawk](#hudson-hawk) | GB
 [Humans](#humans) | GB
+[Hunt for Red October](#hunt-for-red-october) | GB
 [Hyper Lode Runner](#hyper-lode-runner) | GB
 [Ikari no Yousai](#ikari-no-yousai) | GB
 [Ikari no Yousai 2](#ikari-no-yousai-2) | GB
@@ -2792,6 +2793,14 @@ This patch converts `The Humans (U)` to the `.pocket` format.
 ROM MD5: `4a1ecc8ccc706ed5fdce2fdab2aaf03e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Humans.ips).
+
+## Hunt for Red October
+
+This patch converts `Hunt for Red October (U,E)` to the `.pocket` format.
+
+ROM MD5: `cca5288a7a9e0270592bf75c0431bbb5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HuntForRedOctober.ips).
 
 ## Hyper Lode Runner
 
