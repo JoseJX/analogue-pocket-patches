@@ -4523,6 +4523,14 @@ ROM MD5: `6073cb28e651b48f0bf19e654aab8c7d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowerRacer.ips).
 
+## Power Rangers - Time Force
+
+This patch converts `Power Rangers - Time Force (U,E)` to the `.pocket` format.
+
+ROM MD5: `7510fe2592accfa6ccd4745612e64f88`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowerRangersTimeForce.ips).
+
 ## Primal Rage
 
 This patch converts `Primal Rage (U,E)` to the `.pocket` format.
