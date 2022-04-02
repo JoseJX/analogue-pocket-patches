@@ -184,6 +184,7 @@ Game | System
 [Dragon's Lair](#dragons-lair) | GBC
 [Dragon Quest III: Soshite Densetsu e...](#dragon-quest-iii-soshite-densetsu-e) | GBC
 [Dragon Quest Monsters (DE)](#dragon-quest-monsters-de) | GBC
+[Dragon Quest Monsters 2 : Maruta no Fushigi na Kagi, Ruka no Tabidachi](#dragon-quest-monsters-2-maruta-no-fushigi-na-kagi-ruka-no-tabidachi) | GBC
 [Dragon Warrior Monsters 2 - Cobi's Journey](#dragon-warrior-monsters-2---cobis-journey) | GBC
 [Dragon Warrior Monsters 2 - Tara's Adventure](#dragon-warrior-monsters-2---taras-adventure) | GBC
 [Driver - You are the Wheelman](#driver---you-are-the-wheelman) | GBC
@@ -2156,6 +2157,15 @@ This is the German version of `Dragon Warrior Monsters`.
 ROM MD5: `08bca718c62e3c2870a2df107fc0a562`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonQuestMonstersDE.ips).
+
+## Dragon Quest Monsters 2 : Maruta no Fushigi na Kagi, Ruka no Tabidachi
+
+This patch converts `Dragon Quest Monsters 2 : Maruta no Fushigi na Kagi, Ruka no Tabidachi (J)` to the `.pocket` format.
+
+ROM MD5: `f47edc51d53ae8f416898b80bd3022a1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DQM2-InB.ips).
+
 
 ## Dragon Warrior Monsters 2 - Cobi's Journey
 
