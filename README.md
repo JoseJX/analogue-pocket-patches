@@ -640,6 +640,7 @@ Game | System
 [Top Gear Pocket 2](#top-gear-pocket-2) | GBC
 [Top Gear Rally 2](#top-gear-rally-2) | GBC
 [Top Ranking Tennis](#top-ranking-tennis) | GB
+[Total Carnage](#total-carnage) | GB
 [Toy Story](#toy-story) | GB
 [Toy Story (Rev A)](#toy-story-rev-a) | GB
 [Toy Story (E)](#toy-story-e) | GB
@@ -6013,6 +6014,14 @@ This patch converts `Top Ranking Tennis (E)` to the `.pocket` format.
 ROM MD5: `ea82922267095a2268d76e4f21d4ff93`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TopRankingTennis.ips).
+
+## Total Carnage
+
+This patch converts `Total Carnage (U,E)` to the `.pocket` format.
+
+ROM MD5: `6e8ea043087f4ca441866b03389575e2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TotalCarnage.ips).
 
 ## Toy Story
 
