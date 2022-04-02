@@ -381,6 +381,7 @@ Game | System
 [Miner 2049er Starring Bounty Bob](#miner-2049er-starring-bounty-bob) | GB
 [Mission Impossible](#mission-impossible) | GBC
 [Mobile Golf](#mobile-golf) | GBC
+[Moguranya](#moguranya) | GB
 [Mole Mania](#mole-mania) | GB
 [Monkey Puncher](#monkey-puncher) | GBC
 [Monster Max](#monster-max) | GB
@@ -3841,6 +3842,14 @@ It is compatible with the [English translation patch](http://www.romhacking.net/
 ROM MD5: `fbf1ffe76883dffcca299228c81f171f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MobileGolf.ips).
+
+## Moguranya
+
+This patch converts `Moguranya (J)` to the `.pocket` format.
+
+ROM MD5: `4ff223851bc7e3d19acdbf8034e4829f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Moguranya.ips).
 
 ## Mole Mania
 
