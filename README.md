@@ -471,6 +471,7 @@ Game | System
 [Prince of Persia (1992)](#prince-of-persia-1992) | GB
 [Prince of Persia](#prince-of-persia) | GBC
 [Probotector](#probotector) | GB
+[Probotector 2](#probotector-2) | GB
 [Punisher - Ultimate Payback](#punisher---ultimate-payback) | GB
 [Puyo Puyo Gaiden - Puyo Wars](#puyo-puyo-gaiden---puyo-wars) | GBC
 [Puzzle Master](#puzzle-master) | GBC
@@ -4611,6 +4612,14 @@ This patch converts `Probotector (E)` to the `.pocket` format.
 ROM MD5: `298c80fe568bb2ff8bb7e4dfe5862a9d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Probotector.ips).
+
+## Probotector 2
+
+This patch converts `Probotector 2 (E)` to the `.pocket` format.
+
+ROM MD5: `e1ea97584e0cf0d0f4187e1c6322da93`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Probotector2.ips).
 
 ## Punisher - Ultimate Payback
 
