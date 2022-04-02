@@ -264,6 +264,7 @@ Game | System
 [Hercules - The Legendary Journey](#hercules---the-legendary-journey) | GBC
 [Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
 [Hexcite - The Shapes of Victory](#hexcite---the-shapes-of-victory) | GBC
+[Hook](#hook) | GB
 [Hoshi no Kirby](#hoshi-no-kirby) | GB
 [Hoshi no Kirby 2](#hoshi-no-kirby-2) | GB
 [Hoyle Card Games](#hoyle-card-games) | GBC
@@ -2820,6 +2821,14 @@ This patch converts `Hexcite - The Shapes of Victory (U,E)` to the `.pocket` for
 ROM MD5: `4b068708fb29fdabbee834114fe4a09d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hexcite.ips).
+
+## Hook
+
+This patch converts `Hook (U)` to the `.pocket` format.
+
+ROM MD5: `c4e2de3be0bb5608ab903a885afc065d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hook.ips).
 
 ## Hoshi no Kirby
 
