@@ -2161,6 +2161,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Dragon Warrior Monsters 2 - Cobi's Journey (U)` to the `.pocket` format.
 
+This patch was updated to fix a potential bug. (2022/04/02)
+
 ROM MD5: `f71ac6ac4bb335f59bfd2b594d47ab49`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DWM2Cobi.ips).
@@ -2168,6 +2170,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 ## Dragon Warrior Monsters 2 - Tara's Adventure
 
 This patch converts `Dragon Warrior Monsters 2 - Tara's Adventure (U)` to the `.pocket` format.
+
+This patch was updated to fix a potential bug. (2022/04/02)
 
 ROM MD5: `8e79dcdee0e15ef069b3f376a0fee37d`
 
