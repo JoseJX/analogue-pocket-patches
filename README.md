@@ -3848,7 +3848,9 @@ This patch converts `Mole Mania (U)` to the `.pocket` format.
 
 It has been updated to fix [bug #2](https://github.com/JoseJX/analogue-pocket-patches/issues/2).
 
-It has been updated again for another missed register access. (2021/12/30)
+It has been updated for a missed register access. (2021/12/30)
+
+It has been updated again to fix possible graphical corruption. (2021/04/02)
 
 ROM MD5: `f28ade3926852a8ad2e449c274683956`
 
