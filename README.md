@@ -596,6 +596,7 @@ Game | System
 [Sylvester and Tweety - Breakfast on the Run](#sylvester-and-tweety---breakfast-on-the-run) | GBC
 [T2 - The Arcade Game](#t2---the-arcade-game) | GB
 [Tail 'Gator](#tail-gator) | GB
+[Take it Racing 2 - Demo](#take-it-racing-2---demo) | GB
 [TaleSpin](#talespin) | GB
 [Tarzan](#tarzan) | GB
 [Tasmania Monogatari](#tasmania-monogatari) | GB
@@ -5636,6 +5637,14 @@ This patch converts `Tail 'Gator (U,E)` to the `.pocket` format.
 ROM MD5: `cac94925bf098982d31f7c9a2c296d25`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TailGator.ips).
+
+## Take it Racing 2 - Demo
+
+This patch converts `Take it Racing 2 - Demo` to the `.pocket` format. You can get a copy from the [developer's site](https://r-doman.itch.io/take-it-racing-2).
+
+ROM MD5: `0dea233e00ac3ee930d23db9002df57c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TakeItRacing2Demo.ips).
 
 ## TaleSpin
 
