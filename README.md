@@ -29,6 +29,7 @@ Game | System
 [Alfred's Adventure](#alfreds-adventure) | GBC
 [Alien 3](#alien-3) | GB
 [Aliens - The Thanatos Encounter](#aliens---the-thanatos-encounter) | GBC
+[Alien vs. Predator - The Last of His Clan](#alien-vs-predator---the-last-of-his-clan) | GB
 [Alleyway](#alleyway) | GB
 [Alleyway DX](#alleyway-dx) | GBC
 [Alone in the Dark - The New Nightmare](#alone-in-the-dark---the-new-nightmare) | GBC
@@ -878,6 +879,14 @@ This patch converts `Aliens - The Thanatos Encounter (U)` to the `.pocket` forma
 ROM MD5: `73a78663a6388bf4d1c56e05bbf790d4`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AliensThanatos.ips).
+
+## Alien vs. Predator - The Last of His Clan
+
+This patch converts `Alien vs. Predator - The Last of His Clan (U)` to the `.pocket` format.
+
+ROM MD5: `50a208bd0a223c037e01ffe07b04fa5b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AvPLastOfHisClan.ips).
 
 ## Alleyway
 
