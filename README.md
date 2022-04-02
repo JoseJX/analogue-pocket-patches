@@ -3579,6 +3579,8 @@ This patch converts `Medarot - Kabuto Version (J)` with the [English Translation
 
 This patch was updated for the current version of the translation patch. (2022-03-24)
 
+This patch was updated to fix saving. (2022/04/02)
+
 The translation patch must be applied to the Japanese ROM before applying the `.pocket` patch, the MD5 below is for the translation patched ROM.
 
 ROM MD5: `5168e5f5779ec09bf333580c4fa65e42`
@@ -3588,6 +3590,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 ## Medarot - Kabuto Version (US English Patch)
 
 This patch converts `Medarot - Kabuto Version (J)` with the [US English Translation patch](https://github.com/Medabots/medarot1/releases/download/0.6.7%2BEN-US.txt.20/m1kabuto-2199-d8ebee3ce6ecfcd220b0f8e5bc4de120783ec16b.ips) to the `.pocket` format.
+
+This patch was updated to fix saving. (2022/04/02)
 
 The translation patch must be applied to the Japanese ROM before applying the `.pocket` patch, the MD5 below is for the translation patched ROM.
 
@@ -3609,6 +3613,8 @@ This patch converts `Medarot - Kuwagata Version (J)` with the [English Translati
 
 This patch was updated for the current version of the translation patch. (2022-03-24)
 
+This patch was updated to fix saving. (2022/04/02)
+
 The translation patch must be applied to the Japanese ROM before applying the `.pocket` patch, the MD5 below is for the translation patched ROM.
 
 ROM MD5: `49515d0da23d5ea4bde8a06dff4a9904`
@@ -3618,6 +3624,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 ## Medarot - Kuwagata Version (US English Patch)
 
 This patch converts `Medarot - Kuwagata Version (J)` with the [US English Translation patch](https://github.com/Medabots/medarot1/releases/download/0.6.7%2BEN-US.txt.20/m1kuwagata-2199-d8ebee3ce6ecfcd220b0f8e5bc4de120783ec16b.ips) to the `.pocket` format.
+
+This patch was updated to fix saving. (2022/04/02)
 
 The translation patch must be applied to the Japanese ROM before applying the `.pocket` patch, the MD5 below is for the translation patched ROM.
 
