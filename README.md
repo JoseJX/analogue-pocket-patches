@@ -134,6 +134,8 @@ Game | System
 [Cherry Rescue](#cherry-rescue) | GB
 [Chessmaster](#chessmaster) | GB
 [Choplifter II - Rescue and Survive](#choplifter-ii---rescue-and-survive) | GB
+[Classic Bubble Bobble](#classic-bubble-bobble) | GBC
+[Classic Bubble Bobble (E)](#classic-bubble-bobble-e) | GBC
 [Commander Keen](#commander-keen) | GBC
 [Conker's Pocket Tales](#conkers-pocket-tales) | GBC
 [Contra III - Alien Wars](#contra-iii---alien-wars) | GB
@@ -601,6 +603,7 @@ Game | System
 [Sylvester and Tweety - Breakfast on the Run](#sylvester-and-tweety---breakfast-on-the-run) | GBC
 [T2 - The Arcade Game](#t2---the-arcade-game) | GB
 [Tail 'Gator](#tail-gator) | GB
+[Taito Memorial - Bubble Bobble](#taito-memorial---bubble-bobble) | GBC
 [Take it Racing 2 - Demo](#take-it-racing-2---demo) | GB
 [TaleSpin](#talespin) | GB
 [Tarzan](#tarzan) | GB
@@ -1742,6 +1745,22 @@ This patch converts `Choplifter II - Rescue and Survive (U)` to the `.pocket` fo
 ROM MD5: `d5f88d0799c85b6d59f12542da403691`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Choplifter2.ips).
+
+## Classic Bubble Bobble
+
+This patch converts `Classic Bubble Bobble (U)` to the `.pocket` format.
+
+ROM MD5: `4bc8467ed91a94ba23648706b551cef5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ClassicBubbleBobble.ips).
+
+## Classic Bubble Bobble (E)
+
+This patch converts `Classic Bubble Bobble (E) (E)` to the `.pocket` format.
+
+ROM MD5: `83f1b6f79b8f0fecc4427efc9fa7d732`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ClassicBubbleBobbleE.ips).
 
 ## Commander Keen
 
@@ -5698,6 +5717,14 @@ This patch converts `Tail 'Gator (U,E)` to the `.pocket` format.
 ROM MD5: `cac94925bf098982d31f7c9a2c296d25`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TailGator.ips).
+
+## Taito Memorial - Bubble Bobble
+
+This patch converts `Taito Memorial - Bubble Bobble (J)` to the `.pocket` format.
+
+ROM MD5: `b59fa772b15a07f44110d5b7aa24b424`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TaitoMemorialBubbleBobble.ips).
 
 ## Take it Racing 2 - Demo
 
