@@ -6309,6 +6309,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Wario Land II (U,E)` to the `.pocket` format.
 
+This patch waas updated to fix saving. (2022/04/02)
+
 ROM MD5: `e5e8910d436acb9fd218559a216501a3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioLand2.ips).
