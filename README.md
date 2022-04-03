@@ -713,6 +713,7 @@ Game | System
 [X-Men - Wolverine's Rage](#x-men---wolverines-rage) | GBC
 [Xtreme Sports](#xtreme-sports) | GBC
 [Yakuman](#yakuman) | GB
+[Yoda Stories](#yoda-stories) | GBC
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
 [Yu-Gi-Oh! - Dark Duel Stories](#yu-gi-oh---dark-duel-stories) | GBC
@@ -6655,6 +6656,14 @@ It is also compatible with the [English Translation](https://www.romhacking.net/
 ROM MD5: `2acfc8d0213b186552124fb8b3085fa1`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Yakuman.ips).
+
+## Yoda Stories
+
+This patch converts `Yoda Stories (U,E)` to the `.pocket` format.
+
+ROM MD5: `544eb3962ef54f89718c8dfa668ec4be`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YodaStories.ips).
 
 ## Yoshi
 
