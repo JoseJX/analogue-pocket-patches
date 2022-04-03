@@ -379,6 +379,7 @@ Game | System
 [mGB](#mgb) | GBC
 [Mickey Mouse](#mickey-mouse) | GB
 [Mickey Mouse - Magic Wands](#mickey-mouse---magic-wands) | GB
+[Mickey's Racing Adventure](#mickeys-racing-adventure) | GBC
 [Mickey's Speedway USA](#mickeys-speedway-usa) | GBC
 [Mickey's Ultimate Challenge](#mickeys-ultimate-challenge) | GB
 [Microsoft Pinball Arcade](#microsoft-pinball-arcade) | GBC
@@ -3840,6 +3841,14 @@ This patch converts `Mickey Mouse - Magic Wands (U,E)` to the `.pocket` format.
 ROM MD5: `38b65d28ac0bd619f5dee5a45d5fc542`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeyMouseMagicWands.ips).
+
+## Mickey's Racing Adventure
+
+This patch converts `Mickey's Racing Adventure (U,E)` to the `.pocket` format.
+
+ROM MD5: `221d3b96df7d86291b553a7cb4702dec`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeysRacingAdventure.ips).
 
 ## Mickey's Speedway USA
 
