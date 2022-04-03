@@ -718,6 +718,7 @@ Game | System
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
 [Yoshi no Cookie](#yoshi-no-cookie) | GB
+[Yoshi no Tomago](#yoshi-no-tomago) | GB
 [Yu-Gi-Oh! - Dark Duel Stories](#yu-gi-oh---dark-duel-stories) | GBC
 [Yu-Gi-Oh! Duel Monsters](#yu-gi-oh-duel-monsters) | GB
 [Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories](#yu-gi-oh-duel-monsters-ii---dark-duel-stories) | GBC
@@ -6698,6 +6699,14 @@ This patch converts `Yoshi no Cookie (J)` to the `.pocket` format.
 ROM MD5: `95e0ce560fe647b955fa1d3b2808acfa`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YoshiNoCookie.ips).
+
+## Yoshi no Tomago
+
+This patch converts `Yoshi no Tomago (J)` to the `.pocket` format.
+
+ROM MD5: `0ccb1e6beb86d79a7a5dad81eb6c73a9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YoshiNoTamago.ips).
 
 ## Yu-Gi-Oh! - Dark Duel Stories
 
