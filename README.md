@@ -717,6 +717,7 @@ Game | System
 [Yoda Stories](#yoda-stories) | GBC
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
+[Yoshi no Cookie](#yoshi-no-cookie) | GB
 [Yu-Gi-Oh! - Dark Duel Stories](#yu-gi-oh---dark-duel-stories) | GBC
 [Yu-Gi-Oh! Duel Monsters](#yu-gi-oh-duel-monsters) | GB
 [Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories](#yu-gi-oh-duel-monsters-ii---dark-duel-stories) | GBC
@@ -6689,6 +6690,14 @@ This patch converts `Yoshi's Cookie (U)` to the `.pocket` format.
 ROM MD5: `bc1a3848092bdc900c157996c29a7783`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YoshisCookie.ips).
+
+## Yoshi no Cookie
+
+This patch converts `Yoshi no Cookie (J)` to the `.pocket` format.
+
+ROM MD5: `95e0ce560fe647b955fa1d3b2808acfa`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YoshiNoCookie.ips).
 
 ## Yu-Gi-Oh! - Dark Duel Stories
 
