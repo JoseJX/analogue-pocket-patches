@@ -2505,7 +2505,10 @@ ROM MD5: `409da59eb0050f04834bd2d7a83368ab`
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GargoylesQuest2E.ips).
 
 ## Game & Watch Gallery
+
 This patch converts `Game & Watch Gallery (U)` to the `.pocket` format.
+
+This patch was updated to fix a cursor glitch. (2022/04/03)
 
 ROM MD5: `d5081250257e0dafcb8fe8720fcb9f28`
 
