@@ -186,6 +186,7 @@ Game | System
 [Double Dribble - 5 on 5](#double-dribble---5-on-5) | GB
 [Dracula - Crazy Vampire](#dracula---crazy-vampire) | GBC
 [Dragon Ball Z - Legendary Super Warriors](#dragon-ball-z---legendary-super-warriors) | GBC
+[Dragon Dance](#dragon-dance) | GBC
 [Dragon's Lair](#dragons-lair) | GBC
 [Dragon Quest III: Soshite Densetsu e...](#dragon-quest-iii-soshite-densetsu-e) | GBC
 [Dragon Quest Monsters (DE)](#dragon-quest-monsters-de) | GBC
@@ -2199,6 +2200,14 @@ This patch converts `Dragon Ball Z - Legendary Super Warriors (U)` to the `.pock
 ROM MD5: `ac46bc779e1e844674de1d4c13d06f96`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DBZ.ips).
+
+## Dragon Dance
+
+This patch converts `Dragon Dance (U)` to the `.pocket` format.
+
+ROM MD5: `0c6a0f2add131ca4afd24763fe3c3a04`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonDance.ips).
 
 ## Dragon's Lair
 
