@@ -118,6 +118,7 @@ Game | System
 [Burning Paper](#burning-paper) | GB
 [Bust-A-Move 2 - Arcade Edition](#bust-a-move-2---arcade-edition) | GB
 [Bust-A-Move 3 DX](#bust-a-move-3-dx) | GB
+[Bust-a-Move 4](#bust-a-move-4) | GBC
 [Bust-A-Move Millennium](#bust-a-move-millennium) | GBC
 [Buzz Lightyear of Star Command](#buzz-lightyear-of-star-command) | GBC
 [Cannon Fodder](#cannon-fodder) | GBC
@@ -1626,6 +1627,14 @@ This patch converts `Bust-A-Move 3 DX (E)` to the `.pocket` format.
 ROM MD5: `2b1221e85b545bba7e2291fede03fd96`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BustAMove3.ips).
+
+## Bust-a-Move 4
+
+This patch converts `Bust-a-Move 4 (U,E)` to the `.pocket` format.
+
+ROM MD5: `dc835fa5664aa83ff90dc2ff6cc83f24`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Bust-A-Move4.ips).
 
 ## Bust-A-Move Millennium
 
