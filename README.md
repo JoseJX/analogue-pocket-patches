@@ -506,6 +506,7 @@ Game | System
 [Quest for Camelot](#quest-for-camelot) | GBC
 [Quest For Camelot (E)](#quest-for-camelot-e) | GBC
 [R-Type](#r-type) | GB
+[Radar Mission](#radar-mission) | GB
 [Rampage World Tour](#rampage-world-tour) | GBC
 [Rampart](#rampart) | GB
 [Ranma 1/2](#ranma-12) | GB
@@ -4940,6 +4941,14 @@ This patch converts `R-Type (U,E)` to the `.pocket` format.
 ROM MD5: `972dc35b3b2bd0762999b1ae48da94f6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RType.ips).
+
+## Radar Mission
+
+This patch converts `Radar Mission (U,E)` to the `.pocket` format.
+
+ROM MD5: `82d650a781ef372126a863d519c01aae`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RadarMission.ips).
 
 ## Rampage World Tour
 
