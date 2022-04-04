@@ -222,6 +222,7 @@ Game | System
 [Force 21](#force-21) | GBC
 [Fortified Zone](#fortified-zone) | GB
 [Friday the 13th the GB Game](#friday-the-13th-the-gb-game) | GBC
+[Frogger](#frogger) | GB
 [Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou](#fushigi-no-dungeon---fuurai-no-shiren-gb2---sabaku-no-majou) | GBC
 [Gargoyle's Quest Quest II - The Demon Darkness](#gargoyles-quest-quest-ii---the-demon-darkness) | GB
 [Gargoyle's Quest Quest II - The Demon Darkness (E)](#gargoyles-quest-quest-ii---the-demon-darkness-e) | GB
@@ -2488,6 +2489,14 @@ ROM MD5: `c416450b06fc81fc07ab792c07790d3a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Friday13th.ips).
 
+## Frogger
+
+This patch converts `Frogger (U)` to the `.pocket` format.
+
+ROM MD5: `1ed313c4fd78b81a8ca3613e6234da7e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Frogger.ips).
+
 ## Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou
 
 This patch converts `Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou (J)` to the `.pocket` format.
@@ -3363,7 +3372,7 @@ ROM MD5: `1d0ea47375fca723c0f86a5178e545f3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LEGOIsland2.ips).
 
-## [LEGO Island 2 - The Brickster's Revenge (E)
+## LEGO Island 2 - The Brickster's Revenge (E)
 
 This patch converts `LEGO Island 2 - The Brickster's Revenge (E)` to the `.pocket` format.
 
