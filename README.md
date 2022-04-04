@@ -498,6 +498,8 @@ Game | System
 [QIX](#qix) | GB
 [QIX Adventure](#qix-adventure) | GBC
 [Quarth](#quarth) | GB
+[Quest for Camelot](#quest-for-camelot) | GBC
+[Quest For Camelot (E)](#quest-for-camelot-e) | GBC
 [R-Type](#r-type) | GB
 [Rampage World Tour](#rampage-world-tour) | GBC
 [Rampart](#rampart) | GB
@@ -4864,6 +4866,22 @@ This patch converts `Quarth (U,E)` to the `.pocket` format.
 ROM MD5: `de2236723c8d218e04c93849ebcda72d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Quarth.ips).
+
+## Quest for Camelot
+
+This patch converts `Quest for Camelot (U)` to the `.pocket` format.
+
+ROM MD5: `3b26dfc4e7c55cf86f4a4f3c18344ac7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/QuestForCamelot.ips).
+
+## Quest For Camelot (E)
+
+This patch converts `Quest For Camelot (E)` to the `.pocket` format.
+
+ROM MD5: `81dd8a336e1b1b705235a7b20a536bc0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/QuestForCamelotE.ips).
 
 ## R-Type
 
