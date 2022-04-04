@@ -453,6 +453,7 @@ Game | System
 [Penguin Wars](#penguin-wars) | GB
 [Penta Dragon](#penta-dragon) | GB
 [Perfect Dark](#perfect-dark) | GBC
+[Philip & Marlowe in Bloomland](#philip-marlowe-in-bloomland) | GB
 [Picross 2](#picross-2) | GB
 [Pinball Dreams](#pinball-dreams) | GB
 [Pinball Fantasies](#pinball-fantasies) | GB
@@ -4470,6 +4471,14 @@ This patch was updated to try to correct black screens after looting. (2022/01/1
 ROM MD5: `840e1ddb2696ecae487fd264a3c34581`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PerfectDark.ips).
+
+## Philip & Marlowe in Bloomland
+
+This patch converts `Philip & Marlowe in Bloomland` to the `.pocket` format. This game was not released.
+
+ROM MD5: `6c06369e6d6ecbf2d7b5a5254a11e541`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Bloomland.ips).
 
 ## Picross 2
 
