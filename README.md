@@ -5036,6 +5036,8 @@ ROM MD5: `0e82b5210966e9eb53d5b7ef906a0f40`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCopVsTerminator.ips).
 
+<!--
+FIXME: This is removed until I fix bug #43
 ## Robopon - Sun Version
 
 This patch converts `Robopon - Sun Version (U)` to the `.pocket` format.
@@ -5043,6 +5045,7 @@ This patch converts `Robopon - Sun Version (U)` to the `.pocket` format.
 ROM MD5: `398f7b60ea114b90b24503178f47e8d8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboponSun.ips).
+-->
 
 ## Rodland
 
