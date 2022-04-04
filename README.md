@@ -223,6 +223,7 @@ Game | System
 [Fortified Zone](#fortified-zone) | GB
 [Friday the 13th the GB Game](#friday-the-13th-the-gb-game) | GBC
 [Frogger](#frogger) | GB
+[Frogger 2](#frogger-2) | GBC
 [Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou](#fushigi-no-dungeon---fuurai-no-shiren-gb2---sabaku-no-majou) | GBC
 [Gargoyle's Quest Quest II - The Demon Darkness](#gargoyles-quest-quest-ii---the-demon-darkness) | GB
 [Gargoyle's Quest Quest II - The Demon Darkness (E)](#gargoyles-quest-quest-ii---the-demon-darkness-e) | GB
@@ -2496,6 +2497,14 @@ This patch converts `Frogger (U)` to the `.pocket` format.
 ROM MD5: `1ed313c4fd78b81a8ca3613e6234da7e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Frogger.ips).
+
+## Frogger 2
+
+This patch converts `Frogger 2 (U)` to the `.pocket` format.
+
+ROM MD5: `06b0d6b88e54337f3f5c7bbea373f237`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Frogger2.ips).
 
 ## Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou
 
