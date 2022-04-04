@@ -527,6 +527,7 @@ Game | System
 [Rolan's Curse](#rolans-curse) | GB
 [Rolan's Curse II](#rolans-curse-ii) | GB
 [Sabrina - The Animated Series - Spooked!](#sabrina---the-animated-series---spooked) | GBC
+[Sabrina - The Animated Series - Zapped!](#sabrina---the-animated-series---zapped) | GBC
 [Sagaia](#sagaia) | GB
 [Saigo No Nindou](#saigo-no-nindou) | GB
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
@@ -5114,6 +5115,14 @@ This patch converts `Sabrina - The Animated Series - Spooked! (U,E)` to the `.po
 ROM MD5: `3073432455a395835de6147399b36cfc`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SabrinaSpooked.ips).
+
+## Sabrina - The Animated Series - Zapped!
+
+This patch converts `Sabrina - The Animated Series - Zapped! (U,E)` to the `.pocket` format.
+
+ROM MD5: `ec39462e39e3cbcabe03667fabf12d5a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SabrinaZapped.ips).
 
 ## Sagaia
 
