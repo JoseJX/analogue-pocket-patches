@@ -570,7 +570,6 @@ Game | System
 [Space Invaders](#space-invaders) | GB
 [Space Invaders (E)](#space-invaders-e) | GB
 [Space Invaders (J)](#space-invaders-j) | GB
-
 [Space Marauder](#space-marauder) | GBC
 [Space Station Silicon Valley](#space-station-silicon-valley) | GBC
 [Spanky's Quest](#spankys-quest) | GB
@@ -6180,7 +6179,7 @@ This patch converts `Tomb Raider - Curse of the Sword (U)` to the `.pocket` form
 
 ROM MD5: `a0b4538f687fc61bc88f7ee111170355`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TombRaider.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TombRaiderCurse.ips).
 
 ## Tonic Trouble
 
