@@ -676,6 +676,7 @@ Game | System
 [True Lies](#true-lies) | GB
 [Tumble Pop](#tumble-pop) | GB
 [Turok - Battle of the Bionosaurs](#turok---battle-of-the-bionosaurs) | GB
+[Turok - Rage Wars](#turok---rage-wars) | GBC
 [Turok 2 - Seeds of Evil](#turok-2---seeds-of-evil) | GBC
 [Turok 3 - Shadow of Oblivion](#turok-3---shadow-of-oblivion) | GBC
 [Ultima - Runes of Virtue](#ultima---runes-of-virtue) | GB
@@ -6357,6 +6358,14 @@ This patch converts `Turok - Battle of the Bionosaurs (U,E)` to the `.pocket` fo
 ROM MD5: `fe68b048f7f77454f73ddef30c16316f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TurokBattleOfBionosaurs.ips).
+
+## Turok - Rage Wars
+
+This patch converts `Turok - Rage Wars (U,E)` to the `.pocket` format.
+
+ROM MD5: `2d7d0adcec6f72ca0755862c5fddf353`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TurokRageWars.ips).
 
 ## Turok 2 - Seeds of Evil
 
