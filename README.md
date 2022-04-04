@@ -172,6 +172,7 @@ Game | System
 [Dexterity](#dexterity) | GB
 [Dexter's Laboratory - Robot Rampage](#dexters-laboratory---robot-rampage) | GBC
 [Dick Tracy](#dick-tracy) | GB
+[Dig Dug](#dig-dug) | GB
 [Disco Elysium Game Boy Edition](#disco-elysium-game-boy-edition) | GB
 [Disco Elysium Game Boy Edition (Music)](#disco-elysium-game-boy-edition-music) | GBC
 [Disney's Tarzan](#disneys-tarzan) | GBC
@@ -2075,6 +2076,14 @@ This patch converts `Dick Tracy (U)` to the `.pocket` format.
 ROM MD5: `ab5f50d0e31a07e19739453bb9a2d328`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DickTracy.ips).
+
+## Dig Dug
+
+This patch converts `Dig Dug (U)` to the `.pocket` format.
+
+ROM MD5: `9719eaada417782a236a9d84805a512a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DigDug.ips).
 
 ## Disco Elysium Game Boy Edition
 
