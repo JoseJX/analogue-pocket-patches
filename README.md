@@ -654,6 +654,7 @@ Game | System
 [Tokimeki Memorial Pocket - Sport Hen - Koutei no Photograph](#tokimeki-memorial-pocket---sport-hen---koutei-no-photograph) | GBC
 [Tom and Jerry in Mouse Attacks!](#tom-and-jerry-in-mouse-attacks) | GBC
 [Tom Clancy's Rainbow Six](#tom-clancys-rainbow-six) | GBC
+[Tomb Raider](#tomb-raider) | GBC
 [Tomb Raider - Curse of the Sword](#tomb-raider---curse-of-the-sword) | GBC
 [Tonic Trouble](#tonic-trouble) | GBC
 [Tony Hawk's Pro Skater](#tony-hawks-pro-skater) | GBC
@@ -6172,6 +6173,14 @@ This patch converts `Tom Clancy's Rainbow Six (U,E)` to the `.pocket` format.
 ROM MD5: `6e863b582bddb6126bb63633f41befd8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RainbowSix.ips).
+
+## Tomb Raider
+
+This patch converts `Tomb Raider (U,E)` to the `.pocket` format.
+
+ROM MD5: `74b9b221c2b32147422144b327bd5f30`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TombRaider.ips).
 
 ## Tomb Raider - Curse of the Sword
 
