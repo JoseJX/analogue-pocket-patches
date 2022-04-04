@@ -188,6 +188,7 @@ Game | System
 [Dragon Ball Z - Legendary Super Warriors](#dragon-ball-z---legendary-super-warriors) | GBC
 [Dragon Dance](#dragon-dance) | GBC
 [Dragon's Lair](#dragons-lair) | GBC
+[Dragon's Lair - The Legend](#dragons-lair---the-legend) | GB
 [Dragon Quest III: Soshite Densetsu e...](#dragon-quest-iii-soshite-densetsu-e) | GBC
 [Dragon Quest Monsters (DE)](#dragon-quest-monsters-de) | GBC
 [Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ina no Bouken](#dragon-quest-monsters-2---maruta-no-fushigi-na-kagi---inu-no-bouken) | GBC
@@ -2216,6 +2217,14 @@ This patch converts `Dragon's Lair (U,E)` to the `.pocket` format.
 ROM MD5: `947f96cfd5bab7a03ec2f3fc0ae9238d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonsLair.ips).
+
+## Dragon's Lair - The Legend
+
+This patch converts `Dragon's Lair - The Legend (U)` to the `.pocket` format.
+
+ROM MD5: `ae4fda03378a0584d45a4735c9d6290e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonsLairLegend.ips).
 
 ## Dragon Quest III: Soshite Densetsu e...
 
