@@ -453,7 +453,7 @@ Game | System
 [Penguin Wars](#penguin-wars) | GB
 [Penta Dragon](#penta-dragon) | GB
 [Perfect Dark](#perfect-dark) | GBC
-[Philip & Marlowe in Bloomland](#philip-marlowe-in-bloomland) | GB
+[Philip & Marlowe in Bloomland](#philip--marlowe-in-bloomland) | GB
 [Picross 2](#picross-2) | GB
 [Pinball Dreams](#pinball-dreams) | GB
 [Pinball Fantasies](#pinball-fantasies) | GB
