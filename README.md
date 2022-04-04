@@ -523,7 +523,6 @@ Game | System
 [RoboCop](#robocop) | GB
 [RoboCop (J)](#robocop-j) | GB
 [RoboCop vs the Terminator](#robocop-vs-the-terminator) | GB
-[Robopon - Sun Version](#robopon---sun-version) | GBC
 [Rodland](#rodland) | GB
 [Rolan's Curse](#rolans-curse) | GB
 [Rolan's Curse II](#rolans-curse-ii) | GB
