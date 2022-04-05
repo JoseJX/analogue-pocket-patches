@@ -288,6 +288,7 @@ Game | System
 [Indiana Jones and the Infernal Machine](#indiana-jones-and-the-infernal-machine) | GBC
 [Indiana Jones and the Last Crusade](#indiana-jones-and-the-last-crusade) | GB
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
+[InfoGenius Systems - Personal Organizer with Phone Book](#infogenius-systems---personal-organizer-with-phone-book) | GB
 [International Karate 2000](#international-karate-2000) | GBC
 [International Track and Field](#international-track-and-field) | GBC
 [International Track and Field - Summer Games](#international-track-and-field---summer-games) | GBC
@@ -3066,6 +3067,14 @@ Copy the resulting `game.pocket` file to your SD card. Repeat this process for e
 ROM MD5: `65a5a0cb3c339ec473053c64c2218ab9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/INFGMB.ips).
+
+## InfoGenius Systems - Personal Organizer with Phone Book
+
+This patch converts `InfoGenius Systems - Personal Organizer with Phone Book (E)` to the `.pocket` format.
+
+ROM MD5: `872e582831a17faee1df663c39a73e99`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/InfoGeniusOrganizer.ips).
 
 ## International Karate 2000
 
