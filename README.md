@@ -54,6 +54,7 @@ Game | System
 [Asterix and Obelix vs. Caesar](#asterix-and-obelix-vs-caesar) | GBC
 [Asterix - Search for Dogmatix](#asterix---search-for-dogmatix) | GBC
 [Astro Rabby](#astro-rabby) | GB
+[Atlantis - The Lost Empire](#atlantis---the-lost-empire) | GBC
 [Atomic Punk](#atomic-punk) | GB
 [Bad Apple (Demo)](#bad-apple-demo) | GBC
 [Ballistic](#ballistic) | GBC
@@ -1117,6 +1118,14 @@ This patch converts `Astro Rabby (J)` to the `.pocket` format.
 ROM MD5: `5a88b67ed5475e591747bc7956642456`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AstroRabby.ips).
+
+## Atlantis - The Lost Empire
+
+This patch converts `Atlantis - The Lost Empire (U,E)` to the `.pocket` format.
+
+ROM MD5: `5aab47cf957c82c969bbc0a93232f883`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AtlantisLostEmpire.ips).
 
 ## Atomic Punk
 
