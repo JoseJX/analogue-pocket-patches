@@ -244,6 +244,7 @@ Game | System
 [Gear Works](#gear-works) | GB
 [Gekito Power Modeler](#gekito-power-modeler) | GB
 [George Foreman's KO Boxing](#george-foremans-ko-boxing) | GB
+[Getaway](#getaway) | GB
 [Gex - Enter the Gecko](#gex---enter-the-gecko) | GBC
 [Gex 3 - Deep Cover Gecko](#gex-3---deep-cover-gecko) | GBC
 [Gex 3 - Deep Pocket Gecko](#gex-3---deep-pocket-gecko) | GBC
@@ -2688,6 +2689,14 @@ This patch converts `George Foreman's KO Boxing (U,E)` to the `.pocket` format.
 ROM MD5: `8a4245cbeb1d6400b4cb586790400b60`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GeorgeForeman.ips).
+
+## Getaway
+
+This patch converts `Getaway (U)` to the `.pocket` format.
+
+ROM MD5: `033c219483ec7766517c94635b3a43f8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Getaway.ips).
 
 ## Gex - Enter the Gecko
 1gg
