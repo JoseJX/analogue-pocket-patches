@@ -141,6 +141,7 @@ Game | System
 [Classic Bubble Bobble (E)](#classic-bubble-bobble-e) | GBC
 [Commander Keen](#commander-keen) | GBC
 [Conker's Pocket Tales](#conkers-pocket-tales) | GBC
+[Contra](#contra) | GB
 [Contra III - Alien Wars](#contra-iii---alien-wars) | GB
 [Cool Ball](#cool-ball) | GB
 [Cool Bricks](#cool-bricks) | GBC
@@ -1840,6 +1841,14 @@ This patch was updated to fix a crash when dying. (2022/01/12)
 ROM MD5: `fee6336f969c9e72e9b78be53d512c1e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Conkers.ips).
+
+## Contra
+
+This patch converts `Contra (J)` to the `.pocket` format.
+
+ROM MD5: `2cc322a27530f6aaa09a35b2f14aebd5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Contra.ips).
 
 ## Contra III - Alien Wars
 
