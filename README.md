@@ -3208,6 +3208,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Kirby's Block Ball (U,E)` to the `.pocket` format.
 
+This patch was updated to fix corruption during one of the endings (2022/04/05)
+
 ROM MD5: `203db7ddc72359e4db5e9ab42a6f0ba8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysBlockBall.ips).
