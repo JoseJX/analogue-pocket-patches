@@ -484,6 +484,7 @@ Game | System
 [Pokemon Picross](#pokemon-picross) | GBC
 [Pokemon Pinball (E)](#pokemon-pinball-e) | GBC
 [Pokemon Prism](#pokemon-prism) | GBC
+[Pokemon Trading Card Game (En, Es, It)](#pokemon-trading-card-game-en-es-it) | GBC
 [Pokemon Yellow - 151](#pokemon-yellow---151) | GB
 [Pong - The Next Level](#pong---the-next-level) | GBC
 [Popeye 2](#popeye-2) | GB
@@ -4758,6 +4759,14 @@ Pokemon Prism is a fan conversion of Pokemon Crystal. You must apply the patch t
 Patched ROM MD5: `3cd828587eb8d3fe818d57f99b3a3c95`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokePrism.ips).
+
+## Pokemon Trading Card Game (En, Es, It)
+
+This patch converts `Pokemon Trading Card Game (En, Es, It) (E)` to the `.pocket` format.
+
+ROM MD5: `7eb08ef6d67164251eeeabf537fedccb`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Pokemon-TCG-EnEsIt.ips).
 
 ## Pokemon Yellow - 151
 
