@@ -6563,6 +6563,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Walt Disney's Alice In Wonderland (U)` to the `.pocket` format.
 
+It was updated to fix a crash when using the options menu. (2022/04/05)
+
 ROM MD5: `0ed5b9ffe7ad90d819cac810d05b669c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AliceInWonderland.ips).
