@@ -467,6 +467,7 @@ Game | System
 [Pocket Music](#pocket-music) | GBC
 [Pocket Puyo Puyo Tsuu](#pocket-puyo-puyo-tsuu) | GB
 [Pocket Soccer](#pocket-soccer) | GBC
+[Pokemon Blaue](#pokemon-blaue) | GB
 [Pokemon Brown](#pokemon-brown) | GB
 [Pokemon - Edicion Amarilla - Edicion Especial Pikachu](#pokemon---edicion-amarilla---edicion-especial-pikachu) | GBC
 [Pokemon Red++ v3 (Hard)](#pokemon-red-v3-hard) | GBC
@@ -4589,6 +4590,14 @@ This patch converts `Pocket Soccer (E)` to the `.pocket` format.
 ROM MD5: `03da498c5503d8747dc1eccf1101fce3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketSoccer.ips).
+
+## Pokemon Blaue
+
+This patch converts `Pokemon Blaue (DE)` to the `.pocket` format.
+
+ROM MD5: `a1ec7f07c7b4251d5fafc50622d546f8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonBlaue.ips).
 
 ## Pokemon Brown
 
