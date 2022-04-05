@@ -432,6 +432,7 @@ Game | System
 [NBA Jam - Tournament Edition](#nba-jam---tournament-edition) | GB
 [NBA Jam 2001](#nba-jam-2001) | GBC
 [Nectaris GB](#nectaris-gb) | GB
+[Nettou Garou Densetsu 2 - Aratanaru Tatakai](#nettou-garou-densetsu-2---aratanaru-tatakai) | GB
 [Nettou Real Bout Garou Densetsu Special](#nettou-real-bout-garou-densetsu-special) | GB
 [Nettou Samurai Spirits - Zankurou Musouken](#nettou-samurai-spirits---zankurou-musouken) | GB
 [New Batman Adventures - Chaos in Gotham](#new-batman-adventures---chaos-in-gotham) | GBC
@@ -4309,6 +4310,14 @@ This patch is compatible with the [translation patch](https://www.romhacking.net
 ROM MD5: `1080141c1b99b5b92d187990bdc85c6a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Nectaris.ips).
+
+## Nettou Garou Densetsu 2 - Aratanaru Tatakai
+
+This patch converts `Nettou Garou Densetsu 2 - Aratanaru Tatakai (J)` to the `.pocket` format.
+
+ROM MD5: `4e493ada5353cf6eb1c0f009d6a5ac13`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NettouGarouDensetsu2.ips).
 
 ## Nettou Real Bout Garou Densetsu Special
 
