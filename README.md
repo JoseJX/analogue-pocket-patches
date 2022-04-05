@@ -432,6 +432,7 @@ Game | System
 [NBA Jam - Tournament Edition](#nba-jam---tournament-edition) | GB
 [NBA Jam 2001](#nba-jam-2001) | GBC
 [Nectaris GB](#nectaris-gb) | GB
+[Nettou Real Bout Garou Densetsu Special](#nettou-real-bout-garou-densetsu-special) | GB
 [Nettou Samurai Spirits - Zankurou Musouken](#nettou-samurai-spirits---zankurou-musouken) | GB
 [New Batman Adventures - Chaos in Gotham](#new-batman-adventures---chaos-in-gotham) | GBC
 [New Chessmaster](#new-chessmaster) | GB
@@ -4305,6 +4306,14 @@ This patch is compatible with the [translation patch](https://www.romhacking.net
 ROM MD5: `1080141c1b99b5b92d187990bdc85c6a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Nectaris.ips).
+
+## Nettou Real Bout Garou Densetsu Special
+
+This patch converts `Nettou Real Bout Garou Densetsu Special (J)` to the `.pocket` format.
+
+ROM MD5: `4c24f644e70f0786d20d8ca9ffcea51c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NettouRealBout.ips).
 
 ## Nettou Samurai Spirits - Zankurou Musouken
 
