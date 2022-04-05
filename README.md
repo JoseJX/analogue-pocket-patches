@@ -363,6 +363,8 @@ Game | System
 [Makai Mura Gaiden - The Demon Darkness](#makai-mura-gaiden---the-demon-darkness) | GB
 [Marble Madness](#marble-madness) | GB
 [Marble Madness (GBC)](#marble-madness-color) | GBC
+[Mario Golf (E)](#mario-golf-e) | GBC
+[Mario Golf GB](#mario-golf-gb) | GBC
 [Mario's Picross](#marios-picross) | GB
 [Mario no Picross](#mario-no-picross) | GB
 [Mario & Yoshi](#mario-yoshi) | GB
@@ -3694,6 +3696,22 @@ This patch converts `Marble Madness (GBC) (U,E)` to the `.pocket` format.
 ROM MD5: `d2711ff066f40c4e6c471b79da0f08b7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarbleMadnessColor.ips).
+
+## Mario Golf (E)
+
+This patch converts `Mario Golf (E)` to the `.pocket` format.
+
+ROM MD5: `71156f1794556acd255ae256d8195e32`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioGolfE.ips).
+
+## Mario Golf GB
+
+This patch converts `Mario Golf GB (J)` to the `.pocket` format.
+
+ROM MD5: `c43ce6e1c66e6fcfc259762a9244a63d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioGolfGB.ips).
 
 ## Mario's Picross
 
