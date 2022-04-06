@@ -37,6 +37,7 @@ Game | System
 [Amazing Penguin](#amazing-penguin) | GB
 [Amazing Spider-Man](#amazing-spider-man) | GB
 [A-mazing Tater](#a-mazing-tater) | GB
+[Amida](#amida) | GB
 [Animaniacs](#animaniacs) | GB
 [Another Bible](#another-bible) | GB
 [Arcade Classic No. 1 - Asteroids and Missile Command](#arcade-classic-no-1---asteroids-and-missile-command) | GB
@@ -988,6 +989,14 @@ This patch converts `A-mazing Tater (U)` to the `.pocket` format.
 ROM MD5: `53b746bff74c50cd3ebcf41161c66cf3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AmazingTater.ips).
+
+## Amida
+
+This patch converts `Amida (J)` to the `.pocket` format.
+
+ROM MD5: `9642b7c599b47135cbd4e45e039d608d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Amida.ips).
 
 ## Animaniacs
 
