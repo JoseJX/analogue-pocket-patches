@@ -352,6 +352,7 @@ Game | System
 [Little Mermaid](#little-mermaid) | GB
 [Little Mermaid II - Pinball Frenzy](#little-mermaid-ii---pinball-frenzy) | GBC
 [Lock n' Chase ~ Lock 'n' Chase](#lock-n-chase-lock-n-chase) | GB
+[Logical](#logical) | GBC
 [Looney Tunes](#looney-tunes) | GB
 [Looney Tunes (GBC)](#looney-tunes-gbc) | GBC
 [Looney Tunes (GBC) (E)](#looney-tunes-gbc-e) | GBC
@@ -3614,6 +3615,14 @@ This patch converts `Lock n' Chase ~ Lock 'n' Chase (W)` to the `.pocket` format
 ROM MD5: `8bb31f539e8999d5c4e9449fe1befad6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LockNChase.ips).
+
+## Logical
+
+This patch converts `Logical (U)` to the `.pocket` format.
+
+ROM MD5: `eac27e6d4cd1d38d07f2a18ad8169af1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Logical.ips).
 
 ## Looney Tunes
 
