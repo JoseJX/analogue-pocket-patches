@@ -335,6 +335,7 @@ Game | System
 [Legend of Zelda - Link's Awakening (RevA)](#legend-of-zelda---links-awakening-reva) | GB
 [Legend of Zelda - Link's Awakening (F)](#legend-of-zelda---links-awakening-f) | GB
 [Legend of Zelda - Link's Awakening (G)](#legend-of-zelda---links-awakening-g) | GB
+[LEGO Alpha Team](#lego-alpha-team) | GBC
 [LEGO Island 2 - The Brickster's Revenge](#lego-island-2---the-bricksters-revenge) | GBC
 [LEGO Island 2 - The Brickster's Revenge (E)](#lego-island-2---the-bricksters-revenge-e) | GBC
 [Lemmings](#lemmings) | GBC
@@ -3473,6 +3474,14 @@ This patch converts `Legend of Zelda - Link's Awakening (G) (U,E)` to the `.pock
 ROM MD5: `8b7af1a8ca96c74301d633e0ce83ba0b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZeldaLinksAwakeningG.ips).
+
+## LEGO Alpha Team
+
+This patch converts `LEGO Alpha Team (U)` to the `.pocket` format.
+
+ROM MD5: `e79ce8c2b2e9ea0c0907cfbfadaa8744`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LEGOAlphaTeam.ips).
 
 ## LEGO Island 2 - The Brickster's Revenge
 
