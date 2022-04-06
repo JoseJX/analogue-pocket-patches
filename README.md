@@ -7000,6 +7000,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Yoshi's Cookie (U)` to the `.pocket` format.
 
+This patch was updated to fix a crash when pausing the game. (2022/04/06)
+
 ROM MD5: `bc1a3848092bdc900c157996c29a7783`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YoshisCookie.ips).
