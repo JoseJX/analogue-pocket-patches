@@ -106,6 +106,7 @@ Game | System
 [Bomb Jack](#bomb-jack) | GB
 [Bonk's Adventure](#bonks-adventure) | GB
 [Bonk's Revenge](#bonks-revenge) | GB
+[Booby Boys](#booby-boys) | GB
 [Boomer's Adventure in ASMIK World](#boomers-adventure-in-asmik-world) | GB
 [Brain Bender](#brain-bender) | GB
 [BreakThru!](#breakthru) | GB
@@ -1558,6 +1559,14 @@ This patch converts `Bonk's Revenge (U,E)` to the `.pocket` format.
 ROM MD5: `b73d76599e3d7f979a99bba5f1c92add`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BonksRevenge.ips).
+
+## Booby Boys
+
+This patch converts `Booby Boys (J)` to the `.pocket` format.
+
+ROM MD5: `d17aa3dd0a52bc3dc03bfe20f27c8b07`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BoobyBoys.ips).
 
 ## Boomer's Adventure in ASMIK World
 
