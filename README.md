@@ -368,6 +368,7 @@ Game | System
 [Magi Nation](#magi-nation) | GB
 [Magical Drop](#magical-drop) | GBC
 [Magical Tetris Challenge](#magical-tetris-challenge) | GBC
+[Magnetic Soccer](#magnetic-soccer) | GB
 [Makai Mura Gaiden - The Demon Darkness](#makai-mura-gaiden---the-demon-darkness) | GB
 [Marble Madness](#marble-madness) | GB
 [Marble Madness (GBC)](#marble-madness-color) | GBC
@@ -3743,6 +3744,14 @@ This patch converts `Magical Tetris Challenge (U)` to the `.pocket` format.
 ROM MD5: `a13623a452327ede4553ee2bd1b89a1a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagicalTetris.ips).
+
+## Magnetic Soccer
+
+This patch converts `Magnetic Soccer (E)` to the `.pocket` format.
+
+ROM MD5: `27334d7717d8e3dc953ba733ef1853c4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagneticSoccer.ips).
 
 ## Makai Mura Gaiden - The Demon Darkness
 
