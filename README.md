@@ -96,6 +96,7 @@ Game | System
 [Bishoujo Senshi Sailor Moon R](#bishoujo-senshi-sailor-moon-r) | GB
 [Blade](#blade) | GBC
 [Blades of Steel](#blades-of-steel) | GB
+[Block Kuzushi GB](#block-kuzushi-gb) | GB
 [Blues Brothers](#blues-brothers) | GB
 [Boggle Plus](#boggle-plus) | GB
 [Bo Jackson - Two Games in One](#bo-jackson---two-games-in-one) | GB
@@ -1482,6 +1483,14 @@ NOTE: After selecting a menu option, press the buttons a bunch, it seems to get 
 ROM MD5: `302caa3ceddccc5fba36787b44d25da7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BladesOfSteel.ips).
+
+## Block Kuzushi GB
+
+This patch converts `Block Kuzushi GB (J)` to the `.pocket` format.
+
+ROM MD5: `55ef8421492242c2726e355c41aef000`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BlockKuzushiGB.ips).
 
 ## Blues Brothers
 
