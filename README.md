@@ -161,6 +161,7 @@ Game | System
 [Cubix - Robots for Everyone - Race 'n Robots](#cubix---robots-for-everyone---race-n-robots) | GBC
 [Cyraid](#cyraid) | GB
 [Daikatana](#daikatana) | GBC
+[Daiku no Gen-San - Robot Teikoku no Yabou](#daiku-no-gen-san---robot-teikoku-no-yabou) | GB
 [Daedalian Opus](#daedalian-opus) | GB
 [Daffy Duck](#daffy-duck) | GB
 [Daffy Duck - Fowl Play](#daffy-duck---fowl-play) | GBC
@@ -247,6 +248,8 @@ Game | System
 [Game Boy Test Cartridge](#game-boy-test-cartridge) | GB
 [Game Boy Wars Turbo](#game-boy-wars-turbo) | GB
 [Game Boy Wars 3](#game-boy-wars-3) | GBC
+[Gamera - Daikaijuu Kuuchuu Kessen](#gamera---daikaijuu-kuuchuu-kessen) | GB
+[Gamera - Guardian of the Universe](#gamera---guardian-of-the-universe) | GB
 [Garfield Labyrinth](#garfield-labyrinth) | GB
 [Gauntlet II](#gauntlet-ii) | GB
 [Gear Works](#gear-works) | GB
@@ -2016,6 +2019,14 @@ ROM MD5: `d1934b308085c92b2ee492faa0d159c2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Daikatana.ips).
 
+## Daiku no Gen-San - Robot Teikoku no Yabou
+
+This patch converts `Daiku no Gen-San - Robot Teikoku no Yabou (J)` to the `.pocket` format.
+
+ROM MD5: `a46ded16cdf9308ed765e857203a59e7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaikuNoGen-San.ips).
+
 ## Daedalian Opus
 
 This patch converts `Daedalian Opus (U)` to the `.pocket` format.
@@ -2732,6 +2743,22 @@ It is also compatible with this [translation patch](https://www.romhacking.net/t
 ROM MD5: `748fa9419b35c0e8e43509457aaa1efa`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBW3.ips).
+
+## Gamera - Daikaijuu Kuuchuu Kessen
+
+This patch converts `Gamera - Daikaijuu Kuuchuu Kessen (J)` to the `.pocket` format.
+
+ROM MD5: `88c33c0fc3dbdc848b9be604cdda5744`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gamera.ips).
+
+## Gamera - Guardian of the Universe
+
+This patch converts `Gamera - Guardian of the Universe` to the `.pocket` format. First, apply the [English translation patch](https://www.romhacking.net/reviews/8389), resulting the in a ROM with the provided MD5, then apply this patch.
+
+ROM MD5: `aed4f63feaba8b8731aa3cf556a68e1a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GameraEn.ips).
 
 ## Garfield Labyrinth
 
