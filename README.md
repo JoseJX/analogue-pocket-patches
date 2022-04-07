@@ -23,6 +23,7 @@ Game | System
 [Adventures of Star Saver](#adventures-of-star-saver) | GB
 [After Burst](#after-burst) | GB
 [Air Force Delta](#air-force-delta) | GBC
+[Akazukin Chacha](#akazukin-chacha) | GB
 [Aladdin](#aladdin) | GB
 [Aladdin GBC](#aladdin-gbc) | GBC
 [Aladdin GBC (E)](#aladdin-gbc-e) | GBC
@@ -59,7 +60,7 @@ Game | System
 [Astro Rabby](#astro-rabby) | GB
 [Atlantis - The Lost Empire](#atlantis---the-lost-empire) | GBC
 [Atomic Punk](#atomic-punk) | GB
-[Akazukin Chacha](#akazukin-chacha) | GB
+[Ayakashi no Shiro](#ayakashi-no-shiro) | GB
 [Bad Apple (Demo)](#bad-apple-demo) | GBC
 [Ballistic](#ballistic) | GBC
 [Balloon Kid](#balloon-kid) | GB
@@ -879,6 +880,14 @@ ROM MD5: `ee37c79e8df6475d90e99e527823f92f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AirForceDelta.ips).
 
+## Akazukin Chacha
+
+This patch converts `Akazukin Chacha (J)` to the `.pocket` format.
+
+ROM MD5: `9a5215658c60a1802b11f728c292b536`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AkazukinChacha.ips).
+
 ## Aladdin
 
 This patch converts `Aladdin (U)` to the `.pocket` format.
@@ -1177,13 +1186,13 @@ ROM MD5: `76010c6ff6bd0c4e8ac934dc69fb96ab`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AtomicPunk.ips).
 
-## Akazukin Chacha
+## Ayakashi no Shiro
 
-This patch converts `Akazukin Chacha (J)` to the `.pocket` format.
+This patch converts `Ayakashi no Shiro (J)` to the `.pocket` format.
 
-ROM MD5: `9a5215658c60a1802b11f728c292b536`
+ROM MD5: `8f3095c4d98694f19270d8c2788d5e46`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AkazukinChacha.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AyakashiNoShiro.ips).
 
 ## Bad Apple (Demo)
 
