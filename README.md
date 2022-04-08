@@ -98,6 +98,7 @@ Game | System
 [Blade](#blade) | GBC
 [Blades of Steel](#blades-of-steel) | GB
 [Block Kuzushi GB](#block-kuzushi-gb) | GB
+[Block Kuzushi GB (English Translation)](#block-kuzushi-gb-english-translation) | GB
 [Blues Brothers](#blues-brothers) | GB
 [Boggle Plus](#boggle-plus) | GB
 [Bo Jackson - Two Games in One](#bo-jackson---two-games-in-one) | GB
@@ -1507,6 +1508,14 @@ This patch converts `Block Kuzushi GB (J)` to the `.pocket` format.
 ROM MD5: `55ef8421492242c2726e355c41aef000`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BlockKuzushiGB.ips).
+
+## Block Kuzushi GB (English Translation)
+
+This patch converts `Block Kuzushi GB (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/819/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `b4c3e1ecce45d316a60e54f379f6acb1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BlockKuzushiGBEng.ips).
 
 ## Blues Brothers
 
