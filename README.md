@@ -601,6 +601,7 @@ Game | System
 [Space Invaders](#space-invaders) | GB
 [Space Invaders (E)](#space-invaders-e) | GB
 [Space Invaders (J)](#space-invaders-j) | GB
+[Space Invaders GBC](#space-invaders-gbc) | GBC
 [Space Marauder](#space-marauder) | GBC
 [Space Station Silicon Valley](#space-station-silicon-valley) | GBC
 [Spanky's Quest](#spankys-quest) | GB
@@ -5758,6 +5759,14 @@ This patch converts `Space Invaders (J)` to the `.pocket` format.
 ROM MD5: `7c1ab6fe16bcf564c7f8e13e40f2b87d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpaceInvadersJ.ips).
+
+## Space Invaders GBC
+
+This patch converts `Space Invaders GBC (U,E)` to the `.pocket` format.
+
+ROM MD5: `46e0e199f58aebbb75b4ed16da5aae60`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpaceInvadersGBC.ips).
 
 ## Space Marauder
 
