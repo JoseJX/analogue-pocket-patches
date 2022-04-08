@@ -61,6 +61,7 @@ Game | System
 [Atlantis - The Lost Empire](#atlantis---the-lost-empire) | GBC
 [Atomic Punk](#atomic-punk) | GB
 [Ayakashi no Shiro](#ayakashi-no-shiro) | GB
+[Ayakashi no Shiro (English Translation)](#ayakashi-no-shiro-english-translation) | GB
 [Bad Apple (Demo)](#bad-apple-demo) | GBC
 [Ballistic](#ballistic) | GBC
 [Balloon Kid](#balloon-kid) | GB
@@ -214,6 +215,7 @@ Game | System
 [Earthworm Jim - Menace 2 the Galaxy](#earthworm-jim---menace-2-the-galaxy) | GBC
 [Elevator Action](#elevator-action) | GB
 [Elevator Action EX](#elevator-action-ex) | GBC
+[Elmo's ABCs](#elmos-abcs) | GBC
 [Extra Bases!](#extra-bases) | GB
 [F-1 Race](#f-1-race) | GB
 [F-1 Race (Rev A)](#f-1-race-rev-a) | GB
@@ -1200,6 +1202,14 @@ This patch converts `Ayakashi no Shiro (J)` to the `.pocket` format.
 ROM MD5: `8f3095c4d98694f19270d8c2788d5e46`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AyakashiNoShiro.ips).
+
+## Ayakashi no Shiro (English Translation)
+
+This patch converts `Castle of Ayakashi` to the `.pocket` format. To apply this patch, apply the [translation patch](https://www.romhacking.net/translations/3154/) first, which will result in the MD5 below.
+
+ROM MD5: `501de1b6056bee7aeb0c2bcbb8b3d806`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AyakashiNoShiroEng.ips).
 
 ## Bad Apple (Demo)
 
@@ -2466,6 +2476,14 @@ This patch converts `Elevator Action EX (E)` to the `.pocket` format.
 ROM MD5: `f88959b615f284cc120cd17f5263d018`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ElevatorActionEX.ips).
+
+## Elmo's ABCs
+
+This patch converts `Elmo's ABCs (U)` to the `.pocket` format.
+
+ROM MD5: `db9d9e20af969a2ee248ae9af42a5d36`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ElmosABCs.ips).
 
 ## Extra Bases!
 
