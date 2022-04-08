@@ -387,6 +387,8 @@ Game | System
 [Magi Nation](#magi-nation) | GB
 [Magical Drop](#magical-drop) | GBC
 [Magical Tetris Challenge](#magical-tetris-challenge) | GBC
+[Magic Knight Rayearth 2nd. - The Missing Colors](#magic-knight-rayearth-2nd---the-missing-colors) | GB
+[Magic Knight Rayearth 2nd. - The Missing Colors (English Translation)](#magic-knight-rayearth-2nd---the-missing-colors-english-translation) | GB
 [Magnetic Soccer](#magnetic-soccer) | GB
 [Makai Mura Gaiden - The Demon Darkness](#makai-mura-gaiden---the-demon-darkness) | GB
 [Marble Madness](#marble-madness) | GB
@@ -3915,6 +3917,22 @@ This patch converts `Magical Tetris Challenge (U)` to the `.pocket` format.
 ROM MD5: `a13623a452327ede4553ee2bd1b89a1a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagicalTetris.ips).
+
+## Magic Knight Rayearth 2nd. - The Missing Colors
+
+This patch converts `Magic Knight Rayearth 2nd. - The Missing Colors (J)` to the `.pocket` format.
+
+ROM MD5: `522c139d757a5f5aef530c60ef3c5502`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagicKnightRayearth2nd.ips).
+
+## Magic Knight Rayearth 2nd. - The Missing Colors (English Translation)
+
+This patch converts `Magic Knight Rayearth 2nd. - The Missing Colors (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/2170/), which will result in the MD5 below, then apply this patch.
+
+ROM MD5: `8a0bd22a1e8c1c4259d12df1f1136b57`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagicKnightRayearth2ndEng.ips).
 
 ## Magnetic Soccer
 
