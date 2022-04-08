@@ -318,6 +318,8 @@ Game | System
 [Jurassic Park](#jurassic-park) | GB
 [Jurassic Park (E)](#jurassic-park-e) | GB
 [Kaeru no Tame ni Kane wa Naru](#kaeru-no-tame-ni-kane-wa-naru) | GB
+[Karakuri Kengou Den - Musashi Lord](#karakuri-kengou-den---musashi-lord) | GB
+[Karakuri Kengou Den - Musashi Lord (English Translation)](#karakuri-kengou-den---musashi-lord-english-translation) | GB
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
 [Killer Instinct](#killer-instinct) | GB
@@ -3333,6 +3335,22 @@ This patch is compatible with the English [translation patch](https://www.romhac
 ROM MD5: `4ebe14c4c51555908c0e4cabb66dc813`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Kaeru.ips).
+
+## Karakuri Kengou Den - Musashi Lord
+
+This patch converts `Karakuri Kengou Den - Musashi Lord (J)` to the `.pocket` format.
+
+ROM MD5: `a74a2a87bb4b2637c5243a37523fa7ae`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KarakuriKengouDen.ips).
+
+## Karakuri Kengou Den - Musashi Lord (English Translation)
+
+This patch converts `Karakuri Kengou Den - Musashi Lord (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/2055/) which results in the MD5 below, then apply this patch.
+
+ROM MD5: `ba683fde6480ae150860402c9523aa3d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KarakuriKengouDenEng.ips).
 
 ## Kid Dracula
 
