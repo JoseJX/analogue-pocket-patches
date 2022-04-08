@@ -731,6 +731,7 @@ Game | System
 [Vegas Stakes](#vegas-stakes) | GB
 [Vigilante 8](#vigilante-8) | GBC
 [V-Rally - Championship Edition](#v-rally---championship-edition) | GBC
+[VR Pocket Manager](#vr-pocket-manager) | GB
 [Wacky Races](#wacky-races) | GBC
 [Walt Disney's Alice In Wonderland](#walt-disneys-alice-in-wonderland) | GBC
 [Warlocked](#warlocked) | GBC
@@ -6845,6 +6846,14 @@ This patch converts `V-Rally - Championship Edition (U)` to the `.pocket` format
 ROM MD5: `84a0fe6c3fb014cf43c119c344f99965`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/VRally.ips).
+
+## VR Pocket Manager
+
+This patch converts `VR Pocket Manager` to the `.pocket` format. Get a copy of the game from the [Developer's Itch.io site](https://jarimiranda.itch.io/vr-pocket-manager), then apply this patch.
+
+ROM MD5: `9c83e00b56b75e49cd52922bfd7313d9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/VRPocketManager.ips).
 
 ## Wacky Races
 
