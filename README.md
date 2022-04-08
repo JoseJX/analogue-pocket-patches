@@ -325,6 +325,8 @@ Game | System
 [Killer Instinct](#killer-instinct) | GB
 [King of Fighers '95](#king-of-fighers-95) | GB
 [King of Fighters - Heat of Battle](#king-of-fighters---heat-of-battle) | GB
+[Kinin Koumaroku Oni](#kinin-koumaroku-oni) | GB
+[Kinin Koumaroku Oni (English Translation)](#kinin-koumaroku-oni-english-translation) | GB
 [Kirby's Block Ball](#kirbys-block-ball) | GB
 [Kirby's Dream Land](#kirbys-dream-land) | GB
 [Kirby's Dream Land DX with Fluffy Repair Service - Basic](#kirbys-dream-land-dx-with-fluffy-repair-service---basic) | GBC
@@ -3391,6 +3393,22 @@ This patch converts `King of Fighters - Heat of Battle (E)` to the `.pocket` for
 ROM MD5: `cf6ec3c13cd20240ef0c0c63ec06558f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KoF-HoB.ips).
+
+## Kinin Koumaroku Oni
+
+This patch converts `Kinin Koumaroku Oni (J)` to the `.pocket` format.
+
+ROM MD5: `a7594d0b4362a7e4325dd8ea913c4bf1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KininKoumarokuOni.ips).
+
+## Kinin Koumaroku Oni (English Translation)
+
+This patch converts `Kinin Koumaroku Oni (English Translation)` to the `.pocket` format. First, apply the [English Translation Patch](https://www.romhacking.net/translations/2295/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `0e07210b5f62ec8587d270c33a04ed1e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KininKoumarokuOniEng.ips).
 
 ## Kirby's Block Ball
 
