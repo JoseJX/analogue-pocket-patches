@@ -341,6 +341,7 @@ Game | System
 [Konami GB Collection Volume 2](#konami-gb-collection-volume-2) | GBC
 [Konami GB Collection Volume 3](#konami-gb-collection-volume-3) | GBC
 [Konami GB Collection Volume 4](#konami-gb-collection-volume-4) | GBC
+[Koro Dice](#koro-dice) | GB
 [Krusty's Fun House](#krustys-fun-house) | GB
 [Kung-Fu Master](#kung-fu-master) | GB
 [Kwirk - He's A-maze-ing](#kwirk---hes-a-maze-ing) | GB
@@ -3545,6 +3546,13 @@ This patch was updated to fix a crash when the time ran out in Antarctic Adventu
 ROM MD5: `f3414d53473e2cc43347774cc5f40495`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Konami4.ips).
+
+## Koro Dice
+This patch converts `Koro Dice (J)` to the `.pocket` format.
+
+ROM MD5: `dd846c4e076dd2f02fc3a4e2ecb6c940`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KoroDice.ips).
 
 ## Krusty's Fun House
 
