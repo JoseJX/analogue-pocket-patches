@@ -366,6 +366,8 @@ Game | System
 [Link's Awakening Redux](#links-awakening-redux) | GBC
 [Lion King](#lion-king) | GB
 [Lion King - Simba's Mighty Adventure](#lion-king---simbas-mighty-adventure) | GBC
+[Little Master - Raikuban no Densetsu](#little-master---raikuban-no-densetsu) | GB
+[Little Master - Raikuban no Densetsu (English Patch)](#little-master---raikuban-no-densetsu-english-patch) | GB
 [Little Mermaid](#little-mermaid) | GB
 [Little Mermaid II - Pinball Frenzy](#little-mermaid-ii---pinball-frenzy) | GBC
 [Lock n' Chase ~ Lock 'n' Chase](#lock-n-chase-lock-n-chase) | GB
@@ -3745,6 +3747,21 @@ This patch converts `Lion King - Simba's Mighty Adventure (U,E)` to the `.pocket
 ROM MD5: `67117cc76e2b270e65c2778c734f905f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LionKingSMA.ips).
+
+## Little Master - Raikuban no Densetsu
+
+This patch converts `Little Master - Raikuban no Densetsu (J)` to the `.pocket` format.
+
+ROM MD5: `de95d425f6a2836960f4ee2a9aa2f6f7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LittleMaster.ips).
+
+## Little Master - Raikuban no Densetsu (English Patch)
+This patch converts `Little Master - Raikuban no Densetsu (English Patch)` to the `.pocket` format. First, apply the [English translation patch](https://www.romhacking.net/translations/3647/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `6ee73d60e4d5a2984edea054082b15bf`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LittleMasterEng.ips).
 
 ## Little Mermaid
 
