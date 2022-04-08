@@ -113,6 +113,7 @@ Game | System
 [Bonk's Adventure](#bonks-adventure) | GB
 [Bonk's Revenge](#bonks-revenge) | GB
 [Booby Boys](#booby-boys) | GB
+[Booby Boys (English Translation)](#booby-boys-english-translation) | GB
 [Boomer's Adventure in ASMIK World](#boomers-adventure-in-asmik-world) | GB
 [Brain Bender](#brain-bender) | GB
 [BreakThru!](#breakthru) | GB
@@ -1630,6 +1631,14 @@ This patch converts `Booby Boys (J)` to the `.pocket` format.
 ROM MD5: `d17aa3dd0a52bc3dc03bfe20f27c8b07`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BoobyBoys.ips).
+
+## Booby Boys (English Translation)
+
+This patch converts `Booby Boys (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/1699/), resulting in the MD5 below, then apply this patch. 
+
+ROM MD5: `faa5793986914861a1edeb8719d6fe76`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BoobyBoysEng.ips).
 
 ## Boomer's Adventure in ASMIK World
 
