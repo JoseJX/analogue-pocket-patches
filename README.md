@@ -447,6 +447,7 @@ Game | System
 [Mighty Morphin Power Rangers](#mighty-morphin-power-rangers) | GB
 [Mighty Morphin Power Rangers - The Movie](#mighty-morphin-power-rangers---the-movie) | GB
 [Miner 2049er Starring Bounty Bob](#miner-2049er-starring-bounty-bob) | GB
+[Miracle Adventure of Esparks - Ushinawareta Seiseki Perivron](#miracle-adventure-of-esparks---ushinawareta-seiseki-perivron) | GB
 [Mission Impossible](#mission-impossible) | GBC
 [Mobile Golf](#mobile-golf) | GBC
 [Mobile Golf (English Translation)](#mobile-golf-english-translation) | GBC
@@ -4461,6 +4462,14 @@ This patch converts `Miner 2049er Starring Bounty Bob (U)` to the `.pocket` form
 ROM MD5: `e5eba5278bbc6e5f040649afe98a0af4`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Miner2049er.ips).
+
+## Miracle Adventure of Esparks - Ushinawareta Seiseki Perivron
+
+This patch converts `Miracle Adventure of Esparks - Ushinawareta Seiseki Perivron (J)` to the `.pocket` format.
+
+ROM MD5: `64080619789f154ee057f2946a98c61c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MiracleAdventureEsparks.ips).
 
 ## Mission Impossible
 
