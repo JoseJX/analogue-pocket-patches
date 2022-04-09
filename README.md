@@ -751,7 +751,7 @@ Game | System
 [Track Meet](#track-meet) | GB
 [Trade and Battle Card Hero](#trade-and-battle-card-hero) | GBC
 [Trax](#trax) | GB
-[Trogday 2022](#trogday-2022) | GBC
+[Trip World (J)](#trip-world-j) | GB
 [Trouballs](#trouballs) | GBC
 [True Lies](#true-lies) | GB
 [Tumble Pop](#tumble-pop) | GB
@@ -7023,6 +7023,16 @@ It is a patch for this ROM available on [itch.io](https://videlectrix.itch.io/tr
 ROM MD5: `6a6931f6d1a6e60b4da9551e83b2742b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trogday2022.ips).
+
+## Trip World (J)
+
+This patch converts `Trip World (J)` to the `.pocket` format.
+
+ROM MD5: `e0a81dcc3aa0db3896c6f46e0ed3fc80`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TripWorldJ.ips).
+
+[Trogday 2022](#trogday-2022) | GBC
 
 ## Trouballs
 
