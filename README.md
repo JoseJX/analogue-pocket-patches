@@ -478,6 +478,7 @@ Game | System
 [Mystic Quest (De)](#mystic-quest-de) | GB
 [Mystic Quest (E)](#mystic-quest-e) | GB
 [Mystic Quest (Fr)](#mystic-quest-fr) | GB
+[Nangoku Shounen Papuwa-kun - Ganmadan no Yabou](#nangoku-shounen-papuwa-kun---ganmadan-no-yabou) | GB
 [NBA 3-on-3 Featuring Kobe Bryant](#nba-3-on-3-featuring-kobe-bryant) | GBC
 [NBA All Star Challenge](#nba-all-star-challenge) | GB
 [NBA Jam](#nba-jam) | GB
@@ -4720,6 +4721,14 @@ This patch converts `Mystic Quest (Fr)` to the `.pocket` format.
 ROM MD5: `2efe1569e3be81e7e19b13eafc60cd24`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MysticQuestF.ips).
+
+## Nangoku Shounen Papuwa-kun - Ganmadan no Yabou
+
+This patch converts `Nangoku Shounen Papuwa-kun - Ganmadan no Yabou (J)` to the `.pocket` format.
+
+ROM MD5: `c5256354a6fcd57240c97a399773822e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NangokuShounenPapuwakun.ips).
 
 ## NBA 3-on-3 Featuring Kobe Bryant
 
