@@ -1,4 +1,4 @@
-# analogue-pocket-patches
+# analogue-pocket-patchc4f6cd3e25ff074ffe337be7f43dd409`
 
 ## Table of Contents
 
@@ -42,10 +42,13 @@ Game | System
 [Amida](#amida) | GB
 [Animaniacs](#animaniacs) | GB
 [Another Bible](#another-bible) | GB
+[Another Bible (English Translation)](#another-bible-english-translation) | GB
 [Arcade Classic No. 1 - Asteroids and Missile Command](#arcade-classic-no-1---asteroids-and-missile-command) | GB
 [Arcade Classic No. 2 - Centipede and Millipede](#arcade-classic-no-2---centipede-and-millipede) | GB
 [Arcade Classic No. 3 - Galaga & Galaxian](#arcade-classic-no-3---galaga-and-galaxian) | GB
+[Arcade Classic No. 3 - Galaga & Galaxian (E)](#arcade-classic-no-3---galaga-and-galaxian-e) | GB
 [Arcade Classic No. 3 - Galaga & Galaxian DX](#arcade-classic-no-3---galaga-and-galaxian-dx) | GB
+[Arcade Classic No. 3 - Galaga & Galaxian DX (E)](#arcade-classic-no-3---galaga-and-galaxian-dx-e) | GB
 [Arcade Hits - Moon Patrol and Spy Hunter](#arcade-hits---moon-patrol-and-spy-hunter) | GBC
 [Aretha](#aretha) | GB
 [Army Men](#army-men) | GBC
@@ -66,7 +69,9 @@ Game | System
 [Ballistic](#ballistic) | GBC
 [Balloon Kid](#balloon-kid) | GB
 [Balloon Fight GB](#balloon-fight-gb) | GBC
+[Balloon Fight GB (English Translation](#balloon-fight-gb-english-translation) | GBC
 [Banishing Racer](#banishing-racer) | GB
+[Banishing Racer (English Translation)](#banishing-racer-english-translation) | GB
 [Bart and the Beanstalk](#bart-and-the-beanstalk) | GB
 [Bart no Jack to Mame no Ki](#bart-no-jack-to-mame-no-ki) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
@@ -143,6 +148,7 @@ Game | System
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
 [Catrap](#catrap) | GB
 [Chalvo 55 - Super Puzzle Action](#chalvo-55---super-puzzle-action) | GB
+[Chalvo 55 - Super Puzzle Action (English Translation)](#chalvo-55---super-puzzle-action-english-translation) | GB
 [Chase H.Q. - Secret Police](#chase-hq---secret-police) | GBC
 [Cherry Rescue](#cherry-rescue) | GB
 [Chessmaster](#chessmaster) | GB
@@ -194,6 +200,7 @@ Game | System
 [Donkey Kong Land - New Colors Mode](#donkey-kong-land---new-colors-mode) | GBC
 [Donkey Kong Land III](#donkey-kong-land-iii) | GB
 [Donkey Kong GB - Dinky Kong and Dixie Kong](#donkey-kong-gb---dinky-kong-and-dixie-kong) | GB
+[Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation)](#donkey-kong-gb---dinky-kong-and-dixie-kong-english-translation) | GB
 [dots](#dots) | GBC
 [Double Dragon 3 - The Arcade Game](#double-dragon-3---the-arcade-game) | GB
 [Double Dribble - 5 on 5](#double-dribble---5-on-5) | GB
@@ -252,7 +259,9 @@ Game | System
 [Game & Watch Gallery 3](#game--watch-gallery-3) | GBC
 [Game Boy Test Cartridge](#game-boy-test-cartridge) | GB
 [Game Boy Wars Turbo](#game-boy-wars-turbo) | GB
+[Game Boy Wars Turbo (English Translation)](#game-boy-wars-turbo-english-translation) | GB
 [Game Boy Wars 3](#game-boy-wars-3) | GBC
+[Game Boy Wars 3 (English Translation)](#game-boy-wars-3-english-translation) | GBC
 [Gamera - Daikaijuu Kuuchuu Kessen](#gamera---daikaijuu-kuuchuu-kessen) | GB
 [Gamera - Guardian of the Universe](#gamera---guardian-of-the-universe) | GB
 [Ganso!! Yancha Maru](#ganso-yancha-maru) | GB
@@ -268,6 +277,7 @@ Game | System
 [Ghostbusters II](#ghostbusters-ii) | GB
 [Gimmick Land](#gimmick-land) | GBC
 [God Medicine - Hukkoku Ban](#god-medicine---hukkoku-ban) | GB
+[God Medicine - Hukkoku Ban (English Translation)](#god-medicine---hukkoku-ban-english-translation) | GB
 [Godzilla](#godzilla) | GB
 [Gold and Glory - The Road to El Dorado](#gold-and-glory---the-road-to-el-dorado) | GBC
 [Go! Go! Tank](#go-go-tank) | GB
@@ -275,6 +285,7 @@ Game | System
 [Grand Theft Auto](#grand-theft-auto) | GBC
 [Grand Theft Auto 2](#grand-theft-auto-2) | GBC
 [Grandia - Parallel Trippers](#grandia---parallel-trippers) | GBC
+[Grandia - Parallel Trippers (English Translation)](#grandia---parallel-trippers-english-translation) | GBC
 [Great Greed](#great-greed) | GB
 [Gremlins 2 - The New Batch](#gremlins-2---the-new-batch) | GB
 [Hammerin' Harry - Ghost Building Company](#hammerin-harry---ghost-building-company) | GB
@@ -300,6 +311,7 @@ Game | System
 [Hyper Lode Runner](#hyper-lode-runner) | GB
 [Ikari no Yousai](#ikari-no-yousai) | GB
 [Ikari no Yousai 2](#ikari-no-yousai-2) | GB
+[Ikari no Yousai 2 (English Translation)](#ikari-no-yousai-2-english-translation) | GB
 [Incredible Crash Dummies](#incredible-crash-dummies) | GB
 [Indiana Jones and the Infernal Machine](#indiana-jones-and-the-infernal-machine) | GBC
 [Indiana Jones and the Last Crusade](#indiana-jones-and-the-last-crusade) | GB
@@ -318,6 +330,7 @@ Game | System
 [Jurassic Park](#jurassic-park) | GB
 [Jurassic Park (E)](#jurassic-park-e) | GB
 [Kaeru no Tame ni Kane wa Naru](#kaeru-no-tame-ni-kane-wa-naru) | GB
+[Kaeru no Tame ni Kane wa Naru (English Translation)](#kaeru-no-tame-ni-kane-wa-naru-english-translation) | GB
 [Karakuri Kengou Den - Musashi Lord](#karakuri-kengou-den---musashi-lord) | GB
 [Karakuri Kengou Den - Musashi Lord (English Translation)](#karakuri-kengou-den---musashi-lord-english-translation) | GB
 [Kid Dracula](#kid-dracula) | GB
@@ -391,6 +404,7 @@ Game | System
 [Magic Knight Rayearth 2nd. - The Missing Colors (English Translation)](#magic-knight-rayearth-2nd---the-missing-colors-english-translation) | GB
 [Magnetic Soccer](#magnetic-soccer) | GB
 [Makai Mura Gaiden - The Demon Darkness](#makai-mura-gaiden---the-demon-darkness) | GB
+[Makai Mura Gaiden - The Demon Darkness (English Translation)](#makai-mura-gaiden---the-demon-darkness-english-translation) | GB
 [Marble Madness](#marble-madness) | GB
 [Marble Madness (GBC)](#marble-madness-color) | GBC
 [Mario Golf (E)](#mario-golf-e) | GBC
@@ -420,7 +434,7 @@ Game | System
 [Megami Tensei Gaiden - Last Bible II - English Translation](#megami-tensei-gaiden---last-bible-ii-english) | GBC
 [Mercenary Force](#mercenary-force) | GB
 [Metal Gear Solid](#metal-gear-solid) | GBC
-[Metal Gear Solid (European Version)](#metal-gear-solid-european-version) | GBC
+[Metal Gear Solid (E)](#metal-gear-solid-e) | GBC
 [Metal Walker](#metal-walker) | GBC
 [mGB](#mgb) | GBC
 [Mickey Mouse](#mickey-mouse) | GB
@@ -435,6 +449,7 @@ Game | System
 [Miner 2049er Starring Bounty Bob](#miner-2049er-starring-bounty-bob) | GB
 [Mission Impossible](#mission-impossible) | GBC
 [Mobile Golf](#mobile-golf) | GBC
+[Mobile Golf (English Translation)](#mobile-golf-english-translation) | GBC
 [Moguranya](#moguranya) | GB
 [Mole Mania](#mole-mania) | GB
 [Monkey Puncher](#monkey-puncher) | GBC
@@ -466,6 +481,7 @@ Game | System
 [NBA Jam - Tournament Edition](#nba-jam---tournament-edition) | GB
 [NBA Jam 2001](#nba-jam-2001) | GBC
 [Nectaris GB](#nectaris-gb) | GB
+[Nectaris GB (English Translation)](#nectaris-gb-english-translation) | GB
 [Nettou Garou Densetsu 2 - Aratanaru Tatakai](#nettou-garou-densetsu-2---aratanaru-tatakai) | GB
 [Nettou Real Bout Garou Densetsu Special](#nettou-real-bout-garou-densetsu-special) | GB
 [Nettou Samurai Spirits - Zankurou Musouken](#nettou-samurai-spirits---zankurou-musouken) | GB
@@ -480,6 +496,7 @@ Game | System
 [Nintendo World Cup](#nintendo-world-cup) | GB
 [Nobunaga's Ambition](#nobunagas-ambition) | GB
 [Noobow](#noobow) | GB
+[Noobow (English Translation)](#noobow-english-translation) | GB
 [Ohastua Dance Dance Revolution GB](#ohastua-dance-dance-revolution-gb) | GBC
 [Operation C](#operation-c) | GB
 [Othello](#othello) | GB
@@ -493,9 +510,11 @@ Game | System
 [Parodius Da!](#parodius-da) | GB
 [Penguin Wars](#penguin-wars) | GB
 [Penta Dragon](#penta-dragon) | GB
+[Penta Dragon (English Translation)](#penta-dragon-english-translation) | GB
 [Perfect Dark](#perfect-dark) | GBC
 [Philip & Marlowe in Bloomland](#philip--marlowe-in-bloomland) | GB
 [Picross 2](#picross-2) | GB
+[Picross 2 (English Translation)](#picross-2-english-translation) | GB
 [Pinball Dreams](#pinball-dreams) | GB
 [Pinball Fantasies](#pinball-fantasies) | GB
 [Pipe Dream](#pipe-dream) | GB
@@ -577,7 +596,9 @@ Game | System
 [Sagaia](#sagaia) | GB
 [Saigo No Nindou](#saigo-no-nindou) | GB
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
+[Sakura Wars GB](#sakura-wars-gb) | GBC
 [Samurai Kid](#samurai-kid) | GBC
+[Samurai Kid (English Translation)](#samurai-kid-english-translation) | GBC
 [Samurai Showdown](#samurai-showdown) | GB
 [San Francisco Rush 2049](#san-francisco-rush-2049) | GBC
 [Scooby-Doo! Classic Creep Capers](#scooby-doo-classic-creep-capers) | GBC
@@ -592,6 +613,7 @@ Game | System
 [Sheep It Up!](#sheep-it-up) | GB
 [Shin Megami Tensei Devil Children - Aka no Sho](#shin-megami-tensei-devil-children---aka-no-sho) | GBC
 [Shin Megami Tensei Devil Children - Kuro no Sho](#shin-megami-tensei-devil-children---kuro-no-sho) | GBC
+[Shin Megami Tensei Devil Children - Kuro no Sho (English Translation)](#shin-megami-tensei-devil-children---kuro-no-sho-english-translation) | GBC
 [Shin Megami Tensai Devil Children - Shiro no Sho](#shin-megami-tensai-devil-children---shiro-no-sho) | GBC
 [Shin Pokemon Blue](#shin-pokemon-blue) | GB
 [Shin Pokemon Blue (J)](#shin-pokemon-blue-j) | GB
@@ -636,6 +658,7 @@ Game | System
 [Spy vs Spy - Operation Booby Trap](#spy-vs-spy---operation-booby-trap) | GBC
 [Stargate](#stargate) | GB
 [Star Ocean - Blue Sphere](#star-ocean---blue-sphere) | GBC
+[Star Ocean - Blue Sphere (English Translation)](#star-ocean---blue-sphere-english-translation) | GBC
 [Star Trek - 25th Anniversary](#star-trek---25th-anniversary) | GB
 [Star Trek - The Next Generation](#star-trek---the-next-generation) | GB
 [Star Wars](#star-wars) | GB
@@ -654,12 +677,15 @@ Game | System
 [Super Off Road](#super-off-road) | GB
 [Super R.C. Pro-Am](#super-rc-pro-am) | GB
 [Super Robot Pinball](#super-robot-pinball) | GBC
+[Super Robot Pinball (English Translation)](#super-robot-pinball-english-translation) | GBC
 [Super Robot Taisen](#super-robot-taisen) | GB
+[Super Robot Taisen (English Translation)](#super-robot-taisen-english-translation) | GB
 [Super Scrabble](#super-scrabble) | GB
 [Super Star Wars - Return of the Jedi](#super-star-wars---return-of-the-jedi) | GB
 [Survival Kids](#survival-kids) | GBC
 [Survival Kids - Kotou no Boukensha](#survival-kids---kotou-no-boukensha) | GBC
 [Survival Kids 2 - Dasshutsu!! Futago-Jima!](#survival-kids-2---dasshutsu-futago-jima) | GBC
+[Survival Kids 2 - Dasshutsu!! Futago-Jima! (English Translation)](#survival-kids-2---dasshutsu-futago-jima-english-translation) | GBC
 [Sutte Hakkun GB](#sutte-hakkun-gb) | GBC
 [Sword of Hope](#sword-of-hope) | GB
 [Sword of Hope II](#sword-of-hope-ii) | GB
@@ -731,6 +757,7 @@ Game | System
 [Ultima - Runes of Virtue](#ultima---runes-of-virtue) | GB
 [Ultima - Runes of Virtue II](#ultima---runes-of-virtue-ii) | GB
 [Ultraman Ball](#ultraman-ball) | GB
+[Ultraman Ball (English Translation)](#ultraman-ball-english-translation) | GB
 [Uno](#uno) | GBC
 [Vegas Stakes](#vegas-stakes) | GB
 [Vigilante 8](#vigilante-8) | GBC
@@ -753,11 +780,17 @@ Game | System
 [Wink and the Broken Robot v5.7](#wink-and-the-broken-robot-v5-7) | GBC
 [Wizards and Warriors Chapter X - The Fortress of Fear](#wizards-and-warriors-chapter-x---the-fortress-of-fear) | GB
 [Wizardry I - Proving Grounds of the Mad Overlord](#wizardry-i---proving-grounds-of-the-mad-overlord) | GBC
+[Wizardry I - Proving Grounds of the Mad Overlord (English Translation)](#wizardry-i---proving-grounds-of-the-mad-overlord-english-translation) | GBC
 [Wizardry II - Llylgamyn no Isan](#wizardry-ii---llylgamyn-no-isan) | GBC
+[Wizardry II - Llylgamyn no Isan (English Translation)](#wizardry-ii---llylgamyn-no-isan-english-translation) | GBC
 [Wizardry III - Diamond no Kishi](#wizardry-iii---diamond-no-kishi) | GBC
+[Wizardry III - Diamond no Kishi (English Translation)](#wizardry-iii---diamond-no-kishi-english-translation) | GBC
 [Wizardry Gaiden I - Joou no Junan](#wizardry-gaiden-i---joou-no-junan) | GB
+[Wizardry Gaiden I - Joou no Junan (English Translation)](#wizardry-gaiden-i---joou-no-junan-english-translation) | GB
 [Wizardry Gaiden II - Kodai Koutei no Noroi](#wizardry-gaiden-ii---kodai-koutei-no-noroi) | GB
+[Wizardry Gaiden II - Kodai Koutei no Noroi (English Translation)](#wizardry-gaiden-ii---kodai-koutei-no-noroi-english-translation) | GB
 [Wizardry Gaiden III - Yami no Seiten](#wizardry-gaiden-iii---yami-no-seiten) | GB
+[Wizardry Gaiden III - Yami no Seiten (English Translation)](#wizardry-gaiden-iii---yami-no-seiten-english-translation) | GB
 [Woody Woodpecker](#woody-woodpecker) | GBC
 [Wordtris](#wordtris) | GB
 [WordZap](#wordzap) | GB
@@ -778,6 +811,7 @@ Game | System
 [X-Men - Wolverine's Rage](#x-men---wolverines-rage) | GBC
 [Xtreme Sports](#xtreme-sports) | GBC
 [Yakuman](#yakuman) | GB
+[Yakuman (English Translation)](#yakuman-english-translation) | GB
 [Yoda Stories](#yoda-stories) | GBC
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
@@ -1055,9 +1089,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Another Bible (J)` to the `.pocket` format.
 
-It is compatible with the English [translation patch](https://www.romhacking.net/translations/530/).
-
 ROM MD5: `ff9196caa266ae36d409ce7e53ddc77a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AnotherBible.ips).
+
+## Another Bible (English Translation)
+
+This patch converts `Another Bible (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/530), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `b13538b9512185226eb21b8cdb534761`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AnotherBible.ips).
 
@@ -1079,21 +1119,33 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Arcade Classic No. 3 - Galaga and Galaxian
 
-This patch converts `Arcade Classic No. 3 - Galaga & Galaxian` to the `.pocket` format. It is compatible with both the US and European releases.
+This patch converts `Arcade Classic No. 3 - Galaga & Galaxian` to the `.pocket` format.
 
-US ROM MD5: `19fd29efaf7ea9e314bd613954a92169`
+ROM MD5: `19fd29efaf7ea9e314bd613954a92169`
 
-Europe ROM MD5: `08f46bb59e52562f08c76f4e6c0040c5`
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC3.ips).
+
+## Arcade Classic No. 3 - Galaga and Galaxian (E)
+
+This patch converts `Arcade Classic No. 3 - Galaga & Galaxian (E)` to the `.pocket` format.
+
+ROM MD5: `08f46bb59e52562f08c76f4e6c0040c5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC3.ips).
 
 ## Arcade Classic No. 3 - Galaga and Galaxian DX
 
-This patch is applied on top of the [DX conversion patch](https://www.romhacking.net/download/hacks/6541/). It works when applied to both the US and European releases. The MD5 sums provided here are after applying the DX patch to the ROMs speficied above.
+This patch converts `Arcade Classic No.3 - Galaga and Galaxian DX` to the `.pocket` format. First, apply the [DX Conversion patch](https://www.romhacking.net/download/hacks/6541/), resulting in the MD5 below, then apply this patch.
 
-US ROM MD5: `e7af45fbb8cba8a3bf049eec038452d8`
+ROM MD5: `e7af45fbb8cba8a3bf049eec038452d8`
 
-Europe ROM MD5: `1b87d9ad90df06c1ee4a2ae280ed6d88`
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC3DX.ips).
+
+## Arcade Classic No. 3 - Galaga and Galaxian DX (E)
+
+This patch converts `Arcade Classic No.3 - Galaga and Galaxian DX (E)` to the `.pocket` format. First, apply the [DX Conversion patch](https://www.romhacking.net/download/hacks/6541/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `1b87d9ad90df06c1ee4a2ae280ed6d88`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC3DX.ips).
 
@@ -1219,7 +1271,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Ayakashi no Shiro (English Translation)
 
-This patch converts `Castle of Ayakashi` to the `.pocket` format. To apply this patch, apply the [translation patch](https://www.romhacking.net/translations/3154/) first, which will result in the MD5 below.
+This patch converts `Castle of Ayakashi` to the `.pocket` format. To use this patch, apply the [translation patch](https://www.romhacking.net/translations/3154/) first, which will result in the MD5 below.
 
 ROM MD5: `501de1b6056bee7aeb0c2bcbb8b3d806`
 
@@ -1253,15 +1305,21 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Balloon Fight GB (J)` to the `.pocket` format.
 
-It is compatible with the [English translation patch](https://www.romhacking.net/translations/2573/).
-
 ROM MD5: `f94f61e6beaec6222e0d35229e2e271e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BalloonFightGB.ips).
+
+## Ballon Fight GB (English Translation)
+
+This patch converts `Balloon Fight GB (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/2573/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `2a0abe753877bf312725a9122f1e6489`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BalloonFightGB.ips).
 
 ## Banishing Racer
 
-This patch converts `Banishing Racer (J)` to the `.pocket` format. It is also compatible with the [translation patch](https://www.romhacking.net/translations/3378/).
+This patch converts `Banishing Racer (J)` to the `.pocket` format.
 
 Updated to fix a crash bug when getting the free life in 2-3. (2022/01/08)
 
@@ -1269,9 +1327,17 @@ ROM MD5: `8fdffb08770609255ec3cd314f79f976`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BanishingRacer.ips).
 
+## Banishing Racer (English Translation)
+
+This patch converts `Banishing Racer (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/3378/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `fa8b94ede7e7192c0ccd2fff6c51e948`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BanishingRacer.ips).
+
 ## Bart and the Beanstalk
 
-This patch converts `Bart and the Beanstalk (U,E)` to the `.pocket` format. It is also compatible with the J version of the ROM.
+This patch converts `Bart and the Beanstalk (U,E)` to the `.pocket` format.
 
 ROM MD5: `19058077b12ac22580aae17b3dd1233f`
 
@@ -1279,7 +1345,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Bart no Jack to Mame no Ki
 
-This patch converts `Bart no Jack to Mame no Ki (J)` to the `.pocket` format. It is also compatible with the U,E version of the ROM, `Bart and the Beanstalk`.
+This patch converts `Bart no Jack to Mame no Ki (J)` to the `.pocket` format.
 
 ROM MD5: `1d5e05159b0ac6a5119bd6f743c7eb9e`
 
@@ -1884,9 +1950,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Chalvo 55 - Super Puzzle Action (J)` to the `.pocket` format.
 
-It is compatible with the [English translation patch](https://www.romhacking.net/translations/1101/).
-
 ROM MD5: `ba50565630891680c9cf8b1827fca429`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Chalvo55.ips).
+
+## Chalvo 55 - Super Puzzle Action (English Translation)
+
+This patch converts `Chalvo 55 - Super Puzzle Action` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/1101/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `254e64b81d7eaed6502afd781d909261`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Chalvo55.ips).
 
@@ -2306,9 +2378,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Donkey Kong GB - Dinky Kong and Dixie Kong (J)` to the `.pocket` format.
 
-It is compatible with the English [translation patch](https://www.romhacking.net/translations/1757/).
-
 ROM MD5: `22afe691095c65f34aeaba3c283b2a9c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DK3Color.ips).
+
+## Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation)
+
+This patch converts `Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/1757/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `8c7dd60017bec54add72e4d2bcb3f7db`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DK3Color.ips).
 
@@ -2787,9 +2865,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Game Boy Wars Turbo (J)` to the `.pocket` format.
 
-It is compatible with the [English translation patch](https://www.romhacking.net/translations/24/).
-
 ROM MD5: `c10a76a601ea375593f1cb944c3365e7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBWTurbo.ips).
+
+## Game Boy Wars Turbo (English Translation)
+
+This patch converts `Game Boy Wars Turbo (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/24/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `4ff3b2129d632e25942c98ce12c4ac70`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBWTurbo.ips).
 
@@ -2797,9 +2881,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Game Boy Wars 3 (J)` to the `.pocket` format.
 
-It is also compatible with this [translation patch](https://www.romhacking.net/translations/1513/).
-
 ROM MD5: `748fa9419b35c0e8e43509457aaa1efa`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBW3.ips).
+
+## Game Boy Wars 3 (English Translation)
+
+This patch converts `Game Boy Wars 3 (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/1513/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `8057b76523862f9966f489efed044090`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBW3.ips).
 
@@ -2919,9 +3009,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `God Medicine - Hukkoku Ban (J)` to the `.pocket` format.
 
-It is compatible with the [English Translation patch](https://www.romhacking.net/translations/600/).
-
 ROM MD5: `4057131cb9cedfb2fcdbc36904e7896d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GodMedicine.ips).
+
+## God Medicine - Hukkoku Ban (English Translation)
+
+This patch converts `God Medicine - Hukkoku Ban (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/600/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `c2cc37e8a5c1c6dd5656b501903f9bcd`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GodMedicine.ips).
 
@@ -2977,9 +3073,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Grandia - Parallel Trippers (J)` to the `.pocket` format.
 
-It is also compatible with the [English translation patch](https://www.romhacking.net/translations/1649/).
-
 ROM MD5: `5679de3c41c63c6b9dc9432c7ed1105a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Grandia.ips).
+
+## Grandia - Parallel Trippers (English Translation)
+
+This patch converts `Grandia - Parallel Trippers (English Translation)` to the `.pocket` format. First, apply the [English translation patch](https://www.romhacking.net/translations/1649/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `76cadd4218948451ffc46fad1d0c8359`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Grandia.ips).
 
@@ -3179,9 +3281,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Ikari no Yousai 2 (J)` to the `.pocket` format.
 
-It is compatible with the [translation patch](https://www.romhacking.net/download/translations/1613/).
-
 ROM MD5: `1efea4210026a8d733a5b2ade2b005f1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/IkariNoYousai2.ips).
+
+## Ikari no Yousai 2 (English Translation)
+
+This patch converts `Ikari no Yousai 2 (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/download/translations/1613/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `162d7af328f40daac091d949a658a869`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/IkariNoYousai2.ips).
 
@@ -3340,9 +3448,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Kaeru no Tame ni Kane wa Naru (J)` to the `.pocket` format. This game is also known as "For the Frog the Bell Tolls".
 
-This patch is compatible with the English [translation patch](https://www.romhacking.net/translations/1623/).
-
 ROM MD5: `4ebe14c4c51555908c0e4cabb66dc813`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Kaeru.ips).
+
+### Kaeru no Tame ni Kane wa Naru (English Translation)
+
+This patch converts `Kaeru no Tame ni Kane wa Naru` to the `.pocket` format. This game is also known as "For the Frog the Bell Tolls". First, apply the [English Translation patch](https://www.romhacking.net/translations/1623/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `5e477cdea0b3266b505ac5938ddc5e5c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Kaeru.ips).
 
@@ -3619,7 +3733,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Legend of the River King 2
 
-This patch converts `Legend of the River King 2 (U)` to the `.pocket` format. It is also compatible with the European version of the ROM.
+This patch converts `Legend of the River King 2 (U)` to the `.pocket` format.
 
 ROM MD5: `3519c45ce55aad2f0565513723c90672`
 
@@ -3627,7 +3741,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Legend of the River King 2 (E)
 
-This patch converts `Legend of the River King 2 (E)` to the `.pocket` format. It is also compatible with the US verison of the ROM.
+This patch converts `Legend of the River King 2 (E)` to the `.pocket` format.
 
 ROM MD5: `052cd45a69af16f025a545b29bc8f450`
 
@@ -3810,7 +3924,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Looney Tunes (GBC)
 
-This patch converts `Looney Tunes (GBC) (U)` to the `.pocket` format. It is also compatible with the European version of the ROM.
+This patch converts `Looney Tunes (GBC) (U)` to the `.pocket` format.
 
 ROM MD5: `f687b51a0fab72e03766356b62261a49`
 
@@ -3818,7 +3932,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Looney Tunes (GBC) (E)
 
-This patch converts `Looney Tunes (GBC) (E)` to the `.pocket` format. It is also compatible with the US version of the ROM.
+This patch converts `Looney Tunes (GBC) (E)` to the `.pocket` format.
 
 ROM MD5: `a539a0ae1b1ed8034fc3a4733b4298c3`
 
@@ -3948,9 +4062,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Makai Mura Gaiden - The Demon Darkness (J)` to the `.pocket` format.
 
-It is compatible with the [English translation patch](https://www.romhacking.net/translations/1794/) where it is also known as "Gargoyles Quest 2".
-
 ROM MD5: `de731a5f2f4e7d16bcdc4b5953ddcc12`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MakaiMuraGaiden.ips).
+
+### Makai Mura Gaiden - The Demon Darkness (English Translation)
+
+This patch converts `Makai Mura Gaiden - The Demon Darkness (English Translation)` to the `.pocket` format. This game is also known as `Gargoyle's Quest 2`. First, apply the [English Translation patch](https://www.romhacking.net/translations/1794/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `3574c3ae7c83faeb018cb1c05950c25d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MakaiMuraGaiden.ips).
 
@@ -4238,7 +4358,7 @@ ROM MD5: `f6dd1b1e5747412b9e5f25376c972d5a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalGear.ips).
 
-## Metal Gear Solid (European Version)
+## Metal Gear Solid (E)
 
 This patch converts `Metal Gear Solid (E)` to the `.pocket` format.
 
@@ -4354,9 +4474,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Mobile Golf (J)` to the `.pocket` format.
 
-It is compatible with the [English translation patch](http://www.romhacking.net/translations/6236/).
-
 ROM MD5: `fbf1ffe76883dffcca299228c81f171f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MobileGolf.ips).
+
+## Mobile Golf (English Translation)
+
+This patch converts `Mobile Golf (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](http://www.romhacking.net/translations/6236/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `f42ddde3e24354991842f5b222b1cffe`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MobileGolf.ips).
 
@@ -4612,9 +4738,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Nectaris GB (J)` to the `.pocket` format.
 
-This patch is compatible with the [translation patch](https://www.romhacking.net/translations/34/).
-
 ROM MD5: `1080141c1b99b5b92d187990bdc85c6a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Nectaris.ips).
+
+## Nectaris GB (English Translation)
+
+This patch converts `Nectaris GB (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/34/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `b5775a65e744ef9f39a1d4b01a6bc01d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Nectaris.ips).
 
@@ -4726,9 +4858,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Noobow (J)` to the `.pocket` format.
 
-It is compatible with the [English translation patch](https://www.romhacking.net/download/translations/3618).
-
 ROM MD5: `ccd0cf7cc240714a9694e1fe296afb7c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Noobow.ips).
+
+## Noobow (English Translation)
+
+This patch converts `Noobow (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/download/translations/3618), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `15449adf4a457462d59c92ed0ac49d5a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Noobow.ips).
 
@@ -4832,9 +4970,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Penta Dragon (J)` to the `.pocket` format.
 
-It is compatible with the [English translation patch](https://www.romhacking.net/translations/653/).
-
 ROM MD5: `df43e0adfdc74b2829c7e95e91c71a28`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PentaDragon.ips).
+
+## Penta Dragon (English Translation)
+
+This patch converts `Penta Dragon (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/653/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `586ec6c567c255fa060bc62e20900354`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PentaDragon.ips).
 
@@ -4860,9 +5004,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Picross 2 (J)` to the `.pocket` format.
 
-It is compatible with the [translation patch](https://www.romhacking.net/translations/2303/), which can be applied in any order.
-
 ROM MD5: `142d1f9f4b868780824cca20010ad4d8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Picross2.ips).
+
+## Picross 2 (English Translation)
+
+This patch converts `Picross 2 (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/2303/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `34bc051c58166d7bd1fc2540870edfdb`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Picross2.ips).
 
@@ -5564,11 +5714,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Sakura Taisen GB - Geki Hana Gumi Nyuutai!
 
-Also known as `Sakura Wars GB`
-
 This patch converts `Sakura Taisen GB - Geki Hana Gumi Nyuutai! (J)` to the `.pocket` format.
-
-This patch is compatible with the English [translation patch](https://github.com/vinheim3/sakuraWars1-disasm/releases/download/0.0.1/sakuraWars1.ips).
 
 This patch was updated to fix the target reticule in Maria's mini-game. (2022/01/15)
 
@@ -5576,13 +5722,27 @@ ROM MD5: `70883b45a97984cb033c2b95028bef65`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SakuraWars.ips).
 
+## Sakura Wars GB
+
+This patch converts `Sakura Taisen GB - Geki Hana Gumi Nyuutai! (English Translation)` to the `.pocket` format. The translated version is known as `Sakura Wars GB`. First, apply the [English Translation patch](https://github.com/vinheim3/sakuraWars1-disasm/releases/download/0.0.1/sakuraWars1.ips), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `ce604c67bf2806f5a6f736ba168ed271`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SakuraWars.ips).
+
 ## Samurai Kid
 
 This patch converts `Samurai Kid (J)` to the `.pocket` format.
 
-It is compatible with the [English patch](https://www.romhacking.net/translations/6297/). The English patch should be applied first.
-
 ROM MD5: `7ee095116f1733dc6ba2b2de3f28f5ef`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SamuraiKid.ips).
+
+## Samurai Kid (English Translation)
+
+This patch converts `Samurai Kid (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/6297/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `c4f6cd3e25ff074ffe337be7f43dd409`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SamuraiKid.ips).
 
@@ -5694,9 +5854,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Shin Megami Tensei Devil Children - Kuro no Sho (J)` to the `.pocket` format.
 
-It is compatible with the [English translation patch](https://www.romhacking.net/translations/6163/).
-
 ROM MD5: `158691457cb7365cafbd0b7bb230fadf`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMTDC-Kuro.ips).
+
+## Shin Megami Tensei Devil Children - Kuro no Sho (English Translation)
+
+This patch converts `Shin Megami Tensei Devil Children - Kuro no Sho (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/6163/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `f6c1fbb84d256db9d668c8c5a39c2caa`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMTDC-Kuro.ips).
 
@@ -5816,7 +5982,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Snoopy's - Magic Show
 
-This patch converts `Snoopy's - Magic Show (U,E)` to the `.pocket` format. It is also compatible with `Snoopy's - Magic Show (J)`.
+This patch converts `Snoopy's - Magic Show (U,E)` to the `.pocket` format.
 
 ROM (U,E) MD5: `8a06994b2e265244147a4d6d0e80623f`
 
@@ -5824,7 +5990,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Snoopy's - Magic Show (J)
 
-This patch converts `Snoopy's - Magic Show (J)` to the `.pocket` format. It is also compatible with `Snoopy's - Magic Show (U,E)`.
+This patch converts `Snoopy's - Magic Show (J)` to the `.pocket` format.
 
 ROM (J) MD5: `3d8f6eccc13f3344c8d971b7e141f064`
 
@@ -6050,9 +6216,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Star Ocean - Blue Sphere (J)` to the `.pocket` format.
 
-It is compatible with the English [translation patch](https://archive.org/download/staroceanenglish).
-
 ROM MD5: `820e0a19275fabc03fe619c42db47179`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarOcean.ips).
+
+## Star Ocean - Blue Sphere (English Translation)
+
+This patch converts `Star Ocean - Blue Sphere (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://archive.org/download/staroceanenglish), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `e1ed3ef70534299d4f1be45eb1b9b360`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarOcean.ips).
 
@@ -6206,13 +6378,27 @@ ROM MD5: `6c7dc7ce74088a9e42a6fb8d98a67714`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRobotPinball.ips).
 
+## Super Robot Pinball (English Translation)
+
+This patch converts `Super Robot Pinball (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/6402/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `ebfe169aa00c10e50529c6a4b41e61ed`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRobotPinball.ips).
+
 ## Super Robot Taisen
 
 This patch converts `Super Robot Taisen (J)` to the `.pocket` format.
 
-It is compatible with the [English Translation patch](https://www.romhacking.net/download/translations/1123/).
-
 ROM MD5: `7bb8a5bc9e55a05eba1a3fcbf460a9b5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRobotTaisen.ips).
+
+## Super Robot Taisen (English Translation)
+
+This patch converts `Super Robot Taisen (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/download/translations/1123/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `d05a4c81821a4627d56d08e08f9449d4`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRobotTaisen.ips).
 
@@ -6252,9 +6438,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Survival Kids 2 - Dasshutsuls Futago-Jima! (J)` to the `.pocket` format.
 
-It is compatible with the [English translation patch](https://www.romhacking.net/download/translations/2330/).
-
 ROM MD5: `9d2f7e1ac30a46456a841c264963e5ea`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SurvivalKids2.ips).
+
+## Survival Kids 2 - Dasshutsu!! Futago-Jima! (English Translation)
+
+This patch converts `Survival Kids 2 - Dasshutsuls Futago-Jima! (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/download/translations/2330/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `20f638d4cf7fe7e7365dc8378222ddb1`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SurvivalKids2.ips).
 
@@ -6652,7 +6844,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Top Gear Pocket 2
 
-This patch converts `Top Gear Pocket 2 (U)` to the `.pocket` format. It is also compatible with `Top Gear Rally 2 (E)`
+This patch converts `Top Gear Pocket 2 (U)` to the `.pocket` format.
 
 ROM MD5: `7d9585c947a7637703fb8ccd6a691ed7`
 
@@ -6660,7 +6852,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Top Gear Rally 2
 
-This patch converts `Top Gear Rally 2 (E)` to the `.pocket` format. It is also compatible with `Top Gear Pocket 2 (U)`.
+This patch converts `Top Gear Rally 2 (E)` to the `.pocket` format.
 
 ROM MD5: `0a1cf1904c87b60308c404d93bab2702`
 
@@ -6692,7 +6884,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Toy Story (Rev A)
 
-This patch converts `Toy Story (Rev A) (U)` to the `.pocket` format. It is also compatible with `Toy Story (E)`.
+This patch converts `Toy Story (Rev A) (U)` to the `.pocket` format.
 
 ROM MD5: `344ed70fe1a7a8cc904eda886543252c`
 
@@ -6700,7 +6892,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Toy Story (E)
 
-This patch converts `Toy Story (E)` to the `.pocket` format. It is also compatible with `Toy Story (Rev A) (U)`.
+This patch converts `Toy Story (E)` to the `.pocket` format.
 
 ROM MD5: `508e937dc634f36d738d65734f3ae0ab`
 
@@ -6845,9 +7037,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Ultraman Ball (J)` to the `.pocket` format.
 
-It is compatible with the [English translation patch](https://www.romhacking.net/translations/654/).
-
 ROM MD5: `90a0bc783fbe56748989d8fad9ae48ed`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/UltramanBall.ips).
+
+## Ultraman Ball (English Translation)
+
+This patch converts `Ultraman Ball (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/654/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `bc977605b3db8aeab9d60289e6b7e361`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/UltramanBall.ips).
 
@@ -7029,9 +7227,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Wizardry I - Proving Grounds of the Mad Overlord (J)` to the `.pocket` format.
 
-It is compatible with the [English translation patch](https://www.romhacking.net/translations/56/). Note that you must use the `switches` option to enable the translation on first startup.
-
 ROM MD5: `6b94c050291c68d6fb13c642c46873ab`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry1.ips).
+
+## Wizardry I - Proving Grounds of the Mad Overlord (English Translation)
+
+This patch converts `Wizardry I - Proving Grounds of the Mad Overlord (English Translation)` to the `.pocket` format. First, apply the [English translation patch](https://www.romhacking.net/translations/56/), resulting in the MD5 below, then apply this patch. Note that you must use the `switches` option to enable the translation on first startup.
+
+ROM MD5: `2d5e0f6082655ee0d76d84d3df53bb9c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry1.ips).
 
@@ -7039,11 +7243,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Wizardry II - Llylgamyn no Isan (J)` to the `.pocket` format.
 
-This game is also known as `Wizardry II - Legacy of Llygamyn`.
-
-It is compatible with the [English translation patch](https://www.romhacking.net/translations/55/). Note that the name of the game is incorrect (Wizardry III instead of II, but this is the right patch). Also, note that you must use the `switches` option to enable the translation on first startup.
-
 ROM MD5: `8d0a97cc2c5235656e722b0fb9627504`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry2.ips).
+
+## Wizardry II - Llylgamyn no Isan (English Translation)
+
+This patch converts `Wizardry II - Llylgamyn no Isan (J)` to the `.pocket` format. This game is also known as `Wizardry II - Legacy of Llygamyn`. First, apply the [English translation patch](https://www.romhacking.net/translations/55/). Note that the name of the game is incorrect (Wizardry III instead of II, but this is the right patch). After patching, the MD5 will match below, then apply this patch. Also, note that you must use the `switches` option to enable the translation on first startup.
+
+ROM MD5: `5572bf2247869acec5ccd1af6f9b63d0`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry2.ips).
 
@@ -7051,11 +7259,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Wizardry III - Diamond no Kishi (J)` to the `.pocket` format.
 
-This game is also known as `Wizardry III - Knights of Diamonds`.
-
-It is compatible with the [English translation patch](https://www.romhacking.net/translations/54/). Note that the name of the game is incorrect (Wizardry II instead of III, but this is the right patch). Also, note that you must use the `switches` option to enable the translation on first startup.
-
 ROM MD5: `e81e4977a1380a6a0bac49bfd9e04671`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry3.ips).
+
+## Wizardry III - Diamond no Kishi (English Translation)
+
+This patch converts `Wizardry III - Diamond no Kishi (English Translation)` to the `.pocket` format. This game is also known as `Wizardry III - Knights of Diamonds`. First, apply the [English translation patch](https://www.romhacking.net/translations/54/). Note that the name of the game is incorrect (Wizardry II instead of III, but this is the right patch). After patching, the MD5 will match below, then apply this patch. Also, note that you must use the `switches` option to enable the translation on first startup.
+
+ROM MD5: `142f0c6229e089b6ea6b99dc690d2aaa`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry3.ips).
 
@@ -7063,11 +7275,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Wizardry Gaiden I - Joou no Junan (J)` to the `.pocket` format.
 
-This game is also known as "Wizardry Gaiden I: Suffering of the Queen".
-
-This game is compatible with the [Translation Patch](https://www.romhacking.net/translations/2095/). The translation patch must be applied first.
-
 ROM MD5: `14d6a5e430452dca394bd3e641dc327b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden1.ips).
+
+## Wizardry Gaiden I - Joou no Junan (English Translation)
+
+This patch converts `Wizardry Gaiden I - Joou no Junan (English Translation)` to the `.pocket` format. This game is also known as "Wizardry Gaiden I: Suffering of the Queen". First, apply the [English Translation patch](https://www.romhacking.net/translations/2095/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `cb2ab3952aebf23b1c3dae2f453849d4`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden1.ips).
 
@@ -7075,11 +7291,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Wizardry Gaiden II - Kodai Koutei no Noroi (J)` to the `.pocket` format.
 
-This game is also known as `Wizardry Gaiden II - Curse of the Ancient Emperor`.
-
-This patch is compatible with the [Translation Patch](https://www.romhacking.net/translations/2150/). The translation patch must be applied first.
-
 ROM MD5: `177f5fc642f650e45bae33b10ba1fe48`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden2.ips).
+
+## Wizardry Gaiden II - Kodai Koutei no Noroi (English Translation)
+
+This patch converts `Wizardry Gaiden II - Kodai Koutei no Noroi (English Translation)` to the `.pocket` format. This game is also known as `Wizardry Gaiden II - Curse of the Ancient Emperor`. First, apply the [English Translation patch](https://www.romhacking.net/translations/2150/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `1919c1597fa158092c159230df1f6349`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden2.ips).
 
@@ -7087,11 +7307,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Wizardry Gaiden III - Yami no Seiten (J)` to the `.pocket` format.
 
-This game is also known as `Wizardry Gaiden III - Scripture of the Dark`.
-
-This patch is compatible with the [Translation Patch](https://www.romhacking.net/translations/2252/). The translation patch must be applied first.
-
 ROM MD5: `2be59d4c20728300c84a71fcfcb565f9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden3.ips).
+
+## Wizardry Gaiden III - Yami no Seiten (English Translation)
+
+This patch converts `Wizardry Gaiden III - Yami no Seiten (English Translation)` to the `.pocket` format. This game is also known as `Wizardry Gaiden III - Scripture of the Dark`. First, apply the [Translation Patch](https://www.romhacking.net/translations/2252/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `e1f712b4d9d4496e679c736c15895772`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden3.ips).
 
@@ -7251,9 +7475,15 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Yakuman (J)` to the `.pocket` format.
 
-It is also compatible with the [English Translation](https://www.romhacking.net/translations/6349/).
-
 ROM MD5: `2acfc8d0213b186552124fb8b3085fa1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Yakuman.ips).
+
+## Yakuman (English Translation)
+
+This patch converts `Yakuman (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/6349/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `837a9e13b7f378bcb94bf1ed294312a0`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Yakuman.ips).
 
