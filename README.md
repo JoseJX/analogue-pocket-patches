@@ -479,6 +479,7 @@ Game | System
 [Mystic Quest (E)](#mystic-quest-e) | GB
 [Mystic Quest (Fr)](#mystic-quest-fr) | GB
 [Nangoku Shounen Papuwa-kun - Ganmadan no Yabou](#nangoku-shounen-papuwa-kun---ganmadan-no-yabou) | GB
+[Nangoku Shounen Papuwa-kun - Ganmadan no Yabou (English Translation)](#nangoku-shounen-papuwa-kun---ganmadan-no-yabou-english-translation) | GB
 [NBA 3-on-3 Featuring Kobe Bryant](#nba-3-on-3-featuring-kobe-bryant) | GBC
 [NBA All Star Challenge](#nba-all-star-challenge) | GB
 [NBA Jam](#nba-jam) | GB
@@ -486,6 +487,7 @@ Game | System
 [NBA Jam 2001](#nba-jam-2001) | GBC
 [Nectaris GB](#nectaris-gb) | GB
 [Nectaris GB (English Translation)](#nectaris-gb-english-translation) | GB
+[Nekketsu Kouha Kunio-kun - Bangai Rantou Hen](#nekketsu-kouha-kunio-kun---bangai-rantou-hen) | GB
 [Nettou Garou Densetsu 2 - Aratanaru Tatakai](#nettou-garou-densetsu-2---aratanaru-tatakai) | GB
 [Nettou Real Bout Garou Densetsu Special](#nettou-real-bout-garou-densetsu-special) | GB
 [Nettou Samurai Spirits - Zankurou Musouken](#nettou-samurai-spirits---zankurou-musouken) | GB
@@ -4730,6 +4732,14 @@ ROM MD5: `c5256354a6fcd57240c97a399773822e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NangokuShounenPapuwakun.ips).
 
+## Nangoku Shounen Papuwa-kun - Ganmadan no Yabou (English Translation)
+
+This patch converts `Nangoku Shounen Papuwa-kun - Ganmadan no Yabou (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `686abad72092adccabc6db3687b1075e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NangokuShounenPapuwakun.ips).
+
 ## NBA 3-on-3 Featuring Kobe Bryant
 
 This patch converts `NBA 3-on-3 Featuring Kobe Bryant (U)` to the `.pocket` format.
@@ -4785,6 +4795,14 @@ This patch converts `Nectaris GB (English Translation)` to the `.pocket` format.
 ROM MD5: `b5775a65e744ef9f39a1d4b01a6bc01d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Nectaris.ips).
+
+## Nekketsu Kouha Kunio-kun - Bangai Rantou Hen
+
+This patch converts `Nekketsu Kouha Kunio-kun - Bangai Rantou Hen (J)` to the `.pocket` format.
+
+ROM MD5: `eb771fb255fa207a830df06338af6d87`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NekketsuKouhaKuniokun.ips).
 
 ## Nettou Garou Densetsu 2 - Aratanaru Tatakai
 
