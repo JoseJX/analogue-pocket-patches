@@ -453,6 +453,7 @@ Game | System
 [Mobile Golf (English Translation)](#mobile-golf-english-translation) | GBC
 [Moguranya](#moguranya) | GB
 [Mole Mania](#mole-mania) | GB
+[Momotarou Dengeki](#momotarou-dengeki) | GB
 [Monkey Puncher](#monkey-puncher) | GBC
 [Monster Max](#monster-max) | GB
 [Monster Rancher Battle Card GB](#monster-rancher-battle-card-gb) | GBC
@@ -4516,6 +4517,14 @@ It has been updated again to fix possible graphical corruption. (2021/04/02)
 ROM MD5: `f28ade3926852a8ad2e449c274683956`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MoleMania.ips).
+
+## Momotarou Dengeki
+
+This patch converts `Momotarou Dengeki (J)` to the `.pocket` format.
+
+ROM MD5: `f31c556186b91cf161ecf60644fbecba`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MomotarouDengeki.ips).
 
 ## Monkey Puncher
 
