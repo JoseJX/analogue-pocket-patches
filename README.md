@@ -511,6 +511,7 @@ Game | System
 [Pac-Attack](#pac-attack) | GB
 [Pac-in-Time](#pac-in-time) | GB
 [Pac-Man - Special Color Edition](#pac-man---special-color-edition) | GBC
+[Painter Momopie](#painter-momopie) | GB
 [Paperboy](#paperboy) | GB
 [Parasol Stars - Rainbow Islands II](#parasol-stars---rainbow-islands-ii) | GB
 [Parodius Da!](#parodius-da) | GB
@@ -4995,6 +4996,22 @@ This patch converts `Pac-Man - Special Color Edition (U)` to the `.pocket` forma
 ROM MD5: `b81ddb7d86302384efe1675f75cc35f6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PacManSCE.ips).
+
+## Painter Momopie
+
+This patch converts `Painter Momopie (J)` to the `.pocket` format.
+
+ROM MD5: `7a1db9950b7fb12499df822b32ef1ed9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PainterMomopie.ips).
+
+## Painter Momopie (English Translation)
+
+This patch converts `Painter Momopie (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/5586/), the MD5 below is for the 'Magical Painter' title screen. Apply the patch, resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `c2db2cbce374ef0a20f930222d6820df`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PainterMomopie.ips).
 
 ## Paperboy
 
