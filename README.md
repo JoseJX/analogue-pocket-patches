@@ -454,6 +454,7 @@ Game | System
 [Moguranya](#moguranya) | GB
 [Mole Mania](#mole-mania) | GB
 [Momotarou Dengeki](#momotarou-dengeki) | GB
+[Momotarou Dengeki (English Translation)](#momotarou-dengeki-english-translation) | GB
 [Monkey Puncher](#monkey-puncher) | GBC
 [Monster Max](#monster-max) | GB
 [Monster Rancher Battle Card GB](#monster-rancher-battle-card-gb) | GBC
@@ -4523,6 +4524,14 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 This patch converts `Momotarou Dengeki (J)` to the `.pocket` format.
 
 ROM MD5: `f31c556186b91cf161ecf60644fbecba`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MomotarouDengeki.ips).
+
+## Momotarou Dengeki (English Translation)
+
+This patch converts `Momotarou Dengeki (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/33/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `f7572c43cb8b4ddaef69e45f48051d47`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MomotarouDengeki.ips).
 
