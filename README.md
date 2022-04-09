@@ -4804,6 +4804,14 @@ ROM MD5: `eb771fb255fa207a830df06338af6d87`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NekketsuKouhaKuniokun.ips).
 
+## Nekketsu Kouha Kunio-kun - Bangai Rantou Hen (English Translation)
+
+This patch converts `Nekketsu Kouha Kunio-kun - Bangai Rantou Hen (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/41/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `c9ff7b9b68ba68ba4116f19c95a059fa`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NekketsuKouhaKuniokun.ips).
+
 ## Nettou Garou Densetsu 2 - Aratanaru Tatakai
 
 This patch converts `Nettou Garou Densetsu 2 - Aratanaru Tatakai (J)` to the `.pocket` format.
