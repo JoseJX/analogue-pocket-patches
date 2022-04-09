@@ -400,6 +400,8 @@ Game | System
 [Mario & Yoshi](#mario-yoshi) | GB
 [Maru's Mission](#marus-mission) | GB
 [Mary-Kate and Ashley - Get a Clue!](#mary-kate-and-ashley---get-a-clue) | GBC
+[Masakari Densetsu - Kintarou Action Hen](#masakari-densetsu---kintarou-action-hen) | GB
+[Masakari Densetsu - Kintarou Action Hen (English Translation)](#masakari-densetsu---kintarou-action-hen-english-translation) | GB
 [Mat Hoffman's Pro BMX](#mat-hoffmans-pro-bmx) | GBC
 [Max](#max) | GB
 [McDonaldland](#mcdonaldland) | GB
@@ -4027,6 +4029,22 @@ This patch converts `Mary-Kate and Ashley - Get a Clue! (U,E)` to the `.pocket` 
 ROM MD5: `cc7639a2269210338b52e626096a99d9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MKnA-GetAClue.ips).
+
+## Masakari Densetsu - Kintarou Action Hen
+
+This patch converts `Masakari Densetsu - Kintarou Action Hen (J)` to the `.pocket` format.
+
+ROM MD5: `33349ad9019762b79c467cd241d79344`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MasakariDensetsu.ips).
+
+## Masakari Densetsu - Kintarou Action Hen (English Translation)
+
+This patch converts `Masakari Densetsu - Kintarou Action Hen (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/6211/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `e842471b71debfe85d4025a1023ec738`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MasakariDensetsuEn.ips).
 
 ## Mat Hoffman's Pro BMX
 
