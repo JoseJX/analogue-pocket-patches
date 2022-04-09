@@ -512,6 +512,9 @@ Game | System
 [Pac-in-Time](#pac-in-time) | GB
 [Pac-Man - Special Color Edition](#pac-man---special-color-edition) | GBC
 [Painter Momopie](#painter-momopie) | GB
+[Painter Momopie (English Translation)](#painter-momopie-english-translation) | GB
+[Panel no Ninja Kesamaru](#panel-no-ninja-kesamaru) | GB
+[Panel no Ninja Kesamaru (English Translation)](#panel-no-ninja-kesamaru-english-translation) | GB
 [Paperboy](#paperboy) | GB
 [Parasol Stars - Rainbow Islands II](#parasol-stars---rainbow-islands-ii) | GB
 [Parodius Da!](#parodius-da) | GB
@@ -5013,6 +5016,22 @@ ROM MD5: `c2db2cbce374ef0a20f930222d6820df`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PainterMomopie.ips).
 
+## Panel no Ninja Kesamaru
+
+This patch converts `Panel no Ninja Kesamaru (J)` to the `.pocket` format.
+
+ROM MD5: `4ead57f6fb441fb86a78922f1288ee40`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PanelNoNinjaKesamaru.ips).
+
+## Panel no Ninja Kesamaru (English Translation)
+
+This patch converts `Panel no Ninja Kesamaru (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/2634/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `bfe2a1fc0aca51504da74f6a04c89a4e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PanelNoNinjaKesamaru.ips).
+
 ## Paperboy
 
 This patch converts `Paperboy (U,E)` to the `.pocket` format.
@@ -7010,7 +7029,6 @@ This patch converts `Trax (U,E)` to the `.pocket` format.
 ROM MD5: `89ecf5b28d5cc84208cfc39dc2d96598`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trax.ips).
-
 
 ## Trogday 2022
 
