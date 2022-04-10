@@ -538,6 +538,7 @@ Game | System
 [Pocket Bomberman](#pocket-bomberman) | GBC
 [Pocket Monsters - Crystal Version (VN)](#pocket-monsters---crystal-version-vn) | GBC
 [Pocket Music](#pocket-music) | GBC
+[Pocket Puyo Puyo Sun](#pocket-puyo-puyo-sun) | GBC
 [Pocket Puyo Puyo Tsuu](#pocket-puyo-puyo-tsuu) | GB
 [Pocket Soccer](#pocket-soccer) | GBC
 [Pokemon Blaue](#pokemon-blaue) | GB
@@ -5229,6 +5230,14 @@ This patch converts `Pocket Music (E)` to the `.pocket` format.
 ROM MD5: `84eede6bb298dd354f251eccb1259316`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketMusic.ips).
+
+## Pocket Puyo Puyo Sun
+
+This patch converts `Pocket Puyo Puyo Sun (J)` to the `.pocket` format.
+
+ROM MD5: `de204ad9ae3e29cf2c06ceb372ec9cd2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketPuyoPuyoSun.ips).
 
 ## Pocket Puyo Puyo Tsuu
 
