@@ -688,6 +688,8 @@ Game | System
 [Street Fighter II](#street-fighter-ii) | GB
 [Super Bikkuriman - Densetsu no Sekiban](#super-bikkuriman---densetsu-no-sekiban) | GB
 [Super Bikkuriman - Densetsu no Sekiban (English Translation)](#super-bikkuriman---densetsu-no-sekiban-english-translation) | GB
+[Super Breakout!](#super-breakout) | GBC
+[Super Breakout! (E)](#super-breakout-e) | GBC
 [Super Imposter Bros.](#super-imposter-bros) | GBC
 [Super Mario Land 2 - 6 Golden Coins (Rev A)](#super-mario-land-2---6-golden-coins-rev-a) | GB
 [Super Mario Land 2 - 6 Golden Coins (Rev B)](#super-mario-land-2---6-golden-coins-rev-b) | GB
@@ -6483,6 +6485,22 @@ This patch converts `Super Bikkuriman - Densetsu no Sekiban (English Translation
 ROM MD5: `8a57ce73b10f55bb392d461f9a1ca5d6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBikkuriman.ips).
+
+## Super Breakout!
+
+This patch converts `Super Breakout! (U)` to the `.pocket` format.
+
+ROM MD5: `9b8869fa36562a32edec76717632875e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBreakout.ips).
+
+## Super Breakout! (E)
+
+This patch converts `Super Breakout! (E)` to the `.pocket` format.
+
+ROM MD5: `3383c2754015c4da7b5295a28ac09739`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBreakoutE.ips).
 
 ## Super Imposter Bros.
 
