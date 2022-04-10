@@ -518,6 +518,8 @@ Game | System
 [Paperboy](#paperboy) | GB
 [Parasol Stars - Rainbow Islands II](#parasol-stars---rainbow-islands-ii) | GB
 [Parodius Da!](#parodius-da) | GB
+[Peke to Poko no Daruman Busters](#peke-to-poko-no-daruman-busters) | GB
+[Peke to Poko no Daruman Busters (English Translation)](#peke-to-poko-no-daruman-busters-english-translation) | GB
 [Penguin Wars](#penguin-wars) | GB
 [Penta Dragon](#penta-dragon) | GB
 [Penta Dragon (English Translation)](#penta-dragon-english-translation) | GB
@@ -678,6 +680,7 @@ Game | System
 [Stop That Roach!](#stop-that-roach) | GB
 [Street Fighter Alpha - Warriors' Dreams](#street-fighter-alpha---warriors-dreams) | GBC
 [Street Fighter II](#street-fighter-ii) | GB
+[Super Bikkuriman - Densetsu no Sekiban](#super-bikkuriman---densetsu-no-sekiban) | GB
 [Super Imposter Bros.](#super-imposter-bros) | GBC
 [Super Mario Land 2 - 6 Golden Coins (Rev A)](#super-mario-land-2---6-golden-coins-rev-a) | GB
 [Super Mario Land 2 - 6 Golden Coins (Rev B)](#super-mario-land-2---6-golden-coins-rev-b) | GB
@@ -5056,6 +5059,22 @@ ROM MD5: `2e3a0305f79b058cc4618565bc2db745`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ParodiusDa.ips).
 
+## Peke to Poko no Daruman Busters
+
+This patch converts `Peke to Poko no Daruman Busters (J)` to the `.pocket` format.
+
+ROM MD5: `b86be9c65c1ba0db48d6eb8e0770926d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PekeToPoko.ips).
+
+## Peke to Poko no Daruman Busters (English Translation)
+
+This patch converts `Peke to Poko no Daruman Busters (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/2097/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `c908283b237622a0fb190aa722f38819`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PekeToPoko.ips).
+
 ## Penguin Wars
 
 This patch converts `Penguin Wars (U)` to the `.pocket` format.
@@ -6389,6 +6408,22 @@ This patch converts `Street Fighter Alpha - Warriors' Dreams (U)` to the `.pocke
 ROM MD5: `db1aeaa7135bd5707dbbccc427808cd7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SFA.ips).
+
+## Super Bikkuriman - Densetsu no Sekiban
+
+This patch converts `Super Bikkuriman - Densetsu no Sekiban (J)` to the `.pocket` format.
+
+ROM MD5: `42f06d0e5fa65bf245f52249385b94a6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBikkuriman.ips).
+
+## Super Bikkuriman - Densetsu no Sekiban (English Translation)
+
+This patch converts `Super Bikkuriman - Densetsu no Sekiban (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/754/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `8a57ce73b10f55bb392d461f9a1ca5d6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBikkuriman.ips).
 
 ## Super Imposter Bros.
 
