@@ -270,6 +270,8 @@ Game | System
 [Garfield Labyrinth](#garfield-labyrinth) | GB
 [Gauntlet II](#gauntlet-ii) | GB
 [Gear Works](#gear-works) | GB
+[Geheimnis der Happy Hippo-Insel](#geheimnis-der-happy-hippo-insel) | GBC
+[Geheimnis der Happy Hippo-Insel (English Translation)](#geheimnis-der-happy-hippo-insel-english-translation) | GBC
 [Gekito Power Modeler](#gekito-power-modeler) | GB
 [George Foreman's KO Boxing](#george-foremans-ko-boxing) | GB
 [Getaway](#getaway) | GB
@@ -2976,6 +2978,22 @@ This patch converts `Gear Works (U,E)` to the `.pocket` format.
 ROM MD5: `16af858484041d572299b501ead2b788`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GearWorks.ips).
+
+## Geheimnis der Happy Hippo-Insel
+
+This patch converts `Geheimnis der Happy Hippo-Insel (DE)` to the `.pocket` format.
+
+ROM MD5: `3bc2db27baff012307501c31d49922ac`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GeheimnisHappyHippo.ips).
+
+## Geheimnis der Happy Hippo-Insel (English Translation)
+
+This patch converts `Geheimnis der Happy Hippo-Insel (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/1733/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `5535a76f0ee88d244edbbf3c843eb72f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GeheimnisHappyHippo.ips).
 
 ## Gekito Power Modeler
 
