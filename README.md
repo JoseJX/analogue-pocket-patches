@@ -707,6 +707,8 @@ Game | System
 [T2 - The Arcade Game](#t2---the-arcade-game) | GB
 [Tail 'Gator](#tail-gator) | GB
 [Taito Memorial - Bubble Bobble](#taito-memorial---bubble-bobble) | GBC
+[Taiyou no Yuusha - Fighbird GB](#taiyou-no-yuusha---fighbird-gb) | GB
+[Taiyou no Yuusha - Fighbird GB (English Translation)](#taiyou-no-yuusha---fighbird-gb-english-translation) | GB
 [Take it Racing 2 - Demo](#take-it-racing-2---demo) | GB
 [TaleSpin](#talespin) | GB
 [Tarzan](#tarzan) | GB
@@ -6641,6 +6643,22 @@ This patch converts `Taito Memorial - Bubble Bobble (J)` to the `.pocket` format
 ROM MD5: `b59fa772b15a07f44110d5b7aa24b424`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TaitoMemorialBubbleBobble.ips).
+
+## Taiyou no Yuusha - Fighbird GB
+
+This patch converts `Taiyou no Yuusha - Fighbird GB (J)` to the `.pocket` format.
+
+ROM MD5: `5bd352e85f75a8314e4dce538cb956c6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TaiyouNoYuusha.ips).
+
+## Taiyou no Yuusha - Fighbird GB (English Translation)
+
+This patch converts `Taiyou no Yuusha - Fighbird GB (English Translation)` to the `.pocket` format.
+
+ROM MD5: `8a3bf3e9dc29ec7ea6d48551f4b64e95`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TaiyouNoYuusha.ips).
 
 ## Take it Racing 2 - Demo
 
