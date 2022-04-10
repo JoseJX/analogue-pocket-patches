@@ -6654,7 +6654,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Taiyou no Yuusha - Fighbird GB (English Translation)
 
-This patch converts `Taiyou no Yuusha - Fighbird GB (English Translation)` to the `.pocket` format.
+This patch converts `Taiyou no Yuusha - Fighbird GB (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/2654/), resulting in the MD5 below, then apply this patch.
 
 ROM MD5: `8a3bf3e9dc29ec7ea6d48551f4b64e95`
 
