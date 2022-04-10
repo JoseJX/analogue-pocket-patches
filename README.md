@@ -838,6 +838,8 @@ Game | System
 [Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories](#yu-gi-oh-duel-monsters-ii---dark-duel-stories) | GBC
 [Zelda no Densetsu: Yume o Miru Shima](#zelda-no-densetsu-yume-o-miru-shima) | GB
 [Zen - Intergalactic Ninja](#zen---intergalactic-ninja) | GB
+[Zoids Densetsu](#zoids-densetsu) | GB
+[Zoids Densetsu (English Translation)](#zoids-densetsu-english-translation) | GB
 [Zool - Ninja of the N'th Dimension](#zool---ninja-of-the-nth-dimension) | GB
 [Zoop](#zoop) | GB
 
@@ -7729,6 +7731,22 @@ This patch converts `Zen - Intergalactic Ninja (U)` to the `.pocket` format.
 ROM MD5: `a517826d1cc3984a141f0f08d3ad72ee`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZenIntergalacticNinja.ips).
+
+## Zoids Densetsu
+
+This patch converts `Zoids Densetsu (J)` to the `.pocket` format.
+
+ROM MD5: `a77e8144b00215385ebf8490a539e4be`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZoidsDensetsu.ips).
+
+## Zoids Densetsu (English Translation)
+
+This patch converts `Zoids Densetsu (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/2488/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `2ef78f44cf5d7d73da0d371ad8986b09`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZoidsDensetsu.ips).
 
 ## Zool - Ninja of the N'th Dimension
 
