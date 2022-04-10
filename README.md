@@ -169,11 +169,13 @@ Game | System
 [Crystal Quest](#crystal-quest) | GB
 [Cubix - Robots for Everyone - Race 'n Robots](#cubix---robots-for-everyone---race-n-robots) | GBC
 [Cyraid](#cyraid) | GB
-[Daikatana](#daikatana) | GBC
-[Daiku no Gen-San - Robot Teikoku no Yabou](#daiku-no-gen-san---robot-teikoku-no-yabou) | GB
 [Daedalian Opus](#daedalian-opus) | GB
 [Daffy Duck](#daffy-duck) | GB
 [Daffy Duck - Fowl Play](#daffy-duck---fowl-play) | GBC
+[Daikatana](#daikatana) | GBC
+[Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi](#daiku-no-gen-san---kachikachi-no-tonkachi-ga-kachi) | GBC
+[Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi (English Translation)](#daiku-no-gen-san---kachikachi-no-tonkachi-ga-kachi-engish-translation) | GBC
+[Daiku no Gen-San - Robot Teikoku no Yabou](#daiku-no-gen-san---robot-teikoku-no-yabou) | GB
 [Dance Dance Revolution GB](#dance-dance-revolution-gb) | GBC
 [Dance Dance Revolution GB2](#dance-dance-revolution-gb2) | GBC
 [Dance Dance Revolution GB3](#dance-dance-revolution-gb3) | GBC
@@ -2144,22 +2146,6 @@ ROM MD5: `e55ecbd33d5813fe6e9a4ca1d04e9f15`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Cyraid.ips).
 
-## Daikatana
-
-This patch converts `Daikatana (E)` to the `.pocket` format.
-
-ROM MD5: `d1934b308085c92b2ee492faa0d159c2`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Daikatana.ips).
-
-## Daiku no Gen-San - Robot Teikoku no Yabou
-
-This patch converts `Daiku no Gen-San - Robot Teikoku no Yabou (J)` to the `.pocket` format.
-
-ROM MD5: `a46ded16cdf9308ed765e857203a59e7`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaikuNoGen-San.ips).
-
 ## Daedalian Opus
 
 This patch converts `Daedalian Opus (U)` to the `.pocket` format.
@@ -2183,6 +2169,38 @@ This patch converts `Daffy Duck - Fowl Play (U,E)` to the `.pocket` format.
 ROM MD5: `882a7b4d2cadedd7ed2e21d22ca8f93d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaffyDuckFowlPlay.ips).
+
+## Daikatana
+
+This patch converts `Daikatana (E)` to the `.pocket` format.
+
+ROM MD5: `d1934b308085c92b2ee492faa0d159c2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Daikatana.ips).
+
+## Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi
+
+This patch converts `Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi (J)` to the `.pocket` format.
+
+ROM MD5: `7455ea4fb9bc8ac752b4e43fd6864b7f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaikuNoGensan-Kachikachi.ips).
+
+## Daiku no Gen-San - Robot Teikoku no Yabou
+
+This patch converts `Daiku no Gen-San - Robot Teikoku no Yabou (J)` to the `.pocket` format.
+
+ROM MD5: `a46ded16cdf9308ed765e857203a59e7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaikuNoGen-San.ips).
+
+## Daiku no Gen-San - Robot Teikoku no Yabou (English Translation)
+
+This patch converts `Daiku no Gen-San - Robot Teikoku no Yabou (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/753/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `8b63a1f33c97708fe6f7dac4b977b100`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaikuNoGen-San.ips).
 
 ## Dance Dance Revolution GB
 
