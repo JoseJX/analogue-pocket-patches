@@ -681,6 +681,7 @@ Game | System
 [Street Fighter Alpha - Warriors' Dreams](#street-fighter-alpha---warriors-dreams) | GBC
 [Street Fighter II](#street-fighter-ii) | GB
 [Super Bikkuriman - Densetsu no Sekiban](#super-bikkuriman---densetsu-no-sekiban) | GB
+[Super Bikkuriman - Densetsu no Sekiban (English Translation)](#super-bikkuriman---densetsu-no-sekiban-english-translation) | GB
 [Super Imposter Bros.](#super-imposter-bros) | GBC
 [Super Mario Land 2 - 6 Golden Coins (Rev A)](#super-mario-land-2---6-golden-coins-rev-a) | GB
 [Super Mario Land 2 - 6 Golden Coins (Rev B)](#super-mario-land-2---6-golden-coins-rev-b) | GB
