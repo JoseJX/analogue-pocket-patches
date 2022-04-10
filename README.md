@@ -514,6 +514,7 @@ Game | System
 [Out of Gas](#out-of-gas) | GB
 [Pac-Attack](#pac-attack) | GB
 [Pac-in-Time](#pac-in-time) | GB
+[Pac-Man](#pac-man) | GB
 [Pac-Man - Special Color Edition](#pac-man---special-color-edition) | GBC
 [Painter Momopie](#painter-momopie) | GB
 [Painter Momopie (English Translation)](#painter-momopie-english-translation) | GB
@@ -5036,6 +5037,14 @@ This patch converts `Pac-in-Time (U)` to the `.pocket` format.
 ROM MD5: `e3b7b3649e52ee6aa6fd98baf88d50de`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PacInTime.ips).
+
+## Pac-Man
+
+This patch converts `Pac-Man (U)` to the `.pocket` format.
+
+ROM MD5: `f6b898bfaa367ac1b0782a363cd098c7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PacMan.ips).
 
 ## Pac-Man - Special Color Edition
 
