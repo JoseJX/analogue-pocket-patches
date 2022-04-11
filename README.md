@@ -819,6 +819,7 @@ Game | System
 [Wizardry Gaiden III - Yami no Seiten](#wizardry-gaiden-iii---yami-no-seiten) | GB
 [Wizardry Gaiden III - Yami no Seiten (English Translation)](#wizardry-gaiden-iii---yami-no-seiten-english-translation) | GB
 [Woody Woodpecker](#woody-woodpecker) | GBC
+[Word-o v3](#word-o-v3) | GBC
 [Wordtris](#wordtris) | GB
 [WordZap](#wordzap) | GB
 [World Beach Volley - 1992 GB Cup](#world-beach-volley---1992-gb-cup) | GB
@@ -7588,6 +7589,14 @@ This patch converts `Woody Woodpecker (U)` to the `.pocket` format.
 ROM MD5: `2a26b9d248bf62788e23aa897e8e355c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WoodyWoodpecker.ips).
+
+## Word-o v3
+
+This patch converts `Word-o v3` to the `.pocket` format. You can get a copy from the author's [itch.io site](https://32mbit.itch.io/word-o).
+
+ROM MD5: `2863835c2f892c3b0f34b8591415178a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Word-o_v3.ips).
 
 ## Wordtris
 
