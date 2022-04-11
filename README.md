@@ -576,6 +576,8 @@ Game | System
 [Puzzled](#puzzled) | GBC
 [Puzzled (E)](#puzzled-e) | GBC
 [Pyramids of Ra](#pyramids-of-ra) | GB
+[Q-Bert for Game Boy](#q-bert-for-game-boy) | GB
+[Q-Bert for Game Boy (J)](#q-bert-for-game-boy-j) | GB
 [Q Billion](#q-billion) | GB
 [QIX](#qix) | GB
 [QIX Adventure](#qix-adventure) | GBC
@@ -5577,6 +5579,22 @@ This patch converts `Pyramids of Ra (U)` to the `.pocket` format.
 ROM MD5: `1c1619f1caef49132e87160aa20a0a4d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PyramidsOfRa.ips).
+
+## Q-Bert for Game Boy
+
+This patch converts `Q-Bert for Game Boy (U,E)` to the `.pocket` format.
+
+ROM MD5: `514688df17c1f7bcf978a13c83d0c22c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/QBert.ips).
+
+## Q-Bert for Game Boy (J)
+
+This patch converts `Q-Bert for Game Boy (J)` to the `.pocket` format.
+
+ROM MD5: `1c1911e4a8d299fcc5df4180f33b69e6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/QBertJ.ips).
 
 ## Q Billion
 
