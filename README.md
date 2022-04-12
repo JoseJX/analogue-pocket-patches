@@ -50,6 +50,7 @@ Game | System
 [Arcade Classic No. 3 - Galaga & Galaxian DX](#arcade-classic-no-3---galaga-and-galaxian-dx) | GB
 [Arcade Classic No. 3 - Galaga & Galaxian DX (E)](#arcade-classic-no-3---galaga-and-galaxian-dx-e) | GB
 [Arcade Hits - Moon Patrol and Spy Hunter](#arcade-hits---moon-patrol-and-spy-hunter) | GBC
+[Arcadia](#arcadia) | GBC
 [Aretha](#aretha) | GB
 [Army Men](#army-men) | GBC
 [Army Men 2](#army-men-2) | GBC
@@ -1191,6 +1192,14 @@ This patch converts `Arcade Hits - Moon Patrol and Spy Hunter (U)` to the `.pock
 ROM MD5: `8ffcf9da76aa9ba1c5b1789a92f47d21`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AH-MoonSpy.ips).
+
+## Arcadia
+
+This patch converts `Arcadia` to the `.pocket` format. You can get a copy of the ROM from the [developer's itch.ip site](https://arcaeon.itch.io/arcadia).
+
+ROM MD5: `847d268fcd78982fe89098aad2346bc6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Arcadia.ips).
 
 ## Aretha
 
