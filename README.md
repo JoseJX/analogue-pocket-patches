@@ -792,6 +792,7 @@ Game | System
 [Ultraman Ball](#ultraman-ball) | GB
 [Ultraman Ball (English Translation)](#ultraman-ball-english-translation) | GB
 [Uno](#uno) | GBC
+[Usurper Ghoul v1.9](#usurper-ghoul-v1-9) | GBC
 [Vegas Stakes](#vegas-stakes) | GB
 [Vigilante 8](#vigilante-8) | GBC
 [V-Rally - Championship Edition](#v-rally---championship-edition) | GBC
@@ -7373,6 +7374,14 @@ This patch converts `Uno (U)` to the `.pocket` format.
 ROM MD5: `c720b196e885fe116d8b0c2154438c0e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Uno.ips).
+
+## Usurper Ghoul v1.9
+
+This patch converts `Usurper Ghoul v1.9` to the `.pocket` format. Get a copy of the ROM from the [developer's itch.io site](https://evandahm.itch.io/usurper-ghoul).
+
+ROM MD5: `a395cafa0678f64114e6a8577ed58bfe`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/UsurperGhoulv.1.9.ips).
 
 ## Vegas Stakes
 
