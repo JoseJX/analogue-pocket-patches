@@ -580,6 +580,7 @@ Game | System
 [Prince of Persia](#prince-of-persia) | GBC
 [Probotector](#probotector) | GB
 [Probotector 2](#probotector-2) | GB
+[Project: D-Mon](#project-d-mon) | GBC
 [Punisher - Ultimate Payback](#punisher---ultimate-payback) | GB
 [Puyo Puyo Gaiden - Puyo Wars](#puyo-puyo-gaiden---puyo-wars) | GBC
 [Puzzle Master](#puzzle-master) | GBC
@@ -5621,6 +5622,14 @@ This patch converts `Probotector 2 (E)` to the `.pocket` format.
 ROM MD5: `e1ea97584e0cf0d0f4187e1c6322da93`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Probotector2.ips).
+
+## Project: D-Mon
+
+This patch converts `Project: D-Mon` to the `.pocket` format. Get a copy from the [developer's itch.io site](https://lazydevs.itch.io/d-mons).
+
+ROM MD5: `509d74da93cc7d90d315e537a8067408`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DMons.ips).
 
 ## Punisher - Ultimate Payback
 
