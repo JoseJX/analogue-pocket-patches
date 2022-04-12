@@ -510,6 +510,8 @@ Game | System
 [Nobunaga's Ambition](#nobunagas-ambition) | GB
 [Noobow](#noobow) | GB
 [Noobow (English Translation)](#noobow-english-translation) | GB
+[Nushi Tsuri Adventure - Kite no Bouken](#nushi-tsuri-adventure---kite-no-bouken) | GBC
+[Nushi Tsuri Adventure - Kite no Bouken (English Translation)](#nushi-tsuri-adventure---kite-no-bouken-english-translation) | GBC
 [Ohastua Dance Dance Revolution GB](#ohastua-dance-dance-revolution-gb) | GBC
 [Operation C](#operation-c) | GB
 [Othello](#othello) | GB
@@ -5013,6 +5015,22 @@ This patch converts `Noobow (English Translation)` to the `.pocket` format. Firs
 ROM MD5: `15449adf4a457462d59c92ed0ac49d5a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Noobow.ips).
+
+## Nushi Tsuri Adventure - Kite no Bouken
+
+This patch converts `Nushi Tsuri Adventure - Kite no Bouken (J)` to the `.pocket` format.
+
+ROM MD5: `5b40590960c204efd6303b2e89a0cc10`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NushiTsuri.ips).
+
+## Nushi Tsuri Adventure - Kite no Bouken (English Translation)
+
+This patch converts `Nushi Tsuri Adventure - Kite no Bouken (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/1570/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `c9a1f0543dd127e9e169f84ed5b04c0a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NushiTsuri.ips).
 
 ## Ohastua Dance Dance Revolution GB
 
