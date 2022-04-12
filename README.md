@@ -18,6 +18,7 @@ Game | System
 [4000AD by PROTODOME](#4000ad-by-protodome) | GB
 [4-in-1 Fun Pack](#4-in-1-fun-pack) | GB
 [4-in-1 Fun Pack - Volume 2](#4-in-1-fun-pack---volume-2) | GB
+[Abyss Story](#abyss-story) | GBC
 [Adulting! v2.0](#adulting-v2-0) | GB
 [Adventures of Lolo](#adventures-of-lolo) | GB
 [Adventures of Star Saver](#adventures-of-star-saver) | GB
@@ -937,6 +938,14 @@ This patch converts `4-in-1 Fun Pack - Volume 2 (U,E)` to the `.pocket` format.
 ROM MD5: `71feb6c7d5b764d5192c28efe74d13c6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/4in1V2.ips).
+
+## Abyss Story
+
+This patch converts `Abyss Story` to the `.pocket` format. Get a copy of the ROM from the [developer's itch.io site](https://spicyfuse.itch.io/abyss-story).
+
+ROM MD5: `b235f6e34fdf0b6a3b956c347ee9e7e0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AbyssStory.ips).
 
 ## Adulting! v2.0
 
