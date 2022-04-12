@@ -728,6 +728,8 @@ Game | System
 [Sword of Hope II](#sword-of-hope-ii) | GB
 [Sylvanian Families: Otogi no Kuni no Pendant](#sylvanian-families-otogi-no-kuni-no-pendant) | GBC
 [Sylvanian Families: Otogi no Kuni no Pendant (English Translation)](#sylvanian-families-otogi-no-kuni-no-pendant-english-translation) | GBC
+[Sylvanian Melodies - Mori no Nakama to Odori Masho!](#sylvanian-melodies---mori-no-nakama-to-odori-masho) | GBC
+[Sylvanian Melodies - Mori no Nakama to Odori Masho! (English Translation)](#sylvanian-melodies---mori-no-nakama-to-odori-masho-english-translation) | GBC
 [Sylvester and Tweety - Breakfast on the Run](#sylvester-and-tweety---breakfast-on-the-run) | GBC
 [T2 - The Arcade Game](#t2---the-arcade-game) | GB
 [Tail 'Gator](#tail-gator) | GB
@@ -6840,6 +6842,22 @@ This patch converts `Sylvanian Families: Otogi no Kuni no Pendant (English Trans
 ROM MD5: `aa782f4fc0b64f2e37bf9a554186f352`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SylvanianFamilies.ips).
+
+## Sylvanian Melodies - Mori no Nakama to Odori Masho!
+
+This patch converts `Sylvanian Melodies - Mori no Nakama to Odori Masho! (J)` to the `.pocket` format.
+
+ROM MD5: `08130cb33fe270321d04d056b85d2037`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SylvanianMelodies.ips).
+
+## Sylvanian Melodies - Mori no Nakama to Odori Masho! (English Translation)
+
+This patch converts `Sylvanian Melodies - Mori no Nakama to Odori Masho! (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/1260/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `e00326574376257c4095f2e752e9d620`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SylvanianMelodies.ips).
 
 ## Sylvester and Tweety - Breakfast on the Run
 
