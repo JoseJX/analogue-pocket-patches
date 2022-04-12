@@ -792,7 +792,7 @@ Game | System
 [Ultraman Ball](#ultraman-ball) | GB
 [Ultraman Ball (English Translation)](#ultraman-ball-english-translation) | GB
 [Uno](#uno) | GBC
-[Usurper Ghoul v1.9](#usurper-ghoul-v1-9) | GBC
+[Usurper Ghoul v1.9](#usurper-ghoul-v19) | GBC
 [Vegas Stakes](#vegas-stakes) | GB
 [Vigilante 8](#vigilante-8) | GBC
 [V-Rally - Championship Edition](#v-rally---championship-edition) | GBC
