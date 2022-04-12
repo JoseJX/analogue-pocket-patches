@@ -266,6 +266,7 @@ Game | System
 [Game Boy Wars 3 (English Translation)](#game-boy-wars-3-english-translation) | GBC
 [Gamera - Daikaijuu Kuuchuu Kessen](#gamera---daikaijuu-kuuchuu-kessen) | GB
 [Gamera - Guardian of the Universe](#gamera---guardian-of-the-universe) | GB
+[Ganbare Goemon - Seikuushi Dynamites Arawaru!!](#ganbare-goemon---seikuushi-dynamites-arawaru) | GBC
 [Ganso!! Yancha Maru](#ganso-yancha-maru) | GB
 [Garfield Labyrinth](#garfield-labyrinth) | GB
 [Gauntlet II](#gauntlet-ii) | GB
@@ -2954,6 +2955,14 @@ This patch converts `Gamera - Guardian of the Universe` to the `.pocket` format.
 ROM MD5: `aed4f63feaba8b8731aa3cf556a68e1a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GameraEn.ips).
+
+## Ganbare Goemon - Seikuushi Dynamites Arawaru!!
+
+This patch converts `Ganbare Goemon - Seikuushi Dynamites Arawaru!! (J)` to the `.pocket` format.
+
+ROM MD5: `b1e72ba9c23587d002bf1059504ad6db`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GanbareGoemon.ips).
 
 ## Ganso!! Yancha Maru
 
