@@ -662,6 +662,7 @@ Game | System
 [Solar Striker](#solar-striker) | GB
 [Solitaire FunPak](#solitaire-funpak) | GB
 [Solomon's Club](#solomons-club) | GB
+[Souls Rest](#souls-rest) | GBC
 [Space Invaders](#space-invaders) | GB
 [Space Invaders (E)](#space-invaders-e) | GB
 [Space Invaders (J)](#space-invaders-j) | GB
@@ -792,7 +793,7 @@ Game | System
 [Ultraman Ball](#ultraman-ball) | GB
 [Ultraman Ball (English Translation)](#ultraman-ball-english-translation) | GB
 [Uno](#uno) | GBC
-[Usurper Ghoul v1.9](#usurper-ghoul-v19) | GBC
+[Usurper Ghoul](#usurper-ghoul) | GBC
 [Vegas Stakes](#vegas-stakes) | GB
 [Vigilante 8](#vigilante-8) | GBC
 [V-Rally - Championship Edition](#v-rally---championship-edition) | GBC
@@ -2017,7 +2018,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Cherry Rescue
 
-This patch converts `Cherry Rescue (v1.0)` to the `.pocket` format. Get a copy of this game from the [author's itch site](https://grafxkid.itch.io/cherry-rescue).
+This patch converts `Cherry Rescue` v1.0 to the `.pocket` format. Get a copy of this game from the [author's itch site](https://grafxkid.itch.io/cherry-rescue).
 
 ROM MD5: `1e0c5af7d66e1acb389ecd93b572e38a`
 
@@ -6297,6 +6298,14 @@ ROM MD5: `8a5ccf172f31a0dbfa0600d40b388fdc`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SolomonsClub.ips).
 
+## Souls Rest
+
+This patch converts `Souls Rest` version 1.12 to the `.pocket` format. Get the ROM from the [developer's itch.io](https://lynxieles.itch.io/souls-rest) site.
+
+ROM MD5: `c99335566f063df9ee393fe915a1bc55`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SoulsRest1.12.ips).
+
 ## Space Invaders
 
 This patch converts `Space Invaders (U)` to the `.pocket` format.
@@ -7375,9 +7384,9 @@ ROM MD5: `c720b196e885fe116d8b0c2154438c0e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Uno.ips).
 
-## Usurper Ghoul v1.9
+## Usurper Ghoul
 
-This patch converts `Usurper Ghoul v1.9` to the `.pocket` format. Get a copy of the ROM from the [developer's itch.io site](https://evandahm.itch.io/usurper-ghoul).
+This patch converts `Usurper Ghoul` v1.9 to the `.pocket` format. Get a copy of the ROM from the [developer's itch.io site](https://evandahm.itch.io/usurper-ghoul).
 
 ROM MD5: `a395cafa0678f64114e6a8577ed58bfe`
 
