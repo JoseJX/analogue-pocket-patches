@@ -182,6 +182,7 @@ Game | System
 [Dance Dance Revolution GB3](#dance-dance-revolution-gb3) | GBC
 [Dance Dance Revolution GB - Disney Mix](#dance-dance-revolution-gb---disney-mix) | GBC
 [Darkwing Duck](#darkwing-duck) | GB
+[A Dark Winter Wander](#a-dark-winter-wander) | GBC
 [Dave Mirra Freestyle BMX](#dave-mirra-freestyle-bmx) | GBC
 [David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob](#david-cranes-the-rescue-of-princess-blobette-starring-a-boy-and-his-blob) | GB
 [Dead Heat Scramble](#dead-heat-scramble) | GB
@@ -2269,6 +2270,14 @@ This patch converts `Darkwing Duck (U)` to the `.pocket` format.
 ROM MD5: `7d776329212fa7cc2b00c5a46f06dd92`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DarkwingDuck.ips).
+
+## A Dark Winter Wander
+
+This patch converts `A Dark Winter Wander` to the `.pocket` format. Get the ROM from the [developer's itch.io site](https://redskald.itch.io/a-dark-winter-wander).
+
+ROM MD5: `d26054cdb11d2ea6f4e991de75b30164`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ADarkWinterWander.ips).
 
 ## Dave Mirra Freestyle BMX
 
