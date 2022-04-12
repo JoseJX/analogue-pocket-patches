@@ -726,8 +726,8 @@ Game | System
 [Sutte Hakkun GB](#sutte-hakkun-gb) | GBC
 [Sword of Hope](#sword-of-hope) | GB
 [Sword of Hope II](#sword-of-hope-ii) | GB
-[Sylvania Families: Otogi no Kuni no Pendant](#sylvania-families-otogi-no-kuni-no-pendant) | GBC
-[Sylvania Families: Otogi no Kuni no Pendant (English Translation)](#sylvania-families-otogi-no-kuni-no-pendant-english-translation) | GBC
+[Sylvanian Families: Otogi no Kuni no Pendant](#sylvanian-families-otogi-no-kuni-no-pendant) | GBC
+[Sylvanian Families: Otogi no Kuni no Pendant (English Translation)](#sylvanian-families-otogi-no-kuni-no-pendant-english-translation) | GBC
 [Sylvester and Tweety - Breakfast on the Run](#sylvester-and-tweety---breakfast-on-the-run) | GBC
 [T2 - The Arcade Game](#t2---the-arcade-game) | GB
 [Tail 'Gator](#tail-gator) | GB
@@ -6825,21 +6825,21 @@ ROM MD5: `64f7f8af18f75a9b3767e4637e693be7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SwordOfHope2.ips).
 
-## Sylvania Families: Otogi no Kuni no Pendant
+## Sylvanian Families: Otogi no Kuni no Pendant
 
-This patch converts `Sylvania Families: Otogi no Kuni no Pendant (J)` to the `.pocket` format.
+This patch converts `Sylvanian Families: Otogi no Kuni no Pendant (J)` to the `.pocket` format.
 
 ROM MD5: `5b250ab006a50301f29e74551531bd7f`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SylvaniaFamilies.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SylvaniainFamilies.ips).
 
-## Sylvania Families: Otogi no Kuni no Pendant (English Translation)
+## Sylvanian Families: Otogi no Kuni no Pendant (English Translation)
 
-This patch converts `Sylvania Families: Otogi no Kuni no Pendant (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/1068/), which results in the MD5 below, then apply this patch.
+This patch converts `Sylvanian Families: Otogi no Kuni no Pendant (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/1068/), which results in the MD5 below, then apply this patch.
 
 ROM MD5: `aa782f4fc0b64f2e37bf9a554186f352`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SylvaniaFamilies.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SylvanianFamilies.ips).
 
 ## Sylvester and Tweety - Breakfast on the Run
 
