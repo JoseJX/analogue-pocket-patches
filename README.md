@@ -186,6 +186,7 @@ Game | System
 [David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob](#david-cranes-the-rescue-of-princess-blobette-starring-a-boy-and-his-blob) | GB
 [Dead Heat Scramble](#dead-heat-scramble) | GB
 [Death Planet](#death-planet) | GB
+[Deep Dungeon](#deep-dungeon) | GB
 [Deja Vu I & II: The Casebooks of Ace Harding](#deja-vu-i--ii-the-casebooks-of-ace-harding) | GBC
 [Denki Blocks!](#denki-blocks) | GBC
 [Dennis the Menace](#dennis-the-menace) | GB
@@ -2299,6 +2300,14 @@ This patch converts `Death Planet` to the `.pocket` format. You can get the ROM 
 ROM MD5: `e5c07daa704a35dd105604286546d56e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeathPlanet.ips).
+
+## Deep Dungeon
+
+This patch converts `Deep Dungeon` v1.3 to the `.pocket` format. Get a copy of the ROM from the [developer's itch.io site](https://lazydevs.itch.io/deep-dungeon).
+
+ROM MD5: `4f9b77afb81d66e6af1bd54b7b06351f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeepDungeonv1.3.ips).
 
 ## Deja Vu I & II: The Casebooks of Ace Harding
 
