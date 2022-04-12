@@ -622,6 +622,7 @@ Game | System
 [Saigo No Nindou](#saigo-no-nindou) | GB
 [Sakura Taisen GB - Geki Hana Gumi Nyuutai!](#sakura-taisen-gb---geki-hana-gumi-nyuutai) | GBC
 [Sakura Wars GB](#sakura-wars-gb) | GBC
+[Sam Mallard - The Case of the Missing Swan](#sam-mallard---the-case-of-the-missing-swan) | GB
 [Samurai Kid](#samurai-kid) | GBC
 [Samurai Kid (English Translation)](#samurai-kid-english-translation) | GBC
 [Samurai Showdown](#samurai-showdown) | GB
@@ -5971,6 +5972,14 @@ This patch converts `Sakura Taisen GB - Geki Hana Gumi Nyuutai! (English Transla
 ROM MD5: `ce604c67bf2806f5a6f736ba168ed271`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SakuraWars.ips).
+
+## Sam Mallard - The Case of the Missing Swan
+
+This patch converts `Sam Mallard - The Case of the Missing Swan` to the `.pocket` format. Get a copy of the ROM from the [developer's itch.io](https://snorpung.itch.io/sam-mallard-gb) site.
+
+ROM MD5: `83fc53defeb7b05ac619c9918797ee83`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SamMallard.ips).
 
 ## Samurai Kid
 
