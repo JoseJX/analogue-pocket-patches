@@ -389,6 +389,7 @@ Game | System
 [Little Mermaid](#little-mermaid) | GB
 [Little Mermaid II - Pinball Frenzy](#little-mermaid-ii---pinball-frenzy) | GBC
 [Lock n' Chase ~ Lock 'n' Chase](#lock-n-chase-lock-n-chase) | GB
+[Lode Runner - Domudomu Dan no Yabou](#lode-runner---domudomu-dan-no-yabou) | GBC
 [Logical](#logical) | GBC
 [Looney Tunes](#looney-tunes) | GB
 [Looney Tunes (GBC)](#looney-tunes-gbc) | GBC
@@ -3976,6 +3977,14 @@ This patch converts `Lock n' Chase ~ Lock 'n' Chase (W)` to the `.pocket` format
 ROM MD5: `8bb31f539e8999d5c4e9449fe1befad6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LockNChase.ips).
+
+## Lode Runner - Domudomu Dan no Yabou
+
+This patch converts `Lode Runner - Domudomu Dan no Yabou (J)` to the `.pocket` format.
+
+ROM MD5: `7bcf428844d32b279b7c25fb98f98a73`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LodeRunner.ips).
 
 ## Logical
 
