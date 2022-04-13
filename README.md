@@ -184,6 +184,7 @@ Game | System
 [Dance Dance Revolution GB2](#dance-dance-revolution-gb2) | GBC
 [Dance Dance Revolution GB3](#dance-dance-revolution-gb3) | GBC
 [Dance Dance Revolution GB - Disney Mix](#dance-dance-revolution-gb---disney-mix) | GBC
+[Dancing Furby](#dancing-furby) | GBC
 [Darkwing Duck](#darkwing-duck) | GB
 [A Dark Winter Wander](#a-dark-winter-wander) | GBC
 [Dave Mirra Freestyle BMX](#dave-mirra-freestyle-bmx) | GBC
@@ -2302,6 +2303,14 @@ This patch converts `Dance Dance Revolution GB - Disney Mix (J)` to the `.pocket
 ROM MD5: `dbada1fdfaba283bede36852843f5ed8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DDR-Disney.ips).
+
+## Dancing Furby
+
+This patch converts `Dancing Furby (J)` to the `.pocket` format.
+
+ROM MD5: `ed517a9923865f4e4945ca4095313fe2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DancingFurby.ips).
 
 ## Darkwing Duck
 
