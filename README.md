@@ -4623,9 +4623,9 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Mobile Golf (English Translation)
 
-This patch converts `Mobile Golf (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](http://www.romhacking.net/translations/6236/), resulting in the MD5 below, then apply this patch.
+This patch converts `Mobile Golf (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](http://www.romhacking.net/translations/6236/), resulting in the MD5 below, then apply this patch. Note: this patch is also compatible with the `vanilla unlock` version of the translation patch.
 
-ROM MD5: `f42ddde3e24354991842f5b222b1cffe`
+ROM MD5: `23f98b48fe91b5c5b98f5adf7bcc828b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MobileGolf.ips).
 
