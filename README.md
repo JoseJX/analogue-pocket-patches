@@ -167,6 +167,7 @@ Game | System
 [Core Machina](#core-machina) | GBC
 [Cosmo Tank](#cosmo-tank) | GB
 [Crazy Bikers](#crazy-bikers) | GBC
+[Croc](#croc) | GBC
 [Crystalis](#crystalis) | GBC
 [Crystal Quest](#crystal-quest) | GB
 [Cubix - Robots for Everyone - Race 'n Robots](#cubix---robots-for-everyone---race-n-robots) | GBC
@@ -2159,6 +2160,14 @@ This patch converts `Crazy Bikers (E)` to the `.pocket` format. This game is als
 ROM MD5: `d6311339384cb70c35975c8d30a1cd98`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Motocross2.ips).
+
+## Croc
+
+This patch converts `Croc (U,E)` to the `.pocket` format.
+
+ROM MD5: `0552078f981c2ef3977f2dfeee19510a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Croc.ips).
 
 ## Crystalis
 
