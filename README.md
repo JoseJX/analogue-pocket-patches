@@ -539,6 +539,7 @@ Game | System
 [Parodius Da!](#parodius-da) | GB
 [Peke to Poko no Daruman Busters](#peke-to-poko-no-daruman-busters) | GB
 [Peke to Poko no Daruman Busters (English Translation)](#peke-to-poko-no-daruman-busters-english-translation) | GB
+[Penguin Land](#penguin-land) | GB
 [Penguin Wars](#penguin-wars) | GB
 [Penta Dragon](#penta-dragon) | GB
 [Penta Dragon (English Translation)](#penta-dragon-english-translation) | GB
@@ -5268,6 +5269,14 @@ This patch converts `Peke to Poko no Daruman Busters (English Translation)` to t
 ROM MD5: `c908283b237622a0fb190aa722f38819`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PekeToPoko.ips).
+
+## Penguin Land
+
+This patch converts `Penguin Land (J)` to the `.pocket` format.
+
+ROM MD5: `62f6b0c1c7eed0af0cb7d9f15d14e7c8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PenguinLand.ips).
 
 ## Penguin Wars
 
