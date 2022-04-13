@@ -696,6 +696,7 @@ Game | System
 [Spy vs Spy](#spy-vs-spy) | GBC
 [Spy vs Spy - Operation Booby Trap](#spy-vs-spy---operation-booby-trap) | GBC
 [Stargate](#stargate) | GB
+[Star Hawk](#star-hawk) | GB
 [Star Ocean - Blue Sphere](#star-ocean---blue-sphere) | GBC
 [Star Ocean - Blue Sphere (English Translation)](#star-ocean---blue-sphere-english-translation) | GBC
 [Star Trek - 25th Anniversary](#star-trek---25th-anniversary) | GB
@@ -6587,6 +6588,14 @@ This patch converts `Stargate (U,E)` to the `.pocket` format.
 ROM MD5: `04bde16beda3f9d7cec4509a04a75946`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Stargate.ips).
+
+## Star Hawk
+
+This patch converts `Star Hawk (E)` to the `.pocket` format.
+
+ROM MD5: `c284b8a9019020336c89b680fb6552e4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarHawk.ips).
 
 ## Star Ocean - Blue Sphere
 
