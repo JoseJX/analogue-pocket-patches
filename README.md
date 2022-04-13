@@ -312,6 +312,7 @@ Game | System
 [Hercules - The Legendary Journey](#hercules---the-legendary-journey) | GBC
 [Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
 [Hexcite - The Shapes of Victory](#hexcite---the-shapes-of-victory) | GBC
+[Home Alone](#home-alone) | GB
 [Hook](#hook) | GB
 [Hoshi no Kirby](#hoshi-no-kirby) | GB
 [Hoshi no Kirby 2](#hoshi-no-kirby-2) | GB
@@ -3345,6 +3346,14 @@ This patch converts `Hexcite - The Shapes of Victory (U,E)` to the `.pocket` for
 ROM MD5: `4b068708fb29fdabbee834114fe4a09d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hexcite.ips).
+
+## Home Alone
+
+This patch converts `Home Alone (U,E)` to the `.pocket` format.
+
+ROM MD5: `6993211741eea010f51b1c20b05d4c43`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HomeAlone.ips).
 
 ## Hook
 
