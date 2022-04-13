@@ -313,6 +313,7 @@ Game | System
 [Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
 [Hexcite - The Shapes of Victory](#hexcite---the-shapes-of-victory) | GBC
 [Home Alone](#home-alone) | GB
+[Home Alone 2 - Lost in New York](#home-alone-2---lost-in-new-york) | GB
 [Hook](#hook) | GB
 [Hoshi no Kirby](#hoshi-no-kirby) | GB
 [Hoshi no Kirby 2](#hoshi-no-kirby-2) | GB
@@ -3354,6 +3355,14 @@ This patch converts `Home Alone (U,E)` to the `.pocket` format.
 ROM MD5: `6993211741eea010f51b1c20b05d4c43`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HomeAlone.ips).
+
+## Home Alone 2 - Lost in New York
+
+This patch converts `Home Alone 2 - Lost in New York (U,E)` to the `.pocket` format.
+
+ROM MD5: `0611b365116b22c1aaa7e3ce4faed5ed`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HomeAlone2.ips).
 
 ## Hook
 
