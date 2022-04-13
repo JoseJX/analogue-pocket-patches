@@ -805,6 +805,7 @@ Game | System
 [Ultraman Ball (English Translation)](#ultraman-ball-english-translation) | GB
 [Uno](#uno) | GBC
 [Usurper Ghoul](#usurper-ghoul) | GBC
+[Vattle Giuce](#vattle-giuce) | GB
 [Vegas Stakes](#vegas-stakes) | GB
 [Vigilante 8](#vigilante-8) | GBC
 [V-Rally - Championship Edition](#v-rally---championship-edition) | GBC
@@ -7490,6 +7491,14 @@ This patch converts `Usurper Ghoul` v1.9 to the `.pocket` format. Get a copy of 
 ROM MD5: `a395cafa0678f64114e6a8577ed58bfe`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/UsurperGhoulv.1.9.ips).
+
+## Vattle Giuce
+
+This patch converts `Vattle Giuce (J)` to the `.pocket` format.
+
+ROM MD5: `813755de3d7338c9442f072ed52f52b3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/VattleGiuce.ips).
 
 ## Vegas Stakes
 
