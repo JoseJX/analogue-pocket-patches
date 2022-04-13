@@ -580,6 +580,7 @@ Game | System
 [Primal Rage](#primal-rage) | GB
 [Prince of Persia (1992)](#prince-of-persia-1992) | GB
 [Prince of Persia](#prince-of-persia) | GBC
+[Pri Pri - Primitive Princess!](#pri-pri---primitive-princess) | GB
 [Probotector](#probotector) | GB
 [Probotector 2](#probotector-2) | GB
 [Project: D-Mon](#project-d-mon) | GBC
@@ -5631,6 +5632,14 @@ This is the GBC version.
 ROM MD5: `afeec69d5ba3afa3ce2279fcda944576`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PrinceOfPersia.ips).
+
+## Pri Pri - Primitive Princess!
+
+This patch converts `Pri Pri - Primitive Princess! (J)` to the `.pocket` format.
+
+ROM MD5: `24186cb8ef3210c00b9c227c71b9db73`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PriPri.ips).
 
 ## Probotector
 
