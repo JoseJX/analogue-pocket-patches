@@ -732,6 +732,8 @@ Game | System
 [Sylvanian Melodies - Mori no Nakama to Odori Masho! (English Translation)](#sylvanian-melodies---mori-no-nakama-to-odori-masho-english-translation) | GBC
 [Sylvester and Tweety - Breakfast on the Run](#sylvester-and-tweety---breakfast-on-the-run) | GBC
 [T2 - The Arcade Game](#t2---the-arcade-game) | GB
+[Tabaluga](#tabaluga) | GBC
+[Tabaluga (English Translation)](#tabaluga-english-translation) | GBC
 [Tail 'Gator](#tail-gator) | GB
 [Taito Memorial - Bubble Bobble](#taito-memorial---bubble-bobble) | GBC
 [Taiyou no Yuusha - Fighbird GB](#taiyou-no-yuusha---fighbird-gb) | GB
@@ -6874,6 +6876,22 @@ This patch converts `T2 - The Arcade Game (U,E)` to the `.pocket` format.
 ROM MD5: `43e26f216d50106a8fccbcc04cda0c29`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/T2.ips).
+
+## Tabaluga
+
+This patch converts `Tabaluga (DE)` to the `.pocket` format.
+
+ROM MD5: `89f251b40b2420ae1dde4d22ca01ed72`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tabaluga.ips).
+
+## Tabaluga (English Translation)
+
+This patch converts `Tabaluga (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](http://www.romhacking.net/translations/4079/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `07388b3b90875d30e23b8f110efabf20`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tabaluga.ips).
 
 ## Tail 'Gator
 
