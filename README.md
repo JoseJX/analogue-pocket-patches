@@ -226,6 +226,8 @@ Game | System
 [Dragon Warrior Monsters 2 - Tara's Adventure](#dragon-warrior-monsters-2---taras-adventure) | GBC
 [Driver - You are the Wheelman](#driver---you-are-the-wheelman) | GBC
 [Duck Tales](#duck-tales) | GB
+[Duck Tales (E)](#duck-tales-e) | GB
+[Duck Tales (J)](#duck-tales-j) | GB
 [Duck Tales 2](#duck-tales-2) | GB
 [Duke Nukem](#duke-nukem) | GBC
 [Dynablaster](#dynablaster) | GB
@@ -2656,6 +2658,22 @@ This patch converts `Duck Tales (U)` to the `.pocket` format.
 ROM MD5: `785441d3d75913393807b10b3194dc48`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DuckTales.ips).
+
+## Duck Tales (E)
+
+This patch converts `Duck Tales (E)` to the `.pocket` format.
+
+ROM MD5: `ca7a62e5e14aafd813bc806d0cf54117`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DuckTalesE.ips).
+
+## Duck Tales (J)
+
+This patch converts `Duck Tales (J)` to the `.pocket` format.
+
+ROM MD5: `9057925ed2531251d494f76d3b8bb471`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DuckTalesJ.ips).
 
 ## Duck Tales 2
 
