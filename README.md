@@ -5465,6 +5465,8 @@ This patch converts `Pokemon Red++ v3 (Hard)` to the `.pocket` format. You must 
 
 This patch was updated to fix a bug in battle. (2022/03/29)
 
+This patch was updated to fix saving. (2022/04/14)
+
 ROM MD5: `aa74d623585627a71d76411f2f5f8d5c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/r++_hard.ips).
@@ -5474,6 +5476,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 This patch converts `Pokemon Red++ v3 (Normal)` to the `.pocket` format. You must apply the [Pokemon Red++ v3 normal patch](https://github.com/JustRegularLuna/rpp-backup/raw/master/patches/rpp%20v3%20normal.ips) first, the resulting ROM will match the MD5 below.
 
 This patch was updated to fix a bug in battle. (2022/03/29)
+
+This patch was updated to fix saving. (2022/04/14)
 
 ROM MD5: `371ca8999e1dc0d04b6935b07582fa49`
 
