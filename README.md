@@ -302,6 +302,7 @@ Game | System
 [Gremlins 2 - The New Batch](#gremlins-2---the-new-batch) | GB
 [Hammerin' Harry - Ghost Building Company](#hammerin-harry---ghost-building-company) | GB
 [Hamtaro - Ham-Hams Unite!](#hamtaro---ham-hams-unite) | GBC 
+[Hands of Time](#hands-of-time) | GBC
 [Harry Potter and the Chamber of Secrets](#harry-potter-and-the-chamber-of-secrets) | GBC
 [Harry Potter and the Sorcerer's Stone](#harry-potter-and-the-sorcerers-stone) | GBC
 [Harvest Moon GB](#harvest-moon-gb) | GB
@@ -3271,6 +3272,14 @@ This patch converts `Hamtaro - Ham-Hams Unite! (U)` to the `.pocket` format.
 ROM MD5: `48ce279084e1fc7a9136cc211f4fad5d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hamtaro.ips).
+
+## Hands of Time
+
+This patch converts `Hands of Time (U)` to the `.pocket` format.
+
+ROM MD5: `cecc79084e6515e9c59ce8d63d49eace`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HandsOfTime.ips).
 
 ## Harry Potter and the Chamber of Secrets
 
