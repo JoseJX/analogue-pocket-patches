@@ -451,6 +451,7 @@ Game | System
 [Mercenary Force](#mercenary-force) | GB
 [Metal Gear Solid](#metal-gear-solid) | GBC
 [Metal Gear Solid (E)](#metal-gear-solid-e) | GBC
+[Metal Masters](#metal-masters) | GB
 [Metal Walker](#metal-walker) | GBC
 [mGB](#mgb) | GBC
 [Mickey Mouse](#mickey-mouse) | GB
@@ -4551,6 +4552,14 @@ This patch converts `Metal Gear Solid (E)` to the `.pocket` format.
 ROM MD5: `7971c95ad9745fe20df52e03cd52f636`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalGearEuro.ips).
+
+## Metal Masters
+
+This patch converts `Metal Masters (U)` to the `.pocket` format.
+
+ROM MD5: `680c8fbb0bc15c850121ef2c929df177`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalMasters.ips).
 
 ## Metal Walker
 
