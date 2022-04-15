@@ -541,6 +541,7 @@ Game | System
 [Panel no Ninja Kesamaru](#panel-no-ninja-kesamaru) | GB
 [Panel no Ninja Kesamaru (English Translation)](#panel-no-ninja-kesamaru-english-translation) | GB
 [Paperboy](#paperboy) | GB
+[Paperboy 2](#paperboy-2) | GB
 [Parasol Stars - Rainbow Islands II](#parasol-stars---rainbow-islands-ii) | GB
 [Parodius Da!](#parodius-da) | GB
 [Peke to Poko no Daruman Busters](#peke-to-poko-no-daruman-busters) | GB
@@ -5295,6 +5296,14 @@ This patch converts `Paperboy (U,E)` to the `.pocket` format.
 ROM MD5: `dcabc0879c258e54048237d280ffa7da`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Paperboy.ips).
+
+## Paperboy 2
+
+This patch converts `Paperboy 2 (U,E)` to the `.pocket` format.
+
+ROM MD5: `86e22a57cf0055f858acc9a4062ebc30`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Paperboy2.ips).
 
 ## Parasol Stars - Rainbow Islands II
 
