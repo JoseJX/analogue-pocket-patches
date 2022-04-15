@@ -66,6 +66,7 @@ Game | System
 [Astro Rabby](#astro-rabby) | GB
 [Atlantis - The Lost Empire](#atlantis---the-lost-empire) | GBC
 [Atomic Punk](#atomic-punk) | GB
+[Austin Powers - Oh Behave!](#austin-powers---oh-behave) | GBC
 [Ayakashi no Shiro](#ayakashi-no-shiro) | GB
 [Ayakashi no Shiro (English Translation)](#ayakashi-no-shiro-english-translation) | GB
 [Bad Apple (Demo)](#bad-apple-demo) | GBC
@@ -1355,6 +1356,14 @@ This patch converts `Atomic Punk (U)` to the `.pocket` format.
 ROM MD5: `76010c6ff6bd0c4e8ac934dc69fb96ab`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AtomicPunk.ips).
+
+## Austin Powers - Oh Behave!
+
+This patch converts `Austin Powers - Oh Behave! (U)` to the `.pocket` format.
+
+ROM MD5: `2aba33e89caca45c9091b25a276dd4c6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AustinPowersBehave.ips).
 
 ## Ayakashi no Shiro
 
