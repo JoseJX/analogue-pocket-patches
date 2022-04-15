@@ -58,6 +58,7 @@ Game | System
 [Army Men - Air Combat](#army-men---air-combat) | GBC
 [Army Men - Sarge's Heroes 2](#army-men---sarges-heroes-2) | GBC
 [Arthur's Absolutely Fun Day!](#arthurs-absolutely-fun-day) | GBC
+[Asmik-kun World 2](#asmik-kun-world-2) | GB
 [Asterix](#asterix) | GB
 [Asterix and Obelix](#asterix-and-obelix) | GBC
 [Asterix and Obelix vs. Caesar](#asterix-and-obelix-vs-caesar) | GBC
@@ -1290,6 +1291,14 @@ This patch converts `Arthur's Absolutely Fun Day! (U)` to the `.pocket` format.
 ROM MD5: `3d630cb2ff52e7fedfca6c938b82fa24`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ArthursFunDay.ips).
+
+## Asmik-kun World 2
+
+This patch converts `Asmik-kun World 2 (J)` to the `.pocket` format.
+
+ROM MD5: `24db7b8d9080b1626dd949331ac40aca`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AsmikWorld2.ips).
 
 ## Asterix
 
