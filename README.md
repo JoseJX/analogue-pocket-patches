@@ -291,6 +291,7 @@ Game | System
 [Gex 3 - Deep Pocket Gecko](#gex-3---deep-pocket-gecko) | GBC
 [Ghostbusters II](#ghostbusters-ii) | GB
 [Gimmick Land](#gimmick-land) | GBC
+[Gluecksrad](#gluecksrad) | GB
 [God Medicine - Hukkoku Ban](#god-medicine---hukkoku-ban) | GB
 [God Medicine - Hukkoku Ban (English Translation)](#god-medicine---hukkoku-ban-english-translation) | GB
 [Godzilla](#godzilla) | GB
@@ -3191,6 +3192,14 @@ This patch converts `Gimmick Land (J)` to the `.pocket` format. Note that this g
 ROM MD5: `a562bbe876b8467cc530213ec84eba0a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GimmickLand.ips).
+
+## Gluecksrad
+
+This patch converts `Gluecksrad (DE)` to the `.pocket` format.
+
+ROM MD5: `060caa70249d12da3cf53d6d48323b08`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gluecksrad.ips).
 
 ## God Medicine - Hukkoku Ban
 
