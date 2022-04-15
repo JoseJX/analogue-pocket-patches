@@ -595,6 +595,8 @@ Game | System
 [Probotector 2](#probotector-2) | GB
 [Project: D-Mon](#project-d-mon) | GBC
 [Punisher - Ultimate Payback](#punisher---ultimate-payback) | GB
+[Puyo Puyo](#puyo-puyo) | GB
+[Puyo Puyo (Rev A)](#puyo-puyo-rev-a) | GB
 [Puyo Puyo Gaiden - Puyo Wars](#puyo-puyo-gaiden---puyo-wars) | GBC
 [Puzzle Master](#puzzle-master) | GBC
 [Puzzled](#puzzled) | GBC
@@ -5773,6 +5775,22 @@ This patch was updated to fix a lock up issue at the end. (2022/03/30)
 ROM MD5: `84133af3324fc1aaf00c0769e15708c0`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Punisher.ips).
+
+## Puyo Puyo
+
+This patch converts `Puyo Puyo (J)` to the `.pocket` format.
+
+ROM MD5: `1a181f068d715c4ca350fb168fb9dd8a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PuyoPuyo.ips).
+
+## Puyo Puyo (Rev A)
+
+This patch converts `Puyo Puyo (Rev A) (J)` to the `.pocket` format.
+
+ROM MD5: `300ea2593b2c29c3950fed23d672e11e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PuyoPuyoA.ips).
 
 ## Puyo Puyo Gaiden - Puyo Wars
 
