@@ -553,6 +553,7 @@ Game | System
 [Philip & Marlowe in Bloomland](#philip--marlowe-in-bloomland) | GB
 [Picross 2](#picross-2) | GB
 [Picross 2 (English Translation)](#picross-2-english-translation) | GB
+[Pierre le Chef is ... Out to Lunch](#pierre-le-chef-is-out-to-lunch) | GB
 [Pinball Dreams](#pinball-dreams) | GB
 [Pinball Fantasies](#pinball-fantasies) | GB
 [Pipe Dream](#pipe-dream) | GB
@@ -5390,6 +5391,14 @@ This patch converts `Picross 2 (English Translation)` to the `.pocket` format. F
 ROM MD5: `34bc051c58166d7bd1fc2540870edfdb`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Picross2.ips).
+
+## Pierre le Chef is ... Out to Lunch
+
+This patch converts `Pierre le Chef is ... Out to Lunch (E)` to the `.pocket` format.
+
+ROM MD5: `e41aac285898754055eb3f0c3f280ea3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PierreLeChef.ips).
 
 ## Pinball Dreams
 
