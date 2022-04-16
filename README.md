@@ -821,6 +821,7 @@ Game | System
 [Turok - Rage Wars](#turok---rage-wars) | GBC
 [Turok 2 - Seeds of Evil](#turok-2---seeds-of-evil) | GBC
 [Turok 3 - Shadow of Oblivion](#turok-3---shadow-of-oblivion) | GBC
+[UEFA 2000](#uefa-2000) | GBC
 [Ultima - Runes of Virtue](#ultima---runes-of-virtue) | GB
 [Ultima - Runes of Virtue II](#ultima---runes-of-virtue-ii) | GB
 [Ultraman Ball](#ultraman-ball) | GB
@@ -7647,6 +7648,14 @@ This patch converts `Turok 3 - Shadow of Oblivion (U,E)` to the `.pocket` format
 ROM MD5: `a9d2f36d6c2a334e0b2261c57c20f0d4`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Turok3.ips).
+
+## UEFA 2000
+
+This patch converts `UEFA 2000 (E)` to the `.pocket` format.
+
+ROM MD5: `ca00c843a575efd01814fcbf7d84a8dc`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/UEFA2000.ips).
 
 ## Ultima - Runes of Virtue
 
