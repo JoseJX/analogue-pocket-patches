@@ -142,6 +142,7 @@ Game | System
 [Bust-A-Move Millennium](#bust-a-move-millennium) | GBC
 [Buzz Lightyear of Star Command](#buzz-lightyear-of-star-command) | GBC
 [Cannon Fodder](#cannon-fodder) | GBC
+[Cannon Fodder (E)](#cannon-fodder-e) | GBC
 [Captain America and the Avengers](#captain-america-and-the-avengers) | GB
 [Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai](#cardcaptor-sakura---tomoeda-shougakkou-daiundoukai) | GBC
 [Carmageddon - Carpocalypse Now](#carmageddon---carpocalypse-now) | GBC
@@ -1975,6 +1976,14 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 This patch converts `Cannon Fodder (U)` to the `.pocket` format.
 
 ROM MD5: `762d6c94874d8ac894ad100c0a4b50ab`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CannonFodder.ips).
+
+## Cannon Fodder (E)
+
+This patch converts `Cannon Fodder (E)` to the `.pocket` format.
+
+ROM MD5: `3dd6b4dd7da7f2b412f92c2509b9f1df`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CannonFodder.ips).
 
