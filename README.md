@@ -824,6 +824,7 @@ Game | System
 [UEFA 2000](#uefa-2000) | GBC
 [Ultima - Runes of Virtue](#ultima---runes-of-virtue) | GB
 [Ultima - Runes of Virtue II](#ultima---runes-of-virtue-ii) | GB
+[Ultra Golf](#ultra-golf) | GB
 [Ultraman Ball](#ultraman-ball) | GB
 [Ultraman Ball (English Translation)](#ultraman-ball-english-translation) | GB
 [Uno](#uno) | GBC
@@ -7672,6 +7673,14 @@ This patch converts `Ultima - Runes of Virtue II (U)` to the `.pocket` format.
 ROM MD5: `15cd267d7805fe9f1769e9644a9cec2e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ultima2.ips).
+
+## Ultra Golf
+
+This patch converts `Ultra Golf (U)` to the `.pocket` format.
+
+ROM MD5: `0a1cbc05d75c2bd3e01aad3acb4e4019`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/UltraGolf.ips).
 
 ## Ultraman Ball
 
