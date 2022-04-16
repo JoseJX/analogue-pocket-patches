@@ -272,6 +272,7 @@ Game | System
 [Game & Watch Gallery](#game--watch-gallery) | GB
 [Game & Watch Gallery 2](#game--watch-gallery-2) | GBC
 [Game & Watch Gallery 3](#game--watch-gallery-3) | GBC
+[Game Boy Gallery - 5 Games in One](#game-boy-gallery---5-games-in-one) | GB
 [Game Boy Test Cartridge](#game-boy-test-cartridge) | GB
 [Game Boy Wars Turbo](#game-boy-wars-turbo) | GB
 [Game Boy Wars Turbo (English Translation)](#game-boy-wars-turbo-english-translation) | GB
@@ -3055,6 +3056,14 @@ This patch converts `Game Boy Test Cartridge` to the `.pocket` format. It was an
 ROM MD5: `d36c2b60c8e71fd40b965ead209b2a1e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBTestCart.ips).
+
+## Game Boy Gallery - 5 Games in One
+
+This patch converts `Game Boy Gallery - 5 Games in One (E)` to the `.pocket` format.
+
+ROM MD5: `b6d1139fb8d57cd47f173faef592c813`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GameBoyGallery.ips).
 
 ## Game Boy Wars Turbo
 
