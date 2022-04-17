@@ -287,6 +287,7 @@ Game | System
 [Ganso!! Yancha Maru](#ganso-yancha-maru) | GB
 [Garfield Labyrinth](#garfield-labyrinth) | GB
 [Gauntlet II](#gauntlet-ii) | GB
+[GB Genjin Land - Viva! Chikkun Oukoku](#gb-genjin-land---viva-chikkun-oukoku) | GB
 [Gear Works](#gear-works) | GB
 [Geheimnis der Happy Hippo-Insel](#geheimnis-der-happy-hippo-insel) | GBC
 [Geheimnis der Happy Hippo-Insel (English Translation)](#geheimnis-der-happy-hippo-insel-english-translation) | GBC
@@ -3171,6 +3172,14 @@ This patch converts `Gauntlet II (U,E)` to the `.pocket` format.
 ROM MD5: `cdca15cfd1645c02fe1cc327b772264e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gauntlet2.ips).
+
+## GB Genjin Land - Viva! Chikkun Oukoku
+
+This patch converts `GB Genjin Land - Viva! Chikkun Oukoku (J)` to the `.pocket` format.
+
+ROM MD5: `e6e405968face6a00abf3abf8514e9de`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBGenjinLand.ips).
 
 ## Gear Works
 
