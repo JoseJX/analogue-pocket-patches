@@ -332,6 +332,7 @@ Game | System
 [Hoshi no Kirby](#hoshi-no-kirby) | GB
 [Hoshi no Kirby 2](#hoshi-no-kirby-2) | GB
 [Hoyle Card Games](#hoyle-card-games) | GBC
+[Hoyle Casino](#hoyle-casino) | GBC
 [Hudson Hawk](#hudson-hawk) | GB
 [Humans](#humans) | GB
 [Hunt for Red October](#hunt-for-red-october) | GB
@@ -3533,6 +3534,14 @@ This patch converts `Hoyle Card Games (U)` to the `.pocket` format.
 ROM MD5: `83087e1a3fa7160a59ee7e4f0b5c3671`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HoyleCardGames.ips).
+
+## Hoyle Casino
+
+This patch converts `Hoyle Casino (U)` to the `.pocket` format.
+
+ROM MD5: `e0245d992101be481c355e3e2c2cbb83`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HoyleCasino.ips).
 
 ## Hudson Hawk
 
