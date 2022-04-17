@@ -53,6 +53,7 @@ Game | System
 [Arcade Hits - Moon Patrol and Spy Hunter](#arcade-hits---moon-patrol-and-spy-hunter) | GBC
 [Arcadia](#arcadia) | GBC
 [Aretha](#aretha) | GB
+[Aretha II](#aretha-ii) | GB
 [Army Men](#army-men) | GBC
 [Army Men 2](#army-men-2) | GBC
 [Army Men - Air Combat](#army-men---air-combat) | GBC
@@ -1257,6 +1258,14 @@ This patch converts `Aretha (J)` to the `.pocket` format.
 ROM MD5: `9c23d37d51a593e82378dad038a52ef2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Aretha.ips).
+
+## Aretha II
+
+This patch converts `Aretha II (J)` to the `.pocket` format.
+
+ROM MD5: `a3059206ef517091a475249ce6c0db4f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Aretha2.ips).
 
 ## Army Men
 
