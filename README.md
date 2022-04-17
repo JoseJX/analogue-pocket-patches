@@ -789,6 +789,7 @@ Game | System
 [Tetris Attack](#tetris-attack) | GB
 [Tetris Blast](#tetris-blast) | GB
 [Tetris Plus](#tetris-plus) | GB
+[Tiger Woods PGA Tour 2000](#tiger-woods-pga-tour-2000) | GBC
 [Tintin - Prisoners of the Sun](#tintin---prisoners-of-the-sun) | GBC
 [Tintin in Tibet](#tintin-in-tibet) | GBC
 [Tiny Toon Adventures - Babs' Big Break](#tiny-toon-adventures---babs-big-break) | GB
@@ -7376,6 +7377,14 @@ This patch converts `Tetris Plus (U,E)` to the `.pocket` format.
 ROM MD5: `4511333eeecb3c9f20874d595424447c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TetrisPlus.ips).
+
+## Tiger Woods PGA Tour 2000
+
+This patch converts `Tiger Woods PGA Tour 2000 (U,E)` to the `.pocket` format.
+
+ROM MD5: `c58361b88496e7ad0179b59122afd687`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TigerWoods.ips).
 
 ## Tintin in Tibet
 
