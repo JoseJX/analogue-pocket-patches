@@ -516,6 +516,7 @@ Game | System
 [Nangoku Shounen Papuwa-kun - Ganmadan no Yabou (English Translation)](#nangoku-shounen-papuwa-kun---ganmadan-no-yabou-english-translation) | GB
 [NBA 3-on-3 Featuring Kobe Bryant](#nba-3-on-3-featuring-kobe-bryant) | GBC
 [NBA All Star Challenge](#nba-all-star-challenge) | GB
+[NBA All Star Challenge 2](#nba-all-star-challenge-2) | GB
 [NBA Jam](#nba-jam) | GB
 [NBA Jam - Tournament Edition](#nba-jam---tournament-edition) | GB
 [NBA Jam 2001](#nba-jam-2001) | GBC
@@ -5105,6 +5106,14 @@ This patch converts `NBA All Star Challenge (U,E)` to the `.pocket` format.
 ROM MD5: `709726eb6de8d45e63a88063529605bc`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NBAAllStar.ips).
+
+## NBA All Star Challenge 2
+
+This patch converts `NBA All Star Challenge 2 (U,E)` to the `.pocket` format.
+
+ROM MD5: `0a1ea6552eb8daf756824adb1f498559`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NBAAllStar2.ips).
 
 ## NBA Jam
 
