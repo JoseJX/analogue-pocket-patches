@@ -443,6 +443,8 @@ Game | System
 [Mario Golf GB](#mario-golf-gb) | GBC
 [Mario's Picross](#marios-picross) | GB
 [Mario no Picross](#mario-no-picross) | GB
+[Mario Tennis (E)](#mario-tennis-e) | GBC
+[Mario Tennis GB](#mario-tennis-gb) | GBC
 [Mario & Yoshi](#mario-yoshi) | GB
 [Maru's Mission](#marus-mission) | GB
 [Mary-Kate and Ashley - Get a Clue!](#mary-kate-and-ashley---get-a-clue) | GBC
@@ -4470,6 +4472,22 @@ This is the Japanese version of `Mario's Picross`.
 ROM MD5: `defe3559ef5e8d69ca95289edb6f9f6e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioNoPicross.ips).
+
+## Mario Tennis (E)
+
+This patch converts `Mario Tennis (E)` to the `.pocket` format.
+
+ROM MD5: `a320f9de83767bb1bc1bbbc6fbd96011`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioTennisE.ips).
+
+## Mario Tennis GB
+
+This patch converts `Mario Tennis GB (J)` to the `.pocket` format.
+
+ROM MD5: `d7f63bbb351a95d73d085a58c8e9f449`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioTennisGB.ips).
 
 ## Mario & Yoshi
 
