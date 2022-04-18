@@ -581,6 +581,8 @@ Game | System
 [Pokemon Blaue](#pokemon-blaue) | GB
 [Pokemon Brown](#pokemon-brown) | GB
 [Pokemon - Edicion Amarilla - Edicion Especial Pikachu](#pokemon---edicion-amarilla---edicion-especial-pikachu) | GBC
+[Pokemon - Edicion Azul](#pokemon---edicion-azul) | GB
+[Pokemon - Edicion Roja](#pokemon---edicion-roja) | GB
 [Pokemon Red++ v3 (Hard)](#pokemon-red-v3-hard) | GBC
 [Pokemon Red++ v3 (Normal)](#pokemon-red-v3-normal) | GBC
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
@@ -5638,6 +5640,22 @@ This patch converts `Pokemon - Edicion Amarilla - Edicion Especial Pikachu (Es)`
 ROM MD5: `f0da8b1cff3aab898ecde9dcbda6d817`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonYellowEs.ips).
+
+## Pokemon - Edicion Azul
+
+This patch converts `Pokemon - Edicion Azul (ES)` to the `.pocket` format.
+
+ROM MD5: `6e7663f908334724548a66fc9c386002`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonEdicionAzul.ips).
+
+## Pokemon - Edicion Roja
+
+This patch converts `Pokemon - Edicion Roja (ES)` to the `.pocket` format.
+
+ROM MD5: `463c241c8721ab1d1da17c91de9f8a32`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonEdicionRoja.ips).
 
 ## Pokemon Red++ v3 (Hard)
 
