@@ -683,6 +683,7 @@ Game | System
 [Shin Pokemon Green](#shin-pokemon-green) | GB
 [Shin Pokemon Blue](#shin-pokemon-red) | GB
 [Shin Pokemon Blue (J)](#shin-pokemon-red-j) | GB
+[Shitwave](#shitwave) | GB
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
 [Skate or Die - Bad 'N Rad](#skate-or-die---bad-n-rad) | GB
@@ -6519,6 +6520,14 @@ This patch converts `Shin Pokemon Red (J) v1.23` to the `.pocket` format. It is 
 ROM MD5: `1669f161c868bde90c0c82fdce31fb04`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShinPokemonRedJv1.23.ips).
+
+## Shitwave
+
+This patch converts `Shitwave (v1)` to the `.pocket` format. You can get a copy of the ROM from the [devloper's site](https://blog.gg8.se/wordpress/2009/03/23/shitwave-a-prng-based-drone-generator-for-gameboy/).
+
+ROM MD5: `f7103c8e8c260123615985e65f85b211`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/shitwave1.ips).
 
 ## Side Pocket
 
