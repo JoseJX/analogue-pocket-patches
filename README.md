@@ -393,6 +393,8 @@ Game | System
 [Legend of the Mana Sword - Amanda](#legend-of-the-mana-sword---amanda) | GB
 [Legend of the Mana Sword - Duke](#legend-of-the-mana-sword---duke) | GB
 [Legend of the River King (E)](#legend-of-the-river-king-e) | GBC
+[Legend of the River King GB](#legend-of-the-river-king-gb) | GB
+[Legend of the River King GB (AU)](#legend-of-the-river-king-gb-au) | GB
 [Legend of the River King GB (DE)](#legend-of-the-river-king-gb-de) | GBC
 [Legend of the River King 2](#legend-of-the-river-king-2) | GBC
 [Legend of the River King 2 (E)](#legend-of-the-river-king-2-e) | GBC
@@ -4070,6 +4072,22 @@ This patch converts `Legend of the River King (E)` to the `.pocket` format.
 ROM MD5: `cb5fe636114fcb0925d08ceced82dc23`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendOfTheRiverKingE.ips).
+
+## Legend of the River King GB
+
+This patch converts `Legend of the River King GB (U)` to the `.pocket` format.
+
+ROM MD5: `e54042d63d3671719b95d311731c02e4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendRiverKingGB.ips).
+
+## Legend of the River King GB (AU)
+
+This patch converts `Legend of the River King GB (AU)` to the `.pocket` format.
+
+ROM MD5: `55ad8dd2a99a840f3726600380b44315`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendRiverKingGB.ips).
 
 ## Legend of the River King GB (DE)
 
