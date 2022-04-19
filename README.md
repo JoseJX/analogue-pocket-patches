@@ -192,7 +192,9 @@ Game | System
 [Dancing Furby](#dancing-furby) | GBC
 [Dangan GB](#dangan-gb) | GB
 [Darkwing Duck](#darkwing-duck) | GB
+[Darkwing Duck (DE)](#darkwing-duck-de) | GB
 [Darkwing Duck (E)](#darkwing-duck-e) | GB
+[Darkwing Duck (ES)](#darkwing-duck-es) | GB
 [A Dark Winter Wander](#a-dark-winter-wander) | GBC
 [Dave Mirra Freestyle BMX](#dave-mirra-freestyle-bmx) | GBC
 [David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob](#david-cranes-the-rescue-of-princess-blobette-starring-a-boy-and-his-blob) | GB
@@ -2404,6 +2406,14 @@ ROM MD5: `7d776329212fa7cc2b00c5a46f06dd92`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DarkwingDuck.ips).
 
+## Darkwing Duck (DE)
+
+This patch converts `Darkwing Duck (DE)` to the `.pocket` format.
+
+ROM MD5: `b364d2bbe0a3a09adafa9b6b982a9acb`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DarkwingDuckDE.ips).
+
 ## Darkwing Duck (E)
 
 This patch converts `Darkwing Duck (E)` to the `.pocket` format.
@@ -2411,6 +2421,14 @@ This patch converts `Darkwing Duck (E)` to the `.pocket` format.
 ROM MD5: `5c837aeba2aa844d4cd34653d4e332ea`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DarkwingDuck.ips).
+
+## Darkwing Duck (ES)
+
+This patch converts `Darkwing Duck (ES)` to the `.pocket` format.
+
+ROM MD5: `780bbec4b26617b3a1a4fcdfa5a731e4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DarkwingDuckES.ips).
 
 ## A Dark Winter Wander
 
