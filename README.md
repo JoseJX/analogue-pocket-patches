@@ -229,6 +229,8 @@ Game | System
 [Dragon's Lair - The Legend](#dragons-lair---the-legend) | GB
 [Dragon Quest III: Soshite Densetsu e...](#dragon-quest-iii-soshite-densetsu-e) | GBC
 [Dragon Quest Monsters (DE)](#dragon-quest-monsters-de) | GBC
+[Dragon Quest Monsters (J)](#dragon-quest-monsters-j) | GBC
+[Dragon Quest Monsters (J) (Rev A)](#dragon-quest-monsters-j-rev-a) | GBC
 [Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ina no Bouken](#dragon-quest-monsters-2---maruta-no-fushigi-na-kagi---inu-no-bouken) | GBC
 [Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi](#dragon-quest-monsters-2---maruta-no-fushigi-na-kagi---ruka-no-tabidachi) | GBC
 [Dragon Warrior Monsters 2 - Cobi's Journey](#dragon-warrior-monsters-2---cobis-journey) | GBC
@@ -2711,6 +2713,22 @@ This is the German version of `Dragon Warrior Monsters`.
 ROM MD5: `08bca718c62e3c2870a2df107fc0a562`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonQuestMonstersDE.ips).
+
+## Dragon Quest Monsters (J)
+
+This patch converts `Dragon Quest Monsters (J)` to the `.pocket` format.
+
+ROM MD5: `5254ea1935c43057358d2efba26c60c8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonQuestMonstersJ.ips).
+
+## Dragon Quest Monsters (J) (Rev A)
+
+This patch converts `Dragon Quest Monsters (J) (Rev A)` to the `.pocket` format.
+
+ROM MD5: `b28c999d1b43e8e39998827ff39965cc`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonQuestMonstersJA.ips).
 
 ## Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Inu no Bouken
 
