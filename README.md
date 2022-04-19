@@ -824,6 +824,7 @@ Game | System
 [Tony Hawk's Pro Skater](#tony-hawks-pro-skater) | GBC
 [Tony Hawk's Pro Skater 2](#tony-hawks-pro-skater-2) | GBC
 [Tony Hawk's Pro Skater 3](#tony-hawks-pro-skater-3) | GBC
+[Toobin'](#toobin) | GBC
 [Top Gear Pocket 2](#top-gear-pocket-2) | GBC
 [Top Gear Rally 2](#top-gear-rally-2) | GBC
 [Top Ranking Tennis](#top-ranking-tennis) | GB
@@ -7682,6 +7683,14 @@ This patch was updated to fix graphics corruption. (2022/01/11)
 ROM MD5: `365f913d6f2b0f44d87b7a347daea528`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/THPS3.ips).
+
+## Toobin'
+
+This patch converts `Toobin' (U)` to the `.pocket` format.
+
+ROM MD5: `d9575286a0da1da5f6036f649024298c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Toobin.ips).
 
 ## Top Gear Pocket 2
 
