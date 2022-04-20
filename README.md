@@ -305,6 +305,7 @@ Game | System
 [Ghostbusters II](#ghostbusters-ii) | GB
 [Gimmick Land](#gimmick-land) | GBC
 [Gluecksrad](#gluecksrad) | GB
+[God Medicine - Fantasy Sekai no Tanjou](#god-medicine---fantasy-sekai-no-tanjou) | GB
 [God Medicine - Hukkoku Ban](#god-medicine---hukkoku-ban) | GB
 [God Medicine - Hukkoku Ban (English Translation)](#god-medicine---hukkoku-ban-english-translation) | GB
 [Godzilla](#godzilla) | GB
@@ -3337,9 +3338,19 @@ ROM MD5: `060caa70249d12da3cf53d6d48323b08`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gluecksrad.ips).
 
+## God Medicine - Fantasy Sekai no Tanjou
+
+This patch converts `God Medicine - Fantasy Sekai no Tanjou (J)` to the `.pocket` format. This game is also known as `God Medicine - Hukkou Ban` and `God Medicine - Fukkoku Ban`.
+
+ROM MD5: `52e110882a9f42c8b5c97489a29005f5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GodMedicineFantasySekaiNoTanjou.ips).
+
 ## God Medicine - Hukkoku Ban
 
-This patch converts `God Medicine - Hukkoku Ban (J)` to the `.pocket` format.
+This patch converts `God Medicine - Hukkoku Ban (J)` to the `.pocket` format. This game is also known as `God Medicine - Fukkoku Ban` and `God Medicine - Fantasy Sekai no Tanjou`.
+
+This patch was updated to fix some graphical issues. (04/19/2022)
 
 ROM MD5: `4057131cb9cedfb2fcdbc36904e7896d`
 
@@ -3347,7 +3358,9 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## God Medicine - Hukkoku Ban (English Translation)
 
-This patch converts `God Medicine - Hukkoku Ban (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/600/), which results in the MD5 below, then apply this patch.
+This patch converts `God Medicine - Hukkoku Ban (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/600/), which results in the MD5 below, then apply this patch. This game is also known as `God Medicine - Fukkoku Ban` and `God Medicine - Fantasy Sekai no Tanjou`.
+
+This patch was updated to fix some graphical issues. (04/19/2022)
 
 ROM MD5: `c2cc37e8a5c1c6dd5656b501903f9bcd`
 
