@@ -752,7 +752,7 @@ Game | System
 [Super Breakout!](#super-breakout) | GBC
 [Super Breakout! (E)](#super-breakout-e) | GBC
 [Super Imposter Bros.](#super-imposter-bros) | GBC
-[Super Mario Land DX (v2.0)](#super-mario-land-dx-v2-0) | GBC
+[Super Mario Land DX (v2.0)](#super-mario-land-dx-v20) | GBC
 [Super Mario Land 2 - 6 Golden Coins (Rev A)](#super-mario-land-2---6-golden-coins-rev-a) | GB
 [Super Mario Land 2 - 6 Golden Coins (Rev B)](#super-mario-land-2---6-golden-coins-rev-b) | GB
 [Super Mario Land 2 - 6-tsu no Kinka](#super-mario-land-2---6-tsu-no-kinka) | GB
