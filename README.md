@@ -568,6 +568,7 @@ Game | System
 [Paperboy 2](#paperboy-2) | GB
 [Parasol Stars - Rainbow Islands II](#parasol-stars---rainbow-islands-ii) | GB
 [Parodius Da!](#parodius-da) | GB
+[Peetan](#peetan) | GB
 [Peke to Poko no Daruman Busters](#peke-to-poko-no-daruman-busters) | GB
 [Peke to Poko no Daruman Busters (English Translation)](#peke-to-poko-no-daruman-busters-english-translation) | GB
 [Penguin Land](#penguin-land) | GB
@@ -5551,6 +5552,14 @@ This patch converts `Parodius Da! (J)` to the `.pocket` format.
 ROM MD5: `2e3a0305f79b058cc4618565bc2db745`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ParodiusDa.ips).
+
+## Peetan
+
+This patch converts `Peetan (J)` to the `.pocket` format.
+
+ROM MD5: `1a9c3966c0c2d17c1d67a0a49409db29`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Peetan.ips).
 
 ## Peke to Poko no Daruman Busters
 
