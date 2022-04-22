@@ -369,6 +369,7 @@ Game | System
 [Kaeru no Tame ni Kane wa Naru (English Translation)](#kaeru-no-tame-ni-kane-wa-naru-english-translation) | GB
 [Karakuri Kengou Den - Musashi Lord](#karakuri-kengou-den---musashi-lord) | GB
 [Karakuri Kengou Den - Musashi Lord (English Translation)](#karakuri-kengou-den---musashi-lord-english-translation) | GB
+[Ken Griffey Jr. Presents Major League Baseball](#ken-griffey-jr-presents-major-league-baseball) | GB
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
 [Killer Instinct](#killer-instinct) | GB
@@ -3870,6 +3871,14 @@ This patch converts `Karakuri Kengou Den - Musashi Lord (English Translation)` t
 ROM MD5: `ba683fde6480ae150860402c9523aa3d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KarakuriKengouDenEng.ips).
+
+## Ken Griffey Jr. Presents Major League Baseball
+
+This patch converts `Ken Griffey Jr. Presents Major League Baseball (U,E)` to the `.pocket` format.
+
+ROM MD5: `2d07ba7a88c2daff07da53831166500a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KGJrMLB.ips).
 
 ## Kid Dracula
 
