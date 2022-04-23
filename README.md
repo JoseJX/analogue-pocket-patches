@@ -807,6 +807,7 @@ Game | System
 [Tesserae](#tesserae) | GB
 [Test Drive 2001](#test-drive-2001) | GBC
 [Tetris 1.0 (J)](#tetris-10-j) | GB
+[Tetris - Rosy Retrospection](#tetris---rosy-retrospection) | GB
 [Tetris 2](#tetris-2) | GB
 [Tetris Attack](#tetris-attack) | GB
 [Tetris Blast](#tetris-blast) | GB
@@ -7550,6 +7551,14 @@ This version is also known as the `minuet` version.
 ROM MD5: `084f1e457749cdec86183189bd88ce69`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tetris1.0.ips).
+
+## Tetris - Rosy Retrospection
+
+This patch converts `Tetris - Rosy Retrospection (v1.2)` to the `.pocket` format. First, apply the [Rosy Retrospection Patch](https://www.romhacking.net/hacks/5813/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `5b93a029cee83d40490006beb9025d39`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TetrisRosyRetrospection_v1.2.ips).
 
 ## Tetris 2
 
