@@ -880,6 +880,7 @@ Game | System
 [Who Framed Rodger Rabbit?](#who-framed-rodger-rabbit) | GB
 [Who Wants to be a Millionare 2nd Edition](#who-wants-to-be-a-millionare-2nd-edition) | GBC
 [Wild Snake](#wild-snake) | GB
+[Wings of Fury](#wings-of-fury) | GBC
 [Wink and the Broken Robot v5.7](#wink-and-the-broken-robot-v5-7) | GBC
 [Wizards and Warriors Chapter X - The Fortress of Fear](#wizards-and-warriors-chapter-x---the-fortress-of-fear) | GB
 [Wizardry I - Proving Grounds of the Mad Overlord](#wizardry-i---proving-grounds-of-the-mad-overlord) | GBC
@@ -8163,6 +8164,14 @@ This patch converts `Wild Snake (U)` to the `.pocket` format.
 ROM MD5: `f9302265fcbc4178c84aaeac3138af97`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WildSnake.ips).
+
+## Wings of Fury
+
+This patch converts `Wings of Fury (U)` to the `.pocket` format.
+
+ROM MD5: `8b01ed48b1f51f57cfba2f3024fa60d8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WingsOfFury.ips).
 
 ## Wink and the Broken Robot v5.7
 
