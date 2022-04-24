@@ -681,6 +681,7 @@ Game | System
 [Scooby-Doo! Classic Creep Capers](#scooby-doo-classic-creep-capers) | GBC
 [Scrabble](#scrabble) | GBC
 [Seiken Densetsu - Final Fantasy Gaiden](#seiken-densetsu---final-fantasy-gaiden) | GB
+[Sensible Soccer - European Champions](#sensible-soccer---european-champions) | GB
 [Shadowgate Classic](#shadowgate-classic) | GBC
 [Shanghai](#shanghai) | GB
 [Shanghai (J) - Activision](#shanghai-j---activision) | GB
@@ -6527,6 +6528,14 @@ This patch converts `Seiken Densetsu - Final Fantasy Gaiden (J)` to the `.pocket
 ROM MD5: `3b359e9fec183bff5f964e25b599b246`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SeikenDensetsu.ips).
+
+## Sensible Soccer - European Champions
+
+This patch converts `Sensible Soccer - European Champions (E)` to the `.pocket` format.
+
+ROM MD5: `3ae8eceb23913aeb1a655da481541a6b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SensibleSoccerEuropeanChampions.ips).
 
 ## Shadowgate Classic
 
