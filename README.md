@@ -83,6 +83,7 @@ Game | System
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
 [Bart vs. the Juggernauts](#bart-vs-the-juggernauts) | GB
 [Baseball](#baseball) | GB
+[Bases Loaded for Game Boy](#bases-loaded-for-game-boy) | GB
 [Batman - The Animated Series](#batman---the-animated-series) | GB
 [Batman Forever](#batman-forever) | GB
 [Batman - Return of the Joker](#batman---return-of-the-joker) | GB
@@ -1531,6 +1532,14 @@ This patch converts `Baseball (U,E)` to the `.pocket` format.
 ROM MD5: `e7bcb3f5534c8363f855ba92d83cb2d9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Baseball.ips).
+
+## Bases Loaded for Game Boy
+
+This patch converts `Bases Loaded for Game Boy (U)` to the `.pocket` format.
+
+ROM MD5: `c1c084439399dc1541ee555bcabb7700`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BasesLoadedGB.ips).
 
 ## Batman - The Animated Series
 
