@@ -741,6 +741,7 @@ Game | System
 [Star Hawk](#star-hawk) | GB
 [Star Ocean - Blue Sphere](#star-ocean---blue-sphere) | GBC
 [Star Ocean - Blue Sphere (English Translation)](#star-ocean---blue-sphere-english-translation) | GBC
+[Star Ocean - Blue Sphere (Spanish Translation)](#star-ocean---blue-sphere-spanish-translation) | GBC
 [Star Trek - 25th Anniversary](#star-trek---25th-anniversary) | GB
 [Star Trek - The Next Generation](#star-trek---the-next-generation) | GB
 [Star Wars](#star-wars) | GB
@@ -7006,6 +7007,14 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 This patch converts `Star Ocean - Blue Sphere (English Translation)` to the `.pocket` format. First, apply the [English Translation patch](https://archive.org/download/staroceanenglish), which results in the MD5 below, then apply this patch.
 
 ROM MD5: `e1ed3ef70534299d4f1be45eb1b9b360`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarOcean.ips).
+
+## Star Ocean - Blue Sphere (Spanish Translation)
+
+This patch converts `Star Ocean - Blue Sphere (Spanish Translation)` to the `.pocket` format. First, apply the [Spanish Translation patch](http://www.romhacking.net/translations/4689/), which results in the MD5 below, then apply this patch.
+
+ROM MD5: `5f0a9e0ce6c0085af12c787579790f1c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarOcean.ips).
 
