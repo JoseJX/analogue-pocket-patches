@@ -92,6 +92,7 @@ Game | System
 [Batman of the Future - Return of the Joker](#batman-of-the-future---return-of-the-joker) | GBC
 [Battle Arena Toshinden](#battle-arena-toshinden) | GB
 [Battle Bull](#battle-bull) | GB
+[Battle City](#battle-city) | GB
 [Battle Pingpong](#battle-pingpong) | GB
 [Battleship](#battleship) | GB
 [BattleTanx](#battletanx) | GBC
@@ -1588,6 +1589,14 @@ This patch converts `Battle Bull (U)` to the `.pocket` format.
 ROM MD5: `d6d8e759c19c1ba384670f2a06b4d11b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleBull.ips).
+
+## Battle City
+
+This patch converts `Battle City (J)` to the `.pocket` format.
+
+ROM MD5: `e6980267d58310af5ad57570045a95fa`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleCity.ips).
 
 ## Battle Pingpong
 
