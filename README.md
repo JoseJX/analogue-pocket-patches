@@ -339,6 +339,7 @@ Game | System
 [Hook](#hook) | GB
 [Hoshi no Kirby](#hoshi-no-kirby) | GB
 [Hoshi no Kirby 2](#hoshi-no-kirby-2) | GB
+[Hot Wheels - Stunt Track Driver](#hot-wheels---stunt-track-driver) | GBC
 [Hoyle Card Games](#hoyle-card-games) | GBC
 [Hoyle Casino](#hoyle-casino) | GBC
 [Hudson Hawk](#hudson-hawk) | GB
@@ -3625,6 +3626,14 @@ This patch converts `Hoshi no Kirby 2 (J)` to the `.pocket` format.
 ROM MD5: `28a8263bb19b7ef3ddcac5ee83f62aee`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HoshiNoKirby2.ips).
+
+## Hot Wheels - Stunt Track Driver
+
+This patch converts `Hot Wheels - Stunt Track Driver (U,E)` to the `.pocket` format.
+
+ROM MD5: `9a908fd85216b1b3a994ec75d2cf9318`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HotWheels.ips).
 
 ## Hoyle Card Games
 
