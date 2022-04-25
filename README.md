@@ -473,6 +473,7 @@ Game | System
 [Medarot - Kabuto Version (English Patch)](#medarot---kabuto-version-english-patch) | GB
 [Medarot - Kuwagata Version](#medarot---kuwagata-version) | GB
 [Medarot - Kuwagata Version (English Patch)](#medarot---kuwagata-version-english-patch) | GB
+[Megalit](#megalit) | GB
 [Mega Man - Dr. Wily's Revenge](#mega-man---dr-wilys-revenge) | GB
 [Mega Man II](#mega-man-ii) | GB
 [Mega Man III](#mega-man-iii) | GB
@@ -4775,6 +4776,14 @@ The translation patch must be applied to the Japanese ROM before applying the `.
 ROM MD5: `f0871152b2e929c83f7be0d7fdf36f55`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKuwagata-EN-US.ips).
+
+## Megalit
+
+This patch converts `Megalit (U,E)` to the `.pocket` format.
+
+ROM MD5: `45b5142059907dbd92aaf3f8d003721b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Megalit.ips).
 
 ## Mega Man - Dr. Wily's Revenge
 
