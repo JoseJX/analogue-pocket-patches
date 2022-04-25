@@ -212,6 +212,7 @@ Game | System
 [Dexterity](#dexterity) | GB
 [Dexter's Laboratory - Robot Rampage](#dexters-laboratory---robot-rampage) | GBC
 [Dick Tracy](#dick-tracy) | GB
+[Die Maus GB](#die-maus-gb) | GB
 [Dig Dug](#dig-dug) | GB
 [Disco Elysium Game Boy Edition](#disco-elysium-game-boy-edition) | GB
 [Disco Elysium Game Boy Edition (Music)](#disco-elysium-game-boy-edition-music) | GBC
@@ -2586,6 +2587,14 @@ This patch converts `Dick Tracy (U)` to the `.pocket` format.
 ROM MD5: `ab5f50d0e31a07e19739453bb9a2d328`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DickTracy.ips).
+
+## Die Maus GB
+
+This patch converts `Die Maus GB (E)` to the `.pocket` format.
+
+ROM MD5: `ff3b9e42aa323ef0045a6000f6010764`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DieMausGB.ips).
 
 ## Dig Dug
 
