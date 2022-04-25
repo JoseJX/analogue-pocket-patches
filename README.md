@@ -372,6 +372,7 @@ Game | System
 [Kaeru no Tame ni Kane wa Naru (English Translation)](#kaeru-no-tame-ni-kane-wa-naru-english-translation) | GB
 [Karakuri Kengou Den - Musashi Lord](#karakuri-kengou-den---musashi-lord) | GB
 [Karakuri Kengou Den - Musashi Lord (English Translation)](#karakuri-kengou-den---musashi-lord-english-translation) | GB
+[Keep the Balance](#keep-the-balance) | GBC
 [Ken Griffey Jr. Presents Major League Baseball](#ken-griffey-jr-presents-major-league-baseball) | GB
 [Ken Griffey Jr.'s Slugfest](#ken-griffey-jrs-slugfest) | GBC
 [Kid Dracula](#kid-dracula) | GB
@@ -3906,6 +3907,14 @@ This patch converts `Karakuri Kengou Den - Musashi Lord (English Translation)` t
 ROM MD5: `ba683fde6480ae150860402c9523aa3d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KarakuriKengouDenEng.ips).
+
+## Keep the Balance
+
+This patch converts `Keep the Balance (E)` to the `.pocket` format.
+
+ROM MD5: `d5161ed7380af488b22302691c9a33cd`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KeepTheBalance.ips).
 
 ## Ken Griffey Jr. Presents Major League Baseball
 
