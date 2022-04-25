@@ -391,6 +391,8 @@ Game | System
 [Klax](#klax) | GB
 [Klax (Color)](#klax-color) | GBC
 [Klondike](#klondike) | GBC
+[Klustar](#klustar) | GBC
+[Klustar (E)](#klustar-e) | GBC
 [Konami GB Collection Volume 2](#konami-gb-collection-volume-2) | GBC
 [Konami GB Collection Volume 3](#konami-gb-collection-volume-3) | GBC
 [Konami GB Collection Volume 4](#konami-gb-collection-volume-4) | GBC
@@ -4072,6 +4074,22 @@ This patch converts [Klondike](https://www.oocities.org/hergtoler/files/Klondike
 ROM MD5: `7f79af6e30ac9b0cd865caf073103268`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Klondike.ips).
+
+## Klustar
+
+This patch converts `Klustar (U)` to the `.pocket` format.
+
+ROM MD5: `d0308455ba266cc5b0cd6ca9b671cb4b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Klustar.ips).
+
+## Klustar (E)
+
+This patch converts `Klustar (E)` to the `.pocket` format.
+
+ROM MD5: `acb6b136fa26888d42b5f95871a75eaa`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KlustarE.ips).
 
 ## Konami GB Collection Volume 2
 
