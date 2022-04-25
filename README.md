@@ -362,6 +362,7 @@ Game | System
 [Ishido - The Way of Stones](#ishido---the-way-of-stones) | GB
 [Itchy & Scratchy in Miniature Golf Madness](#itchy--scratchy-in-miniature-golf-madness) | GB
 [James Bond 007](#james-bond-007) | GB
+[Jeep Jamboree - Off Road Adventure](#jeep-jamboree---off-road-adventure) | GB
 [Jelly Boy](#jelly-boy) | GB
 [Jetsons - Robot Panic](#jetsons---robot-panic) | GB
 [Joe and Mac](#joe-and-mac) | GB
@@ -3827,6 +3828,14 @@ This patch converts `James Bond 007 (U,E)` to the `.pocket` format.
 ROM MD5: `669a4ecf89794505591b36d617e51f8a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JamesBond007.ips).
+
+## Jeep Jamboree - Off Road Adventure
+
+This patch converts `Jeep Jamboree - Off Road Adventure (U)` to the `.pocket` format.
+
+ROM MD5: `47b2627e14592a8c5b53c84c5f06400b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JeepJamboree.ips).
 
 ## Jelly Boy
 
