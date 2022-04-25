@@ -509,6 +509,7 @@ Game | System
 [Momotarou Dengeki](#momotarou-dengeki) | GB
 [Momotarou Dengeki (English Translation)](#momotarou-dengeki-english-translation) | GB
 [Monkey Puncher](#monkey-puncher) | GBC
+[Monopoly](#monopoly) | GBC
 [Monster Max](#monster-max) | GB
 [Monster Rancher Battle Card GB](#monster-rancher-battle-card-gb) | GBC
 [Monster Rancher Explorer](#monster-rancher-explorer) | GBC
@@ -5083,6 +5084,14 @@ This patch converts `Monkey Puncher (E)` to the `.pocket` format.
 ROM MD5: `65da43aef4c10cfd8feee70e842a46ae`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonkeyPuncher.ips).
+
+## Monopoly
+
+This patch converts `Monopoly (U)` to the `.pocket` format.
+
+ROM MD5: `5f1481260760c69843a61e9060ad7154`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Monopoly.ips).
 
 ## Monster Max
 
