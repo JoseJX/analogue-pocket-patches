@@ -769,6 +769,7 @@ Game | System
 [Super Breakout!](#super-breakout) | GBC
 [Super Breakout! (E)](#super-breakout-e) | GBC
 [Super Imposter Bros.](#super-imposter-bros) | GBC
+[Super Mario Land](#super-mario-land) | GB
 [Super Mario Land DX (v2.0)](#super-mario-land-dx-v20) | GBC
 [Super Mario Land 2 - 6 Golden Coins (Rev A)](#super-mario-land-2---6-golden-coins-rev-a) | GB
 [Super Mario Land 2 - 6 Golden Coins (Rev B)](#super-mario-land-2---6-golden-coins-rev-b) | GB
@@ -7246,6 +7247,14 @@ This patch converts `Street Fighter II (U)` to the `.pocket` format.
 ROM MD5: `dc3ef8d3fad26cba840327cc428cadbc`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SF2.ips).
+
+## Super Mario Land
+
+This patch converts `Super Mario Land (W)` to the `.pocket` format.
+
+ROM MD5: `b48161623f12f86fec88320166a21fce`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperMarioLand.ips).
 
 ## Super Mario Land DX (v2.0)
 
