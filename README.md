@@ -668,6 +668,7 @@ Game | System
 [Return of the Ninja](#return-of-the-ninja) | GBC
 [Revelations - The Demon Slayer](#revelations---the-demon-slayer) | GBC
 [Revenge of the 'Gator](#revenge-of-the-gator) | GB
+[Rez](#rez) | GB
 [Ring Rage](#ring-rage) | GB
 [Road Champs - BXS Stunt Biking](#road-champs---bxs-stunt-biking) | GBC
 [Road Rash (Color)](#road-rash-color) | GBC
@@ -6418,6 +6419,14 @@ This patch converts `Revenge of the 'Gator (U,E)` to the `.pocket` format.
 ROM MD5: `113d8f894df6b8c3641b2ba1fe60c250`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gator.ips).
+
+## Rez
+
+This patch converts `Rez` to the `.pocket` format. You can get a copy of the ROM from the [author](https://blog.gg8.se/wordpress/2012/12/11/rez-a-unique-gameboy-synth-rom/).
+
+ROM MD5: `6acb1beff2a280194c82d633a9461fbf`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rez.ips).
 
 ## Ring Rage
 
