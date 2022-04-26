@@ -538,6 +538,7 @@ Game | System
 [Mystic Quest (Fr)](#mystic-quest-fr) | GB
 [Nangoku Shounen Papuwa-kun - Ganmadan no Yabou](#nangoku-shounen-papuwa-kun---ganmadan-no-yabou) | GB
 [Nangoku Shounen Papuwa-kun - Ganmadan no Yabou (English Translation)](#nangoku-shounen-papuwa-kun---ganmadan-no-yabou-english-translation) | GB
+[Navy Seals](#navy-seals) | GB
 [NBA 3-on-3 Featuring Kobe Bryant](#nba-3-on-3-featuring-kobe-bryant) | GBC
 [NBA All Star Challenge](#nba-all-star-challenge) | GB
 [NBA All Star Challenge 2](#nba-all-star-challenge-2) | GB
@@ -5321,6 +5322,14 @@ This patch converts `Nangoku Shounen Papuwa-kun - Ganmadan no Yabou (English Tra
 ROM MD5: `686abad72092adccabc6db3687b1075e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NangokuShounenPapuwakun.ips).
+
+## Navy Seals
+
+This patch converts `Navy Seals (U,E)` to the `.pocket` format.
+
+ROM MD5: `fc2b347600edffc8e997a7fc75382873`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NavySeals.ips).
 
 ## NBA 3-on-3 Featuring Kobe Bryant
 
