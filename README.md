@@ -155,6 +155,8 @@ Game | System
 [Carmageddon TDR 2000](#carmageddon-tdr-2000) | GBC
 [Castle Quest](#castle-quest) | GB
 [Castlevania - The Adventure](#castlevania---the-adventure) | GB
+[Castlevania - The Adventure (Konami GB Volume 1 Standalone)](#castlevania---the-adventure-konami-gb-volume-1-standalone) | GBC
+[Castlevania - The Adventure (Konami GB Volume 1 Standalone - No Graphics Changes)](#castlevania---the-adventure-konami-gb-volume-1-standalone---no-graphics-changes) | GBC
 [Castlevania Legends](#castlevania-legends) | GB
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
 [Catrap](#catrap) | GB
@@ -2131,6 +2133,22 @@ This patch converts `Castlevania - The Adventure (U)` to the `.pocket` format.
 ROM MD5: `0b4410c6b94d6359dba5609ae9a32909`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CastlevaniaAdventure.ips).
+
+## Castlevania - The Adventure (Konami GB Volume 1 Standalone)
+
+This patch converts `Castlevania - The Adventure (Konami GB Volume 1 Standalone)` to the `.pocket` format. First, apply the [standalone conversion patch](https://www.romhacking.net/hacks/2473/) to `Konami GB Volume 1 (E)`, resulting in the following MD5, then apply this patch.
+
+ROM MD5: `ae9103870f3b00d557c4fe8b4009e940`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Konami1.ips).
+
+## Castlevania - The Adventure (Konami GB Volume 1 Standalone - No Graphics Changes)
+
+This patch converts `Castlevania - The Adventure (Konami GB Volume 1 Standalone - No Graphics Changes)` to the `.pocket` format. First, apply the [standalone conversion patch](https://www.romhacking.net/hacks/6773/) to `Konami GB Volume 1 (E)`, resulting in the following MD5, then apply this patch.
+
+ROM MD5: `29cf6cd3c19ee398bf14ff33ffa4a6e2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Konami1.ips).
 
 ## Castlevania II - Belmont's Revenge
 
