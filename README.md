@@ -4565,6 +4565,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Magical Drop (U)` to the `.pocket` format.
 
+This patch was updated to fix a lockup issue after finishing a level. (2022/04/26)
+
 ROM MD5: `af157e560d1ff87970c1bd2ee90d0932`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagicalDrop.ips).
