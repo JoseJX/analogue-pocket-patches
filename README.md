@@ -437,6 +437,7 @@ Game | System
 [Little Master - Raikuban no Densetsu (English Patch)](#little-master---raikuban-no-densetsu-english-patch) | GB
 [Little Mermaid](#little-mermaid) | GB
 [Little Mermaid II - Pinball Frenzy](#little-mermaid-ii---pinball-frenzy) | GBC
+[Little Sound DJ (v7.0.2)](#little-sound-dj-v7-0-2) | GBC
 [Lock n' Chase ~ Lock 'n' Chase](#lock-n-chase-lock-n-chase) | GB
 [Lode Runner - Domudomu Dan no Yabou](#lode-runner---domudomu-dan-no-yabou) | GBC
 [Logical](#logical) | GBC
@@ -4459,6 +4460,14 @@ This patch converts `Little Mermaid II - Pinball Frenzy (U)` to the `.pocket` fo
 ROM MD5: `7f8c472f3c7bd1eec56a3bad10a2e94c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LittleMermaid2.ips).
+
+## Little Sound DJ (v7.0.2)
+
+This patch converts `Little Sound DJ (v7.0.2)` to the `.pocket` format. You can get a copy of the ROM from the [devloper's site](https://www.littlesounddj.com/lsd/index.php).
+
+ROM MD5: `25976b793307a8713ec29b53f63cebe9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LSDJ-7.0.2.ips).
 
 ## Lock n' Chase ~ Lock 'n' Chase
 
