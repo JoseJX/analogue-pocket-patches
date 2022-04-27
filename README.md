@@ -263,6 +263,7 @@ Game | System
 [Fatass (Fast Tracker II Clone for GB)](#fatass-fast-tracker-ii-clone-for-gb) | GBC
 [Felix the Cat](#felix-the-cat) | GB
 [Fidgetts](#fidgetts) | GB
+[FIFA 2000](#fifa-2000) | GBC
 [Final Fantasy Adventure](#final-fantasy-adventure) | GB
 [Final Fantasy Legend](#final-fantasy-legend) | GB
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
@@ -3023,6 +3024,14 @@ This patch converts `Fidgetts (U,E)` to the `.pocket` format.
 ROM MD5: `ac2cd2a4227b38765f23fb5b72de6229`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Fidgetts.ips).
+
+## FIFA 2000
+
+This patch converts `FIFA 2000 (U,E)` to the `.pocket` format.
+
+ROM MD5: `128dc75244ecc2f74d1e50551d888127`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FIFA2000.ips).
 
 ## Final Fantasy Adventure
 
