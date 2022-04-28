@@ -19,6 +19,7 @@ Game | System
 [4-in-1 Fun Pack](#4-in-1-fun-pack) | GB
 [4-in-1 Fun Pack - Volume 2](#4-in-1-fun-pack---volume-2) | GB
 [Abyss Story](#abyss-story) | GBC
+[Action Man - Search for Base X](#action-man---search-for-base-x) | GBC
 [Adulting! v2.0](#adulting-v2-0) | GB
 [Adventures of Lolo](#adventures-of-lolo) | GB
 [Adventures of Star Saver](#adventures-of-star-saver) | GB
@@ -1032,6 +1033,14 @@ This patch converts `Abyss Story` to the `.pocket` format. Get a copy of the ROM
 ROM MD5: `b235f6e34fdf0b6a3b956c347ee9e7e0`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AbyssStory.ips).
+
+## Action Man - Search for Base X
+
+This patch converts `Action Man - Search for Base X (U,E)` to the `.pocket` format.
+
+ROM MD5: `d9d85b81d1b0b4d3c86c95a6e1846f5a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ActionMan.ips).
 
 ## Adulting! v2.0
 
