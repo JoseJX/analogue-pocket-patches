@@ -86,11 +86,11 @@ Game | System
 [Baseball](#baseball) | GB
 [Bases Loaded for Game Boy](#bases-loaded-for-game-boy) | GB
 [Batman - The Animated Series](#batman---the-animated-series) | GB
+[Batman Beyond - Return of the Joker](#batman-beyond---return-of-the-joker) | GBC
 [Batman Forever](#batman-forever) | GB
+[Batman of the Future - Return of the Joker](#batman-of-the-future---return-of-the-joker) | GBC
 [Batman - Return of the Joker](#batman---return-of-the-joker) | GB
 [Batman - The Video Game](#batman---the-video-game) | GB
-[Batman Beyond - Return of the Joker](#batman-beyond---return-of-the-joker) | GBC
-[Batman of the Future - Return of the Joker](#batman-of-the-future---return-of-the-joker) | GBC
 [Battle Arena Toshinden](#battle-arena-toshinden) | GB
 [Battle Bull](#battle-bull) | GB
 [Battle City](#battle-city) | GB
@@ -1576,6 +1576,14 @@ ROM MD5: `ae073c63ff7d151dc2dd406830fbbdc2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanAnimated.ips).
 
+## Batman Beyond - Return of the Joker
+
+This patch converts `Batman Beyond - Return of the Joker (U)` to the `.pocket` format.
+
+ROM MD5: `dd9e7c40f202f2c3963930e195d75f4d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanBeyondJoker.ips).
+
 ## Batman Forever
 
 This patch converts `Batman Forever (U,E)` to the `.pocket` format.
@@ -1583,6 +1591,14 @@ This patch converts `Batman Forever (U,E)` to the `.pocket` format.
 ROM MD5: `28737a5c760938a9746fa9e1a2fcefc6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanForever.ips).
+
+## Batman of the Future - Return of the Joker
+
+This patch converts `Batman of the Future - Return of the Joker (E)` to the `.pocket` format.
+
+ROM MD5: `19cd9d45c6bb221613101b22c72593b2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanReturnOfTheJokerE.ips).
 
 ## Batman - Return of the Joker
 
@@ -1600,13 +1616,13 @@ ROM MD5: `03c6d84a951be6703b7458478f4277b9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Batman.ips).
 
-## Batman Beyond - Return of the Joker
+## Battle Arena Toshinden
 
-This patch converts `Batman Beyond - Return of the Joker (U)` to the `.pocket` format.
+This patch converts `Battle Arena Toshinden (U)` to the `.pocket` format.
 
-ROM MD5: `dd9e7c40f202f2c3963930e195d75f4d`
+ROM MD5: `75b5f31fbacb972fc104b3e77d09003b`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanBeyondJoker.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleArena.ips).
 
 ## Battle Bull
 
@@ -1656,31 +1672,6 @@ ROM MD5: `6d24c94d3acd89b4b703f7bd2a504833`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Battletoads.ips).
 
-## Battle Unit Zeoth
-
-This patch converts `Battle Unit Zeoth (U,E)` to the `.pocket` format.
-
-ROM MD5: `023a8fd8eacad0656b5110da26dcdd44`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleUnitZeoth.ips).
-
-## Batman of the Future - Return of the Joker
-
-This patch converts `Batman of the Future - Return of the Joker (E)` to the `.pocket` format.
-
-ROM MD5: `19cd9d45c6bb221613101b22c72593b2`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanReturnOfTheJokerE.ips).
-
-
-## Battle Arena Toshinden
-
-This patch converts `Battle Arena Toshinden (U)` to the `.pocket` format.
-
-ROM MD5: `75b5f31fbacb972fc104b3e77d09003b`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleArena.ips).
-
 ## Battletoads - Double Dragon
 
 This patch converts `Battletoads - Double Dragon (U)` to the `.pocket` format.
@@ -1696,6 +1687,14 @@ This patch converts `Battletoads in Ragnarok's World (U)` to the `.pocket` forma
 ROM MD5: `4866ea7bdaa92c6986d4847209ebbd20`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattletoadsRW.ips).
+
+## Battle Unit Zeoth
+
+This patch converts `Battle Unit Zeoth (U,E)` to the `.pocket` format.
+
+ROM MD5: `023a8fd8eacad0656b5110da26dcdd44`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleUnitZeoth.ips).
 
 ## Beatmania GB
 
