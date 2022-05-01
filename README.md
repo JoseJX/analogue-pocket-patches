@@ -66,6 +66,7 @@ Game | System
 [Asterix and Obelix](#asterix-and-obelix) | GBC
 [Asterix and Obelix vs. Caesar](#asterix-and-obelix-vs-caesar) | GBC
 [Asterix - Search for Dogmatix](#asterix---search-for-dogmatix) | GBC
+[Asteroids](#asteroids) | GBC
 [Astro Rabby](#astro-rabby) | GB
 [Atlantis - The Lost Empire](#atlantis---the-lost-empire) | GBC
 [Atomic Punk](#atomic-punk) | GB
@@ -1413,6 +1414,14 @@ This patch converts `Asterix - Search for Dogmatix (U,E)` to the `.pocket` forma
 ROM MD5: `1faa6e2a7ec92b95ce32fa2682038b9b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AsterixDogmatix.ips).
+
+## Asteroids
+
+This patch converts `Asteroids (U,E)` to the `.pocket` format.
+
+ROM MD5: `cfac8209d5119235f678303dfb3cc0f2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Asteroids.ips).
 
 ## Astro Rabby
 
