@@ -5767,7 +5767,7 @@ This patch converts `Paperboy GBC (U,E)` to the `.pocket` format.
 
 ROM MD5: `ee133ab2f9ea5b18e9a19ce9b599a883`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Paperboy.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PaperboyGBC.ips).
 
 ## Parasol Stars - Rainbow Islands II
 
