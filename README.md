@@ -346,6 +346,7 @@ Game | System
 [Hercules - The Legendary Journey](#hercules---the-legendary-journey) | GBC
 [Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
 [Hexcite - The Shapes of Victory](#hexcite---the-shapes-of-victory) | GBC
+[Hollywood Pinball](#hollywood-pinball) | GBC
 [Home Alone](#home-alone) | GB
 [Home Alone 2 - Lost in New York](#home-alone-2---lost-in-new-york) | GB
 [Hook](#hook) | GB
@@ -3706,6 +3707,14 @@ This patch converts `Hexcite - The Shapes of Victory (U,E)` to the `.pocket` for
 ROM MD5: `4b068708fb29fdabbee834114fe4a09d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hexcite.ips).
+
+## Hollywood Pinball
+
+This patch converts `Hollywood Pinball (E)` to the `.pocket` format.
+
+ROM MD5: `9889afc5b4e72c9f96db8e6b4260f6b7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HollywoodPinball.ips).
 
 ## Home Alone
 
