@@ -133,6 +133,8 @@ Game | System
 [Booby Boys (English Translation)](#booby-boys-english-translation) | GB
 [Boomer's Adventure in ASMIK World](#boomers-adventure-in-asmik-world) | GB
 [Brain Bender](#brain-bender) | GB
+[Brain Drain](#brain-drain) | GB
+[Brain Drain (E)](#brain-drain-e) | GB
 [BreakThru!](#breakthru) | GB
 [Bubble Bobble](#bubble-bobble) | GB
 [Bubble Bobble Junior](#bubble-bobble-junior) | GB
@@ -1958,6 +1960,22 @@ This patch converts `Brain Bender (U)` to the `.pocket` format.
 ROM MD5: `63bbfce4fb22f4b77e68cc67f02c4b05`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BrainBender.ips).
+
+## Brain Drain
+
+This patch converts `Brain Drain (U)` to the `.pocket` format.
+
+ROM MD5: `0c7beead4f65e97a23b718ce20a1bf55`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BrainDrain.ips).
+
+## Brain Drain (E)
+
+This patch converts `Brain Drain (E)` to the `.pocket` format.
+
+ROM MD5: `56f304dbd0045521271de857ffc77fbe`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BrainDrain.ips).
 
 ## BreakThru!
 
