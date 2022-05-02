@@ -534,6 +534,7 @@ Game | System
 [Mortal Kombat 4](#mortal-kombat-4) | GBC
 [Motocross Maniacs](#motocross-maniacs) | GB
 [Motocross Maniacs 2](#motocross-maniacs-2) | GBC
+[Mouse Trap Hotel](#mouse-trap-hotel) | GB
 [Mr. Chin's Gourmet Paradise](#mr-chins-gourmet-paradise) | GB
 [Mr. Do!](#mr-do) | GB
 [Mr. Driller](#mr-driller) | GBC
@@ -5308,6 +5309,14 @@ This patch was updated to fix a missing conversion. (2021/12/31)
 ROM MD5: `4d08e5553356aecd728b5ef7d78ee261`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Motocross2.ips).
+
+## Mouse Trap Hotel
+
+This patch converts `Mouse Trap Hotel (U)` to the `.pocket` format.
+
+ROM MD5: `cd8eb18dec915d8e2ea73f097d33ba04`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MouseTrapHotel.ips).
 
 ## Mr. Chin's Gourmet Paradise
 
