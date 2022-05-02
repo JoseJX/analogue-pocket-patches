@@ -667,6 +667,7 @@ Game | System
 [R-Type](#r-type) | GB
 [Radar Mission](#radar-mission) | GB
 [Rampage World Tour](#rampage-world-tour) | GBC
+[Rampage 2 - Universal Tour](#rampage-2---universal-tour) | GBC
 [Rampart](#rampart) | GB
 [Ranma 1/2](#ranma-12) | GB
 [Ranma 1/2 - Kakugeki Mondou!!](#ranma-12---kakugeki-mondou) | GB
@@ -6425,6 +6426,14 @@ This patch converts `Rampage World Tour (U)` to the `.pocket` format.
 ROM MD5: `f0bfbded7125dd312eaf36d16c1556a1`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rampage.ips).
+
+## Rampage 2 - Universal Tour
+
+This patch converts `Rampage 2 - Universal Tour (U,E)` to the `.pocket` format.
+
+ROM MD5: `617dcfac99f28045b8f4c46b9d75b58e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rampage2.ips).
 
 ## Rampart
 
