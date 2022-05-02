@@ -414,6 +414,7 @@ Game | System
 [Krusty's Fun House](#krustys-fun-house) | GB
 [Kung-Fu Master](#kung-fu-master) | GB
 [Kwirk - He's A-maze-ing](#kwirk---hes-a-maze-ing) | GB
+[Last Action Hero](#last-action-hero) | GB
 [Layers of a Killer](#layers-of-a-killer) | GBC
 [Lazlo's Leap](#lazlos-leap) | GB
 [Legend of the Mana Sword - Amanda](#legend-of-the-mana-sword---amanda) | GB
@@ -4283,6 +4284,14 @@ This patch converts `Kwirk - He's A-maze-ing (U,E)` to the `.pocket` format.
 ROM MD5: `3a4bb57e9fbd4ef563c0c7b59a1c82a5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Kwirk.ips).
+
+## Last Action Hero
+
+This patch converts `Last Action Hero (U,E)` to the `.pocket` format.
+
+ROM MD5: `36ce150459099b9a7fccbc2ee46ac22c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LastActionHero.ips).
 
 ## Layers of a Killer
 
