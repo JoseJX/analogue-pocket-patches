@@ -260,6 +260,7 @@ Game | System
 [Earthworm Jim - Menace 2 the Galaxy](#earthworm-jim---menace-2-the-galaxy) | GBC
 [Elevator Action](#elevator-action) | GB
 [Elevator Action EX](#elevator-action-ex) | GBC
+[Elite Soccer](#elite-soccer) | GB
 [Elmo's ABCs](#elmos-abcs) | GBC
 [Extra Bases!](#extra-bases) | GB
 [F-1 Race](#f-1-race) | GB
@@ -3012,6 +3013,14 @@ This patch converts `Elevator Action EX (E)` to the `.pocket` format.
 ROM MD5: `f88959b615f284cc120cd17f5263d018`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ElevatorActionEX.ips).
+
+## Elite Soccer
+
+This patch converts `Elite Soccer (U)` to the `.pocket` format.
+
+ROM MD5: `0a3304bdadddadc6c6b1d7cc8425d566`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/EliteSoccer.ips).
 
 ## Elmo's ABCs
 
