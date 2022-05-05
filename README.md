@@ -39,6 +39,7 @@ Game | System
 [Alone in the Dark - The New Nightmare](#alone-in-the-dark---the-new-nightmare) | GBC
 [Altered Space - A 3-D Alien Adventure](#altered-space---a-3-d-alien-adventure) | GB
 [Amazing Penguin](#amazing-penguin) | GB
+[Amazing Penguin DX](#amazing-penguin-dx) | GBC
 [Amazing Spider-Man](#amazing-spider-man) | GB
 [A-mazing Tater](#a-mazing-tater) | GB
 [Amida](#amida) | GB
@@ -1210,6 +1211,14 @@ This patch converts `Amazing Penguin (U,E)` to the `.pocket` format.
 ROM MD5: `d8326bfee457ccb2c0afb8dd6ac11db2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AmazingPenguin.ips).
+
+## Amazing Penguin DX
+
+This patch converts `Amazing Penguin DX` to the `.pocket` format. First, apply the [colorization patch](https://www.romhacking.net/hacks/6797) to the original ROM, resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `58dd9396ca73e6e5e94b3dfb5b3c00a0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AmazingPenguinDX.ips).
 
 ## Amazing Spider-Man
 
