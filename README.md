@@ -272,6 +272,7 @@ Game | System
 [Faceball 2000](#faceball-2000) | GB
 [Fatass (Fast Tracker II Clone for GB)](#fatass-fast-tracker-ii-clone-for-gb) | GBC
 [Felix the Cat](#felix-the-cat) | GB
+[Ferrari Grand Prix Challenge](#ferrari-grand-prix-challenge) | GB
 [Fidgetts](#fidgetts) | GB
 [FIFA 2000](#fifa-2000) | GBC
 [Final Fantasy Adventure](#final-fantasy-adventure) | GB
@@ -3114,6 +3115,14 @@ This patch converts `Felix the Cat (U,E)` to the `.pocket` format.
 ROM MD5: `4d606ab4ffd5c3d3ecf914a6af1c1f90`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Felix.ips).
+
+## Ferrari Grand Prix Challenge
+
+This patch converts `Ferrari Grand Prix Challenge (U,E)` to the `.pocket` format.
+
+ROM MD5: `d5596fa64e5b0ff193feeac749b8be88`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FerrariGPChallenge.ips).
 
 ## Fidgetts
 
