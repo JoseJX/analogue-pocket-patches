@@ -263,6 +263,8 @@ Game | System
 [Elevator Action EX](#elevator-action-ex) | GBC
 [Elite Soccer](#elite-soccer) | GB
 [Elmo's ABCs](#elmos-abcs) | GBC
+[Emperor's New Groove](#emperors-new-groove) | GBC
+[Emperor's New Groove](#emperors-new-groove) | GBC
 [Extra Bases!](#extra-bases) | GB
 [F-1 Race](#f-1-race) | GB
 [F-1 Race (Rev A)](#f-1-race-rev-a) | GB
@@ -3038,6 +3040,22 @@ This patch converts `Elmo's ABCs (U)` to the `.pocket` format.
 ROM MD5: `db9d9e20af969a2ee248ae9af42a5d36`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ElmosABCs.ips).
+
+## Emperor's New Groove
+
+This patch converts `Emperor's New Groove (U)` to the `.pocket` format.
+
+ROM MD5: `e98b6a7bb91bb0a7e80e40985eefb1d0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/EmperorsNewGroove.ips).
+
+## Emperor's New Groove
+
+This patch converts `Emperor's New Groove (E)` to the `.pocket` format.
+
+ROM MD5: `a308de3b28ce996e8a1ff16ae8d26919`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/EmperorsNewGrooveE.ips).
 
 ## Extra Bases!
 
