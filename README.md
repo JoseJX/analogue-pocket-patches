@@ -674,6 +674,7 @@ Game | System
 [Quest for Camelot](#quest-for-camelot) | GBC
 [Quest For Camelot (E)](#quest-for-camelot-e) | GBC
 [R-Type](#r-type) | GB
+[Race Days](#race-days) | GB
 [Radar Mission](#radar-mission) | GB
 [Rampage World Tour](#rampage-world-tour) | GBC
 [Rampage 2 - Universal Tour](#rampage-2---universal-tour) | GBC
@@ -6491,6 +6492,14 @@ This patch converts `R-Type (U,E)` to the `.pocket` format.
 ROM MD5: `972dc35b3b2bd0762999b1ae48da94f6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RType.ips).
+
+## Race Days
+
+This patch converts `Race Days (U)` to the `.pocket` format.
+
+ROM MD5: `b65938f85944bda47e59c123537abea0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RaceDays.ips).
 
 ## Radar Mission
 
