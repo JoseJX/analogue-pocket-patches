@@ -898,6 +898,7 @@ Game | System
 [Ultra Golf](#ultra-golf) | GB
 [Ultraman Ball](#ultraman-ball) | GB
 [Ultraman Ball (English Translation)](#ultraman-ball-english-translation) | GB
+[Universal Soldier](#universal-soldier) | GB
 [Uno](#uno) | GBC
 [Usurper Ghoul](#usurper-ghoul) | GBC
 [Vattle Giuce](#vattle-giuce) | GB
@@ -8342,6 +8343,14 @@ This patch converts `Ultraman Ball (English Translation)` to the `.pocket` forma
 ROM MD5: `bc977605b3db8aeab9d60289e6b7e361`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/UltramanBall.ips).
+
+## Universal Soldier
+
+This patch converts `Universal Soldier (U,E)` to the `.pocket` format.
+
+ROM MD5: `545277c74a3fbeda2c9213d49659ffdd`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/UniversalSoldier.ips).
 
 ## Uno
 
