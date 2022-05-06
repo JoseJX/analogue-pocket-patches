@@ -295,6 +295,7 @@ Game | System
 [Frogger GBC](#frogger-gbc) | GBC
 [Frogger 2](#frogger-2) | GBC
 [Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou](#fushigi-no-dungeon---fuurai-no-shiren-gb2---sabaku-no-majou) | GBC
+[F-Zero Project P](#f-zero-project-p) | GB
 [Gargoyle's Quest Quest II - The Demon Darkness](#gargoyles-quest-quest-ii---the-demon-darkness) | GB
 [Gargoyle's Quest Quest II - The Demon Darkness (E)](#gargoyles-quest-quest-ii---the-demon-darkness-e) | GB
 [Game & Watch Gallery](#game--watch-gallery) | GB
@@ -3308,6 +3309,14 @@ This patch converts `Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou
 ROM MD5: `9e3d4ff0ba3d6deec5080f6dbed4fef8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShirenGB2.ips).
+
+## F-Zero Project P
+
+This patch converts `F-Zero Project P` to the `.pocket` format. You can get a copy of the ROM from the [developer's itch.io site](https://suitntie22.itch.io/f-zerop).
+
+ROM MD5: `cd5bd70c93494a58aa919d84eba8e77e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FZeroPROM.ips).
 
 ## Gargoyle's Quest Quest II - The Demon Darkness
 
