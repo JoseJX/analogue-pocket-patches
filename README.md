@@ -491,6 +491,7 @@ Game | System
 [Mario Tennis GB](#mario-tennis-gb) | GBC
 [Mario & Yoshi](#mario-yoshi) | GB
 [Maru's Mission](#marus-mission) | GB
+[Marvin Strikes Back!](#marvin-strikes-back) | GBC
 [Mary-Kate and Ashley - Get a Clue!](#mary-kate-and-ashley---get-a-clue) | GBC
 [Masakari Densetsu - Kintarou Action Hen](#masakari-densetsu---kintarou-action-hen) | GB
 [Masakari Densetsu - Kintarou Action Hen (English Translation)](#masakari-densetsu---kintarou-action-hen-english-translation) | GB
@@ -4923,6 +4924,14 @@ This patch converts `Maru's Mission (U)` to the `.pocket` format.
 ROM MD5: `7f26dd90f8e80b52ead8fc0e3609d4f2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarusMission.ips).
+
+## Marvin Strikes Back!
+
+This patch converts `Marvin Strikes Back! (U)` to the `.pocket` format.
+
+ROM MD5: `fdf704aff61ad3e6848642241ddb6032`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarvinStrikesBack.ips).
 
 ## Mary-Kate and Ashley - Get a Clue!
 
