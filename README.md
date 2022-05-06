@@ -781,6 +781,7 @@ Game | System
 [Spud's Adventure](#spuds-adventure) | GB
 [Spy vs Spy](#spy-vs-spy) | GBC
 [Spy vs Spy - Operation Booby Trap](#spy-vs-spy---operation-booby-trap) | GBC
+[Star Fox Grounded](#star-fox-grounded) | GBC
 [Stargate](#stargate) | GB
 [Star Hawk](#star-hawk) | GB
 [Star Ocean - Blue Sphere](#star-ocean---blue-sphere) | GBC
@@ -7376,6 +7377,14 @@ This patch converts `Spy vs Spy Operation Booby Trap (U)` to the `.pocket` forma
 ROM MD5: `00408b7c09c99b8ea15b8ebb66e69130`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpyVsSpyBoobyTrap.ips).
+
+## Star Fox Grounded
+
+This patch converts `Star Fox Grounded` to the `.pocket` format. You can get a copy of this ROM from the [developer's itch.io site](https://suitntie22.itch.io/starfoxg).
+
+ROM MD5: `e585b4fc4acf013599938e3d84e4afe3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarFoxGrounded.ips).
 
 ## Stargate
 
