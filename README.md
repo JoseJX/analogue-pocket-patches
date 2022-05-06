@@ -235,6 +235,7 @@ Game | System
 [Donkey Kong GB - Dinky Kong and Dixie Kong](#donkey-kong-gb---dinky-kong-and-dixie-kong) | GB
 [Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation)](#donkey-kong-gb---dinky-kong-and-dixie-kong-english-translation) | GB
 [Doraemon Kart](#doraemon-kart) | GB
+[Doraemon Kart 2](#doraemon-kart-2) | GBC
 [dots](#dots) | GBC
 [Double Dragon 3 - The Arcade Game](#double-dragon-3---the-arcade-game) | GB
 [Double Dribble - 5 on 5](#double-dribble---5-on-5) | GB
@@ -2818,6 +2819,14 @@ This patch converts `Doraemon Kart (J)` to the `.pocket` format.
 ROM MD5: `20b436fc3c9621eb4ee82bc3ef3687fb`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DoraemonKart.ips).
+
+## Doraemon Kart 2
+
+This patch converts `Doraemon Kart 2 (J)` to the `.pocket` format.
+
+ROM MD5: `d0009c14cfdcd02695d84d068c0d4abe`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DoraemonKart2.ips).
 
 ## dots
 
