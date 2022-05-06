@@ -228,6 +228,7 @@ Game | System
 [Disco Elysium Game Boy Edition (Music)](#disco-elysium-game-boy-edition-music) | GBC
 [Disney's Tarzan](#disneys-tarzan) | GBC
 [Donald Duck - Goin' Quackers](#donald-duck---goin-quackers) | GBC
+[Donkey Kong '94](#donkey-kong-94) | GB
 [Donkey Kong Land](#donkey-kong-land) | GB
 [Donkey Kong Land - New Colors Mode](#donkey-kong-land---new-colors-mode) | GBC
 [Donkey Kong Land III](#donkey-kong-land-iii) | GB
@@ -2748,6 +2749,14 @@ Note: This game is also known as Donald Duck - Quack Attack.
 ROM MD5: `4fd68c1cf8b57e90a5b11b054fc68b46`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DonaldDuck.ips).
+
+## Donkey Kong '94
+
+This patch converts `Donkey Kong '94 (U,J)` to the `.pocket` format.
+
+ROM MD5: `60e55697da19bb160316ec290a7a7437`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DonkeyKong94.ips).
 
 ## Donkey Kong Land
 
