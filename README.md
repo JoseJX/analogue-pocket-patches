@@ -461,6 +461,7 @@ Game | System
 [Looney Tunes (GBC)](#looney-tunes-gbc) | GBC
 [Looney Tunes (GBC) (E)](#looney-tunes-gbc-e) | GBC
 [Looney Tunes Collector - Alert!](#looney-tunes-collector---alert) | GBC
+[Looney Tunes Collector - Martian Alert!](#looney-tunes-collector---martian-alert) | GBC
 [Looney Tunes - Twouble!](#looney-tunes---twouble) | GBC
 [Loopz](#loopz) | GB
 [Lucky Luke](#lucky-luke) | GBC
@@ -4672,6 +4673,14 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 This patch converts `Looney Tunes Collector - Alert! (U)` to the `.pocket` format.
 
 ROM MD5: `164c4fcfe733d89fff3ddc42b017c5ca`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesCollectorAlert.ips).
+
+## Looney Tunes Collector - Martian Alert!
+
+This patch converts `Looney Tunes Collector - Martian Alert! (E)` to the `.pocket` format.
+
+ROM MD5: `9562a0aad16857f2f1a8e4169163c18a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesCollectorAlert.ips).
 
