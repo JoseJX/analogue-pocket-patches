@@ -462,6 +462,7 @@ Game | System
 [Looney Tunes (GBC) (E)](#looney-tunes-gbc-e) | GBC
 [Looney Tunes Collector - Alert!](#looney-tunes-collector---alert) | GBC
 [Looney Tunes Collector - Martian Alert!](#looney-tunes-collector---martian-alert) | GBC
+[Looney Tunes Collector - Martian Quest!](#looney-tunes-collector---martian-quest) | GBC
 [Looney Tunes - Twouble!](#looney-tunes---twouble) | GBC
 [Loopz](#loopz) | GB
 [Lucky Luke](#lucky-luke) | GBC
@@ -4683,6 +4684,14 @@ This patch converts `Looney Tunes Collector - Martian Alert! (E)` to the `.pocke
 ROM MD5: `9562a0aad16857f2f1a8e4169163c18a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesCollectorAlert.ips).
+
+## Looney Tunes Collector - Martian Quest!
+
+This patch converts `Looney Tunes Collector - Martian Quest! (J)` to the `.pocket` format.
+
+ROM MD5: `74f0ca3425914df4af3210541ff619c8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesCollectorMartianQuest.ips).
 
 ## Looney Tunes - Twouble!
 
