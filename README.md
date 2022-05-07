@@ -136,6 +136,7 @@ Game | System
 [Brain Bender](#brain-bender) | GB
 [Brain Drain](#brain-drain) | GB
 [Brain Drain (E)](#brain-drain-e) | GB
+[Bram Stoker's Dracula](#bram-stokers-dracula) | GB
 [BreakThru!](#breakthru) | GB
 [Bubble Bobble](#bubble-bobble) | GB
 [Bubble Bobble Junior](#bubble-bobble-junior) | GB
@@ -2015,6 +2016,14 @@ This patch converts `Brain Drain (E)` to the `.pocket` format.
 ROM MD5: `56f304dbd0045521271de857ffc77fbe`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BrainDrain.ips).
+
+## Bram Stoker's Dracula
+
+This patch converts `Bram Stoker's Dracula (U,E)` to the `.pocket` format.
+
+ROM MD5: `d8e5252704cf0681a7f737d599526591`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BramStokersDracula.ips).
 
 ## BreakThru!
 
