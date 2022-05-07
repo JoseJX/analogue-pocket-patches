@@ -841,6 +841,7 @@ Game | System
 [Taiyou no Yuusha - Fighbird GB](#taiyou-no-yuusha---fighbird-gb) | GB
 [Taiyou no Yuusha - Fighbird GB (English Translation)](#taiyou-no-yuusha---fighbird-gb-english-translation) | GB
 [Take it Racing 2 - Demo](#take-it-racing-2---demo) | GB
+[Tales of Phantasia - Narikiri Dungeon](#tales-of-phantasia---narikiri-dungeon) | GBC
 [TaleSpin](#talespin) | GB
 [Tarzan](#tarzan) | GB
 [Tasmania Monogatari](#tasmania-monogatari) | GB
@@ -7870,6 +7871,14 @@ This patch converts `Take it Racing 2 - Demo` to the `.pocket` format. You can g
 ROM MD5: `0dea233e00ac3ee930d23db9002df57c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TakeItRacing2Demo.ips).
+
+## Tales of Phantasia - Narikiri Dungeon
+
+This patch converts `Tales of Phantasia - Narikiri Dungeon (J)` to the `.pocket` format.
+
+ROM MD5: `a3c65d746e0e171843e9013e8d8e1021`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TalesOfPhantasia.ips).
 
 ## TaleSpin
 
