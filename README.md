@@ -234,6 +234,7 @@ Game | System
 [Donkey Kong Land III](#donkey-kong-land-iii) | GB
 [Donkey Kong GB - Dinky Kong and Dixie Kong](#donkey-kong-gb---dinky-kong-and-dixie-kong) | GB
 [Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation)](#donkey-kong-gb---dinky-kong-and-dixie-kong-english-translation) | GB
+[Doraemon 2 - Animal Planet Densetsu](#doraemon-2---animal-planet-densetsu) | GB
 [Doraemon Kart](#doraemon-kart) | GB
 [Doraemon Kart 2](#doraemon-kart-2) | GBC
 [dots](#dots) | GBC
@@ -2814,6 +2815,14 @@ This patch converts `Donkey Kong GB - Dinky Kong and Dixie Kong (English Transla
 ROM MD5: `8c7dd60017bec54add72e4d2bcb3f7db`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DK3Color.ips).
+
+## Doraemon 2 - Animal Planet Densetsu
+
+This patch converts `Doraemon 2 - Animal Planet Densetsu (J)` to the `.pocket` format.
+
+ROM MD5: `bbf5e9e76b28352665aff796a13830e8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Doraemon2-AnimalPlanetDensetsu.ips).
 
 ## Doraemon Kart
 
