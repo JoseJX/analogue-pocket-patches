@@ -530,6 +530,7 @@ Game | System
 [Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack](#microsoft---the-6-in-1-puzzle-collection-entertainment-pack) | GBC
 [Mighty Morphin Power Rangers](#mighty-morphin-power-rangers) | GB
 [Mighty Morphin Power Rangers - The Movie](#mighty-morphin-power-rangers---the-movie) | GB
+[Milon's Secret Castle](#milons-secret-castle) | GB
 [Miner 2049er Starring Bounty Bob](#miner-2049er-starring-bounty-bob) | GB
 [Miracle Adventure of Esparks - Ushinawareta Seiseki Perivron](#miracle-adventure-of-esparks---ushinawareta-seiseki-perivron) | GB
 [Mission Impossible](#mission-impossible) | GBC
@@ -5289,6 +5290,14 @@ This patch converts `Mighty Morphin Power Rangers - The Movie (U,E)` to the `.po
 ROM MD5: `967473063a55634223f15e4c0a79dc44` 
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MMPR.ips).
+
+## Milon's Secret Castle
+
+This patch converts `Milon's Secret Castle (U,E)` to the `.pocket` format.
+
+ROM MD5: `1f93249c298f3ecdc4099602d9dedbb5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MilonsSecretCastle.ips).
 
 ## Miner 2049er Starring Bounty Bob
 
