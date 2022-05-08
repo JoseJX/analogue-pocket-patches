@@ -259,6 +259,8 @@ Game | System
 [Driver - You are the Wheelman](#driver---you-are-the-wheelman) | GBC
 [Droneboy](#droneboy) | GB
 [Dropzone](#dropzone) | GBC
+[Drum Tech](#drum-tech) | GB
+[Drum Tech - Patched](#drum-tech---patched) | GB
 [Duck Tales](#duck-tales) | GB
 [Duck Tales (E)](#duck-tales-e) | GB
 [Duck Tales (J)](#duck-tales-j) | GB
@@ -3027,6 +3029,23 @@ This patch converts `Dropzone (E)` to the `.pocket` format.
 ROM MD5: `b3142aae557bc4e04e2f0f740fae9577`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Dropzone.ips).
+
+## Drum Tech
+
+This patch converts `Drum Tech (Free Version, 2009)` to the `.pocket` format. You can get a copy of the ROM from [this collection](https://gbdev.gg8.se/files/musictools/PixelH8/), the original author is not longer distributing it.
+
+ROM MD5: `eb834408434acf32929ad4332b8bc025`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DrumTechFreeVersion2009.ips).
+
+## Drum Tech - Patched
+
+This patch converts `Drum Tech - Patched (Free Version, 2009)` to the `.pocket` format. You can get a copy of the ROM from [this collection](https://gbdev.gg8.se/files/musictools/PixelH8/), the original author is not longer distributing it.
+
+ROM MD5: `37241cce04853074eca9b7711d864a82`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DrumTechFreeVersion2009.ips).
+
 
 ## Duck Tales
 
