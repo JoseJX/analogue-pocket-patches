@@ -214,6 +214,7 @@ Game | System
 [Dead Heat Scramble](#dead-heat-scramble) | GB
 [Death Planet](#death-planet) | GB
 [Deathray](#deathray) | GB
+[Deathray - Patched](#deathray---patched) | GB
 [Deep Dungeon](#deep-dungeon) | GB
 [Deja Vu I & II: The Casebooks of Ace Harding](#deja-vu-i--ii-the-casebooks-of-ace-harding) | GBC
 [Denki Blocks!](#denki-blocks) | GBC
