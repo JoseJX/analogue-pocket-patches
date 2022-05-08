@@ -213,6 +213,7 @@ Game | System
 [David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob](#david-cranes-the-rescue-of-princess-blobette-starring-a-boy-and-his-blob) | GB
 [Dead Heat Scramble](#dead-heat-scramble) | GB
 [Death Planet](#death-planet) | GB
+[Deathray](#deathray) | GB
 [Deep Dungeon](#deep-dungeon) | GB
 [Deja Vu I & II: The Casebooks of Ace Harding](#deja-vu-i--ii-the-casebooks-of-ace-harding) | GBC
 [Denki Blocks!](#denki-blocks) | GBC
@@ -2642,6 +2643,22 @@ This patch converts `Death Planet` to the `.pocket` format. You can get the ROM 
 ROM MD5: `e5c07daa704a35dd105604286546d56e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeathPlanet.ips).
+
+## Deathray
+
+This patch converts `Deathray (Free Version, 2009)` to the `.pocket` format. You can get a copy of the ROM from [this collection](https://gbdev.gg8.se/files/musictools/PixelH8/), the original developer is no longer distributing it.
+
+ROM MD5: `c725c2affa36f3e81ac6fed1b51e836e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeathrayFreeVersion2009.ips).
+
+## Deathray - Patched
+
+This patch converts `Deathray - Patched (Free Version, 2009)` to the `.pocket` format. You can get a copy of the ROM from [this collection](https://gbdev.gg8.se/files/musictools/PixelH8/), the original developer is no longer distributing it.
+
+ROM MD5: `e0e03e15d09308338a2dc59512f315cb`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeathrayFreeVersion2009.ips).
 
 ## Deep Dungeon
 
