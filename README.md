@@ -257,6 +257,7 @@ Game | System
 [Dragon Warrior Monsters 2 - Cobi's Journey](#dragon-warrior-monsters-2---cobis-journey) | GBC
 [Dragon Warrior Monsters 2 - Tara's Adventure](#dragon-warrior-monsters-2---taras-adventure) | GBC
 [Driver - You are the Wheelman](#driver---you-are-the-wheelman) | GBC
+[Dr. Mario DX - Polish-Up](#dr-mario-dx---polish-up) | GBC
 [Droneboy](#droneboy) | GB
 [Dropzone](#dropzone) | GBC
 [Drum Tech](#drum-tech) | GB
@@ -3027,6 +3028,14 @@ This patch converts `Driver - You are the Wheelman (U)` to the `.pocket` format.
 ROM MD5: `413e1acd7847d628364163eb2c97cecd`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Driver.ips).
+
+## Dr. Mario DX - Polish-Up
+
+This patch converts `Dr. Mario DX - Polish-Up` to the `.pocket` format. First, apply the [Dr. Mario DX Colorization patch](http://www.romhacking.net/hacks/5281/), then apply the [Dr. Mario DX Polish-Up patch](https://www.romhacking.net/hacks/6200/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `3dfcef6dc4b31b68270b129647c756b4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DrMarioDXPolished.ips).
 
 ## Droneboy
 
