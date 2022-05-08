@@ -568,6 +568,10 @@ Game | System
 [Ms. Pac-Man](#ms-pac-man) | GB
 [Ms. Pac-Man - Special Color Edition](#ms-pac-man---special-color-edition) | GBC
 [MTV Sports - Pure Ride](#mtv-sports---pure-ride) | GBC
+[Music Tech V1](#music-tech-v1) | GB
+[Music Tech V1 - Patched](#music-tech-v1---patched) | GB
+[Music Tech V2](#music-tech-v2) | GB
+[Music Tech V2 - Patched](#music-tech-v2---patched) | GB
 [Muppets](#muppets) | GBC
 [Mysterium](#mysterium) | GB
 [Mystical Ninja Starring Goemon](#mystical-ninja-starring-goemon) | GB
@@ -5613,6 +5617,38 @@ This patch converts `MTV Sports - Pure Ride (U,E)` to the `.pocket` format.
 ROM MD5: `94e1575453f54cbe157d13eae6e78d92`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MTVPureRide.ips).
+
+## Music Tech V1
+
+This patch converts `Music Tech V1 (Free Version, 2009)` to the `.pocket` format.
+
+ROM MD5: `13c0df2743bd794cac401e4fbc0b04c8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MusicTechV1FreeVersion2009.ips).
+
+## Music Tech V1 - Patched
+
+This patch converts `Music Tech V1 - Patched (Free Version, 2009)` to the `.pocket` format.
+
+ROM MD5: `b422270a2a07ff382386f5741d963a77`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MusicTechV1FreeVersion2009.ips).
+
+## Music Tech V2
+
+This patch converts `Music Tech V2 (Free Version, 2009)` to the `.pocket` format.
+
+ROM MD5: `6ff6a4b562a0b2289199b24e62f98632`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MusicTechV2FreeVersion2009.ips).
+
+## Music Tech V2 - Patched
+
+This patch converts `Music Tech V2 - Patched (Free Version, 2009)` to the `.pocket` format.
+
+ROM MD5: `77e38a89eadcd784fb4d4067d9d46fc6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MusicTechV2FreeVersion2009.ips).
 
 ## Muppets
 
