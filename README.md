@@ -877,6 +877,7 @@ Game | System
 [Tetris 2](#tetris-2) | GB
 [Tetris Attack](#tetris-attack) | GB
 [Tetris Blast](#tetris-blast) | GB
+[Tetris DX (Korobeiniki Music Patch)](#tetris-dx-korobeiniki-music-patch) | GBC
 [Tetris Plus](#tetris-plus) | GB
 [Tiger Woods PGA Tour 2000](#tiger-woods-pga-tour-2000) | GBC
 [Tintin - Prisoners of the Sun](#tintin---prisoners-of-the-sun) | GBC
@@ -8189,6 +8190,14 @@ This patch converts `Tetris Blast (U,E)` to the `.pocket` format.
 ROM MD5: `0affc9df2e1220ea4573deb6cb2d4b32`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TetrisBlast.ips).
+
+## Tetris DX (Korobeiniki Music Patch)
+
+This patch converts `Tetris DX (Korobeiniki Music Patch)` to the `.pocket` format. First, apply the [music replacement patch](https://www.romhacking.net/hacks/5564/) to the Tetris DX ROM, resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `dbe6f25ca80736a4ea0ecbfb80ea1bd6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TetrisDX_Korobeiniki.ips).
 
 ## Tetris Plus
 
