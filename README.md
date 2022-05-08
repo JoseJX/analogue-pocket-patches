@@ -2253,6 +2253,14 @@ ROM MD5: `7c65e9da405d2225d079f75e56276822`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Castlevania2.ips).
 
+## Castlevania II - Belmont's Revenge (Konmai GB Volume 4 Standalone)
+
+This patch converts `Castlevania II - Belmont's Revenge (Konami GB Volume 4 Standalone)` to the `.pocket` format. First, apply the [standalone conversion patch](https://www.romhacking.net/hacks/2474/) to `Konami GB Volume 4 (E)`, resulting in the following MD5, then apply this patch.
+
+ROM MD5: `196e11035b0808fb50982a8e6cf59986`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Konami4.ips).
+
 ## Castlevania Legends
 
 This patch converts `Castlevania Legends (U)` to the `.pocket` format.
