@@ -969,6 +969,7 @@ Game | System
 [WWF - WrestleMania 2000](#wwf---wrestlemania-2000) | GBC
 [X](#x) | GB
 [Xenon 2 - Megablast](#xenon-2---megablast) | GB
+[Xena Warrior Princess](#xena-warrior-princess) | GBC
 [X-Men - Mutant Academy](#x-men---mutant-academy) | GBC
 [X-Men - Mutant Wars](#x-men---mutant-wars) | GBC
 [X-Men - Wolverine's Rage](#x-men---wolverines-rage) | GBC
@@ -8935,6 +8936,14 @@ This patch converts `Xenon 2 - Megablast (U,E)` to the `.pocket` format.
 ROM MD5: `02d7df9a5ac5d859672b56be46343be1`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Xenon2.ips).
+
+## Xena Warrior Princess
+
+This patch converts `Xena Warrior Princess (U,E)` to the `.pocket` format.
+
+ROM MD5: `acb82a5584f830d6d7bc33f4827571b9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/XenaWarriorPrincess.ips).
 
 ## X-Men - Mutant Academy
 
