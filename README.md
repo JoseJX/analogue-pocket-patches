@@ -403,6 +403,7 @@ Game | System
 [Jurassic Park (E)](#jurassic-park-e) | GB
 [Kaeru no Tame ni Kane wa Naru](#kaeru-no-tame-ni-kane-wa-naru) | GB
 [Kaeru no Tame ni Kane wa Naru (English Translation)](#kaeru-no-tame-ni-kane-wa-naru-english-translation) | GB
+[Kaeru no Tame ni Kane wa Naru (English Translation with Title Fix)](#kaeru-no-tame-ni-kane-wa-naru-english-translation-with-title-fix) | GB
 [Karakuri Kengou Den - Musashi Lord](#karakuri-kengou-den---musashi-lord) | GB
 [Karakuri Kengou Den - Musashi Lord (English Translation)](#karakuri-kengou-den---musashi-lord-english-translation) | GB
 [Keep the Balance](#keep-the-balance) | GBC
@@ -4229,6 +4230,14 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 This patch converts `Kaeru no Tame ni Kane wa Naru` to the `.pocket` format. This game is also known as "For the Frog the Bell Tolls". First, apply the [English Translation patch](https://www.romhacking.net/translations/1623/), which results in the MD5 below, then apply this patch.
 
 ROM MD5: `5e477cdea0b3266b505ac5938ddc5e5c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Kaeru.ips).
+
+### Kaeru no Tame ni Kane wa Naru (English Translation with Title Fix)
+
+This patch converts `Kaeru no Tame ni Kane wa Naru` to the `.pocket` format. This version corrects the translated title to `The Frog for Whom the Bell Tolls`. First, apply the [English Translation patch](https://www.romhacking.net/translations/1623/), then the [Title Screen patch](https://www.romhacking.net/translations/6517/) which results in the MD5 below, then apply this patch.
+
+ROM MD5: `d4cfeb4958db49fc19917795f9527850`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Kaeru.ips).
 
