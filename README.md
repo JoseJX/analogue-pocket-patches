@@ -410,6 +410,7 @@ Game | System
 [Kid Dracula](#kid-dracula) | GB
 [Kid Icarus - Of Myths and Monsters](#kid-icarus---of-myths-and-monsters) | GB
 [Killer Instinct](#killer-instinct) | GB
+[Kingdom Crusade](#kingdom-crusade) | GB
 [King of Fighers '95](#king-of-fighers-95) | GB
 [King of Fighters - Heat of Battle](#king-of-fighters---heat-of-battle) | GB
 [Kinin Koumaroku Oni](#kinin-koumaroku-oni) | GB
@@ -4280,6 +4281,14 @@ This patch converts `Killer Instinct (U,E)` to the `.pocket` format.
 ROM MD5: `ba8628a70339843c2ee8a294b840e8d6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KillerInstinct.ips).
+
+## Kingdom Crusade
+
+This patch converts `Kingdom Crusade (U)` to the `.pocket` format.
+
+ROM MD5: `79603fd837abd36b72d73f959e0ae749`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KingdomCrusade.ips).
 
 ## King of Fighers '95
 
