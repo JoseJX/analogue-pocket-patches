@@ -7783,6 +7783,14 @@ ROM MD5: `119bdf89bdf38e489facd79cf251ccd0`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMLDX.ips).
 
+## Super Mario Land DX (v2.0) with Sound Improvement Mod
+
+This patch converts `Super Mario Land DX (v2.0) with Sound Improvement Mod` to the `.pocket` format. First, apply the [Super Mario Land DX v2.0 patch](http://www.romhacking.net/hacks/4477/), then apply the [Sound Improvement Mod](https://www.romhacking.net/hacks/6768/) which will result in the MD5 below, then apply this this patch.
+
+ROM MD5: `52cb05b821fc2b49ef5ba492b2ecaa78`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMLDX.ips).
+
 ## Super Mario Land 2 - 6 Golden Coins (Rev A)
 
 This patch converts `Super Mario Land 2 - 6 Golden Coins (Rev A) (U,E)` to the `.pocket` format.
