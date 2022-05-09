@@ -654,6 +654,7 @@ Game | System
 [Pokemon - Edicion Amarilla - Edicion Especial Pikachu](#pokemon---edicion-amarilla---edicion-especial-pikachu) | GBC
 [Pokemon - Edicion Azul](#pokemon---edicion-azul) | GB
 [Pokemon - Edicion Roja](#pokemon---edicion-roja) | GB
+[Pokemon Green](#pokemon-green) | GB
 [Pokemon Red++ v3 (Hard)](#pokemon-red-v3-hard) | GBC
 [Pokemon Red++ v3 (Normal)](#pokemon-red-v3-normal) | GBC
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
@@ -6329,6 +6330,14 @@ This patch converts `Pokemon - Edicion Roja (ES)` to the `.pocket` format.
 ROM MD5: `463c241c8721ab1d1da17c91de9f8a32`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonEdicionRoja.ips).
+
+## Pokemon Green
+
+This patch converts `Pokemon Green (v2.3)` to the `.pocket` format. First, apply the [Pokemon Green ROM Hack](https://www.romhacking.net/hacks/876/) to the `Pokemon Blue (U,E)` ROM as directed by the hack, resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `1e9baf36b209fd06854b8e5e064b00a8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonGreen.ips).
 
 ## Pokemon Red++ v3 (Hard)
 
