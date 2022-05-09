@@ -829,6 +829,7 @@ Game | System
 [Super JetPak DX](#super-jetpak-dx) | GBC
 [Super Mario Land](#super-mario-land) | GB
 [Super Mario Land DX (v2.0)](#super-mario-land-dx-v20) | GBC
+[Super Mario Land DX (v2.0) with Sound Improvement Mod](#super-mario-land-dx-v20-with-sound-improvement-mod) | GBC
 [Super Mario Land 2 - 6 Golden Coins (Rev A)](#super-mario-land-2---6-golden-coins-rev-a) | GB
 [Super Mario Land 2 - 6 Golden Coins (Rev B)](#super-mario-land-2---6-golden-coins-rev-b) | GB
 [Super Mario Land 2 - 6-tsu no Kinka](#super-mario-land-2---6-tsu-no-kinka) | GB
