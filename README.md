@@ -260,6 +260,7 @@ Game | System
 [Dr. Mario DX - Polish-Up](#dr-mario-dx---polish-up) | GBC
 [Droneboy](#droneboy) | GB
 [Dropzone](#dropzone) | GBC
+[Druaga no Tou](#druaga-no-tou) | GB
 [Drum Tech](#drum-tech) | GB
 [Drum Tech - Patched](#drum-tech---patched) | GB
 [Duck Tales](#duck-tales) | GB
@@ -3055,6 +3056,14 @@ This patch converts `Dropzone (E)` to the `.pocket` format.
 ROM MD5: `b3142aae557bc4e04e2f0f740fae9577`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Dropzone.ips).
+
+## Druaga no Tou
+
+This patch converts `Druaga no Tou (J)` to the `.pocket` format.
+
+ROM MD5: `c8611861afe5d9b47043150ee2c94389`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DruagaNoTou.ips).
 
 ## Drum Tech
 
