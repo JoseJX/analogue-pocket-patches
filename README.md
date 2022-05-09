@@ -674,6 +674,8 @@ Game | System
 [Pop'n TwinBee](#popn-twinbee) | GB
 [Populous](#populous) | GB
 [Porklike](#porklike) | GBC
+[Powa! (E)](#powa-e) | GBC
+[Powa! (J)](#powa-j) | GBC
 [Power Mission](#power-mission) | GB
 [Power Quest](#power-quest) | GBC
 [Power Racer](#power-racer) | GB
@@ -6520,6 +6522,22 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 I compiled the source into the `.pocket` format. Make sure to visit the author's page and let them know if you're enjoying it!
 
 You can [download the Analogue Pocket .pocket file here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/porklike.pocket).
+
+## Powa! (E)
+
+This patch converts `Powa! (E)` to the `.pocket` format. You can buy a copy of the game from the [developer's site](https://aiguanachein.itch.io/powa).
+
+ROM MD5: `c9c39627ee5049e47ce1acd67fff7b8a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowaE.ips).
+
+## Powa! (J)
+
+This patch converts `Powa! (J)` to the `.pocket` format. You can buy a copy of the game from the [developer's site](https://aiguanachein.itch.io/powa).
+
+ROM MD5: `79057202277940eb8a37257ebcb513c3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowaJ.ips).
 
 ## Power Mission
 
