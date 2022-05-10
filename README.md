@@ -813,6 +813,7 @@ Game | System
 [Star Ocean - Blue Sphere (English Translation with Bug Fix)](#star-ocean---blue-sphere-english-translation-with-bug-fix) | GBC
 [Star Ocean - Blue Sphere (Spanish Translation)](#star-ocean---blue-sphere-spanish-translation) | GBC
 [Star Trek - 25th Anniversary](#star-trek---25th-anniversary) | GB
+[Star Trek Generations - Beyond the Nexus](#star-trek-generations---beyond-the-nexus) | GB
 [Star Trek - The Next Generation](#star-trek---the-next-generation) | GB
 [Star Wars](#star-wars) | GB
 [Star Wars - The Empire Strikes Back](#star-wars---the-empire-strikes-back) | GB
@@ -7659,7 +7660,6 @@ ROM MD5: `e1ed3ef70534299d4f1be45eb1b9b360`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarOcean.ips).
 
-
 ## Star Ocean - Blue Sphere (Spanish Translation)
 
 This patch converts `Star Ocean - Blue Sphere (Spanish Translation)` to the `.pocket` format. First, apply the [Spanish Translation patch](http://www.romhacking.net/translations/4689/), which results in the MD5 below, then apply this patch.
@@ -7675,6 +7675,14 @@ This patch converts `Star Trek - 25th Anniversary (U,E)` to the `.pocket` format
 ROM MD5: `e1b8b8158c54df9188d54c4d5331e53d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarTrek25th.ips).
+
+## Star Trek Generations - Beyond the Nexus
+
+This patch converts `Star Trek Generations - Beyond the Nexus (U)` to the `.pocket` format.
+
+ROM MD5: `eca9fe803d60ff7f1b8a740a1accc63b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarTrekGenerations.ips).
 
 ## Star Trek - The Next Generation
 
