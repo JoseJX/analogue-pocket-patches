@@ -866,6 +866,7 @@ Game | System
 [Tales of Phantasia - Narikiri Dungeon](#tales-of-phantasia---narikiri-dungeon) | GBC
 [Tales of Phantasia - Narikiri Dungeon (English Translation)](#tales-of-phantasia---narikiri-dungeon-english-translation) | GBC
 [TaleSpin](#talespin) | GB
+[Tamagotchi](#tamagotchi) | GB
 [Tarzan](#tarzan) | GB
 [Tasmania Monogatari](#tasmania-monogatari) | GB
 [Tasmania Story](#tasmania-story) | GB
@@ -8106,6 +8107,14 @@ This patch converts `TaleSpin (U,E)` to the `.pocket` format.
 ROM MD5: `26c65da146faa09505c554447792e493`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TaleSpin.ips).
+
+## Tamagotchi
+
+This patch converts `Tamagotchi (U,E)` to the `.pocket` format.
+
+ROM MD5: `c7920eb4b478c4d7513f2f43b7dbb9cf`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tamagotchi.ips).
 
 ## Tarzan
 
