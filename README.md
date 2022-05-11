@@ -167,6 +167,7 @@ Game | System
 [Castlevania Legends](#castlevania-legends) | GB
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
 [Catrap](#catrap) | GB
+[Catwoman](#catwoman) | GBC
 [Chalvo 55 - Super Puzzle Action](#chalvo-55---super-puzzle-action) | GB
 [Chalvo 55 - Super Puzzle Action (English Translation)](#chalvo-55---super-puzzle-action-english-translation) | GB
 [Chase H.Q. - Secret Police](#chase-hq---secret-police) | GBC
@@ -2304,6 +2305,14 @@ This patch converts `Catrap (U)` to the `.pocket` format.
 ROM MD5: `5a75fe8de54e4cbd09cae23f050f6965`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Catrap.ips).
+
+## Catwoman
+
+This patch converts `Catwoman (U)` to the `.pocket` format.
+
+ROM MD5: `2692494cef091b908b02c9046bdd876c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Catwoman.ips).
 
 ## Chalvo 55 - Super Puzzle Action
 
