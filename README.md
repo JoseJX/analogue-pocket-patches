@@ -457,6 +457,8 @@ Game | System
 [LEGO Alpha Team](#lego-alpha-team) | GBC
 [LEGO Island 2 - The Brickster's Revenge](#lego-island-2---the-bricksters-revenge) | GBC
 [LEGO Island 2 - The Brickster's Revenge (E)](#lego-island-2---the-bricksters-revenge-e) | GBC
+[LEGO Racers](#lego-racers) | GBC
+[LEGO Racers (E)](#lego-racers-e) | GBC
 [Lemmings](#lemmings) | GBC
 [Lemmings 2 - The Tribes](#lemmings-2---the-tribes) | GB
 [Lethal Weapon](#lethal-weapon) | GB
@@ -4692,6 +4694,22 @@ This patch converts `LEGO Island 2 - The Brickster's Revenge (E)` to the `.pocke
 ROM MD5: `2a1efef6d25431529b0d2f5063f63a17`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LEGOIsland2E.ips).
+
+## LEGO Racers
+
+This patch converts `LEGO Racers (U)` to the `.pocket` format.
+
+ROM MD5: `a2d07e7da188092c88ef6d9fd2e5eaa4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LEGORacers.ips).
+
+## LEGO Racers (E)
+
+This patch converts `LEGO Racers (E)` to the `.pocket` format.
+
+ROM MD5: `0e13c1506562050ab39bc7d0fcd41ecf`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LEGORacersE.ips).
 
 ## Lemmings
 
