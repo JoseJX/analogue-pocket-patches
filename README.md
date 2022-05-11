@@ -145,6 +145,7 @@ Game | System
 [Bubsy II](#bubsy-ii) | GB
 [Buffy the Vampire Slayer](#buffy-the-vampire-slayer) | GBC
 [Bugs Bunny Collection](#bugs-bunny-collection) | GB
+[Bugs Bunny and Lola Bunny - Operation Carrots](#bugs-bunny-and-lola-bunny---operation-carrots) | GBC
 [Burai Fighter Deluxe](#burai-fighter-deluxe) | GB
 [BurgerTime Deluxe](#burgertime-deluxe) | GB
 [Burning Paper](#burning-paper) | GB
@@ -474,6 +475,7 @@ Game | System
 [Looney Tunes](#looney-tunes) | GB
 [Looney Tunes (GBC)](#looney-tunes-gbc) | GBC
 [Looney Tunes (GBC) (E)](#looney-tunes-gbc-e) | GBC
+[Looney Tunes - Carrot Crazy](#looney-tunes---carrot-crazy) | GBC
 [Looney Tunes Collector - Alert!](#looney-tunes-collector---alert) | GBC
 [Looney Tunes Collector - Martian Alert!](#looney-tunes-collector---martian-alert) | GBC
 [Looney Tunes Collector - Martian Quest!](#looney-tunes-collector---martian-quest) | GBC
@@ -2112,6 +2114,14 @@ This patch converts `Bugs Bunny Collection (J)` to the `.pocket` format.
 ROM MD5: `32628dd7b39919a3a5ab77b245cd6b63`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BugsBunnyCollection.ips).
+
+## Bugs Bunny and Lola Bunny - Operation Carrots
+
+This patch converts `Bugs Bunny and Lola Bunny - Operation Carrots (E)` to the `.pocket` format.
+
+ROM MD5: `d5a558f3f63771ac1e40d53976e090ef`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesCarrotCrazy.ips).
 
 ## Burai Fighter Deluxe
 
@@ -4825,6 +4835,14 @@ This patch converts `Looney Tunes (GBC) (E)` to the `.pocket` format.
 ROM MD5: `a539a0ae1b1ed8034fc3a4733b4298c3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesGBC.ips).
+
+## Looney Tunes - Carrot Crazy
+
+This patch converts `Looney Tunes - Carrot Crazy (U)` to the `.pocket` format.
+
+ROM MD5: `b6c357bb1a544fb1f8731cbdc3046596`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesCarrotCrazy.ips).
 
 ## Looney Tunes Collector - Alert!
 
