@@ -754,6 +754,7 @@ Game | System
 [Scrabble](#scrabble) | GBC
 [Seiken Densetsu - Final Fantasy Gaiden](#seiken-densetsu---final-fantasy-gaiden) | GB
 [Sensible Soccer - European Champions](#sensible-soccer---european-champions) | GB
+[Sgt. Rock - On the Frontline](#sgt-rock---on-the-frontline) | GBC
 [Shadowgate Classic](#shadowgate-classic) | GBC
 [Shanghai](#shanghai) | GB
 [Shanghai (J) - Activision](#shanghai-j---activision) | GB
@@ -7207,6 +7208,14 @@ This patch converts `Sensible Soccer - European Champions (E)` to the `.pocket` 
 ROM MD5: `3ae8eceb23913aeb1a655da481541a6b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SensibleSoccerEuropeanChampions.ips).
+
+## Sgt. Rock - On the Frontline
+
+This patch converts `Sgt. Rock - On the Frontline (U)` to the `.pocket` format.
+
+ROM MD5: `a2623acf15ec36ab072ee5b92b88b613`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SgtRock.ips).
 
 ## Shadowgate Classic
 
