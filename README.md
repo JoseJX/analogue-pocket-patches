@@ -995,6 +995,7 @@ Game | System
 [WWF - War Zone](#wwf---war-zone) | GB
 [WWF - WrestleMania 2000](#wwf---wrestlemania-2000) | GBC
 [X](#x) | GB
+[X (English Translation)](#x-english-translation) | GB
 [Xenon 2 - Megablast](#xenon-2---megablast) | GB
 [Xena Warrior Princess](#xena-warrior-princess) | GBC
 [X-Men - Mutant Academy](#x-men---mutant-academy) | GBC
@@ -9180,6 +9181,14 @@ This patch converts `X (J)` to the `.pocket` format.
 ROM MD5: `988516a3d733132af304b1c6710a923a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/X.ips).
+
+## X (English Translation)
+
+This patch converts `X (English Translation) (U,E)` to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/5684/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `74174b2984a38d625046fb80dab77f08`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/X_En.ips).
 
 ## Xenon 2 - Megablast
 
