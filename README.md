@@ -247,6 +247,8 @@ Game | System
 [Double Dribble - 5 on 5](#double-dribble---5-on-5) | GB
 [Dracula - Crazy Vampire](#dracula---crazy-vampire) | GBC
 [Dragon Ball Z - Legendary Super Warriors](#dragon-ball-z---legendary-super-warriors) | GBC
+[Dragonborne](#dragonborne) | GB
+[Dragonborne (DE)](#dragonborne-de) | GB
 [Dragon Dance](#dragon-dance) | GBC
 [Dragon's Lair](#dragons-lair) | GBC
 [Dragon's Lair - The Legend](#dragons-lair---the-legend) | GB
@@ -2959,6 +2961,22 @@ This patch converts `Dragon Ball Z - Legendary Super Warriors (U)` to the `.pock
 ROM MD5: `ac46bc779e1e844674de1d4c13d06f96`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DBZ.ips).
+
+## Dragonborne
+
+This patch converts `Dragonborne (U,E)` to the `.pocket` format.
+
+ROM MD5: `13359a8ab266247449f73b8b84ffe93f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Dragonborne.ips).
+
+## Dragonborne (DE)
+
+This patch converts `Dragonborne (DE)` to the `.pocket` format.
+
+ROM MD5: `b8721dd89cfec4aa2f10f7e13c950646`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonborneDE.ips).
 
 ## Dragon Dance
 
