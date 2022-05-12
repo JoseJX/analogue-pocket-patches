@@ -2964,7 +2964,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Dragonborne
 
-This patch converts `Dragonborne (U,E)` to the `.pocket` format.
+This patch converts `Dragonborne (U,E)` to the `.pocket` format. To get a copy of the ROM, purchase it [from the developer](https://www.spacebot-interactive.com/product-page/dragonborne-rom-only).
 
 ROM MD5: `13359a8ab266247449f73b8b84ffe93f`
 
@@ -2972,7 +2972,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Dragonborne (DE)
 
-This patch converts `Dragonborne (DE)` to the `.pocket` format.
+This patch converts `Dragonborne (DE)` to the `.pocket` format. To get a copy of the ROM, purchase it [from the developer](https://www.spacebot-interactive.com/product-page/dragonborne-rom-only).
 
 ROM MD5: `b8721dd89cfec4aa2f10f7e13c950646`
 
