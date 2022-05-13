@@ -403,6 +403,8 @@ Game | System
 [Joe and Mac - Caveman Ninja](#joe-and-mac---caveman-ninja) | GB
 [John Madden Football](#john-madden-football) | GB
 [Judge Dredd](#judge-dredd) | GB
+[Jungle Book - Mowgli's Wild Adventure](#jungle-book---mowglis-wild-adventure) | GBC
+[Jungle Book - Mowgli's Wild Adventure (E)](#jungle-book---mowglis-wild-adventure-e) | GBC
 [Jurassic Park](#jurassic-park) | GB
 [Jurassic Park (E)](#jurassic-park-e) | GB
 [Kaeru no Tame ni Kane wa Naru](#kaeru-no-tame-ni-kane-wa-naru) | GB
@@ -4243,6 +4245,22 @@ This patch converts `Judge Dredd (U,E)` to the `.pocket` format.
 ROM MD5: `7e9d69eacd6b4c82527065bcf63e474b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JudgeDredd.ips).
+
+## Jungle Book - Mowgli's Wild Adventure
+
+This patch converts `Jungle Book - Mowgli's Wild Adventure (U)` to the `.pocket` format.
+
+ROM MD5: `2f7bb3bebbf2deb2b8f3ed62d041fa57`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JungleBookMowglisWildAdventure.ips).
+
+## Jungle Book - Mowgli's Wild Adventure (E)
+
+This patch converts `Jungle Book - Mowgli's Wild Adventure (E)` to the `.pocket` format.
+
+ROM MD5: `173a37c4d4aae04766aa0abbf385233d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JungleBookMowglisWildAdventure.ips).
 
 ## Jurassic Park
 
