@@ -74,6 +74,7 @@ Game | System
 [Austin Powers - Oh Behave!](#austin-powers---oh-behave) | GBC
 [Ayakashi no Shiro](#ayakashi-no-shiro) | GB
 [Ayakashi no Shiro (English Translation)](#ayakashi-no-shiro-english-translation) | GB
+[Azure Dreams (E)](#azure-dreams-e) | GBC
 [Bad Apple (Demo)](#bad-apple-demo) | GBC
 [Ballistic](#ballistic) | GBC
 [Balloon Kid](#balloon-kid) | GB
@@ -1547,6 +1548,14 @@ This patch converts `Castle of Ayakashi` to the `.pocket` format. To use this pa
 ROM MD5: `501de1b6056bee7aeb0c2bcbb8b3d806`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AyakashiNoShiroEng.ips).
+
+## Azure Dreams (E)
+
+This patch converts `Azure Dreams (E)` to the `.pocket` format.
+
+ROM MD5: `f6b6ddfaaf03392dc469f4eed49ec15d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AzureDreamsE.ips).
 
 ## Bad Apple (Demo)
 
