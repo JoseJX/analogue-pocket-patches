@@ -3423,6 +3423,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Flintstones - King Rock Treasure Island (U,E)` to the `.pocket` format.
 
+This patch was updated to fix some graphical issues. (2022/05/16)
+
 ROM MD5: `25dfaca5120462af05532aaf4756776a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FlintstonesKingRock.ips).
