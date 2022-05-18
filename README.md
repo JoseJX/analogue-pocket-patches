@@ -261,6 +261,7 @@ Game | System
 [Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ina no Bouken](#dragon-quest-monsters-2---maruta-no-fushigi-na-kagi---inu-no-bouken) | GBC
 [Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi](#dragon-quest-monsters-2---maruta-no-fushigi-na-kagi---ruka-no-tabidachi) | GBC
 [Dragon Warrior Monsters 2 - Cobi's Journey](#dragon-warrior-monsters-2---cobis-journey) | GBC
+[Dragon Warrior Monsters 2 - Cobi's Journey - Ultimate](#dragon-warrior-monsters-2---cobis-journey---ultimate) | GBC
 [Dragon Warrior Monsters 2 - Tara's Adventure](#dragon-warrior-monsters-2---taras-adventure) | GBC
 [Driver - You are the Wheelman](#driver---you-are-the-wheelman) | GBC
 [Dr. Mario DX - Polish-Up](#dr-mario-dx---polish-up) | GBC
@@ -2698,7 +2699,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Deadeus (v1.3.8)
 
-This patch converts `Deadeus (v1.3.8)` to the `.pocket` format.
+This patch converts `Deadeus (v1.3.8)` to the `.pocket` format. You can get the ROM from the developer at their [itch.io site](https://izma.itch.io/deadeus), then apply this patch.
 
 ROM MD5: `b04f705f3e4db711560f9834a6431171`
 
@@ -3074,7 +3075,6 @@ ROM MD5: `979eb4fd473c344cb2cfc6ea4211ca5a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DQM2-RnT.ips).
 
-
 ## Dragon Warrior Monsters 2 - Cobi's Journey
 
 This patch converts `Dragon Warrior Monsters 2 - Cobi's Journey (U)` to the `.pocket` format.
@@ -3083,6 +3083,14 @@ This patch was updated to fix a potential bug. (2022/04/02)
 
 ROM MD5: `f71ac6ac4bb335f59bfd2b594d47ab49`
 
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DWM2Cobi.ips).
+
+## Dragon Warrior Monsters 2 - Cobi's Journey - Ultimate
+
+This patch converts `Dragon Warrior Monsters 2 - Cobi's Journey - Ultimate` to the `.pocket` format. First, apply the [Ultimate patch](x https://www.romhacking.net/hacks/4103/), then apply this patch.
+
+ROM MD5: `06bc11f1e74a7dcc036a0524405168fb`
+o
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DWM2Cobi.ips).
 
 ## Dragon Warrior Monsters 2 - Tara's Adventure
