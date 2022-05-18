@@ -794,6 +794,7 @@ Game | System
 [Solitaire FunPak](#solitaire-funpak) | GB
 [Solomon's Club](#solomons-club) | GB
 [Souls Rest](#souls-rest) | GBC
+[South Park](#south-park) | GBC
 [Space Invaders](#space-invaders) | GB
 [Space Invaders (E)](#space-invaders-e) | GB
 [Space Invaders (J)](#space-invaders-j) | GB
@@ -7537,6 +7538,14 @@ This patch converts `Souls Rest` version 1.12 to the `.pocket` format. Get the R
 ROM MD5: `c99335566f063df9ee393fe915a1bc55`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SoulsRest1.12.ips).
+
+## South Park
+
+This patch converts `South Park (Unreleased)` to the `.pocket` format.
+
+ROM MD5: `a537394fbf3378116a27a57ca6d588b7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SouthPark.ips).
 
 ## Space Invaders
 
