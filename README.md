@@ -214,6 +214,7 @@ Game | System
 [A Dark Winter Wander](#a-dark-winter-wander) | GBC
 [Dave Mirra Freestyle BMX](#dave-mirra-freestyle-bmx) | GBC
 [David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob](#david-cranes-the-rescue-of-princess-blobette-starring-a-boy-and-his-blob) | GB
+[Deadeus (v1.3.8)](#deadeus-v138) | G
 [Dead Heat Scramble](#dead-heat-scramble) | GB
 [Death Planet](#death-planet) | GB
 [Deathray](#deathray) | GB
@@ -2694,6 +2695,14 @@ This patch converts `David Crane's The Rescue of Princess Blobette Starring A Bo
 ROM MD5: `81f7dee7546e630de075a3397349efb8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Blobette.ips).
+
+## Deadeus (v1.3.8)
+
+This patch converts `Deadeus (v1.3.8)` to the `.pocket` format.
+
+ROM MD5: `b04f705f3e4db711560f9834a6431171`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeadeusV138.ips).
 
 ## Dead Heat Scramble
 
