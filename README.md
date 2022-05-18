@@ -716,6 +716,7 @@ Game | System
 [Quest For Camelot (E)](#quest-for-camelot-e) | GBC
 [R-Type](#r-type) | GB
 [Race Days](#race-days) | GB
+[Race Drivin'](#race-drivin) | GB
 [Radar Mission](#radar-mission) | GB
 [Rampage World Tour](#rampage-world-tour) | GBC
 [Rampage 2 - Universal Tour](#rampage-2---universal-tour) | GBC
@@ -6894,6 +6895,14 @@ This patch converts `Race Days (U)` to the `.pocket` format.
 ROM MD5: `b65938f85944bda47e59c123537abea0`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RaceDays.ips).
+
+## Race Drivin'
+
+This patch converts `Race Drivin'` to the `.pocket` format.
+
+ROM MD5: `74d409740ce00448d42b25ebb31e7bcd`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RaceDrivin.ips).
 
 ## Radar Mission
 
