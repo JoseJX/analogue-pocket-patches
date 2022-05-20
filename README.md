@@ -447,6 +447,8 @@ Game | System
 [Kung-Fu Master](#kung-fu-master) | GB
 [Kwirk - He's A-maze-ing](#kwirk---hes-a-maze-ing) | GB
 [Last Action Hero](#last-action-hero) | GB
+[Laura](#laura) | GBC
+[Laura (E)](#laura-e) | GBC
 [Layers of a Killer](#layers-of-a-killer) | GBC
 [Lazlo's Leap](#lazlos-leap) | GB
 [Legend of the Mana Sword - Amanda](#legend-of-the-mana-sword---amanda) | GB
@@ -4627,6 +4629,22 @@ This patch converts `Last Action Hero (U,E)` to the `.pocket` format.
 ROM MD5: `36ce150459099b9a7fccbc2ee46ac22c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LastActionHero.ips).
+
+## Laura
+
+This patch converts `Laura (U)` to the `.pocket` format.
+
+ROM MD5: `637b90b33aeb3688187c6ac73db3488e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Laura.ips).
+
+## Laura (E)
+
+This patch converts `Laura (E)` to the `.pocket` format.
+
+ROM MD5: `37824faeedc1d562cae1ceee675c6ac8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LauraE.ips).
 
 ## Layers of a Killer
 
