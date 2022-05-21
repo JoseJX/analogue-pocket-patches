@@ -934,6 +934,7 @@ Game | System
 [Toy Story](#toy-story) | GB
 [Toy Story (Rev A)](#toy-story-rev-a) | GB
 [Toy Story (E)](#toy-story-e) | GB
+[Toy Story Racer](#toy-story-racer) | GBC
 [Track and Field](#track-and-field) | GB
 [Track Meet](#track-meet) | GB
 [Trade and Battle Card Hero](#trade-and-battle-card-hero) | GBC
@@ -8684,6 +8685,14 @@ This patch converts `Toy Story (E)` to the `.pocket` format.
 ROM MD5: `508e937dc634f36d738d65734f3ae0ab`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ToyStoryA.ips).
+
+## Toy Story Racer
+
+This patch converts `Toy Story Racer (U,E)` to the `.pocket` format.
+
+ROM MD5: `01a67ed2dc935044ba69eda42bddebf3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ToyStoryRacer.ips).
 
 ## Track and Field
 
