@@ -402,6 +402,7 @@ Game | System
 [James Bond 007](#james-bond-007) | GB
 [Jeep Jamboree - Off Road Adventure](#jeep-jamboree---off-road-adventure) | GB
 [Jelly Boy](#jelly-boy) | GB
+[Jeopardy!](#jeopardy) | GB
 [Jetsons - Robot Panic](#jetsons---robot-panic) | GB
 [Joe and Mac](#joe-and-mac) | GB
 [Joe and Mac - Caveman Ninja](#joe-and-mac---caveman-ninja) | GB
@@ -4246,6 +4247,14 @@ This patch converts `Jelly Boy (E)` to the `.pocket` format.
 ROM MD5: `0acefb175380637bf0d49ad96da23d52`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JellyBoy.ips).
+
+## Jeopardy!
+
+This patch converts `Jeopardy! (U)` to the `.pocket` format.
+
+ROM MD5: `60ef5ffc3af0ac5110c2b31e83570494`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Jeopardy.ips).
 
 ## Jetsons - Robot Panic
 
