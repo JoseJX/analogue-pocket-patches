@@ -403,6 +403,7 @@ Game | System
 [Jeep Jamboree - Off Road Adventure](#jeep-jamboree---off-road-adventure) | GB
 [Jelly Boy](#jelly-boy) | GB
 [Jeopardy!](#jeopardy) | GB
+[Jeopardy! Platinum Edition](#jeopardy-platinum-edition) | GB
 [Jetsons - Robot Panic](#jetsons---robot-panic) | GB
 [Joe and Mac](#joe-and-mac) | GB
 [Joe and Mac - Caveman Ninja](#joe-and-mac---caveman-ninja) | GB
@@ -4255,6 +4256,14 @@ This patch converts `Jeopardy! (U)` to the `.pocket` format.
 ROM MD5: `60ef5ffc3af0ac5110c2b31e83570494`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Jeopardy.ips).
+
+## Jeopardy! Platinum Edition
+
+This patch converts `Jeopardy! Platinum Edition (U)` to the `.pocket` format.
+
+ROM MD5: `60f66390bef3ec6e5a84e299d2261f73`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JeopardyPlatinum.ips).
 
 ## Jetsons - Robot Panic
 
