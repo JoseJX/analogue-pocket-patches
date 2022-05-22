@@ -746,6 +746,7 @@ Game | System
 [Robin Hood - Prince of Theives](#robin-hood---prince-of-theives) | GB
 [RoboCop](#robocop) | GB
 [RoboCop (J)](#robocop-j) | GB
+[RoboCop (GBC)](#robocop-gbc) | GBC
 [RoboCop vs the Terminator](#robocop-vs-the-terminator) | GB
 [Rodland](#rodland) | GB
 [Rolan's Curse](#rolans-curse) | GB
@@ -7145,6 +7146,14 @@ This patch was updated to fix some graphic corruption with bullets. (2022/03/24)
 ROM MD5: `4b248813c7f2317e55690b5c95f163b2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCopJ.ips).
+
+## RoboCop (GBC)
+
+This patch converts `RoboCop (GBC) (E)` to the `.pocket` format.
+
+ROM MD5: `b734829913e6d58e678441de37dbf88a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCopGBC.ips).
 
 ## RoboCop vs the Terminator
 
