@@ -52,6 +52,7 @@ Game | System
 [Arcade Classic No. 3 - Galaga & Galaxian (E)](#arcade-classic-no-3---galaga-and-galaxian-e) | GB
 [Arcade Classic No. 3 - Galaga & Galaxian DX](#arcade-classic-no-3---galaga-and-galaxian-dx) | GB
 [Arcade Classic No. 3 - Galaga & Galaxian DX (E)](#arcade-classic-no-3---galaga-and-galaxian-dx-e) | GB
+[Arcade Classic No. 4 - Defender and Joust](#arcade-classic-no-4---defender-and-joust) | GB
 [Arcade Hits - Moon Patrol and Spy Hunter](#arcade-hits---moon-patrol-and-spy-hunter) | GBC
 [Arcadia](#arcadia) | GBC
 [Aretha](#aretha) | GB
@@ -1383,6 +1384,14 @@ This patch converts `Arcade Classic No.3 - Galaga and Galaxian DX (E)` to the `.
 ROM MD5: `1b87d9ad90df06c1ee4a2ae280ed6d88`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC3DX.ips).
+
+## Arcade Classic No. 4 - Defender and Joust
+
+This patch converts `Arcade Classic No. 4 - Defender and Joust (U,E)` to the `.pocket` format.
+
+ROM MD5: `211a15218fa66e4a09bc253ae064991c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC4.ips).
 
 ## Arcade Hits - Moon Patrol and Spy Hunter
 
