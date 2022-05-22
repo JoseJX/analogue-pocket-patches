@@ -552,6 +552,8 @@ Game | System
 [mGB](#mgb) | GBC
 [Mickey Mouse](#mickey-mouse) | GB
 [Mickey Mouse - Magic Wands](#mickey-mouse---magic-wands) | GB
+[Mickey's Dangerous Chase](#mickeys-dangerous-chase) | GB
+[Mickey's Dangerous Chase (E)](#mickeys-dangerous-chase-e) | GB
 [Mickey's Racing Adventure](#mickeys-racing-adventure) | GBC
 [Mickey's Speedway USA](#mickeys-speedway-usa) | GBC
 [Mickey's Ultimate Challenge](#mickeys-ultimate-challenge) | GB
@@ -5528,6 +5530,22 @@ This patch converts `Mickey Mouse - Magic Wands (U,E)` to the `.pocket` format.
 ROM MD5: `38b65d28ac0bd619f5dee5a45d5fc542`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeyMouseMagicWands.ips).
+
+## Mickey's Dangerous Chase
+
+This patch converts `Mickey's Dangerous Chase (U)` to the `.pocket` format.
+
+ROM MD5: `16bc18ef00088094e9fad502e613be5e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeysDangerousChase.ips).
+
+## Mickey's Dangerous Chase
+
+This patch converts `Mickey's Dangerous Chase (E)` to the `.pocket` format.
+
+ROM MD5: `b0195767bf5d839e4cc4c837a4709b54`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeysDangerousChase.ips).
 
 ## Mickey's Racing Adventure
 
