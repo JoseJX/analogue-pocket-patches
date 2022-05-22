@@ -756,6 +756,8 @@ Game | System
 [Rodland](#rodland) | GB
 [Rolan's Curse](#rolans-curse) | GB
 [Rolan's Curse II](#rolans-curse-ii) | GB
+[Rox](#rox) | GBC
+[Rox (J)](#rox-j) | GBC
 [Sabrina - The Animated Series - Spooked!](#sabrina---the-animated-series---spooked) | GBC
 [Sabrina - The Animated Series - Zapped!](#sabrina---the-animated-series---zapped) | GBC
 [Sagaia](#sagaia) | GB
@@ -7242,6 +7244,22 @@ This patch converts `Rolan's Curse II (U)` to the `.pocket` format.
 ROM MD5: `27f2c99b13cbdb5a5be4afce87b9039b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RolansCurse2.ips).
+
+## Rox
+
+This patch converts `Rox` to the `.pocket` format.
+
+ROM MD5: `c4cd1e337bb76ad0f7307f5cfa1ef6bc`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rox.ips).
+
+## Rox (J)
+
+This patch converts `Rox (J)` to the `.pocket` format.
+
+ROM MD5: `d5cde4a6f4877a71b06278a4802c7cce`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoxJ.ips).
 
 ## Sabrina - The Animated Series - Spooked!
 
