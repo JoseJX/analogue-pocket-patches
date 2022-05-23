@@ -698,6 +698,7 @@ Game | System
 [Powa! (E)](#powa-e) | GBC
 [Powa! (J)](#powa-j) | GBC
 [Power Mission](#power-mission) | GB
+[Powerpuff Girls - Bad Mojo Jojo (Rev B)](#powerpuff-girls---bad-mojo-jojo-rev-b) | GBC
 [Power Quest](#power-quest) | GBC
 [Power Racer](#power-racer) | GB
 [Prehistorik Man](#prehistorik-man) | GB
