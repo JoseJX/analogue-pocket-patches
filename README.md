@@ -854,6 +854,9 @@ Game | System
 [Super Breakout! (E)](#super-breakout-e) | GBC
 [Super Imposter Bros.](#super-imposter-bros) | GBC
 [Super JetPak DX](#super-jetpak-dx) | GBC
+[Super Mario Bros. Deluxe](#super-mario-bros-deluxe) | GBC
+[Super Mario Bros. Deluxe (J)](#super-mario-bros-deluxe-j) | GBC
+[Super Mario Bros. Deluxe (RevB)](#super-mario-bros-deluxe-revb) | GBC
 [Super Mario Land](#super-mario-land) | GB
 [Super Mario Land DX (v2.0)](#super-mario-land-dx-v20) | GBC
 [Super Mario Land DX (v2.0) with Sound Improvement Mod](#super-mario-land-dx-v20-with-sound-improvement-mod) | GBC
@@ -8032,6 +8035,30 @@ This patch converts `Super JetPak DX` to the `.pocket` format. You can buy a cop
 ROM MD5: `e5bfbe8dd1f3017834496626208b9d7d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperJetPakDX.ips).
+
+## Super Mario Bros. Deluxe
+
+This patch converts `Super Mario Bros. Deluxe (U,E)` to the `.pocket` format.
+
+ROM MD5: `ec764e03228d212ca794ac0b9df62857`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperMarioBrosDeluxe.ips).
+
+## Super Mario Bros. Deluxe (J)
+
+This patch converts `Super Mario Bros. Deluxe (J)` to the `.pocket` format.
+
+ROM MD5: `8040970140b2e728a0078504c2bcd908`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperMarioBrosDeluxeJ.ips).
+
+## Super Mario Bros. Deluxe (RevB)
+
+This patch converts `Super Mario Bros. Deluxe (RevB) (U,E)` to the `.pocket` format.
+
+ROM MD5: `b5a71128227f5bc953fd55cb0025807f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperMarioBrosDeluxeB.ips).
 
 ## Super Mario Land
 
