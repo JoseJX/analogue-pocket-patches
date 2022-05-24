@@ -386,6 +386,7 @@ Game | System
 [Hudson Hawk](#hudson-hawk) | GB
 [Humans](#humans) | GB
 [Hunt for Red October](#hunt-for-red-october) | GB
+[Hype - The Time Quest](#hype---the-time-quest) | GBC
 [Hyper Lode Runner](#hyper-lode-runner) | GB
 [Ikari no Yousai](#ikari-no-yousai) | GB
 [Ikari no Yousai 2](#ikari-no-yousai-2) | GB
@@ -4117,6 +4118,14 @@ This patch converts `Hunt for Red October (U,E)` to the `.pocket` format.
 ROM MD5: `cca5288a7a9e0270592bf75c0431bbb5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HuntForRedOctober.ips).
+
+## Hype - The Time Quest
+
+This patch converts `Hype - The Time Quest (E)` to the `.pocket` format.
+
+ROM MD5: `7039b471857d20f77a5ba7f48065ed53`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HypeTimeQuest.ips).
 
 ## Hyper Lode Runner
 
