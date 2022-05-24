@@ -648,6 +648,7 @@ Game | System
 [Paperboy](#paperboy) | GB
 [Paperboy 2](#paperboy-2) | GB
 [Paperboy GBC](#paperboy-gbc) | GBC
+[Papyrus](#papyrus) | GBC
 [Parasol Stars - Rainbow Islands II](#parasol-stars---rainbow-islands-ii) | GB
 [Parodius Da!](#parodius-da) | GB
 [Peetan](#peetan) | GB
@@ -6321,6 +6322,14 @@ This patch converts `Paperboy GBC (U,E)` to the `.pocket` format.
 ROM MD5: `ee133ab2f9ea5b18e9a19ce9b599a883`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PaperboyGBC.ips).
+
+## Papyrus
+
+This patch converts `Papyrus (E)` to the `.pocket` format.
+
+ROM MD5: `59f3f8585cfc12876db9a27018d41f78`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Papyrus.ips).
 
 ## Parasol Stars - Rainbow Islands II
 
