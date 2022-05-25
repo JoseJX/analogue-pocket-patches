@@ -737,6 +737,7 @@ Game | System
 [Race Days](#race-days) | GB
 [Race Drivin'](#race-drivin) | GB
 [Radar Mission](#radar-mission) | GB
+[Rainbow Islands](#rainbow-islands) | GBC
 [Rampage World Tour](#rampage-world-tour) | GBC
 [Rampage 2 - Universal Tour](#rampage-2---universal-tour) | GBC
 [Rampart](#rampart) | GB
@@ -7082,6 +7083,14 @@ This patch converts `Radar Mission (U,E)` to the `.pocket` format.
 ROM MD5: `82d650a781ef372126a863d519c01aae`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RadarMission.ips).
+
+## Rainbow Islands
+
+This patch converts `Rainbow Islands (E)` to the `.pocket` format.
+
+ROM MD5: `3c3f9f06b791df796b55ac94f2188ff2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RainbowIslands.ips).
 
 ## Rampage World Tour
 
