@@ -4085,6 +4085,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Hot Wheels - Stunt Track Driver (U,E)` to the `.pocket` format.
 
+This patch was updated to fix a graphical corruption and a freeze. (2022/05/25)
+
 ROM MD5: `9a908fd85216b1b3a994ec75d2cf9318`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HotWheels.ips).
