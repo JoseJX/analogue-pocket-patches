@@ -1,4 +1,4 @@
-# analogue-pocket-patches
+C# analogue-pocket-patches
 
 ## Table of Contents
 
@@ -977,6 +977,7 @@ Game | System
 [Ultraman Ball (English Translation)](#ultraman-ball-english-translation) | GB
 [Universal Soldier](#universal-soldier) | GB
 [Uno](#uno) | GBC
+[Urban Strike](#urban-strike) | GB
 [Usurper Ghoul](#usurper-ghoul) | GBC
 [Vattle Giuce](#vattle-giuce) | GB
 [Vegas Stakes](#vegas-stakes) | GB
@@ -9056,6 +9057,14 @@ This patch converts `Uno (U)` to the `.pocket` format.
 ROM MD5: `c720b196e885fe116d8b0c2154438c0e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Uno.ips).
+
+## Urban Strike
+
+This patch converts `Urban Strike (U,E)` to the `.pocket` format.
+
+ROM MD5: `d42a0f2f9205e81cbbbe132711d69d58`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/UrbanStrike.ips).
 
 ## Usurper Ghoul
 
