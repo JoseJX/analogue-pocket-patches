@@ -714,6 +714,8 @@ Game | System
 [Probotector](#probotector) | GB
 [Probotector 2](#probotector-2) | GB
 [Project: D-Mon](#project-d-mon) | GBC
+[Prophecy - The Viking Child](#prophecy---the-viking-child) | GB
+[Prophecy - The Viking Child (E)](#prophecy---the-viking-child-e) | GB
 [Punisher - Ultimate Payback](#punisher---ultimate-payback) | GB
 [Puyo Puyo](#puyo-puyo) | GB
 [Puyo Puyo (Rev A)](#puyo-puyo-rev-a) | GB
@@ -6892,6 +6894,22 @@ This patch converts `Project: D-Mon` to the `.pocket` format. Get a copy from th
 ROM MD5: `509d74da93cc7d90d315e537a8067408`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DMons.ips).
+
+## Prophecy - The Viking Child
+
+This patch converts `Prophecy - The Viking Child (U)` to the `.pocket` format.
+
+ROM MD5: `afa16d0822254cf68df1e29556e6cbcc`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ProphecyVikingChild.ips).
+
+## Prophecy - The Viking Child (E)
+
+This patch converts `Prophecy - The Viking Child (E)` to the `.pocket` format.
+
+ROM MD5: `d7569c3faaa4a657385c119e6b4a48c6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ProphecyVikingChildE.ips).
 
 ## Punisher - Ultimate Payback
 
