@@ -861,6 +861,7 @@ Game | System
 [Super Breakout! (E)](#super-breakout-e) | GBC
 [Super Imposter Bros.](#super-imposter-bros) | GBC
 [Super JetPak DX](#super-jetpak-dx) | GBC
+[Superman](#superman) | GB
 [Super Mario Bros. Deluxe](#super-mario-bros-deluxe) | GBC
 [Super Mario Bros. Deluxe (J)](#super-mario-bros-deluxe-j) | GBC
 [Super Mario Bros. Deluxe (RevB)](#super-mario-bros-deluxe-revb) | GBC
@@ -8091,6 +8092,14 @@ This patch converts `Super JetPak DX` to the `.pocket` format. You can buy a cop
 ROM MD5: `e5bfbe8dd1f3017834496626208b9d7d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperJetPakDX.ips).
+
+## Superman
+
+This patch converts `Superman (U,E)` to the `.pocket` format.
+
+ROM MD5: `a55e4143925f5cbe2b929cc5f598bbe9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Superman.ips).
 
 ## Super Mario Bros. Deluxe
 
