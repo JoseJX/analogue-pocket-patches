@@ -385,6 +385,7 @@ Game | System
 [Hoyle Casino](#hoyle-casino) | GBC
 [Hudson Hawk](#hudson-hawk) | GB
 [Hugo](#hugo) | GB
+[Hugo - The Evil Mirror](#hugo---the-evil-mirror) | GBC
 [Humans](#humans) | GB
 [Hunt for Red October](#hunt-for-red-october) | GB
 [Hype - The Time Quest](#hype---the-time-quest) | GBC
@@ -4113,6 +4114,14 @@ This patch converts `Hugo (E)` to the `.pocket` format.
 ROM MD5: `6c960f0e87a857a7b49ef08484f79ce0`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hugo.ips).
+
+## Hugo - The Evil Mirror
+
+This patch converts `Hugo - The Evil Mirror (E)` to the `.pocket` format.
+
+ROM MD5: `18c5ddde4bcffd1ddcba490eb529f0d7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HugoEvilMirror.ips).
 
 ## Humans
 
