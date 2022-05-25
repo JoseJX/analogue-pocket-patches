@@ -384,6 +384,7 @@ Game | System
 [Hoyle Card Games](#hoyle-card-games) | GBC
 [Hoyle Casino](#hoyle-casino) | GBC
 [Hudson Hawk](#hudson-hawk) | GB
+[Hugo](#hugo) | GB
 [Humans](#humans) | GB
 [Hunt for Red October](#hunt-for-red-october) | GB
 [Hype - The Time Quest](#hype---the-time-quest) | GBC
@@ -4104,6 +4105,14 @@ This patch converts `Hudson Hawk (U)` to the `.pocket` format.
 ROM MD5: `9c1efb1bd07fd91765f680e7e9bc44f1`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HudsonHawk.ips).
+
+## Hugo
+
+This patch converts `Hugo (E)` to the `.pocket` format.
+
+ROM MD5: `6c960f0e87a857a7b49ef08484f79ce0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hugo.ips).
 
 ## Humans
 
