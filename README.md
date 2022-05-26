@@ -114,6 +114,7 @@ Game | System
 [Bionic Commando - Elite Forces](#bionic-commando---elite-forces) | GBC
 [Bishoujo Senshi Sailor Moon](#bishoujo-senshi-sailor-moon) | GB
 [Bishoujo Senshi Sailor Moon R](#bishoujo-senshi-sailor-moon-r) | GB
+[Black Castle](#black-castle) | GB
 [Blade](#blade) | GBC
 [Blades of Steel](#blades-of-steel) | GB
 [Block Kuzushi GB](#block-kuzushi-gb) | GB
@@ -1904,6 +1905,14 @@ This patch converts `Bishoujo Senshi Sailor Moon R (J)` to the `.pocket` format.
 ROM MD5: `84634fb36156bb1b9e54bc62fbaf3525`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SailorMoonR.ips).
+
+## Black Castle
+
+This patch converts `Black Castle` to the `.pocket` format. You can get a copy of the game from the [author's site](https://user0x7f.itch.io/black-castle).
+
+ROM MD5: `15db12b81db55364a5c0b064b22e569f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BlackCastle.ips).
 
 ## Blade
 
