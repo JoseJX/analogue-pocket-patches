@@ -675,6 +675,7 @@ Game | System
 [Pinball Dreams](#pinball-dreams) | GB
 [Pinball Fantasies](#pinball-fantasies) | GB
 [Pineapple Kid](#pineapple-kid) | GB
+[Pine Creek](#pine-creek) | GBC
 [Pipe Dream](#pipe-dream) | GB
 [Pitfall - Beyond the Jungle](#pitfall---beyond-the-jungle) | GBC
 [Pocket Bomberman](#pocket-bomberman) | GBC
@@ -6558,6 +6559,14 @@ This patch converts `Pineapple Kid` to the `.pocket` format. You can get a copy 
 ROM MD5: `e63bba411ca5d496bbb2a33a7ca22155`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PineappleKid.ips).
+
+## Pine Creek
+
+This patch converts `Pine Creek` to the `.pocket` format. You can get a copy of the game from the [developer's site](https://incube8games.com/collections/digital-editions/products/pine-creek-gbc-digital-edition).
+
+ROM MD5: `f2a7d981ff292ef19673ca132c00ce02`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PineCreekUMC.ips).
 
 ## Pipe Dream
 
