@@ -308,6 +308,7 @@ Game | System
 [Fish Dude](#fish-dude) | GB
 [Fish Files](#fish-files) | GBC
 [Fist of the North Star](#fist-of-the-north-star) | GB
+[Fix My Heart](#fix-my-heart) | GBC
 [Flintstones](#flintstones) | GB
 [Flintstones - Burgertime in Bedrock](#flintstones---burgertime-in-bedrock) | GBC
 [Flintstones - King Rock Treasure Island](#flintstones---king-rock-treasure-island) | GB
@@ -3500,6 +3501,14 @@ This patch converts `Fist of the North Star (U)` to the `.pocket` format.
 ROM MD5: `c88d94a984afde869426694a3b992894`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FistOfTheNorthStar.ips).
+
+## Fix My Heart
+
+This patch converts `Fix My Heart` to the `.pocket` format. You can get a copy of the game from the [developer's site](https://filipe-bianchin.itch.io/fix-my-heart).
+
+ROM MD5: `c2bdeda559f02973c213e5085fd0d4df`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FixMyHeart.ips).
 
 ## Flintstones
 
