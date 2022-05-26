@@ -944,6 +944,7 @@ Game | System
 [Tintin in Tibet](#tintin-in-tibet) | GBC
 [Tiny Toon Adventures - Babs' Big Break](#tiny-toon-adventures---babs-big-break) | GB
 [Tiny Toon Adventures - Buster Saves the Day](#tiny-toon-adventures---buster-saves-the-day) | GBC
+[Titus the Fox - To Marrakech and Back](#titus-the-fox---to-marrakech-and-back) | GB
 [Tobu Tobu Girl](#tobu-tobu-girl) | GB
 [Tobu Tobu Girl DX](#tobu-tobu-girl-dx) | GBC
 [Toki Tori](#toki-tori) | GBC
@@ -8786,6 +8787,14 @@ This patch converts `Tiny Toon Adventures - Buster Saves the Day (U)` to the `.p
 ROM MD5: `5a93ecb5781a3338c99e35bd06cc6127`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TinyToonBuster.ips).
+
+## Titus the Fox - To Marrakech and Back
+
+This patch converts `Titus the Fox - To Marrakech and Back (U,E)` to the `.pocket` format.
+
+ROM MD5: `63811bc7f768c0de33fb2c4c702e9533`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TitusFox.ips).
 
 ## Tobu Tobu Girl
 
