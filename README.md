@@ -673,6 +673,7 @@ Game | System
 [Pierre le Chef is ... Out to Lunch](#pierre-le-chef-is-out-to-lunch) | GB
 [Pinball Dreams](#pinball-dreams) | GB
 [Pinball Fantasies](#pinball-fantasies) | GB
+[Pineapple Kid](#pineapple-kid) | GB
 [Pipe Dream](#pipe-dream) | GB
 [Pitfall - Beyond the Jungle](#pitfall---beyond-the-jungle) | GBC
 [Pocket Bomberman](#pocket-bomberman) | GBC
@@ -6540,6 +6541,14 @@ This patch converts `Pinball Fantasies (U,E)` to the `.pocket` format.
 ROM MD5: `3496b0cab86ae1981142c0ddb9ae6183`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PinballFantasies.ips).
+
+## Pineapple Kid
+
+This patch converts `Pineapple Kid` to the `.pocket` format. You can get a copy of the game from the [developer's site](https://www.bitmapsoft.co.uk/product/pineapple-kid/).
+
+ROM MD5: `e63bba411ca5d496bbb2a33a7ca22155`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PineappleKid.ips).
 
 ## Pipe Dream
 
