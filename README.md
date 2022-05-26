@@ -211,6 +211,7 @@ Game | System
 [Dance Dance Revolution GB - Disney Mix](#dance-dance-revolution-gb---disney-mix) | GBC
 [Dancing Furby](#dancing-furby) | GBC
 [Dangan GB](#dangan-gb) | GB
+[Dango Dash](#dango-dash) | GB
 [Darkman](#darkman) | GB
 [Darkwing Duck](#darkwing-duck) | GB
 [Darkwing Duck (DE)](#darkwing-duck-de) | GB
@@ -2702,6 +2703,14 @@ This patch converts `Dangan GB` to the `.pocket` format. You can get the ROM fro
 ROM MD5: `c85e5ba3dad5aa705b96da083cdd1a1c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Dangan.ips).
+
+## Dango Dash
+
+This patch converts `Dango Dash (v02)` to the `.pocket` format. You can get a copy of the ROM from the [deveoper's site](https://rebusmind.itch.io/dangodash).
+
+ROM MD5: `8a26c5ed9ca5577ecf93cf9bfe475052`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DangoDash_v02.ips).
 
 ## Darkman
 
