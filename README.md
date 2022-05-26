@@ -171,6 +171,7 @@ Game | System
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
 [Catrap](#catrap) | GB
 [Catwoman](#catwoman) | GBC
+[Cavern](#cavern) | GB
 [Chalvo 55 - Super Puzzle Action](#chalvo-55---super-puzzle-action) | GB
 [Chalvo 55 - Super Puzzle Action (English Translation)](#chalvo-55---super-puzzle-action-english-translation) | GB
 [Chase H.Q. - Secret Police](#chase-hq---secret-police) | GBC
@@ -2369,6 +2370,14 @@ This patch converts `Catrap (U)` to the `.pocket` format.
 ROM MD5: `5a75fe8de54e4cbd09cae23f050f6965`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Catrap.ips).
+
+## Cavern
+
+This patch converts `Cavern` to the `.pocket` format. You can get a copy from the [author's site](https://thegreatgallus.itch.io/cavern-mvm-9).
+
+ROM MD5: `c2fd153e0f8c5e48f6fe7dc3b178a679`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Cavern_MVM9.ips).
 
 ## Catwoman
 
