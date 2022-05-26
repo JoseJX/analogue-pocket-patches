@@ -945,8 +945,8 @@ Game | System
 [Tiny Toon Adventures - Babs' Big Break](#tiny-toon-adventures---babs-big-break) | GB
 [Tiny Toon Adventures - Buster Saves the Day](#tiny-toon-adventures---buster-saves-the-day) | GBC
 [Titus the Fox - To Marrakech and Back](#titus-the-fox---to-marrakech-and-back) | GB
-[Titus the Fox: To Marrakech and Back (GBC)](#titus-the-fox-to-marrakech-and-back-gbc) | GBC
-[Titus the Fox: To Marrakech and Back (GBC) (E)](#titus-the-fox-to-marrakech-and-back-gbc-e) | GBC
+[Titus the Fox - To Marrakech and Back (GBC)](#titus-the-fox---to-marrakech-and-back-gbc) | GBC
+[Titus the Fox - To Marrakech and Back (GBC) (E)](#titus-the-fox---to-marrakech-and-back-gbc-e) | GBC
 [Tobu Tobu Girl](#tobu-tobu-girl) | GB
 [Tobu Tobu Girl DX](#tobu-tobu-girl-dx) | GBC
 [Toki Tori](#toki-tori) | GBC
@@ -8798,7 +8798,7 @@ ROM MD5: `63811bc7f768c0de33fb2c4c702e9533`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TitusFox.ips).
 
-## Titus the Fox: To Marrakech and Back (GBC)
+## Titus the Fox - To Marrakech and Back (GBC)
 
 This patch converts `Titus the Fox: To Marrakech and Back (GBC) (U)` to the `.pocket` format.
 
@@ -8806,7 +8806,7 @@ ROM MD5: `3f45aaeb406c50d03fc6984908fcbfa5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TitusFoxGBC.ips).
 
-## Titus the Fox: To Marrakech and Back (GBC) (E)
+## Titus the Fox - To Marrakech and Back (GBC) (E)
 
 This patch converts `Titus the Fox: To Marrakech and Back (GBC) (E)` to the `.pocket` format.
 
