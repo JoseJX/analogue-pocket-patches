@@ -233,6 +233,7 @@ Game | System
 [Desert Strike - Return to the Gulf](#desert-strike---return-to-the-gulf) | GB
 [Dexterity](#dexterity) | GB
 [Dexter's Laboratory - Robot Rampage](#dexters-laboratory---robot-rampage) | GBC
+[DiaMaze](#diamaze) | GB
 [Dick Tracy](#dick-tracy) | GB
 [Die Maus GB](#die-maus-gb) | GB
 [Die Maus GBC](#die-maus-gbc) | GBC
@@ -2881,6 +2882,14 @@ This patch converts `Dexter's Laboratory - Robot Rampage (U)` to the `.pocket` f
 ROM MD5: `2a147b2d7731ac26a999390c3f5ff2ac`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DextersLab.ips).
+
+## DiaMaze
+
+This patch converts `DiaMaze` to the `.pocket` format. You can get a copy of the game from the [deveoper's site](https://fb1.itch.io/diamaze).
+
+ROM MD5: `9aa480224f43cbcc71bb2f4c51da2507`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DiaMaze.ips).
 
 ## Dick Tracy
 
