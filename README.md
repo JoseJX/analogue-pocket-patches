@@ -860,6 +860,8 @@ Game | System
 [Star Trek Generations - Beyond the Nexus](#star-trek-generations---beyond-the-nexus) | GB
 [Star Trek - The Next Generation](#star-trek---the-next-generation) | GB
 [Star Wars](#star-wars) | GB
+[Star Wars (E)](#star-wars-e) | GB
+[Star Wars (Rev A)](#star-wars-rev-a) | GB
 [Star Wars - The Empire Strikes Back](#star-wars---the-empire-strikes-back) | GB
 [Star Wars Episode I - Obi-Wan's Adventures](#star-wars-episode-i---obi-wans-adventures) | GBC
 [Star Wars Episode I - Racer](#star-wars-episode-i---racer) | GBC
@@ -8095,9 +8097,25 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Star Wars
 
-This patch converts `Star Wars (U,E)` to the `.pocket` format.
+This patch converts `Star Wars (U)` to the `.pocket` format.
 
 ROM MD5: `63098fde8f2dcb977c9a8f0389e0d033`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWars.ips).
+
+## Star Wars (E)
+
+This patch converts `Star Wars (E)` to the `.pocket` format.
+
+ROM MD5: `8a874449c207af6e4726337ca899e35a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWars.ips).
+
+## Star Wars (Rev A)
+
+This patch converts `Star Wars (Rev A) (U,E)` to the `.pocket` format.
+
+ROM MD5: `cb1dce08c78c509a876c494d6333f45c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWars.ips).
 
