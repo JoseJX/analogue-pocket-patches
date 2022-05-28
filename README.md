@@ -164,6 +164,7 @@ Game | System
 [Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai](#cardcaptor-sakura---tomoeda-shougakkou-daiundoukai) | GBC
 [Carmageddon - Carpocalypse Now](#carmageddon---carpocalypse-now) | GBC
 [Carmageddon TDR 2000](#carmageddon-tdr-2000) | GBC
+[Casper](#casper) | GB
 [Castle Quest](#castle-quest) | GB
 [Castlevania - The Adventure](#castlevania---the-adventure) | GB
 [Castlevania - The Adventure (Konami GB Volume 1 Standalone)](#castlevania---the-adventure-konami-gb-volume-1-standalone) | GBC
@@ -2323,6 +2324,14 @@ This patch converts `Carmageddon TDR 2000` to the `.pocket` format. This game wa
 ROM MD5: `02f25d1192d129ee73104c5bfc127a94`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CarmagedonTDR2K.ips).
+
+## Casper
+
+This patch converts `Casper (U)` to the `.pocket` format.
+
+ROM MD5: `792c706a0addebed39d177077a1caac0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Casper.ips).
 
 ## Castle Quest
 
