@@ -149,6 +149,7 @@ Game | System
 [Buffy the Vampire Slayer](#buffy-the-vampire-slayer) | GBC
 [Bugs Bunny Collection](#bugs-bunny-collection) | GB
 [Bugs Bunny and Lola Bunny - Operation Carrots](#bugs-bunny-and-lola-bunny---operation-carrots) | GBC
+[Bug's Life](#bugs-life) | GBC
 [Burai Fighter Deluxe](#burai-fighter-deluxe) | GB
 [BurgerTime Deluxe](#burgertime-deluxe) | GB
 [Burning Paper](#burning-paper) | GB
@@ -2200,6 +2201,14 @@ This patch converts `Bugs Bunny and Lola Bunny - Operation Carrots (E)` to the `
 ROM MD5: `d5a558f3f63771ac1e40d53976e090ef`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesCarrotCrazy.ips).
+
+## Bug's Life
+
+This patch converts `Bug's Life (U)` to the `.pocket` format.
+
+ROM MD5: `64d2d5df9d0e5035ef549a189fbdb475`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BugsLife.ips).
 
 ## Burai Fighter Deluxe
 
