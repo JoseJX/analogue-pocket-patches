@@ -1,4 +1,4 @@
-C# analogue-pocket-patches
+
 
 ## Table of Contents
 
@@ -247,7 +247,7 @@ Game | System
 [Donkey Kong '94](#donkey-kong-94) | GB
 [Donkey Kong Land](#donkey-kong-land) | GB
 [Donkey Kong Land - New Colors Mode](#donkey-kong-land---new-colors-mode) | GBC
-[Donkey Kong Land 2 - Colorized Version](#donkey-kong-land-2---colorized-version) | GBC
+[Donkey Kong Land 2 - Game Boy Color Edition](#donkey-kong-land-2---game-boy-color-edition) | GBC
 [Donkey Kong Land III](#donkey-kong-land-iii) | GB
 [Donkey Kong GB - Dinky Kong and Dixie Kong](#donkey-kong-gb---dinky-kong-and-dixie-kong) | GB
 [Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation)](#donkey-kong-gb---dinky-kong-and-dixie-kong-english-translation) | GB
@@ -3011,9 +3011,9 @@ ROM MD5: `830aae1221b7c48866aa434bd626bc19`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DK1-Color.ips).
 
-## Donkey Kong Land 2 - Colorized Version
+## Donkey Kong Land 2 - Game Boy Color Edition
 
-This patch converts `Donkey Kong Land 2 - Colorized Version` to the `.pocket` format. First, apply the [colorization patch](https://www.romhacking.net/hacks/6866/), then apply this patch. The MD5 below is for the patched ROM.
+This patch converts `Donkey Kong Land 2 - Game Boy Color Edition` to the `.pocket` format. First, apply the [colorization patch](https://www.romhacking.net/hacks/6866/), then apply this patch. The MD5 below is for the patched ROM.
 
 ROM MD5: `4ec83c4936802797025d0141f623801d`
 
