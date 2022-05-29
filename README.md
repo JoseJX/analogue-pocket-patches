@@ -591,6 +591,7 @@ Game | System
 [Monster Max](#monster-max) | GB
 [Monster Rancher Battle Card GB](#monster-rancher-battle-card-gb) | GBC
 [Monster Rancher Explorer](#monster-rancher-explorer) | GBC
+[Monsters Inc.](#monsters-inc) | GBC
 [Mortal Kombat](#mortal-kombat) | GB
 [Mortal Kombat II](#mortal-kombat-ii) | GB
 [Mortal Kombat 3](#mortal-kombat-3) | GB
@@ -5885,6 +5886,14 @@ This patch converts `Monster Rancher Explorer (U)` to the `.pocket` format.
 ROM MD5: `f55ed9e6a8fece5220e9876fb515e222`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonsterRancherExplorer.ips).
+
+## Monsters Inc.
+
+This patch converts `Monsters Inc. (U,E)` to the `.pocket` format.
+
+ROM MD5: `5776965258ee78832e7eabc0db66ff4b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonstersInc.ips).
 
 ## Mortal Kombat
 
