@@ -179,6 +179,7 @@ Game | System
 [Chase H.Q. - Secret Police](#chase-hq---secret-police) | GBC
 [Cherry Rescue](#cherry-rescue) | GB
 [Chessmaster](#chessmaster) | GB
+[Chicken Run](#chicken-run) | GBC
 [Choplifter II - Rescue and Survive](#choplifter-ii---rescue-and-survive) | GB
 [Classic Bubble Bobble](#classic-bubble-bobble) | GBC
 [Classic Bubble Bobble (E)](#classic-bubble-bobble-e) | GBC
@@ -2458,6 +2459,14 @@ This patch converts `Chessmaster (U)` to the `.pocket` format.
 ROM MD5: `3db9f9f0c5913d3c9f7b5d5fbf7b5e02`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Chessmaster.ips).
+
+## Chicken Run
+
+This patch converts `Chicken Run (U,E)` to the `.pocket` format.
+
+ROM MD5: `bda8c4e5e18070924261823e5fca655c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ChickenRun.ips).
 
 ## Choplifter II - Rescue and Survive
 
