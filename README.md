@@ -407,6 +407,7 @@ Game | System
 [Indiana Jones and the Last Crusade](#indiana-jones-and-the-last-crusade) | GB
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
 [InfoGenius Systems - Personal Organizer with Phone Book](#infogenius-systems---personal-organizer-with-phone-book) | GB
+[Inspector Gadget - Operation Madkactus](#inspector-gadget---operation-madkactus) | GBC
 [International Karate 2000](#international-karate-2000) | GBC
 [International Track and Field](#international-track-and-field) | GBC
 [International Track and Field - Summer Games](#international-track-and-field---summer-games) | GBC
@@ -4325,6 +4326,14 @@ This patch converts `InfoGenius Systems - Personal Organizer with Phone Book (E)
 ROM MD5: `872e582831a17faee1df663c39a73e99`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/InfoGeniusOrganizer.ips).
+
+## Inspector Gadget - Operation Madkactus
+
+This patch converts `Inspector Gadget - Operation Madkactus (U)` to the `.pocket` format.
+
+ROM MD5: `f9594360b2a4ed8745b63304063baabb`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/InspectorGadget.ips).
 
 ## International Karate 2000
 
