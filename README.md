@@ -457,6 +457,7 @@ Game | System
 [Klondike](#klondike) | GBC
 [Klustar](#klustar) | GBC
 [Klustar (E)](#klustar-e) | GBC
+[Knockout Kings](#knockout-kings) | GBC
 [Konami GB Collection Volume 2](#konami-gb-collection-volume-2) | GBC
 [Konami GB Collection Volume 3](#konami-gb-collection-volume-3) | GBC
 [Konami GB Collection Volume 4](#konami-gb-collection-volume-4) | GBC
@@ -4748,6 +4749,14 @@ This patch converts `Klustar (E)` to the `.pocket` format.
 ROM MD5: `acb6b136fa26888d42b5f95871a75eaa`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KlustarE.ips).
+
+## Knockout Kings
+
+This patch converts `Knockout Kings (U,E)` to the `.pocket` format.
+
+ROM MD5: `64fa89b64514a71651c1b8dc629ba8f3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KnockoutKings.ips).
 
 ## Konami GB Collection Volume 2
 
