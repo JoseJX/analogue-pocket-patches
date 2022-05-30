@@ -229,6 +229,7 @@ Game | System
 [Deathray](#deathray) | GB
 [Deathray - Patched](#deathray---patched) | GB
 [Deep Dungeon](#deep-dungeon) | GB
+[Deer Hunter](#deer-hunter) | GBC
 [Deja Vu I & II: The Casebooks of Ace Harding](#deja-vu-i--ii-the-casebooks-of-ace-harding) | GBC
 [Denki Blocks!](#denki-blocks) | GBC
 [Dennis the Menace](#dennis-the-menace) | GB
@@ -2863,6 +2864,14 @@ This patch converts `Deep Dungeon` v1.3 to the `.pocket` format. Get a copy of t
 ROM MD5: `4f9b77afb81d66e6af1bd54b7b06351f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeepDungeonv1.3.ips).
+
+## Deer Hunter
+
+This patch converts `Deer Hunter (U)` to the `.pocket` format.
+
+ROM MD5: `11d3ca80ad24431babbec7a675d83bed`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeerHunter.ips).
 
 ## Deja Vu I & II: The Casebooks of Ace Harding
 
