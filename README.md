@@ -521,6 +521,8 @@ Game | System
 [Lucle](#lucle) | GB
 [Lufia - The Legend Returns (U)](#lufia---the-legend-returns-u) | GBC
 [Lunar Chase](#lunar-chase) | GB
+[M&M's Minis Madness](#m-ms-minis-madness) | GBC
+[M&M's Minis Madness (E)](#m-ms-minis-madness-e) | GBC
 [Madden NFL 2002](#madden-nfl-2002) | GBC
 [Magi Nation](#magi-nation) | GB
 [Magical Drop](#magical-drop) | GBC
@@ -5269,6 +5271,22 @@ This patch converts `Lunar Chase (U,E)` to the `.pocket` format.
 ROM MD5: `db24c76ac8d32cd23ce3a00519ba874f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LunarChase.ips).
+
+## M&M's Minis Madness
+
+This patch converts `M&M's Minis Madness (U)` to the `.pocket` format.
+
+ROM MD5: `c7bcdd8ace2dfac5fdce889880472f80`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MnMsMinis.ips).
+
+## M&M's Minis Madness (E)
+
+This patch converts `M&M's Minis Madness (E)` to the `.pocket` format.
+
+ROM MD5: `0bfac235a5bd9cd57d7b3e7e83993458`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MnMsMinisE.ips).
 
 ## Madden NFL 2002
 
