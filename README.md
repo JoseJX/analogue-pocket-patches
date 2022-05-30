@@ -523,6 +523,7 @@ Game | System
 [Lunar Chase](#lunar-chase) | GB
 [M&M's Minis Madness](#mms-minis-madness) | GBC
 [M&M's Minis Madness (E)](#mms-minis-madness-e) | GBC
+[M&M's Minis Madness (DE)](#mms-minis-madness-de) | GBC
 [Madden NFL 2002](#madden-nfl-2002) | GBC
 [Magi Nation](#magi-nation) | GB
 [Magical Drop](#magical-drop) | GBC
@@ -5287,6 +5288,14 @@ This patch converts `M&M's Minis Madness (E)` to the `.pocket` format.
 ROM MD5: `0bfac235a5bd9cd57d7b3e7e83993458`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MnMsMinisE.ips).
+
+## M&M's Minis Madness (DE)
+
+This patch converts `M&M's Minis Madness (DE)` to the `.pocket` format.
+
+ROM MD5: `0650cbe5e04f8968d5c09740af7aa152`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MnMsMinisDE.ips).
 
 ## Madden NFL 2002
 
