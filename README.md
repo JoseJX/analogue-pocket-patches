@@ -521,8 +521,8 @@ Game | System
 [Lucle](#lucle) | GB
 [Lufia - The Legend Returns (U)](#lufia---the-legend-returns-u) | GBC
 [Lunar Chase](#lunar-chase) | GB
-[M&M's Minis Madness](#m-ms-minis-madness) | GBC
-[M&M's Minis Madness (E)](#m-ms-minis-madness-e) | GBC
+[M&M's Minis Madness](#mms-minis-madness) | GBC
+[M&M's Minis Madness (E)](#mms-minis-madness-e) | GBC
 [Madden NFL 2002](#madden-nfl-2002) | GBC
 [Magi Nation](#magi-nation) | GB
 [Magical Drop](#magical-drop) | GBC
