@@ -640,6 +640,7 @@ Game | System
 [Nemesis](#nemesis) | GB
 [Nemesis II](#nemesis-ii) | GB
 [New Addams Family Series](#new-addams-family-series) | GBC
+[Nicktoons Racing](#nicktoons-racing) | GBC
 [Ninja Boy](#ninja-boy) | GB
 [Ninja Boy 2](#ninja-boy-2) | GB
 [Ninja Taro](#ninja-taro) | GB
@@ -6290,6 +6291,14 @@ This patch converts `New Addams Family Series (E)` to the `.pocket` format.
 ROM MD5: `2d2a8314f789d490bf83ed3c44538fe3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NewAddamsFamily.ips).
+
+## Nicktoons Racing
+
+This patch converts `Nicktoons Racing (U)` to the `.pocket` format.
+
+ROM MD5: `1d0044523075ab0308c598286f804402`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NicktoonsRacing.ips).
 
 ## Ninja Boy
 
