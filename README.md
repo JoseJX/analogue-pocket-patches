@@ -224,7 +224,7 @@ Game | System
 [Dave Mirra Freestyle BMX](#dave-mirra-freestyle-bmx) | GBC
 [David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob](#david-cranes-the-rescue-of-princess-blobette-starring-a-boy-and-his-blob) | GB
 [Days of Thunder](#days-of-thunder) | GB
-[Deadeus (v1.3.8)](#deadeus-v138) | G
+[Deadeus (v1.3.8)](#deadeus-v138) | GB
 [Dead Heat Scramble](#dead-heat-scramble) | GB
 [Death Planet](#death-planet) | GB
 [Deathray](#deathray) | GB
