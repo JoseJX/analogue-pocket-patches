@@ -888,6 +888,7 @@ Game | System
 [Super Black Bass](#super-black-bass) | GB
 [Super Breakout!](#super-breakout) | GBC
 [Super Breakout! (E)](#super-breakout-e) | GBC
+[Super Hunchback](#super-hunchback) | GB
 [Super Imposter Bros.](#super-imposter-bros) | GBC
 [Super JetPak DX](#super-jetpak-dx) | GBC
 [Superman](#superman) | GB
@@ -8326,6 +8327,14 @@ This patch converts `Super Breakout! (E)` to the `.pocket` format.
 ROM MD5: `3383c2754015c4da7b5295a28ac09739`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBreakoutE.ips).
+
+## Super Hunchback
+
+This patch converts `Super Hunchback (U)` to the `.pocket` format.
+
+ROM MD5: `f5e132763e20e45f407258d3c6ec0c61`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperHunchback.ips).
 
 ## Super Imposter Bros.
 
