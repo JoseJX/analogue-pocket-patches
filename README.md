@@ -223,6 +223,7 @@ Game | System
 [A Dark Winter Wander](#a-dark-winter-wander) | GBC
 [Dave Mirra Freestyle BMX](#dave-mirra-freestyle-bmx) | GBC
 [David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob](#david-cranes-the-rescue-of-princess-blobette-starring-a-boy-and-his-blob) | GB
+[Days of Thunder](#days-of-thunder) | GB
 [Deadeus (v1.3.8)](#deadeus-v138) | G
 [Dead Heat Scramble](#dead-heat-scramble) | GB
 [Death Planet](#death-planet) | GB
@@ -2822,6 +2823,14 @@ This patch converts `David Crane's The Rescue of Princess Blobette Starring A Bo
 ROM MD5: `81f7dee7546e630de075a3397349efb8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Blobette.ips).
+
+## Days of Thunder
+
+This patch converts `Days of Thunder (U,E)` to the `.pocket` format.
+
+ROM MD5: `bdcf042bc2458768522c3cca43c89ee1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaysOfThunder.ips).
 
 ## Deadeus (v1.3.8)
 
