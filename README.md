@@ -885,6 +885,7 @@ Game | System
 [Street Fighter II](#street-fighter-ii) | GB
 [Super Bikkuriman - Densetsu no Sekiban](#super-bikkuriman---densetsu-no-sekiban) | GB
 [Super Bikkuriman - Densetsu no Sekiban (English Translation)](#super-bikkuriman---densetsu-no-sekiban-english-translation) | GB
+[Super Black Bass](#super-black-bass) | GB
 [Super Breakout!](#super-breakout) | GBC
 [Super Breakout! (E)](#super-breakout-e) | GBC
 [Super Imposter Bros.](#super-imposter-bros) | GBC
@@ -8285,6 +8286,14 @@ This patch converts `Street Fighter Alpha - Warriors' Dreams (U)` to the `.pocke
 ROM MD5: `db1aeaa7135bd5707dbbccc427808cd7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SFA.ips).
+
+## Super Black Bass
+
+This patch converts `Super Black Bass (U)` to the `.pocket` format.
+
+ROM MD5: `426f96e31186b3a6e73a624d97b3b2dc`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBlackBass.ips).
 
 ## Super Bikkuriman - Densetsu no Sekiban
 
