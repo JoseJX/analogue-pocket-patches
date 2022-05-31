@@ -726,6 +726,8 @@ Game | System
 [Powerpuff Girls - Bad Mojo Jojo (Rev B)](#powerpuff-girls---bad-mojo-jojo-rev-b) | GBC
 [Power Quest](#power-quest) | GBC
 [Power Racer](#power-racer) | GB
+[Power Rangers - Lightspeed Rescue](#power-rangers---lightspeed-rescue) | GBC
+[Power Rangers - Time Force](#power-rangers---time-force) | GBC
 [Prehistorik Man](#prehistorik-man) | GB
 [Primal Rage](#primal-rage) | GB
 [Prince of Persia (1992)](#prince-of-persia-1992) | GB
@@ -7006,6 +7008,14 @@ This patch converts `Power Racer (U)` to the `.pocket` format.
 ROM MD5: `6073cb28e651b48f0bf19e654aab8c7d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowerRacer.ips).
+
+## Power Rangers - Lightspeed Rescue
+
+This patch converts `Power Rangers - Lightspeed Rescue (U,E)` to the `.pocket` format.
+
+ROM MD5: `c3c4b88e40538c1c99b85313bc88df6d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowerRangersLightspeedRescue.ips).
 
 ## Power Rangers - Time Force
 
