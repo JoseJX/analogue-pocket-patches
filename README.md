@@ -1042,6 +1042,8 @@ Game | System
 [Wizardry II - Llylgamyn no Isan (English Translation)](#wizardry-ii---llylgamyn-no-isan-english-translation) | GBC
 [Wizardry III - Diamond no Kishi](#wizardry-iii---diamond-no-kishi) | GBC
 [Wizardry III - Diamond no Kishi (English Translation)](#wizardry-iii---diamond-no-kishi-english-translation) | GBC
+[Wizardry Empire (Rev A)](#wizardry-empire-rev-a) | GBC
+[Wizardry Empire (English Translation)](#wizardry-empire-english-translation) | GBC
 [Wizardry Gaiden I - Joou no Junan](#wizardry-gaiden-i---joou-no-junan) | GB
 [Wizardry Gaiden I - Joou no Junan (English Translation)](#wizardry-gaiden-i---joou-no-junan-english-translation) | GB
 [Wizardry Gaiden II - Kodai Koutei no Noroi](#wizardry-gaiden-ii---kodai-koutei-no-noroi) | GB
@@ -9614,6 +9616,22 @@ This patch converts `Wizardry III - Diamond no Kishi (English Translation)` to t
 ROM MD5: `142f0c6229e089b6ea6b99dc690d2aaa`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry3.ips).
+
+## Wizardry Empire (Rev A)
+
+This patch converts `Wizardry Empire (Rev A) (J)` to the `.pocket` format.
+
+ROM MD5: `fcf910e4d2f27bab40244eb7bf4aa2d3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryEmpireA.ips).
+
+## Wizardry Empire (English Translation)
+
+This patch converts `Wizardry Empire (English Translation)` to the `.pocket` format. First, apply the [English translation patch](https://www.romhacking.net/translations/2316/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `14407063008693058990de686a784991`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryEmpireA.ips).
 
 ## Wizardry Gaiden I - Joou no Junan
 
