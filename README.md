@@ -4147,6 +4147,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Heroes of Might and Magic 2 (U)` to the `.pocket` format.
 
+This patch was updated to fix a graphical corruption bug. (2022/05/31)
+
 ROM MD5: `ad37726c92f43ad7915225b7eaf94ffd`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HoMM2.ips).
