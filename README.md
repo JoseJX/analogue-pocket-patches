@@ -1074,6 +1074,7 @@ Game | System
 [Xtreme Sports](#xtreme-sports) | GBC
 [Yakuman](#yakuman) | GB
 [Yakuman (English Translation)](#yakuman-english-translation) | GB
+[Yar's Revenge](#yars-revenge) | GBC
 [Yoda Stories](#yoda-stories) | GBC
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
@@ -9872,6 +9873,14 @@ This patch converts `Yakuman (English Translation)` to the `.pocket` format. Fir
 ROM MD5: `837a9e13b7f378bcb94bf1ed294312a0`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Yakuman.ips).
+
+## Yar's Revenge
+
+This patch converts `Yar's Revenge (U,E)` to the `.pocket` format.
+
+ROM MD5: `1405c2c436255d0d5c901bf6d64f68a1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YarsRevenge.ips).
 
 ## Yoda Stories
 
