@@ -826,6 +826,7 @@ Game | System
 [Shin Pokemon Blue](#shin-pokemon-red) | GB
 [Shin Pokemon Blue (J)](#shin-pokemon-red-j) | GB
 [Shitwave](#shitwave) | GB
+[Shrek - Fairy Tale Freakdown](#shrek---fairy-tale-freakdown) | GBC
 [Side Pocket](#side-pocket) | GB
 [Simpsons - Night of the Living Tree House of Horror](#simpsons---night-of-the-living-tree-house-of-horror) | GBC
 [Skate or Die - Bad 'N Rad](#skate-or-die---bad-n-rad) | GB
@@ -7844,6 +7845,14 @@ This patch converts `Shitwave (v1)` to the `.pocket` format. You can get a copy 
 ROM MD5: `f7103c8e8c260123615985e65f85b211`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/shitwave1.ips).
+
+## Shrek - Fairy Tale Freakdown
+
+This patch converts `Shrek - Fairy Tale Freakdown (U,E)` to the `.pocket` format.
+
+ROM MD5: `69c68b13bb0da057acbafe24e389e855`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Shrek.ips).
 
 ## Side Pocket
 
