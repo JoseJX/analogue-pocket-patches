@@ -580,6 +580,7 @@ Game | System
 [Mickey's Racing Adventure](#mickeys-racing-adventure) | GBC
 [Mickey's Speedway USA](#mickeys-speedway-usa) | GBC
 [Mickey's Ultimate Challenge](#mickeys-ultimate-challenge) | GB
+[Micro Machines V3](#micro-machines-v3) | GBC
 [Microsoft Pinball Arcade](#microsoft-pinball-arcade) | GBC
 [Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack](#microsoft---the-6-in-1-puzzle-collection-entertainment-pack) | GBC
 [Mighty Morphin Power Rangers](#mighty-morphin-power-rangers) | GB
@@ -5812,6 +5813,14 @@ This patch converts `Mickey's Ultimate Challenge (U,E)` to the `.pocket` format.
 ROM MD5: `f7d266bc81c150796ae373bddd0a9a84`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeysUltimateChallenge.ips).
+
+## Micro Machines V3
+
+This patch converts `Micro Machines V3 (U,E)` to the `.pocket` format.
+
+ROM MD5: `b6ea71372c0acb3cdc8cc64a4b2add2e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MicroMachinesV3.ips).
 
 ## Microsoft Pinball Arcade
 
