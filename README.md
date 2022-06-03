@@ -171,6 +171,7 @@ Game | System
 [Castlevania - The Adventure (Konami GB Volume 1 Standalone - No Graphics Changes)](#castlevania---the-adventure-konami-gb-volume-1-standalone---no-graphics-changes) | GBC
 [Castlevania Legends](#castlevania-legends) | GB
 [Castlevania II - Belmont's Revenge](#castlevania-ii---belmonts-revenge) | GB
+[Caterpillar Construction Zone](#caterpillar-construction-zone) | GBC
 [Catrap](#catrap) | GB
 [Catwoman](#catwoman) | GBC
 [Cavern](#cavern) | GB
@@ -2409,6 +2410,14 @@ This patch was updated to fix some graphical glitches and the final scene. (2022
 ROM MD5: `1475824e7262c0d6359f43c287e034a5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CastlevaniaLegends.ips).
+
+## Caterpillar Construction Zone
+
+This patch converts `Caterpillar Construction Zone (U,E)` to the `.pocket` format.
+
+ROM MD5: `046af13647ed4777510aa86fcb753bf9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CaterpillarConstructionZone.ips).
 
 ## Catrap
 
