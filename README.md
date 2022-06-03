@@ -810,6 +810,7 @@ Game | System
 [Sensible Soccer - European Champions](#sensible-soccer---european-champions) | GB
 [Sgt. Rock - On the Frontline](#sgt-rock---on-the-frontline) | GBC
 [Shadowgate Classic](#shadowgate-classic) | GBC
+[Shamus](#shamus) | GBC
 [Shanghai](#shanghai) | GB
 [Shanghai (J) - Activision](#shanghai-j---activision) | GB
 [Shanghai Pocket](#shanghai-pocket) | GBC
@@ -7717,6 +7718,14 @@ This patch converts `Shadowgate Classic (U,E)` to the `.pocket` format.
 ROM MD5: `90280833c156e2ca8e4eaa29adf369b2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShadowgateClassic.ips).
+
+## Shamus
+
+This patch converts `Shamus (U,E)` to the `.pocket` format.
+
+ROM MD5: `c0e42b4b7ba5605c3ab7b83b1e2fab6d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Shamus.ips).
 
 ## Shanghai
 
