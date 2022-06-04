@@ -666,6 +666,7 @@ Game | System
 [Pac-in-Time](#pac-in-time) | GB
 [Pac-Man](#pac-man) | GB
 [Pac-Man - Special Color Edition](#pac-man---special-color-edition) | GBC
+[Painter](#painter) | GBC
 [Painter Momopie](#painter-momopie) | GB
 [Painter Momopie (English Translation)](#painter-momopie-english-translation) | GB
 [Panel no Ninja Kesamaru](#panel-no-ninja-kesamaru) | GB
@@ -6517,6 +6518,14 @@ This patch converts `Pac-Man - Special Color Edition (U)` to the `.pocket` forma
 ROM MD5: `b81ddb7d86302384efe1675f75cc35f6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PacManSCE.ips).
+
+## Painter
+
+This patch converts `Painter (E)` to the `.pocket` format.
+
+ROM MD5: `d4255175d7cbca6080c31ec839893d05`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Painter.ips).
 
 ## Painter Momopie
 
