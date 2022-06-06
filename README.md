@@ -709,15 +709,18 @@ Game | System
 [Pokemon - Edicion Oro](#pokemon---edicion-oro) | GBC
 [Pokemon - Edicion Plata](#pokemon---edicion-plata) | GBC
 [Pokemon - Edicion Roja](#pokemon---edicion-roja) | GB
+[Pokemon Goldene Edition](#pokemon-goldene-edition) | GBC
 [Pokemon Green](#pokemon-green) | GB
-[Pokemon Red++ v3 (Hard)](#pokemon-red-v3-hard) | GBC
-[Pokemon Red++ v3 (Normal)](#pokemon-red-v3-normal) | GBC
+[Pokemon Kristal Edition](#pokemon-kristal-edition) | GBC
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
 [Pokemon Pinball (E)](#pokemon-pinball-e) | GBC
 [Pokemon Pinball Generations](#pokemon-pinball-generations) | GBC
 [Pokemon Playable Yellow](#pokemon-playable-yellow) | GBC
 [Pokemon Prism](#pokemon-prism) | GBC
+[Pokemon Red++ v3 (Hard)](#pokemon-red-v3-hard) | GBC
+[Pokemon Red++ v3 (Normal)](#pokemon-red-v3-normal) | GBC
+[Pokemon Silberne Edition](#pokemon-silberne-edition) | GBC
 [Pokemon Trading Card Game (En, Es, It)](#pokemon-trading-card-game-en-es-it) | GBC
 [Pokemon Yellow - 151](#pokemon-yellow---151) | GB
 [Pong - The Next Level](#pong---the-next-level) | GBC
@@ -6873,6 +6876,14 @@ ROM MD5: `463c241c8721ab1d1da17c91de9f8a32`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonEdicionRoja.ips).
 
+## Pokemon Goldene Edition
+
+This patch converts `Pokemon Goldene Edition (DE)` to the `.pocket` format.
+
+ROM MD5: `7542ec9b695d4fe38adfdaaa57364d83`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonGoldeneEdition.ips).
+
 ## Pokemon Green
 
 This patch converts `Pokemon Green (v2.3)` to the `.pocket` format. First, apply the [Pokemon Green ROM Hack](https://www.romhacking.net/hacks/876/) to the `Pokemon Blue (U,E)` ROM as directed by the hack, resulting in the MD5 below, then apply this patch.
@@ -6881,29 +6892,13 @@ ROM MD5: `1e9baf36b209fd06854b8e5e064b00a8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonGreen.ips).
 
-## Pokemon Red++ v3 (Hard)
+## Pokemon Kristal Edition
 
-This patch converts `Pokemon Red++ v3 (Hard)` to the `.pocket` format. You must apply the [Pokemon Red++ v3 hard patch](https://github.com/JustRegularLuna/rpp-backup/raw/master/patches/rpp%20v3%20hard.ips) first, the resulting ROM will match the MD5 below.
+This patch converts `Pokemon Kristal Edition (DE)` to the `.pocket` format.
 
-This patch was updated to fix a bug in battle. (2022/03/29)
+ROM MD5: `a35c0fa2e3b3d1c1779cd9f2352bc427`
 
-This patch was updated to fix saving. (2022/04/14)
-
-ROM MD5: `aa74d623585627a71d76411f2f5f8d5c`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/r++_hard.ips).
-
-## Pokemon Red++ v3 (Normal)
-
-This patch converts `Pokemon Red++ v3 (Normal)` to the `.pocket` format. You must apply the [Pokemon Red++ v3 normal patch](https://github.com/JustRegularLuna/rpp-backup/raw/master/patches/rpp%20v3%20normal.ips) first, the resulting ROM will match the MD5 below.
-
-This patch was updated to fix a bug in battle. (2022/03/29)
-
-This patch was updated to fix saving. (2022/04/14)
-
-ROM MD5: `371ca8999e1dc0d04b6935b07582fa49`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/r++_normal.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonKristallEdition.ips).
 
 ## Pokemon Puzzle Challenge
 
@@ -6968,6 +6963,38 @@ This patch converts `Pokemon Playable Yellow` to the `.pocket` format. First, ap
 ROM MD5: `ebbe3e5c1a2834c9876aad387f817896`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonPlayableYellow.ips).
+
+## Pokemon Red++ v3 (Hard)
+
+This patch converts `Pokemon Red++ v3 (Hard)` to the `.pocket` format. You must apply the [Pokemon Red++ v3 hard patch](https://github.com/JustRegularLuna/rpp-backup/raw/master/patches/rpp%20v3%20hard.ips) first, the resulting ROM will match the MD5 below.
+
+This patch was updated to fix a bug in battle. (2022/03/29)
+
+This patch was updated to fix saving. (2022/04/14)
+
+ROM MD5: `aa74d623585627a71d76411f2f5f8d5c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/r++_hard.ips).
+
+## Pokemon Red++ v3 (Normal)
+
+This patch converts `Pokemon Red++ v3 (Normal)` to the `.pocket` format. You must apply the [Pokemon Red++ v3 normal patch](https://github.com/JustRegularLuna/rpp-backup/raw/master/patches/rpp%20v3%20normal.ips) first, the resulting ROM will match the MD5 below.
+
+This patch was updated to fix a bug in battle. (2022/03/29)
+
+This patch was updated to fix saving. (2022/04/14)
+
+ROM MD5: `371ca8999e1dc0d04b6935b07582fa49`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/r++_normal.ips).
+
+## Pokemon Silberne Edition
+
+This patch converts `Pokemon Silberne Edition (DE)` to the `.pocket` format.
+
+ROM MD5: `f1f013cd591bc4ea77305bbc9f8cbb3c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonSilberneEdition.ips).
 
 ## Pokemon Trading Card Game (En, Es, It)
 
