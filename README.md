@@ -6961,6 +6961,8 @@ This patch was updated to fix some inventory crashes. (2022/02/21)
 
 This patch was updated to switch to MBC5 to fix saving. (2022/02/28)
 
+This patch was updated to fix possible save corruption. (2022/06/06)
+
 Pokemon Prism is a fan conversion of Pokemon Crystal. You must apply the patch to Pokemon crystal before converting to the `.pocket` format.
 
 Patched ROM MD5: `3cd828587eb8d3fe818d57f99b3a3c95`
