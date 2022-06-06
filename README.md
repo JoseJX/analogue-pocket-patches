@@ -705,6 +705,9 @@ Game | System
 [Pokemon Brown](#pokemon-brown) | GB
 [Pokemon - Edicion Amarilla - Edicion Especial Pikachu](#pokemon---edicion-amarilla---edicion-especial-pikachu) | GBC
 [Pokemon - Edicion Azul](#pokemon---edicion-azul) | GB
+[Pokemon - Edicion Cristal](#pokemon---edicion-cristal) | GBC
+[Pokemon - Edicion Oro](#pokemon---edicion-oro) | GBC
+[Pokemon - Edicion Plata](#pokemon---edicion-plata) | GBC
 [Pokemon - Edicion Roja](#pokemon---edicion-roja) | GB
 [Pokemon Green](#pokemon-green) | GB
 [Pokemon Red++ v3 (Hard)](#pokemon-red-v3-hard) | GBC
@@ -6837,6 +6840,30 @@ This patch converts `Pokemon - Edicion Azul (ES)` to the `.pocket` format.
 ROM MD5: `6e7663f908334724548a66fc9c386002`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonEdicionAzul.ips).
+
+## Pokemon - Edicion Cristal
+
+This patch converts `Pokemon - Edicion Cristal (ES)` to the `.pocket` format.
+
+ROM MD5: `8a626340f6b16ba45c1d4e07f2134875`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonEdicionCristal.ips).
+
+## Pokemon - Edicion Oro
+
+This patch converts `Pokemon - Edicion Oro (ES)` to the `.pocket` format.
+
+ROM MD5: `9462bc81907e38c59acccd739690e6f9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonEdicionOro.ips).
+
+## Pokemon - Edicion Plata
+
+This patch converts `Pokemon - Edicion Plata (ES)` to the `.pocket` format.
+
+ROM MD5: `2d83fb454dd5687a802425c501854dc2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonEdicionPlata.ips).
 
 ## Pokemon - Edicion Roja
 
