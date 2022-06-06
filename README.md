@@ -696,6 +696,7 @@ Game | System
 [Pipe Dream](#pipe-dream) | GB
 [Pitfall - Beyond the Jungle](#pitfall---beyond-the-jungle) | GBC
 [Pocket Bomberman](#pocket-bomberman) | GBC
+[Pocket Monsters Crystal Version](#pocket-monsters-crystal-version) | GBC
 [Pocket Monsters - Crystal Version (VN)](#pocket-monsters---crystal-version-vn) | GBC
 [Pocket Music](#pocket-music) | GBC
 [Pocket Puyo Puyo Sun](#pocket-puyo-puyo-sun) | GBC
@@ -6770,9 +6771,19 @@ ROM MD5: `2f6b6379f8c7ce5d66a198162f345eaa`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketBomberman.ips).
 
+## Pocket Monsters Crystal Version
+
+This patch converts `Pocket Monsters Crystal Version (J)` to the `.pocket` format.
+
+ROM MD5: `9c3ae66bffb28ea8ed2896822da02992`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketMonstersCrystalVersion.ips).
+
 ## Pocket Monsters - Crystal Version (VN)
 
 This patch converts `Pocket Monsters - Crystal Version (VN)` to the `.pocket` format
+
+This patch was updated to fix RTC access/saving issues. (2022/06/06)
 
 ROM MD5: `da3a0c2b387b04209a90338a577d7c80`
 
