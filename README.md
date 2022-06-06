@@ -747,6 +747,7 @@ Game | System
 [Puyo Puyo](#puyo-puyo) | GB
 [Puyo Puyo (Rev A)](#puyo-puyo-rev-a) | GB
 [Puyo Puyo Gaiden - Puyo Wars](#puyo-puyo-gaiden---puyo-wars) | GBC
+[Puzzle Bobble GB](#puzzle-bobble-gb) | GB
 [Puzzle Master](#puzzle-master) | GBC
 [Puzzled](#puzzled) | GBC
 [Puzzled (E)](#puzzled-e) | GBC
@@ -2264,6 +2265,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 This patch converts `Bust-A-Move 2 - Arcade Edition (U,E)` to the `.pocket` format.
 
 This patch was updated to fix a bug. (2022/01/11)
+
+This patch was updated to fix another bug. (2022/06/06)
 
 ROM MD5: `fa91adc7023e03f97ec36f66876a569e`
 
@@ -7198,6 +7201,14 @@ This patch converts `Puyo Puyo Gaiden - Puyo Wars (J)` to the `.pocket` format.
 ROM MD5: `ec0985bdad4b519c492f07f2d01f1613`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PuyoWars.ips).
+
+## Puzzle Bobble GB
+
+This patch converts `Puzzle Bobble GB (J)` to the `.pocket` format.
+
+ROM MD5: `37c69c73c81e221189a672938b5f30ab`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PuzzleBobbleGB.ips).
 
 ## Puzzle Master
 
