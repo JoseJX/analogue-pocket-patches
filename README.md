@@ -328,6 +328,7 @@ Game | System
 [Frogger](#frogger) | GB
 [Frogger GBC](#frogger-gbc) | GBC
 [Frogger 2](#frogger-2) | GBC
+[Full Time Soccer](#full-time-soccer) | GBC
 [Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou](#fushigi-no-dungeon---fuurai-no-shiren-gb2---sabaku-no-majou) | GBC
 [F-Zero Project P](#f-zero-project-p) | GB
 [Gargoyle's Quest Quest II - The Demon Darkness](#gargoyles-quest-quest-ii---the-demon-darkness) | GB
@@ -3707,6 +3708,14 @@ This patch converts `Frogger 2 (U)` to the `.pocket` format.
 ROM MD5: `06b0d6b88e54337f3f5c7bbea373f237`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Frogger2.ips).
+
+## Full Time Soccer
+
+This patch converts `Full Time Soccer (E)` to the `.pocket` format.
+
+ROM MD5: `991957a67a63f1e54bf34a3715402ca5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FullTimeSoccer.ips).
 
 ## Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou
 
