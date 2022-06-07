@@ -37,6 +37,7 @@ Game | System
 [Alien vs. Predator - The Last of His Clan](#alien-vs-predator---the-last-of-his-clan) | GB
 [Alleyway](#alleyway) | GB
 [Alleyway DX](#alleyway-dx) | GBC
+[All Star Tennis 2000](#all-star-tennis-2000) | GBC
 [Alone in the Dark - The New Nightmare](#alone-in-the-dark---the-new-nightmare) | GBC
 [Altered Space - A 3-D Alien Adventure](#altered-space---a-3-d-alien-adventure) | GB
 [Amazing Penguin](#amazing-penguin) | GB
@@ -1335,6 +1336,14 @@ First, apply the [Alleyway DX patch](https://www.romhacking.net/download/hacks/6
 ROM MD5: `72c44e5ac726ed8f23efbc6c30e60f1b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AlleywayDX.ips).
+
+## All Star Tennis 2000
+
+This patch converts `All Star Tennis 2000 (E)` to the `.pocket` format.
+
+ROM MD5: `c5e3bb77000c5d3755e816f6c0eed489`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AllStarTennis2000.ips).
 
 ## Alone in the Dark - The New Nightmare
 
