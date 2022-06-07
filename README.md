@@ -899,6 +899,7 @@ Game | System
 [Stop That Roach!](#stop-that-roach) | GB
 [Street Fighter Alpha - Warriors' Dreams](#street-fighter-alpha---warriors-dreams) | GBC
 [Street Fighter II](#street-fighter-ii) | GB
+[Super Battletank - War in the Gulf](#super-battletank---war-in-the-gulf) | GB
 [Super Bikkuriman - Densetsu no Sekiban](#super-bikkuriman---densetsu-no-sekiban) | GB
 [Super Bikkuriman - Densetsu no Sekiban (English Translation)](#super-bikkuriman---densetsu-no-sekiban-english-translation) | GB
 [Super Black Bass](#super-black-bass) | GB
@@ -8450,6 +8451,14 @@ This patch converts `Super Black Bass (U)` to the `.pocket` format.
 ROM MD5: `426f96e31186b3a6e73a624d97b3b2dc`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBlackBass.ips).
+
+## Super Battletank - War in the Gulf
+
+This patch converts `Super Battletank - War in the Gulf (U)` to the `.pocket` format.
+
+ROM MD5: `85b010930ccbb4a7e1bd2adaadcf00a5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBattletank.ips).
 
 ## Super Bikkuriman - Densetsu no Sekiban
 
