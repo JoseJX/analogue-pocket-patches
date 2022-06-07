@@ -12,6 +12,7 @@ Game | System
 --- | --- 
 [007 James Bond - The World is Not Enough](#007-james-bond---the-world-is-not-enough) | GBC
 [10-Pin Bowling](#10-pin-bowling) | GBC
+[144p Test Suite](#144p-test-suite) | GB
 [1942](#1942) | GBC
 [3D Pocket Pool](#3d-pocket-pool) | GBC
 [3-D Ultra Pinball - Thrillride](#3-d-ultra-pinball---thrillride) | GBC
@@ -1130,6 +1131,14 @@ This patch converts `10-Pin Bowling (U)` to the `.pocket` format.
 ROM MD5: `6b055c6d12e477fbfd7bed1b495d56f7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/10PinBowling.ips).
+
+## 144p Test Suite
+
+This patch converts `144p Test Suite` to the `.pocket` format. You can get a copy of this ROM from [the developer](https://github.com/pinobatch/240p-test-mini).
+
+ROM MD5: `31b36a2702887bd762b8969f8e16339e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/gb240p.ips).
 
 ## 1942
 
