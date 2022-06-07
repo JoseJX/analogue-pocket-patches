@@ -136,6 +136,7 @@ Game | System
 [Booby Boys](#booby-boys) | GB
 [Booby Boys (English Translation)](#booby-boys-english-translation) | GB
 [Boomer's Adventure in ASMIK World](#boomers-adventure-in-asmik-world) | GB
+[Boulder Dash](#boulder-dash) | GB
 [Brain Bender](#brain-bender) | GB
 [Brain Drain](#brain-drain) | GB
 [Brain Drain (E)](#brain-drain-e) | GB
@@ -2131,6 +2132,14 @@ This patch converts `Boomer's Adventure in ASMIK World (U)` to the `.pocket` for
 ROM MD5: `3b051df77605172195dcff97c2c935cc`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BoomerAsmik.ips).
+
+## Boulder Dash
+
+This patch converts `Boulder Dash (E)` to the `.pocket` format.
+
+ROM MD5: `800c1a8f99bea585490673352b5f11f4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BoulderDash.ips).
 
 ## Brain Bender
 
