@@ -5731,6 +5731,8 @@ This patch was updated to fix an issue with the Chill Penguin fight. (2022/01/09
 
 This patch was updated to fix an issue with the lava in the Flame Stag second level and other rendering issues. (2022/01/28)
 
+This patch was updated to fix an issue with the Sigma Base Stage 2 where the boss wasn't appearing. (2022/06/07)
+
 ROM MD5: `4681f5b931a2e60ca163facd1adf56ed`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaManXtreme.ips).
