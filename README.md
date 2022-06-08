@@ -181,6 +181,7 @@ Game | System
 [Chalvo 55 - Super Puzzle Action](#chalvo-55---super-puzzle-action) | GB
 [Chalvo 55 - Super Puzzle Action (English Translation)](#chalvo-55---super-puzzle-action-english-translation) | GB
 [Chase H.Q. - Secret Police](#chase-hq---secret-police) | GBC
+[Chee-Chai Alien](#chee-chai-alien) | GBC
 [Cherry Rescue](#cherry-rescue) | GB
 [Chessmaster](#chessmaster) | GB
 [Chicken Run](#chicken-run) | GBC
@@ -2511,6 +2512,14 @@ This patch converts `Chase H.Q. - Secret Police (U)` to the `.pocket` format.
 ROM MD5: `ff92e59c47a990815bc548e5e253c390`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ChaseHQSecretPolice.ips).
+
+## Chee-Chai Alien
+
+This patch converts `Chee-Chai Alien (J)` to the `.pocket` format.
+
+ROM MD5: `94f4306cb0c27686661e37a96eef730b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CheeChaiAlien.ips).
 
 ## Cherry Rescue
 
