@@ -534,6 +534,7 @@ Game | System
 [Madden NFL 2002](#madden-nfl-2002) | GBC
 [Magi Nation](#magi-nation) | GB
 [Magical Drop](#magical-drop) | GBC
+[Magical Drop (E)](#magical-drop-e) | GBC
 [Magical Tetris Challenge](#magical-tetris-challenge) | GBC
 [Magic Knight Rayearth 2nd. - The Missing Colors](#magic-knight-rayearth-2nd---the-missing-colors) | GB
 [Magic Knight Rayearth 2nd. - The Missing Colors (English Translation)](#magic-knight-rayearth-2nd---the-missing-colors-english-translation) | GB
@@ -5410,6 +5411,14 @@ This patch was updated to fix a lockup issue after finishing a level. (2022/04/2
 ROM MD5: `af157e560d1ff87970c1bd2ee90d0932`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagicalDrop.ips).
+
+## Magical Drop (E)
+
+This patch converts `Magical Drop (E)` to the `.pocket` format.
+
+ROM MD5: `618946a1d8d7154c200fe278ef030140`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagicalDropE.ips).
 
 ## Magical Tetris Challenge
 
