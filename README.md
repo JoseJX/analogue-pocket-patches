@@ -776,6 +776,8 @@ Game | System
 [Quest RPG - Brian's Journey](#quest-rpg---brians-journey) | GBC
 [R-Type](#r-type) | GB
 [R-Type (J)](#r-type-j) | GB
+[R-Type II](#r-type-ii) | GB
+[R-Type II (J)](#r-type-ii-j) | GB
 [Race Days](#race-days) | GB
 [Race Drivin'](#race-drivin) | GB
 [Radar Mission](#radar-mission) | GB
@@ -7455,6 +7457,22 @@ This patch converts `R-Type (J)` to the `.pocket` format.
 ROM MD5: `89bdc38fd17a6c969306f756edef8a70`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RType.ips).
+
+## R-Type II
+
+This patch converts `R-Type II (E)` to the `.pocket` format.
+
+ROM MD5: `967030223fa85f7ba4ac71f26837f831`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RTypeII.ips).
+
+## R-Type II (J)
+
+This patch converts `R-Type II (J)` to the `.pocket` format.
+
+ROM MD5: `acac255e33082dde52eee7af941d8681`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RTypeII.ips).
 
 ## Race Days
 
