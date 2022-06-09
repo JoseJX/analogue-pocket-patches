@@ -396,6 +396,7 @@ Game | System
 [Hercules - The Legendary Journey](#hercules---the-legendary-journey) | GBC
 [Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
 [Hexcite - The Shapes of Victory](#hexcite---the-shapes-of-victory) | GBC
+[Hiden Inyou Kikouhou Ca Da](#hiden-inyou-kikouhou-ca-da) | GB
 [Hollywood Pinball](#hollywood-pinball) | GBC
 [Home Alone](#home-alone) | GB
 [Home Alone 2 - Lost in New York](#home-alone-2---lost-in-new-york) | GB
@@ -4277,6 +4278,14 @@ This patch converts `Hexcite - The Shapes of Victory (U,E)` to the `.pocket` for
 ROM MD5: `4b068708fb29fdabbee834114fe4a09d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hexcite.ips).
+
+## Hiden Inyou Kikouhou Ca Da
+
+This patch converts `Hiden Inyou Kikouhou Ca Da (J)` to the `.pocket` format.
+
+ROM MD5: `7e6c999c8b4bd0e7030977c7fa73c75c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HidenInyouKikouhouCaDa.ips).
 
 ## Hollywood Pinball
 
