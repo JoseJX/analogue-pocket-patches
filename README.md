@@ -293,6 +293,8 @@ Game | System
 [Duck Tales (E)](#duck-tales-e) | GB
 [Duck Tales (J)](#duck-tales-j) | GB
 [Duck Tales 2](#duck-tales-2) | GB
+[Duck Tales 2 (E)](#duck-tales-2-e) | GB
+[Duck Tales 2 (J)](#duck-tales-2-j) | GB
 [Duke Nukem](#duke-nukem) | GBC
 [Dynablaster](#dynablaster) | GB
 [Earthworm Jim](#earthworm-jim) | GB
@@ -3402,7 +3404,6 @@ ROM MD5: `37241cce04853074eca9b7711d864a82`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DrumTechFreeVersion2009.ips).
 
-
 ## Duck Tales
 
 This patch converts `Duck Tales (U)` to the `.pocket` format.
@@ -3436,6 +3437,22 @@ This patch was updated to fix garbled images when talking to NPCs. (2022/01/12)
 ROM MD5: `b4e5876c5acedd12b62e25a12973a4ae`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DuckTales2.ips).
+
+## Duck Tales 2 (E)
+
+This patch converts `Duck Tales 2 (E)` to the `.pocket` format.
+
+ROM MD5: `2eee88360aa199b7adc9d9c6647e0809`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DuckTales2.ips).
+
+## Duck Tales 2 (J)
+
+This patch converts `Duck Tales 2 (J)` to the `.pocket` format.
+
+ROM MD5: `665b9ef961ee82edb8db54b3eb5152fd`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DuckTales2J.ips).
 
 ## Duke Nukem
 
