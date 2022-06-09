@@ -775,6 +775,7 @@ Game | System
 [Quest for Camelot (E)](#quest-for-camelot-e) | GBC
 [Quest RPG - Brian's Journey](#quest-rpg---brians-journey) | GBC
 [R-Type](#r-type) | GB
+[R-Type (J)](#r-type-j) | GB
 [Race Days](#race-days) | GB
 [Race Drivin'](#race-drivin) | GB
 [Radar Mission](#radar-mission) | GB
@@ -7444,6 +7445,14 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 This patch converts `R-Type (U,E)` to the `.pocket` format.
 
 ROM MD5: `972dc35b3b2bd0762999b1ae48da94f6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RType.ips).
+
+## R-Type (J)
+
+This patch converts `R-Type (J)` to the `.pocket` format.
+
+ROM MD5: `89bdc38fd17a6c969306f756edef8a70`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RType.ips).
 
