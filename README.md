@@ -803,6 +803,8 @@ Game | System
 [Road Rash (Color)](#road-rash-color) | GBC
 [Road Rash - (with Repair Service)](#road-rash---with-repair-service) | GB
 [Roadster](#roadster) | GB
+[Roadsters Trophy](#roadsters-trophy) | GBC
+[Roadsters Trophy (E)](#roadsters-trophy-e) | GBC
 [Robin Hood - Prince of Theives](#robin-hood---prince-of-theives) | GB
 [RoboCop](#robocop) | GB
 [RoboCop (J)](#robocop-j) | GB
@@ -7673,6 +7675,22 @@ This patch converts `Roadster (J)` to the `.pocket` format.
 ROM MD5: `e6edabd28a9d6600f8b8e9707baa930e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Roadster.ips).
+
+## Roadsters Trophy
+
+This patch converts `Roadsters Trophy (U)` to the `.pocket` format.
+
+ROM MD5: `79b84a54581ca90b245619522c09e523`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoadstersTrophy.ips).
+
+## Roadsters Trophy (E)
+
+This patch converts `Roadsters Trophy (E)` to the `.pocket` format.
+
+ROM MD5: `ec6d8099aa51acc791e3846558c81ebb`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoadstersTrophy.ips).
 
 ## Robin Hood - Prince of Theives
 
