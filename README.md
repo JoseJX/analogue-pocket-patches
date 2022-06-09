@@ -100,6 +100,7 @@ Game | System
 [Battle Arena Toshinden](#battle-arena-toshinden) | GB
 [Battle Bull](#battle-bull) | GB
 [Battle City](#battle-city) | GB
+[Battle of Kingdom](#battle-of-kingdom) | GB
 [Battle Pingpong](#battle-pingpong) | GB
 [Battleship](#battleship) | GB
 [BattleTanx](#battletanx) | GBC
@@ -1856,6 +1857,14 @@ This patch converts `Battle City (J)` to the `.pocket` format.
 ROM MD5: `e6980267d58310af5ad57570045a95fa`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleCity.ips).
+
+## Battle of Kingdom
+
+This patch converts `Battle of Kingdom (J)` to the `.pocket` format.
+
+ROM MD5: `f7aa9880db8e7884618ff0dcab6fba85`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleOfKingdom.ips).
 
 ## Battle Pingpong
 
