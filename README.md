@@ -701,6 +701,7 @@ Game | System
 [Pine Creek](#pine-creek) | GBC
 [Pipe Dream](#pipe-dream) | GB
 [Pitfall - Beyond the Jungle](#pitfall---beyond-the-jungle) | GBC
+[Planet Hop - Demo](#planet-hop---demo) | GBC
 [Pocket Bomberman](#pocket-bomberman) | GBC
 [Pocket Monsters Crystal Version](#pocket-monsters-crystal-version) | GBC
 [Pocket Monsters - Crystal Version (VN)](#pocket-monsters---crystal-version-vn) | GBC
@@ -6826,6 +6827,14 @@ This patch converts `Pitfall - Beyond the Jungle (U,E)` to the `.pocket` format.
 ROM MD5: `d6dce5c8dc02ce77d58f8852653e42e4`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PitfallBeyondTheJungle.ips).
+
+## Planet Hop - Demo
+
+This patch converts `Planet Hop - Demo` to the `.pocket` format. You can get a copy of the ROM from the [developer's site](https://gamebowgames.itch.io/planet-hop-early-demo).
+
+ROM MD5: `4ef26676e8432dcce6495eb5dc9bdf46`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PlanetHopDemo.ips).
 
 ## Pocket Bomberman
 
