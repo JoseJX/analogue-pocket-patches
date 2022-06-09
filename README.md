@@ -802,6 +802,7 @@ Game | System
 [Road Champs - BXS Stunt Biking](#road-champs---bxs-stunt-biking) | GBC
 [Road Rash (Color)](#road-rash-color) | GBC
 [Road Rash - (with Repair Service)](#road-rash---with-repair-service) | GB
+[Roadster](#roadster) | GB
 [Robin Hood - Prince of Theives](#robin-hood---prince-of-theives) | GB
 [RoboCop](#robocop) | GB
 [RoboCop (J)](#robocop-j) | GB
@@ -7664,6 +7665,14 @@ This patch converts `Road Rash (U,E)` to the `.pocket` format. To use this patch
 ROM MD5: `830b84643d24fb2cc9c4fde1305f9610`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoadRashRepairService.ips).
+
+## Roadster
+
+This patch converts `Roadster (J)` to the `.pocket` format.
+
+ROM MD5: `e6edabd28a9d6600f8b8e9707baa930e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Roadster.ips).
 
 ## Robin Hood - Prince of Theives
 
