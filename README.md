@@ -325,6 +325,7 @@ Game | System
 [Fish Files](#fish-files) | GBC
 [Fist of the North Star](#fist-of-the-north-star) | GB
 [Fix My Heart](#fix-my-heart) | GBC
+[Flappy Special](#flappy-special) | GB
 [Flintstones](#flintstones) | GB
 [Flintstones - Burgertime in Bedrock](#flintstones---burgertime-in-bedrock) | GBC
 [Flintstones - King Rock Treasure Island](#flintstones---king-rock-treasure-island) | GB
@@ -3701,6 +3702,14 @@ This patch converts `Fix My Heart` to the `.pocket` format. You can get a copy o
 ROM MD5: `c2bdeda559f02973c213e5085fd0d4df`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FixMyHeart.ips).
+
+## Flappy Special
+
+This patch converts `Flappy Special (J)` to the `.pocket` format.
+
+ROM MD5: `c27ebebee5a53fe6eb857747c0556111`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FlappySpecial.ips).
 
 ## Flintstones
 
