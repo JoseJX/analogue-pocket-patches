@@ -335,6 +335,7 @@ Game | System
 [Frogger GBC](#frogger-gbc) | GBC
 [Frogger 2](#frogger-2) | GBC
 [Full Time Soccer](#full-time-soccer) | GBC
+[Fushigi no Dungeon: Fuurai no Shiren GB: Tsukikage Mura no Kaibutsu](#fushigi-no-dungeon-fuurai-no-shiren-gb-tsukikage-mura-no-kaibutsu) | GB
 [Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou](#fushigi-no-dungeon---fuurai-no-shiren-gb2---sabaku-no-majou) | GBC
 [F-Zero Project P](#f-zero-project-p) | GB
 [Gargoyle's Quest Quest II - The Demon Darkness](#gargoyles-quest-quest-ii---the-demon-darkness) | GB
@@ -3780,6 +3781,14 @@ This patch converts `Full Time Soccer (E)` to the `.pocket` format.
 ROM MD5: `991957a67a63f1e54bf34a3715402ca5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FullTimeSoccer.ips).
+
+## Fushigi no Dungeon: Fuurai no Shiren GB: Tsukikage Mura no Kaibutsu
+
+This patch converts `Fushigi no Dungeon: Fuurai no Shiren GB: Tsukikage Mura no Kaibutsu (J)` to the `.pocket` format.
+
+ROM MD5: `754398219a3ab38394cdac543d8deb47`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShirenGB.ips).
 
 ## Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou
 
