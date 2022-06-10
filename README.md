@@ -116,6 +116,7 @@ Game | System
 [Beatmania GB - Gotcha Mix 2](#beatmania-gb---gotcha-mix-2) | GBC
 [Beavis and Butt-Head](#beavis-and-butt-head) | GB
 [Bill and Ted's Excellent Game Boy Adventure](#bill-and-teds-excellent-game-boy-adventure) | GB
+[Bionic Battler](#bionic-battler) | GB
 [Bionic Commando](#bionic-commando) | GB
 [Bionic Commando - Elite Forces](#bionic-commando---elite-forces) | GBC
 [Bishoujo Senshi Sailor Moon](#bishoujo-senshi-sailor-moon) | GB
@@ -1999,6 +2000,14 @@ This patch converts `Bill and Ted's Excellent Game Boy Adventure (U,E)` to the `
 ROM MD5: `9d94d01d3133165d4469bb27d58f0f6c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BillTed.ips).
+
+## Bionic Battler
+
+This patch converts `Bionic Battler (U)` to the `.pocket` format.
+
+ROM MD5: `b5a6254b1711edfaf89830bcfff09d38`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BionicBattler.ips).
 
 ## Bionic Commando
 
