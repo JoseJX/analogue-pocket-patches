@@ -327,6 +327,7 @@ Game | System
 [Final Fantasy Legend II](#final-fantasy-legend-ii) | GB
 [Final Fantasy Legend III](#final-fantasy-legend-iii) | GB
 [Final Fantasy XI - Adventure](#final-fantasy-xi---adventure) | GB
+[Final Reverse](#final-reverse) | GB
 [Fish Dude](#fish-dude) | GB
 [Fish Files](#fish-files) | GBC
 [Fist of the North Star](#fist-of-the-north-star) | GB
@@ -3730,6 +3731,14 @@ This patch converts `Final Fantasy XI - Adventure` to the `.pocket` format. It c
 ROM MD5: `efaf761d789e9f6e7cddf81b500576d8`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FFXI-Adventure.ips).
+
+## Final Reverse
+
+This patch converts `Final Reverse (J)` to the `.pocket` format.
+
+ROM MD5: `c836b4b44edcbe8a811fb10541919fe8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FinalReverse.ips).
 
 ## Fish Dude
 
