@@ -876,6 +876,7 @@ Game | System
 [Smurfs](#smurfs) | GB
 [Smurfs' Nightmare](#smurfs-nightmare) | GBC
 [Smurfs' Nightmare (E)](#smurfs-nightmare-e) | GBC
+[Snail DX](#snail-dx) | GBC
 [Sneaky Snakes](#sneaky-snakes) | GB
 [Snoopy's - Magic Show](#snoopys---magic-show) | GB
 [Snoopy's - Magic Show (J)](#snoopys---magic-show-j) | GB
@@ -8301,6 +8302,14 @@ This patch converts `Smurfs' Nightmare (E)` to the `.pocket` format.
 ROM MD5: `5da63fe252b4cb3e17dd4986fb276690`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SmurfsNightmareE.ips).
+
+## Snail DX
+
+This patch converts `Snail DX` to the `.pocket` format. You can get a copy of the ROM from the [developer's site](https://gearupgames.itch.io/the-snail-dx).
+
+ROM MD5: `1b8671a31a0c30a62eef62ddb4bf915f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnailDX.ips).
 
 ## Sneaky Snakes
 
