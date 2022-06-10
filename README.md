@@ -268,6 +268,7 @@ Game | System
 [dots](#dots) | GBC
 [Double Dragon 3 - The Arcade Game](#double-dragon-3---the-arcade-game) | GB
 [Double Dribble - 5 on 5](#double-dribble---5-on-5) | GB
+[Doug's Big Game](#dougs-big-game) | GBC
 [Dracula - Crazy Vampire](#dracula---crazy-vampire) | GBC
 [Dragon Ball Z - Legendary Super Warriors](#dragon-ball-z---legendary-super-warriors) | GBC
 [Dragonborne](#dragonborne) | GB
@@ -3240,6 +3241,14 @@ This patch converts `Double Dribble - 5 on 5 (U)` to the `.pocket` format.
 ROM MD5: `ff3e6d70d42987dd7f6214067dc83afe`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DoubleDribble5on5.ips).
+
+## Doug's Big Game
+
+This patch converts `Doug's Big Game (U)` to the `.pocket` format.
+
+ROM MD5: `19e0d71a2a6090e0f59607ca4da9b156`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DougsBigGame.ips).
 
 ## Dracula - Crazy Vampire
 
