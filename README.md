@@ -642,6 +642,7 @@ Game | System
 [Mystic Quest (De)](#mystic-quest-de) | GB
 [Mystic Quest (E)](#mystic-quest-e) | GB
 [Mystic Quest (Fr)](#mystic-quest-fr) | GB
+[Nail'n Scale](#nailn-scale) | GB
 [Nangoku Shounen Papuwa-kun - Ganmadan no Yabou](#nangoku-shounen-papuwa-kun---ganmadan-no-yabou) | GB
 [Nangoku Shounen Papuwa-kun - Ganmadan no Yabou (English Translation)](#nangoku-shounen-papuwa-kun---ganmadan-no-yabou-english-translation) | GB
 [Navy Seals](#navy-seals) | GB
@@ -6358,6 +6359,14 @@ This patch converts `Mystic Quest (Fr)` to the `.pocket` format.
 ROM MD5: `2efe1569e3be81e7e19b13eafc60cd24`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MysticQuestF.ips).
+
+## Nail'n Scale
+
+This patch converts `Nail'n Scale (U,E)` to the `.pocket` format.
+
+ROM MD5: `521d2aa473f4e740a6938861f70511cc`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NailnScale.ips).
 
 ## Nangoku Shounen Papuwa-kun - Ganmadan no Yabou
 
