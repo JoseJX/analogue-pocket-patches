@@ -34,6 +34,7 @@ Game | System
 [Alfred Chicken](#alfred-chicken) | GB
 [Alfred's Adventure](#alfreds-adventure) | GBC
 [Alien 3](#alien-3) | GB
+[Alien Olympics](#alien-olympics) | GB
 [Aliens - The Thanatos Encounter](#aliens---the-thanatos-encounter) | GBC
 [Alien vs. Predator - The Last of His Clan](#alien-vs-predator---the-last-of-his-clan) | GB
 [Alleyway](#alleyway) | GB
@@ -1333,6 +1334,14 @@ This patch converts `Alien 3 (U,E)` to the `.pocket` format.
 ROM MD5: `b3f3d35f58a0ea3affc0ec6d4ee1183d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Alien3.ips).
+
+## Alien Olympics
+
+This patch converts `Alien Olympics (E)` to the `.pocket` format.
+
+ROM MD5: `d300bf9412617a95b00b80fa468a8a04`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AlienOlympics.ips).
 
 ## Aliens - The Thanatos Encounter
 
