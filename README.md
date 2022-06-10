@@ -311,6 +311,7 @@ Game | System
 [F-1 Race (Rev A)](#f-1-race-rev-a) | GB
 [F-18 Thunder Strike](#f-18-thunder-strike) | GBC
 [Faceball 2000](#faceball-2000) | GB
+[Faceball 2000 DX](#faceball-2000-dx) | GBC
 [Fatass (Fast Tracker II Clone for GB)](#fatass-fast-tracker-ii-clone-for-gb) | GBC
 [Felix the Cat](#felix-the-cat) | GB
 [Ferrari Grand Prix Challenge](#ferrari-grand-prix-challenge) | GB
@@ -3588,6 +3589,14 @@ This patch converts `Faceball 2000 (U)` to the `.pocket` format.
 ROM MD5: `05ba7f165dab1ffd49b63b4f5c704c02`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Faceball2000.ips).
+
+## Faceball 2000 DX
+
+This patch converts `Faceball 2000 DX` to the `.pocket` format. First, apply the [Colorization Patch](https://www.romhacking.net/hacks/6107/) to the ROM, resulting the MD5 below, then apply this patch.
+
+ROM MD5: `db7d676c93ce9cb24dad231cc8cf24d0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Faceball2000DX.ips).
 
 ## Fatass (Fast Tracker II Clone for GB)
 
