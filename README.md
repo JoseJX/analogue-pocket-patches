@@ -514,6 +514,7 @@ Game | System
 [Lemmings](#lemmings) | GBC
 [Lemmings 2 - The Tribes](#lemmings-2---the-tribes) | GB
 [Lethal Weapon](#lethal-weapon) | GB
+[Lil' Monster](#lil-monster) | GBC
 [Lingo](#lingo) | GB
 [Link's Awakening Redux](#links-awakening-redux) | GBC
 [Lion King](#lion-king) | GB
@@ -5277,6 +5278,14 @@ This patch converts `Lethal Weapon (U,E)` to the `.pocket` format.
 ROM MD5: `d345b97e4b43f20a01fa2e4ea4a63a2b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LethalWeapon.ips).
+
+## Lil' Monster
+
+This patch converts `Lil' Monster (U)` to the `.pocket` format.
+
+ROM MD5: `17233eaf718e241f290d6590ef1b42a9`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LilMonster.ips).
 
 ## Lingo
 
