@@ -926,6 +926,7 @@ Game | System
 [Super Breakout! (E)](#super-breakout-e) | GBC
 [Super Hunchback](#super-hunchback) | GB
 [Super Imposter Bros.](#super-imposter-bros) | GBC
+[Super James Pond](#super-james-pond) | GB
 [Super JetPak DX](#super-jetpak-dx) | GBC
 [Superman](#superman) | GB
 [Super Mario Bros. Deluxe](#super-mario-bros-deluxe) | GBC
@@ -8688,6 +8689,14 @@ This patch converts `Street Fighter II (U)` to the `.pocket` format.
 ROM MD5: `dc3ef8d3fad26cba840327cc428cadbc`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SF2.ips).
+
+## Super James Pond
+
+This patch converts `Super James Pond (E)` to the `.pocket` format.
+
+ROM MD5: `c4b03180037d53cb64b93634439acea0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperJamesPond.ips).
 
 ## Super JetPak DX
 
