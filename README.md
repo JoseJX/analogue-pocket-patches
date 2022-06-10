@@ -871,6 +871,9 @@ Game | System
 [Snoopy's - Magic Show](#snoopys---magic-show) | GB
 [Snoopy's - Magic Show (J)](#snoopys---magic-show-j) | GB
 [Snoopy's Magic Show DX](#snoopys-magic-show-dx) | GBC
+[Snoopy Tennis](#snoopy-tennis) | GBC
+[Snoopy Tennis (E)](#snoopy-tennis-e) | GBC
+[Snoopy Tennis (J)](#snoopy-tennis-j) | GBC
 [Snow Bros. Jr.](#snow-bros-jr) | GB
 [Solar Striker](#solar-striker) | GB
 [Solitaire FunPak](#solitaire-funpak) | GB
@@ -8249,6 +8252,30 @@ This patch converts `Snoopy's Magic Show DX` to the `.pocket` format. The base R
 ROM MD5: `6fd39be1e41aea4b354fd291d9677b39`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyMagicShowDX.ips).
+
+## Snoopy Tennis
+
+This patch converts `Snoopy Tennis (U)` to the `.pocket` format.
+
+ROM MD5: `56cbf668af5095a073e205a07987c82a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyTennis.ips).
+
+## Snoopy Tennis (E)
+
+This patch converts `Snoopy Tennis (E)` to the `.pocket` format.
+
+ROM MD5: `d3c6c44a4f6021b4d5a6454a87af9a6c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyTennisE.ips).
+
+## Snoopy Tennis (J)
+
+This patch converts `Snoopy Tennis (J)` to the `.pocket` format.
+
+ROM MD5: `6def7d77e305997838c4b64b5163e3c2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyTennisJ.ips).
 
 ## Snow Bros. Jr.
 
