@@ -21,6 +21,7 @@ Game | System
 [4-in-1 Fun Pack - Volume 2](#4-in-1-fun-pack---volume-2) | GB
 [Abyss Story](#abyss-story) | GBC
 [Action Man - Search for Base X](#action-man---search-for-base-x) | GBC
+[Addams Family - Pugsley's Scavenger Hunt](#addams-family---pugsleys-scavenger-hunt) | GB
 [Adulting! v2.0](#adulting-v2-0) | GB
 [Adventures of Lolo](#adventures-of-lolo) | GB
 [Adventures of Star Saver](#adventures-of-star-saver) | GB
@@ -1230,6 +1231,14 @@ This patch converts `Action Man - Search for Base X (U,E)` to the `.pocket` form
 ROM MD5: `d9d85b81d1b0b4d3c86c95a6e1846f5a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ActionMan.ips).
+
+## Addams Family - Pugsley's Scavenger Hunt
+
+This patch converts `Addams Family - Pugsley's Scavenger Hunt (U,E)` to the `.pocket` format.
+
+ROM MD5: `57726c28dc09949029a154f63b891dd0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AddamsFamilyPugsleysScavengerHunt.ips).
 
 ## Adulting! v2.0
 
