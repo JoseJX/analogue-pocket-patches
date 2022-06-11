@@ -1169,6 +1169,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `144p Test Suite` to the `.pocket` format. You can get a copy of this ROM from [the developer](https://github.com/pinobatch/240p-test-mini).
 
+This patch was updated to fix an error on startup. (2022/06/11)
+
 ROM MD5: `31b36a2702887bd762b8969f8e16339e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/gb240p.ips).
