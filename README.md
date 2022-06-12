@@ -578,6 +578,8 @@ Game | System
 [Medarot - Kabuto Version (English Patch)](#medarot---kabuto-version-english-patch) | GB
 [Medarot - Kuwagata Version](#medarot---kuwagata-version) | GB
 [Medarot - Kuwagata Version (English Patch)](#medarot---kuwagata-version-english-patch) | GB
+[Medarot 2 - Kabuto Version](#medarot-2---kabuto-version) | GBC
+[Medarot 2 - Kuwagata Version](#medarot-2---kuwagata-version) | GBC
 [Megalit](#megalit) | GB
 [Mega Man - Dr. Wily's Revenge](#mega-man---dr-wilys-revenge) | GB
 [Mega Man II](#mega-man-ii) | GB
@@ -5836,6 +5838,22 @@ The translation patch must be applied to the Japanese ROM before applying the `.
 ROM MD5: `f0871152b2e929c83f7be0d7fdf36f55`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKuwagata-EN-US.ips).
+
+## Medarot 2 - Kabuto Version
+
+This patch converts `Medarot 2 - Kabuto Version (J)` to the `.pocket` format.
+
+ROM MD5: `c0fd19d90d3d876cc321074239c7334e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Medarot2Kabuto.ips).
+
+## Medarot 2 - Kuwagata Version
+
+This patch converts `Medarot 2 - Kuwagata Version (J)` to the `.pocket` format.
+
+ROM MD5: `44090e5f80e30abddf264b170c236a9e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Medarot2Kuwagata.ips).
 
 ## Megalit
 
