@@ -623,6 +623,7 @@ Game | System
 [Monster Rancher Battle Card GB](#monster-rancher-battle-card-gb) | GBC
 [Monster Rancher Explorer](#monster-rancher-explorer) | GBC
 [Monsters Inc.](#monsters-inc) | GBC
+[Morbius Trailer](#morbius-trailer) | GBC
 [Mortal Kombat](#mortal-kombat) | GB
 [Mortal Kombat II](#mortal-kombat-ii) | GB
 [Mortal Kombat 3](#mortal-kombat-3) | GB
@@ -6215,6 +6216,14 @@ This patch converts `Monsters Inc. (U,E)` to the `.pocket` format.
 ROM MD5: `5776965258ee78832e7eabc0db66ff4b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonstersInc.ips).
+
+## Morbius Trailer
+
+This patch converts `Morbius Trailer` to the `.pocket` format. You can get a copy of the ROM [here](https://twitter.com/BobWulff/status/1535276291401859072?s=20&t=1sdkTIDLdKufK6wzCqSfxQ). It is apparently Morbin' Time.
+
+ROM MD5: `98e7724dfdc59a2f39aca4b9f3d5f7cf`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/morb_trailer.ips).
 
 ## Mortal Kombat
 
