@@ -5901,9 +5901,9 @@ ROM MD5: `6cc1cfbd1fc01b948e03f507c530260d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Medarot5Kabuto.ips).
 
-## Metarot 5 - Susutake Mura no Tenkousei, Kuwagata
+## Medarot 5 - Susutake Mura no Tenkousei, Kuwagata
 
-This patch converts `Metarot 5 - Susutake Mura no Tenkousei, Kuwagata (J)` to the `.pocket` format.
+This patch converts `Medarot 5 - Susutake Mura no Tenkousei, Kuwagata (J)` to the `.pocket` format.
 
 ROM MD5: `11893f422bcfe26e22889a0fcdf61547`
 
