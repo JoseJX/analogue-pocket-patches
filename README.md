@@ -630,6 +630,7 @@ Game | System
 [Monster Max](#monster-max) | GB
 [Monster Race](#monster-race) | GB
 [Monster Race 2](#monster-race-2) | GBC
+[Monster Race Okawari](#monster-race-okawari) | GB
 [Monster Rancher Battle Card GB](#monster-rancher-battle-card-gb) | GBC
 [Monster Rancher Explorer](#monster-rancher-explorer) | GBC
 [Monsters Inc.](#monsters-inc) | GBC
@@ -6284,6 +6285,14 @@ This patch converts `Monster Race 2 (J)` to the `.pocket` format.
 ROM MD5: `c9a1dab66e0b13d5835c392437b16a5a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonsterRace2.ips).
+
+## Monster Race Okawari
+
+This patch converts `Monster Race Okawari (J)` to the `.pocket` format.
+
+ROM MD5: `e2c928a942cd827b52499aa9fb148f9a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonsterRaceOkawari.ips).
 
 ## Monster Rancher Battle Card GB
 
