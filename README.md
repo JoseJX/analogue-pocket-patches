@@ -10218,6 +10218,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Wizardry Empire (Rev A) (J)` to the `.pocket` format.
 
+This patch was updated to fix a content bug. (2022/06/14)
+
 ROM MD5: `fcf910e4d2f27bab40244eb7bf4aa2d3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryEmpireA.ips).
@@ -10225,6 +10227,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 ## Wizardry Empire (English Translation)
 
 This patch converts `Wizardry Empire (English Translation)` to the `.pocket` format. First, apply the [English translation patch](https://www.romhacking.net/translations/2316/), resulting in the MD5 below, then apply this patch.
+
+This patch was updated to fix a content bug. (2022/06/14)
 
 ROM MD5: `14407063008693058990de686a784991`
 
