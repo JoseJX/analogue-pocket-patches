@@ -1181,6 +1181,8 @@ This patch converts `144p Test Suite` to the `.pocket` format. You can get a cop
 
 This patch was updated to fix an error on startup. (2022/06/11)
 
+This patch was updated to fix a graphical error in the shadow and timing tests. (2022/06/13)
+
 ROM MD5: `31b36a2702887bd762b8969f8e16339e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/gb240p.ips).
