@@ -629,6 +629,7 @@ Game | System
 [Monopoly](#monopoly) | GBC
 [Monster Max](#monster-max) | GB
 [Monster Race](#monster-race) | GB
+[Monster Race 2](#monster-race-2) | GBC
 [Monster Rancher Battle Card GB](#monster-rancher-battle-card-gb) | GBC
 [Monster Rancher Explorer](#monster-rancher-explorer) | GBC
 [Monsters Inc.](#monsters-inc) | GBC
@@ -6275,6 +6276,14 @@ This patch converts `Monster Race (J)` to the `.pocket` format.
 ROM MD5: `3029c962c483df174fc6f5c9202326e3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonsterRace.ips).
+
+## Monster Race 2
+
+This patch converts `Monster Race 2 (J)` to the `.pocket` format.
+
+ROM MD5: `c9a1dab66e0b13d5835c392437b16a5a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonsterRace2.ips).
 
 ## Monster Rancher Battle Card GB
 
