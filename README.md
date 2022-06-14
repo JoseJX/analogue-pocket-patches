@@ -451,6 +451,7 @@ Game | System
 [Jungle Book - Mowgli's Wild Adventure (E)](#jungle-book---mowglis-wild-adventure-e) | GBC
 [Jurassic Park](#jurassic-park) | GB
 [Jurassic Park (E)](#jurassic-park-e) | GB
+[Jurassic Park 2 - The Chaos Continues](#jurassic-park-2---the-chaos-continues) | GB
 [Kaeru no Tame ni Kane wa Naru](#kaeru-no-tame-ni-kane-wa-naru) | GB
 [Kaeru no Tame ni Kane wa Naru (English Translation)](#kaeru-no-tame-ni-kane-wa-naru-english-translation) | GB
 [Kaeru no Tame ni Kane wa Naru (English Translation with Title Fix)](#kaeru-no-tame-ni-kane-wa-naru-english-translation-with-title-fix) | GB
@@ -4764,6 +4765,14 @@ This patch converts `Jurassic Park (E)` to the `.pocket` format.
 ROM MD5: `7173cecc94bcdb7aeb7240ae87491044`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JurassicParkE.ips).
+
+## Jurassic Park 2 - The Chaos Continues
+
+This patch converts `Jurassic Park 2 - The Chaos Continues (U,E)` to the `.pocket` format.
+
+ROM MD5: `b94eb524347bb0a8a5c151b59ad63cfa`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JurassicPark2.ips).
 
 ## Kaeru no Tame ni Kane wa Naru
 
