@@ -857,6 +857,8 @@ Game | System
 [Samurai Kid (English Translation)](#samurai-kid-english-translation) | GBC
 [Samurai Showdown](#samurai-showdown) | GB
 [San Francisco Rush 2049](#san-francisco-rush-2049) | GBC
+[Sanrio Timenet - Kako Hen](#sanrio-timenet---kako-hen) | GBC
+[Sanrio Timenet - Mirai Hen](#sanrio-timenet---mirai-hen) | GBC
 [Scooby-Doo! Classic Creep Capers](#scooby-doo-classic-creep-capers) | GBC
 [Scrabble](#scrabble) | GBC
 [Seiken Densetsu - Final Fantasy Gaiden](#seiken-densetsu---final-fantasy-gaiden) | GB
@@ -8165,6 +8167,22 @@ This patch converts `San Francisco Rush 2049 (U)` to the `.pocket` format.
 ROM MD5: `19601e4fc1f7084076128dca0182f5a7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SFRush2049.ips).
+
+## Sanrio Timenet - Kako Hen
+
+This patch converts `Sanrio Timenet - Kako Hen (J)` to the `.pocket` format.
+
+ROM MD5: `0146768d48b8317e0c8a2c7dd8d31860`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SanrioTimenetKakoHen.ips).
+
+## Sanrio Timenet - Mirai Hen
+
+This patch converts `Sanrio Timenet - Mirai Hen (J)` to the `.pocket` format.
+
+ROM MD5: `388a603e8b6d0fcf7c553fb00a7c5171`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SanrioTimenetMiraiHen.ips).
 
 ## Scooby-Doo! Classic Creep Capers
 
