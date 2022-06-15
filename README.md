@@ -1109,6 +1109,8 @@ Game | System
 [Wizardry III - Diamond no Kishi (English Translation)](#wizardry-iii---diamond-no-kishi-english-translation) | GBC
 [Wizardry Empire (Rev A)](#wizardry-empire-rev-a) | GBC
 [Wizardry Empire (English Translation)](#wizardry-empire-english-translation) | GBC
+[Wizardry Empire - Fukkatsu no Tsue](#wizardry-empire---fukkatsu-no-tsue) | GBC
+[Wizardry Empire - Fukkatsu no Tsue (English Translation)](#wizardry-empire---fukkatsu-no-tsue-english-translation) | GBC
 [Wizardry Gaiden I - Joou no Junan](#wizardry-gaiden-i---joou-no-junan) | GB
 [Wizardry Gaiden I - Joou no Junan (English Translation)](#wizardry-gaiden-i---joou-no-junan-english-translation) | GB
 [Wizardry Gaiden II - Kodai Koutei no Noroi](#wizardry-gaiden-ii---kodai-koutei-no-noroi) | GB
@@ -10233,6 +10235,22 @@ This patch was updated to fix a content bug. (2022/06/14)
 ROM MD5: `14407063008693058990de686a784991`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryEmpireA.ips).
+
+## Wizardry Empire - Fukkatsu no Tsue
+
+This patch converts `Wizardry Empire - Fukkatsu no Tsue (J)` to the `.pocket` format.
+
+ROM MD5: `fa8360094cae37a838fabcfd333ae300`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryEmpireFukkatsuNoTsue.ips).
+
+## Wizardry Empire - Fukkatsu no Tsue (English Translation)
+
+This patch converts `Wizardry Empire - Fukkatsu no Tsue (English Translation)` to the `.pocket` format. First, apply the [English translation patch](https://www.romhacking.net/translations/2322/), resulting in the MD5 below, then appply this patch.
+
+ROM MD5: `e8fe54e3483adee2019996a4cc1545ac`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryEmpireFukkatsuNoTsue.ips).
 
 ## Wizardry Gaiden I - Joou no Junan
 
