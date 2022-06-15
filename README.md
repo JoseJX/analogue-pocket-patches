@@ -10240,6 +10240,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Wizardry Empire - Fukkatsu no Tsue (J)` to the `.pocket` format.
 
+This patch was updated to fix a graphical bug when paused. (2022/06/15)
+
 ROM MD5: `fa8360094cae37a838fabcfd333ae300`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryEmpireFukkatsuNoTsue.ips).
@@ -10247,6 +10249,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 ## Wizardry Empire - Fukkatsu no Tsue (English Translation)
 
 This patch converts `Wizardry Empire - Fukkatsu no Tsue (English Translation)` to the `.pocket` format. First, apply the [English translation patch](https://www.romhacking.net/translations/2322/), resulting in the MD5 below, then appply this patch.
+
+This patch was updated to fix a graphical bug when paused. (2022/06/15)
 
 ROM MD5: `e8fe54e3483adee2019996a4cc1545ac`
 
