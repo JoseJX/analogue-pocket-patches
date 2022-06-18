@@ -950,6 +950,7 @@ Game | System
 [Super Bikkuriman - Densetsu no Sekiban](#super-bikkuriman---densetsu-no-sekiban) | GB
 [Super Bikkuriman - Densetsu no Sekiban (English Translation)](#super-bikkuriman---densetsu-no-sekiban-english-translation) | GB
 [Super Black Bass](#super-black-bass) | GB
+[Super Bombliss DX](#super-bombliss-dx) | GBC
 [Super Breakout!](#super-breakout) | GBC
 [Super Breakout! (E)](#super-breakout-e) | GBC
 [Super Hunchback](#super-hunchback) | GB
@@ -8876,14 +8877,6 @@ ROM MD5: `db1aeaa7135bd5707dbbccc427808cd7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SFA.ips).
 
-## Super Black Bass
-
-This patch converts `Super Black Bass (U)` to the `.pocket` format.
-
-ROM MD5: `426f96e31186b3a6e73a624d97b3b2dc`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBlackBass.ips).
-
 ## Super Battletank - War in the Gulf
 
 This patch converts `Super Battletank - War in the Gulf (U)` to the `.pocket` format.
@@ -8907,6 +8900,22 @@ This patch converts `Super Bikkuriman - Densetsu no Sekiban (English Translation
 ROM MD5: `8a57ce73b10f55bb392d461f9a1ca5d6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBikkuriman.ips).
+
+## Super Black Bass
+
+This patch converts `Super Black Bass (U)` to the `.pocket` format.
+
+ROM MD5: `426f96e31186b3a6e73a624d97b3b2dc`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBlackBass.ips).
+
+## Super Bombliss DX
+
+This patch converts `Super Bombliss DX (J)` to the `.pocket` format.
+
+ROM MD5: `6dbc891774265f4bc8ccba65f9383aec`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBomblissDX.ips).
 
 ## Super Breakout!
 
