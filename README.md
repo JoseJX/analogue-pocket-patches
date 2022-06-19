@@ -759,6 +759,7 @@ Game | System
 [Pokemon Red++ v3 (Hard)](#pokemon-red-v3-hard) | GBC
 [Pokemon Red++ v3 (Normal)](#pokemon-red-v3-normal) | GBC
 [Pokemon Silberne Edition](#pokemon-silberne-edition) | GBC
+[Pokemon Super Gold 97](#pokemon-super-gold-97) | GBC
 [Pokemon Trading Card Game (En, Es, It)](#pokemon-trading-card-game-en-es-it) | GBC
 [Pokemon Yellow - 151](#pokemon-yellow---151) | GB
 [Pong - The Next Level](#pong---the-next-level) | GBC
@@ -7364,6 +7365,14 @@ This patch converts `Pokemon Silberne Edition (DE)` to the `.pocket` format.
 ROM MD5: `f1f013cd591bc4ea77305bbc9f8cbb3c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonSilberneEdition.ips).
+
+## Pokemon Super Gold 97
+
+This patch converts `Pokemon Super Gold 97 (v7.21)` to the `.pocket` format. First, [prepare the ROM as directed](https://www.pokecommunity.com/showthread.php?t=430526), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `1de727dee9d38349440474fe5924b6be`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonSuperGold97.ips).
 
 ## Pokemon Trading Card Game (En, Es, It)
 
