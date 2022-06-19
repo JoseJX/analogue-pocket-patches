@@ -7368,7 +7368,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Pokemon Super Gold 97
 
-This patch converts `Pokemon Super Gold 97 (v7.21)` to the `.pocket` format. First, [prepare the ROM as directed](https://www.pokecommunity.com/showthread.php?t=430526), resulting in the MD5 below, then apply this patch.
+This patch converts `Pokemon Super Gold 97 (v7.21)` to the `.pocket` format. The source for this ROM is [available here](https://github.com/lvl-3-g/Gold97SGB), more information is [available here](https://www.pokecommunity.com/showthread.php?t=430526).
 
 ROM MD5: `1de727dee9d38349440474fe5924b6be`
 
