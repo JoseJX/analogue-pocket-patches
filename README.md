@@ -111,6 +111,7 @@ Game | System
 [Battletoads - Double Dragon](#battletoads---double-dragon) | GB
 [Battletoads in Ragnarok's World](#battletoads-in-ragnaroks-world) | GB
 [Battle Unit Zeoth](#battle-unit-zeoth) | GB
+[B-Daman Bakugaiden - Victory e no Michi](#b-daman-bakugaiden---victory-e-no-michi) | GBC
 [Beatmania GB](#beatmania-gb) | GBC
 [Beatmania GB2 - Gotcha Mix](#beatmania-gb2---gotcha-mix) | GBC
 [Beatmania GB - Gotcha Mix 2](#beatmania-gb---gotcha-mix-2) | GBC
@@ -1984,6 +1985,14 @@ This patch converts `Battle Unit Zeoth (U,E)` to the `.pocket` format.
 ROM MD5: `023a8fd8eacad0656b5110da26dcdd44`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleUnitZeoth.ips).
+
+## B-Daman Bakugaiden - Victory e no Michi
+
+This patch converts `B-Daman Bakugaiden - Victory e no Michi (J)` to the `.pocket` format.
+
+ROM MD5: `ba1195224261abd308db025d69ee2227`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BDamanBakugaidenVictoryENoMichi.ips).
 
 ## Beatmania GB
 
