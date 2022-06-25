@@ -548,6 +548,7 @@ Game | System
 [M&M's Minis Madness](#mms-minis-madness) | GBC
 [M&M's Minis Madness (E)](#mms-minis-madness-e) | GBC
 [M&M's Minis Madness (DE)](#mms-minis-madness-de) | GBC
+[Madden 95](#madden-95) | GB
 [Madden NFL 2002](#madden-nfl-2002) | GBC
 [Magi Nation](#magi-nation) | GB
 [Magical Drop](#magical-drop) | GBC
@@ -5576,6 +5577,14 @@ This patch converts `M&M's Minis Madness (DE)` to the `.pocket` format.
 ROM MD5: `0650cbe5e04f8968d5c09740af7aa152`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MnMsMinisDE.ips).
+
+## Madden 95
+
+This patch converts `Madden 95 (U,E)` to the `.pocket` format.
+
+ROM MD5: `eb57688da8812dee7c813954dee175ce`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Madden95.ips).
 
 ## Madden NFL 2002
 
