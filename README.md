@@ -3966,6 +3966,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Game & Watch Gallery 3 (U,E)` to the `.pocket` format.
 
+This patch was updated to fix a glitch in the 'Lion' game. (2022/06/25)
+
 ROM MD5: `f1bb0127347994b46258adbda0dc0b16`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GnW3.ips).
