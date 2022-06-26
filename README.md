@@ -3968,6 +3968,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Game & Watch Gallery 2 (U,E)` to the `.pocket` format.
 
+This patch was updated to fix some graphical issues. (2022/06/26)
+
 ROM MD5: `cbf4a5b2ff566554b014118e3d0e3e9a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GnW2.ips).
