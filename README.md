@@ -104,6 +104,7 @@ Game | System
 [Battle Bull](#battle-bull) | GB
 [Battle City](#battle-city) | GB
 [Battle of Kingdom](#battle-of-kingdom) | GB
+[Battle of Olympus](#battle-of-olympus) | GB
 [Battle Pingpong](#battle-pingpong) | GB
 [Battleship](#battleship) | GB
 [BattleTanx](#battletanx) | GBC
@@ -1930,6 +1931,14 @@ This patch converts `Battle of Kingdom (J)` to the `.pocket` format.
 ROM MD5: `f7aa9880db8e7884618ff0dcab6fba85`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleOfKingdom.ips).
+
+## Battle of Olympus
+
+This patch converts `Battle of Olympus (E)` to the `.pocket` format.
+
+ROM MD5: `044c71562429da60891a93a131a0304a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleOfOlympus.ips).
 
 ## Battle Pingpong
 
