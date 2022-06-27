@@ -403,6 +403,8 @@ Game | System
 [Harvest Moon 2 GBC (E)](#harvest-moon-2-gbc-e) | GBC
 [Hatris](#hatris) | GB
 [Heiankyo Alien](#heiankyo-alien) | GB
+[Heracles no Eikou - Ugokidashita Kamigami](#heracles-no-eikou---ugokidashita-kamigami) | GB
+[Heracles no Eikou - Ugokidashita Kamigami (English Translation)](#heracles-no-eikou---ugokidashita-kamigami-english-translation) | GB
 [Hercules](#hercules) | GB
 [Hercules - The Legendary Journey](#hercules---the-legendary-journey) | GBC
 [Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
@@ -4379,6 +4381,22 @@ This patch converts `Heiankyo Alien (U)` to the `.pocket` format.
 ROM MD5: `b236e81e9f5c19148c24c4984d8ef90f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HeiankyoAlien.ips).
+
+## Heracles no Eikou - Ugokidashita Kamigami
+
+This patch converts `Heracles no Eikou - Ugokidashita Kamigami (J)` to the `.pocket` format.
+
+ROM MD5: `ccbd8d97a61883e05eab21a5546188b2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Heracles.ips).
+
+## Heracles no Eikou - Ugokidashita Kamigami (English Translation)
+
+This patch converts `Heracles no Eikou - Ugokidashita Kamigami (English Translation)` to the `.pocket` format. First, apply the [English Translation Patch](https://www.romhacking.net/translations/1683/), then apply this patch.
+
+ROM MD5: `51d4ff9a9346b16cf290f50111b110c0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Heracles.ips).
 
 ## Hercules
 
