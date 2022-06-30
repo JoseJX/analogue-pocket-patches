@@ -700,6 +700,7 @@ Game | System
 [Nushi Tsuri Adventure - Kite no Bouken](#nushi-tsuri-adventure---kite-no-bouken) | GBC
 [Nushi Tsuri Adventure - Kite no Bouken (English Translation)](#nushi-tsuri-adventure---kite-no-bouken-english-translation) | GBC
 [Oddworld Adventures](#oddworld-adventures) | GB
+[Oddworld Adventures II](#oddworld-adventures-ii) | GBC
 [Ohastua Dance Dance Revolution GB](#ohastua-dance-dance-revolution-gb) | GBC
 [Operation C](#operation-c) | GB
 [Othello](#othello) | GB
@@ -6876,6 +6877,14 @@ This patch converts `Oddworld Adventures (U,E)` to the `.pocket` format.
 ROM MD5: `5ca71cd4ceace3cb6650ff05d679d149`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Oddworld.ips).
+
+## Oddworld Adventures II
+
+This patch converts `Oddworld Adventures II (U,E)` to the `.pocket` format.
+
+ROM MD5: `627c3542307661990802806ebd0acd90`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/OddworldAdventuresII.ips).
 
 ## Ohastua Dance Dance Revolution GB
 
