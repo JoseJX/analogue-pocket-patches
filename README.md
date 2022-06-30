@@ -758,6 +758,7 @@ Game | System
 [Pokemon Puzzle Challenge](#pokemon-puzzle-challenge) | GBC
 [Pokemon Picross](#pokemon-picross) | GBC
 [Pokemon Pinball (E)](#pokemon-pinball-e) | GBC
+[Pokemon Pinball (J)](#pokemon-pinball-j) | GBC
 [Pokemon Pinball Generations](#pokemon-pinball-generations) | GBC
 [Pokemon Playable Yellow](#pokemon-playable-yellow) | GBC
 [Pokemon Prism](#pokemon-prism) | GBC
@@ -7352,6 +7353,14 @@ This patch converts `Pokemon Pinball (E)` to the `.pocket` format.
 ROM MD5: `3757c89c36bec5e2093741a3e51d22df`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonPinballEur.ips).
+
+## Pokemon Pinball (J)
+
+This patch converts `Pokemon Pinball (J)` to the `.pocket` format.
+
+ROM MD5: `852d68f167a5957f5e73954763f36ada`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonPinballJ.ips).
 
 ## Pokemon Pinball Generations
 
