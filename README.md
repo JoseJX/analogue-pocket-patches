@@ -454,6 +454,7 @@ Game | System
 [Judge Dredd](#judge-dredd) | GB
 [Jungle Book - Mowgli's Wild Adventure](#jungle-book---mowglis-wild-adventure) | GBC
 [Jungle Book - Mowgli's Wild Adventure (E)](#jungle-book---mowglis-wild-adventure-e) | GBC
+[Jungle Strike](#jungle-strike) | GB
 [Jurassic Park](#jurassic-park) | GB
 [Jurassic Park (E)](#jurassic-park-e) | GB
 [Jurassic Park 2 - The Chaos Continues](#jurassic-park-2---the-chaos-continues) | GB
@@ -4809,6 +4810,14 @@ This patch converts `Jungle Book - Mowgli's Wild Adventure (E)` to the `.pocket`
 ROM MD5: `173a37c4d4aae04766aa0abbf385233d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JungleBookMowglisWildAdventure.ips).
+
+## Jungle Strike
+
+This patch converts `Jungle Strike (U,E)` to the `.pocket` format.
+
+ROM MD5: `2b42dbc0934fdd90bca3a4965520bf37`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JungleStrike.ips).
 
 ## Jurassic Park
 
