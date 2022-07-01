@@ -596,6 +596,7 @@ Game | System
 [Metarot 5 - Susutake Mura no Tenkousei, Kuwagata](#metarot-5---susutake-mura-no-tenkousei-kuwagata) | GBC
 [Megalit](#megalit) | GB
 [Mega Man - Dr. Wily's Revenge](#mega-man---dr-wilys-revenge) | GB
+[Mega Man - Dr. Wily's Revenge (E)](#mega-man---dr-wilys-revenge-e) | GB
 [Mega Man II](#mega-man-ii) | GB
 [Mega Man III](#mega-man-iii) | GB
 [Mega Man IV](#mega-man-iv) | GB
@@ -6013,6 +6014,14 @@ This patch converts `Mega Man - Dr. Wily's Revenge (U)` to the `.pocket` format.
 ROM MD5: `4ba4398181d98958fa7434ba7716f11a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan1.ips).
+
+## Mega Man - Dr. Wily's Revenge (E)
+
+This patch converts `Mega Man - Dr. Wily's Revenge (E)` to the `.pocket` format.
+
+ROM MD5: `2c1358474573c9dd38d6a128f4714a86`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan1E.ips).
 
 ## Mega Man II
 
