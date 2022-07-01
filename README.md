@@ -847,8 +847,9 @@ Game | System
 [Rez](#rez) | GB
 [Ring Rage](#ring-rage) | GB
 [Road Champs - BXS Stunt Biking](#road-champs---bxs-stunt-biking) | GBC
-[Road Rash (Color)](#road-rash-color) | GBC
+[Road Rash](#road-rash) | GB
 [Road Rash - (with Repair Service)](#road-rash---with-repair-service) | GB
+[Road Rash (Color)](#road-rash-color) | GBC
 [Roadster](#roadster) | GB
 [Roadsters Trophy](#roadsters-trophy) | GBC
 [Roadsters Trophy (E)](#roadsters-trophy-e) | GBC
@@ -8096,13 +8097,13 @@ ROM MD5: `618be0636a482b1c5e5898e7cb5f1bb3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoadChamps.ips).
 
-## Road Rash (Color)
+## Road Rash
 
-This patch converts `Road Rash (Color) (U,E)` to the `.pocket` format.
+This patch converts `Road Rash (U,E)` to the `.pocket` format.
 
-ROM MD5: `f5767f97f44365b703eae78afb7562e6`
+ROM MD5: `71af355cbf7b8c7fe30f509803bbced6`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoadRashGBC.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoadRash.ips).
 
 ## Road Rash - (with Repair Service)
 
@@ -8111,6 +8112,15 @@ This patch converts `Road Rash (U,E)` to the `.pocket` format. To use this patch
 ROM MD5: `830b84643d24fb2cc9c4fde1305f9610`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoadRashRepairService.ips).
+
+
+## Road Rash (Color)
+
+This patch converts `Road Rash (Color) (U,E)` to the `.pocket` format.
+
+ROM MD5: `f5767f97f44365b703eae78afb7562e6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoadRashGBC.ips).
 
 ## Roadster
 
