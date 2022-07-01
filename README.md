@@ -600,6 +600,7 @@ Game | System
 [Mega Man II](#mega-man-ii) | GB
 [Mega Man II (E)](#mega-man-ii-e) | GB
 [Mega Man III](#mega-man-iii) | GB
+[Mega Man III (E)](#mega-man-iii-e) | GB
 [Mega Man IV](#mega-man-iv) | GB
 [Mega Man V](#mega-man-v) | GB
 [Mega Man Xtreme](#mega-man-xtreme) | GBC
@@ -6049,6 +6050,14 @@ This patch was updated to fix a HUD rendering issue (2022/3/31)
 ROM MD5: `4c614f884a07872f12056ad1a421e1f9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan3.ips).
+
+## Mega Man III (E)
+
+This patch converts `Mega Man III (E)` to the `.pocket` format.
+
+ROM MD5: `f155c9c04ef01a99b26478c1121c8069`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan3E.ips).
 
 ## Mega Man IV
 
