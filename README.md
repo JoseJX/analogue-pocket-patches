@@ -602,6 +602,7 @@ Game | System
 [Mega Man III](#mega-man-iii) | GB
 [Mega Man III (E)](#mega-man-iii-e) | GB
 [Mega Man IV](#mega-man-iv) | GB
+[Mega Man IV (E)](#mega-man-iv-e) | GB
 [Mega Man V](#mega-man-v) | GB
 [Mega Man Xtreme](#mega-man-xtreme) | GBC
 [Mega Man Xtreme 2](#mega-man-xtreme-2) | GBC
@@ -6063,11 +6064,21 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Mega Man IV (U)` to the `.pocket` format.
 
-It has been updated to fix [bug #3](https://github.com/JoseJX/analogue-pocket-patches/issues/3).
+This patch has been updated to fix [bug #3](https://github.com/JoseJX/analogue-pocket-patches/issues/3).
 
 This patch has been updated to fix a potential crash bug. (2022/01/29)
 
+This patch has been updated to fix some graphical issues (2022/06/30)
+
 ROM MD5: `8a00f627b8902c92327435901c249e19`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan4.ips).
+
+## Mega Man IV (E)
+
+This patch converts `Mega Man IV (E)` to the `.pocket` format.
+
+ROM MD5: `b1a4da0fc96be115b3d5303c9ca1447f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan4.ips).
 
