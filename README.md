@@ -604,6 +604,7 @@ Game | System
 [Mega Man IV](#mega-man-iv) | GB
 [Mega Man IV (E)](#mega-man-iv-e) | GB
 [Mega Man V](#mega-man-v) | GB
+[Mega Man V (E)](#mega-man-v-e) | GB
 [Mega Man Xtreme](#mega-man-xtreme) | GBC
 [Mega Man Xtreme 2](#mega-man-xtreme-2) | GBC
 [Megami Tensei Gaiden - Last Bible II](#megami-tensei-gaiden---last-bible-ii) | GBC
@@ -6093,6 +6094,14 @@ This patch has been update to fix an issue with the intro dialog boxes. (2022/06
 ROM MD5: `ceb17d831b410d91aa41bf2819cbed82`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan5.ips).
+
+## Mega Man V (E)
+
+This patch converts `Mega Man V (E)` to the `.pocket` format.
+
+ROM MD5: `b53fe06db30ab689153135990354dd5a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan5E.ips).
 
 ## Mega Man Xtreme
 
