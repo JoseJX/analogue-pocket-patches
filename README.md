@@ -598,6 +598,7 @@ Game | System
 [Mega Man - Dr. Wily's Revenge](#mega-man---dr-wilys-revenge) | GB
 [Mega Man - Dr. Wily's Revenge (E)](#mega-man---dr-wilys-revenge-e) | GB
 [Mega Man II](#mega-man-ii) | GB
+[Mega Man II (E)](#mega-man-ii-e) | GB
 [Mega Man III](#mega-man-iii) | GB
 [Mega Man IV](#mega-man-iv) | GB
 [Mega Man V](#mega-man-v) | GB
@@ -6030,6 +6031,14 @@ This patch converts `Mega Man II (U)` to the `.pocket` format.
 ROM MD5: `7fe07271d04ed9e0bc0663dde55a2ae4`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan2.ips).
+
+## Mega Man II (E)
+
+This patch converts `Mega Man II (E) (U,E)` to the `.pocket` format.
+
+ROM MD5: `b9cfee05797beb8ff7e259ee77eaf2fb`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan2E.ips).
 
 ## Mega Man III
 
