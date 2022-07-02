@@ -412,6 +412,7 @@ Game | System
 [Hiden Inyou Kikouhou Ca Da](#hiden-inyou-kikouhou-ca-da) | GB
 [Hit the Ice - VHL - The Official Video Hockey League](#hit-the-ice---vhl---the-official-video-hockey-league) | GB
 [Hollywood Pinball](#hollywood-pinball) | GBC
+[Hollow Knight Demake - Beta V1](#hollow-knight-demake---beta-v1) | GBC
 [Home Alone](#home-alone) | GB
 [Home Alone 2 - Lost in New York](#home-alone-2---lost-in-new-york) | GB
 [Hook](#hook) | GB
@@ -4468,6 +4469,14 @@ This patch converts `Hollywood Pinball (E)` to the `.pocket` format.
 ROM MD5: `9889afc5b4e72c9f96db8e6b4260f6b7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HollywoodPinball.ips).
+
+## Hollow Knight Demake - Beta V1
+
+This patch converts `Hollow Knight Demake - Beta V1` to the `.pocket` format. You can get a copy of the ROM from the [developer's site](https://elvies.itch.io/hollowknightdemake).
+
+ROM MD5: `507bb840a0bf4f9e8471a105cc525756`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HollowKnight_BetaV1.ips).
 
 ## Home Alone
 
