@@ -1002,6 +1002,7 @@ Game | System
 [Survival Kids 2 - Dasshutsu!! Futago-Jima!](#survival-kids-2---dasshutsu-futago-jima) | GBC
 [Survival Kids 2 - Dasshutsu!! Futago-Jima! (English Translation)](#survival-kids-2---dasshutsu-futago-jima-english-translation) | GBC
 [Sutte Hakkun GB](#sutte-hakkun-gb) | GBC
+[Swamp Thing](#swamp-thing) | GB
 [Sword of Hope](#sword-of-hope) | GB
 [Sword of Hope II](#sword-of-hope-ii) | GB
 [Sylvanian Families: Otogi no Kuni no Pendant](#sylvanian-families-otogi-no-kuni-no-pendant) | GBC
@@ -9369,6 +9370,14 @@ Note: This game was unreleased.
 ROM MD5: `243b2b6151d41d8e111e98ac49ba9ab4`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SutteHakkunGB.ips).
+
+## Swamp Thing
+
+This patch converts `Swamp Thing (U,E)` to the `.pocket` format.
+
+ROM MD5: `85ccd61e2298b5f9b26312e8e182f10e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SwampThing.ips).
 
 ## Sword of Hope
 
