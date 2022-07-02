@@ -863,6 +863,8 @@ Game | System
 [Rodland](#rodland) | GB
 [Rolan's Curse](#rolans-curse) | GB
 [Rolan's Curse II](#rolans-curse-ii) | GB
+[Roswell Conspiracies](#roswell-conspiracies) | GBC
+[Roswell Conspiracies (E)](#roswell-conspiracies-e) | GBC
 [Rox](#rox) | GBC
 [Rox (J)](#rox-j) | GBC
 [Sabrina - The Animated Series - Spooked!](#sabrina---the-animated-series---spooked) | GBC
@@ -8133,7 +8135,6 @@ ROM MD5: `830b84643d24fb2cc9c4fde1305f9610`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoadRashRepairService.ips).
 
-
 ## Road Rash (Color)
 
 This patch converts `Road Rash (Color) (U,E)` to the `.pocket` format.
@@ -8246,6 +8247,22 @@ This patch converts `Rolan's Curse II (U)` to the `.pocket` format.
 ROM MD5: `27f2c99b13cbdb5a5be4afce87b9039b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RolansCurse2.ips).
+
+## Roswell Conspiracies
+
+This patch converts `Roswell Conspiracies (U)` to the `.pocket` format.
+
+ROM MD5: `dbd7bc8a47d78e84016f0c240e6aa179`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoswellConspiracies.ips).
+
+## Roswell Conspiracies (E)
+
+This patch converts `Roswell Conspiracies (E)` to the `.pocket` format.
+
+ROM MD5: `79d382d378d49695e9867ede063eff17`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoswellConspiraciesE.ips).
 
 ## Rox
 
