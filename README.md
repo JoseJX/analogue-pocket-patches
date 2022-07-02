@@ -829,6 +829,7 @@ Game | System
 [R-Type II (J)](#r-type-ii-j) | GB
 [Race Days](#race-days) | GB
 [Race Drivin'](#race-drivin) | GB
+[Racing Damashii](#racing-damashii) | GB
 [Radar Mission](#radar-mission) | GB
 [Rainbow Islands](#rainbow-islands) | GBC
 [Rampage World Tour](#rampage-world-tour) | GBC
@@ -7959,6 +7960,14 @@ This patch converts `Race Drivin'` to the `.pocket` format.
 ROM MD5: `74d409740ce00448d42b25ebb31e7bcd`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RaceDrivin.ips).
+
+## Racing Damashii
+
+This patch converts `Racing Damashii (J)` to the `.pocket` format.
+
+ROM MD5: `cf4e3f4ee5df2d68e978826ae564e1da`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RacingDamashii.ips).
 
 ## Radar Mission
 
