@@ -404,6 +404,8 @@ Game | System
 [Harry Potter and the Sorcerer's Stone](#harry-potter-and-the-sorcerers-stone) | GBC
 [Harvest Moon GB](#harvest-moon-gb) | GB
 [Harvest Moon GBC](#harvest-moon-gbc) | GBC
+[Harvest Moon GBC (DE)](#harvest-moon-gbc-de) | GBC
+[Harvest Moon GBC (E)](#harvest-moon-gbc-e) | GBC
 [Harvest Moon 2 GBC](#harvest-moon-2-gbc) | GBC
 [Harvest Moon 2 GBC (E)](#harvest-moon-2-gbc-e) | GBC
 [Hatris](#hatris) | GB
@@ -4412,6 +4414,22 @@ This patch converts `Harvest Moon GBC (U)` to the `.pocket` format.
 ROM MD5: `498c0a50a5e5cde16127617a97ad6162`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HarvestMoonGB.ips).
+
+## Harvest Moon GBC (DE)
+
+This patch converts `Harvest Moon GBC (DE)` to the `.pocket` format.
+
+ROM MD5: `1c9f1847ae4832bdd53f39968750d505`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HarvestMoonGB_DE.ips).
+
+## Harvest Moon GBC (E)
+
+This patch converts `Harvest Moon GBC (E)` to the `.pocket` format.
+
+ROM MD5: `a5bc2e2ad58bbd78609478a60dcda8d7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HarvestMoonGB_E.ips).
 
 ## Harvest Moon 2 GBC
 
