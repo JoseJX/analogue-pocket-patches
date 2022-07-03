@@ -212,6 +212,7 @@ Game | System
 [Crystalis](#crystalis) | GBC
 [Crystal Quest](#crystal-quest) | GB
 [Cubix - Robots for Everyone - Race 'n Robots](#cubix---robots-for-everyone---race-n-robots) | GBC
+[CyberTiger](#cybertiger) | GBC
 [Cyraid](#cyraid) | GB
 [Daedalian Opus](#daedalian-opus) | GB
 [Daffy Duck](#daffy-duck) | GB
@@ -2839,6 +2840,14 @@ This patch converts `Cubix - Robots for Everyone - Race 'n Robots (U)` to the `.
 ROM MD5: `9eb8be5600d2408352bf9ef32b91d1df`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Cubix.ips).
+
+## CyberTiger
+
+This patch converts `CyberTiger (U,E)` to the `.pocket` format.
+
+ROM MD5: `7a36423ec39604d7043336af71145010`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CyberTiger.ips).
 
 ## Cyraid
 
