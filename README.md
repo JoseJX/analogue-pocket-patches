@@ -872,6 +872,7 @@ Game | System
 [RoboCop (GBC)](#robocop-gbc) | GBC
 [RoboCop vs the Terminator](#robocop-vs-the-terminator) | GB
 [Rockman World](#rockman-world) | GB
+[Rockman World 2](#rockman-world-2) | GB
 [Rodland](#rodland) | GB
 [Rolan's Curse](#rolans-curse) | GB
 [Rolan's Curse II](#rolans-curse-ii) | GB
@@ -8332,6 +8333,14 @@ This patch converts `Rockman World (J)` to the `.pocket` format.
 ROM MD5: `d0b1c550250c859f4563165eb29033d6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RockmanWorld.ips).
+
+## Rockman World 2
+
+This patch converts `Rockman World 2 (J)` to the `.pocket` format.
+
+ROM MD5: `c05b47df8bdfe770be228e51bc42da84`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RockmanWorld2.ips).
 
 ## Rodland
 
