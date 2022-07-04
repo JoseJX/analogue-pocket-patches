@@ -136,6 +136,7 @@ Game | System
 [Bo Jackson - Two Games in One](#bo-jackson---two-games-in-one) | GB
 [Bokujou Monogatari GB](#bokujou-monogatari-gb) | GB
 [Bokujou Monogatari GB (Rev AB)](#bokujou-monogatari-gb-rev-ab) | GB
+[Bokujou Monogatari GB 2](#bokujou-monogatari-gb-2) | GBC
 [Bomberman GB](#bomberman-gb) | GB
 [Bomberman GB (J)](#bomberman-gb-j) | GB
 [Bomberman Max - Blue Champion](#bomberman-max---blue-champion) | GBC
@@ -2221,6 +2222,14 @@ This patch converts `Bokujou Monogatari GB (Rev AB)` to the `.pocket` format.
 ROM MD5: `275dc0712e83f34252c2fcd2eaefb72f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BokujouMonogatariGBAB.ips).
+
+## Bokujou Monogatari GB 2
+
+This patch converts `Bokujou Monogatari GB 2 (J)` to the `.pocket` format.
+
+ROM MD5: `245c759effda3cf83e2caf274c93c8aa`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BokujouMonogatariGB2.ips).
 
 ## Bomberman GB
 
