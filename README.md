@@ -903,6 +903,7 @@ Game | System
 [Shanghai Pocket (Rev A)](#shanghai-pocket-rev-a) | GBC
 [Shanghai Pocket (J)](#shanghai-pocket-j) | GB
 [Shantae (Limited Run Games)](#shantae-limited-run-games) | GBC
+[Shaun Palmer's Pro Snowboarder](#shaun-palmers-pro-snowboarder) | GBC
 [Sheep It Up!](#sheep-it-up) | GB
 [Shin Megami Tensei Devil Children - Aka no Sho](#shin-megami-tensei-devil-children---aka-no-sho) | GBC
 [Shin Megami Tensei Devil Children - Kuro no Sho](#shin-megami-tensei-devil-children---kuro-no-sho) | GBC
@@ -8579,6 +8580,14 @@ This patch converts `Shantae (Limited Run Games)` to the `.pocket` format.
 ROM MD5: `ec11bd38c10913047913eab36b06c2a0`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Shantae.ips).
+
+## Shaun Palmer's Pro Snowboarder
+
+This patch converts `Shaun Palmer's Pro Snowboarder (U,AU)` to the `.pocket` format.
+
+ROM MD5: `3bcb284142a35a8d86550c2f34549dcc`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShaunPalmersProSnowboarder.ips).
 
 ## Sheep It Up!
 
