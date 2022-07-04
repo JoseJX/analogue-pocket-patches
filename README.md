@@ -875,6 +875,7 @@ Game | System
 [Rockman World 2](#rockman-world-2) | GB
 [Rockman World 3](#rockman-world-3) | GB
 [Rockman World 4](#rockman-world-4) | GB
+[Rockman World 5](#rockman-world-5) | GB
 [Rodland](#rodland) | GB
 [Rolan's Curse](#rolans-curse) | GB
 [Rolan's Curse II](#rolans-curse-ii) | GB
@@ -8362,6 +8363,13 @@ ROM MD5: `401647ad59208d67507245ac13e3894c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RockmanWorld4.ips).
 
+## Rockman World 5
+
+This patch converts `Rockman World 5 (J)` to the `.pocket` format.
+
+ROM MD5: `309fc69d5ab1d2b17d0bbc127faf04c1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RockmanWorld5.ips).
 
 ## Rodland
 
