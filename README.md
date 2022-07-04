@@ -6189,6 +6189,8 @@ This patch has been updated to fix a potential crash bug. (2022/01/29)
 
 This patch has been updated to fix some graphical issues (2022/06/30)
 
+This patch was updated again, to re-fix the crash bug issue. (2022/07/04)
+
 ROM MD5: `8a00f627b8902c92327435901c249e19`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan4.ips).
