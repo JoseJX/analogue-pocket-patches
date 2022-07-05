@@ -911,6 +911,7 @@ Game | System
 [Shantae (Limited Run Games)](#shantae-limited-run-games) | GBC
 [Shaun Palmer's Pro Snowboarder](#shaun-palmers-pro-snowboarder) | GBC
 [Sheep It Up!](#sheep-it-up) | GB
+[Shenzhen Solitaire](#shenzhen-solitaire) | GBC
 [Shin Megami Tensei Devil Children - Aka no Sho](#shin-megami-tensei-devil-children---aka-no-sho) | GBC
 [Shin Megami Tensei Devil Children - Kuro no Sho](#shin-megami-tensei-devil-children---kuro-no-sho) | GBC
 [Shin Megami Tensei Devil Children - Kuro no Sho (English Translation)](#shin-megami-tensei-devil-children---kuro-no-sho-english-translation) | GBC
@@ -8652,6 +8653,14 @@ This patch converts [Sheep It Up!](https://drludos.itch.io/sheep-it-up) to the `
 ROM MD5: `6d22cab0cbb831bc64abf4f5bad464ff`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SheepItUp.ips).
+
+## Shenzhen Solitaire
+
+This patch converts `Shenzhen Solitaire` to the `.pocket` format. You can get a copy of the ROM from the [developer's site](https://github.com/emilyploszaj/shenzhen-solitaire-gbc).
+
+ROM MD5: `49a676dde6c01f032cedf0ec0cdb7f89`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/shenzhen-solitaire.ips).
 
 ## Shin Megami Tensei Devil Children - Aka no Sho
 
