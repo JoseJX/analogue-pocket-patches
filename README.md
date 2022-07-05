@@ -453,6 +453,7 @@ Game | System
 [International Track and Field](#international-track-and-field) | GBC
 [International Track and Field - Summer Games](#international-track-and-field---summer-games) | GBC
 [Ishido - The Way of Stones](#ishido---the-way-of-stones) | GB
+[Is that a Demo in your Pocket?](#is-that-a-demo-in-your-pocket) | GB
 [Itchy & Scratchy in Miniature Golf Madness](#itchy--scratchy-in-miniature-golf-madness) | GB
 [James Bond 007](#james-bond-007) | GB
 [Jeep Jamboree - Off Road Adventure](#jeep-jamboree---off-road-adventure) | GB
@@ -4832,6 +4833,14 @@ This patch converts `Ishido - The Way of Stones (U,E)` to the `.pocket` format.
 ROM MD5: `e904ad95019fad36decd3b8bae8b3f09`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ishido.ips).
+
+## Is that a Demo in your Pocket?
+
+This patch converts `Is that a Demo in your Pocket?` to the `.pocket` format. You can get a copy of the ROM [from the developer](http://www.nordloef.com/gbdemos/pocket.rar), linked from the [Vimeo page](https://vimeo.com/133830099) with the demo.
+
+ROM MD5: `2518020d9c2ff903b3af2d07d2552438`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/IsThatADemoInYourPocket.ips).
 
 ## Itchy & Scratchy in Miniature Golf Madness
 
