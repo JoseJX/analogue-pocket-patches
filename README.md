@@ -384,6 +384,7 @@ Game | System
 [Gex 3 - Deep Cover Gecko](#gex-3---deep-cover-gecko) | GBC
 [Gex 3 - Deep Pocket Gecko](#gex-3---deep-pocket-gecko) | GBC
 [Ghostbusters II](#ghostbusters-ii) | GB
+[Ghostbusters II (J)](#ghostbusters-ii-j) | GB
 [Gimmick Land](#gimmick-land) | GBC
 [Gluecksrad](#gluecksrad) | GB
 [God Medicine - Fantasy Sekai no Tanjou](#god-medicine---fantasy-sekai-no-tanjou) | GB
@@ -4261,6 +4262,14 @@ This patch converts `Ghostbusters II (U,E)` to the `.pocket` format.
 ROM MD5: `0841a527b116a52ad26de023b20b1a42`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ghostbusters2.ips).
+
+## Ghostbusters II (J)
+
+This patch converts `Ghostbusters II (J)` to the `.pocket` format.
+
+ROM MD5: `4067f70f9def39ceb49a258540ce3d66`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ghostbusters2J.ips).
 
 ## Gimmick Land
 
