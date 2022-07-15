@@ -201,6 +201,7 @@ Game | System
 [Choplifter II - Rescue and Survive](#choplifter-ii---rescue-and-survive) | GB
 [Classic Bubble Bobble](#classic-bubble-bobble) | GBC
 [Classic Bubble Bobble (E)](#classic-bubble-bobble-e) | GBC
+[Color Lines](#color-lines) | GBC
 [Color Test](#color-test) | GBC
 [Commander Keen](#commander-keen) | GBC
 [Conker's Pocket Tales](#conkers-pocket-tales) | GBC
@@ -2767,6 +2768,14 @@ This patch converts `Classic Bubble Bobble (E)` to the `.pocket` format.
 ROM MD5: `83f1b6f79b8f0fecc4427efc9fa7d732`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ClassicBubbleBobbleE.ips).
+
+## Color Lines
+
+This patch converts `Color Lines` to the `.pocket` format. You can get a copy of the ROM from the [developer's site](https://untoxa.itch.io/color-lines).
+
+ROM MD5: `dea87e807ab68250ac64c89fb996a59a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ColorLines.ips).
 
 ## Color Test
 
