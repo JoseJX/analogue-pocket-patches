@@ -1136,6 +1136,7 @@ Game | System
 [Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
 [Wario Land - Super Mario Land 3 DX](#wario-land---super-mario-land-3-dx) | GBC
 [Wario Land - Super Mario Land 3 DX (v1.1)](#wario-land---super-mario-land-3-dx-v1-1) | GBC
+[Wario Land - Super Mario Land 3 DX (v1.11)](#wario-land---super-mario-land-3-dx-v1-11) | GBC
 [Wario Land II](#wario-land-ii) | GB
 [Wave Race](#wave-race) | GB
 [WCW Mayhem](#wcw-mayhem) | GBC
@@ -10491,6 +10492,14 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 This patch converts `Wario Land - Super Mario Land 3 DX v1.1` to the `.pocket` format. This patch is applied after the [colorization patch](https://www.romhacking.net/hacks/6683/) has been applied to the original ROM, the MD5 below is for the patched ROM.
 
 ROM MD5: `8391fc21e0c5484f5ca2e4019022c2bd`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioLandDX_v1.1.ips).
+
+## Wario Land - Super Mario Land 3 DX (v1.11)
+
+This patch converts `Wario Land - Super Mario Land 3 DX v1.11` to the `.pocket` format. This patch is applied after the [colorization patch](https://www.romhacking.net/hacks/6683/) has been applied to the original ROM, the MD5 below is for the patched ROM.
+
+ROM MD5: `ee86481684427877fc8243daf7d79232`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioLandDX_v1.1.ips).
 
