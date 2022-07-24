@@ -1070,6 +1070,8 @@ Game | System
 [Tetris Blast](#tetris-blast) | GB
 [Tetris DX (Korobeiniki Music Patch)](#tetris-dx-korobeiniki-music-patch) | GBC
 [Tetris Plus](#tetris-plus) | GB
+[Thunderbirds](#thunderbirds) | GBC
+[Thunderbirds (En,Fr,De,Es,It)](#thunderbirds-en-fr-de-es-it) | GBC
 [Tiger Woods PGA Tour 2000](#tiger-woods-pga-tour-2000) | GBC
 [Tintin - Prisoners of the Sun](#tintin---prisoners-of-the-sun) | GBC
 [Tintin in Tibet](#tintin-in-tibet) | GBC
@@ -9950,6 +9952,22 @@ This patch converts `Tetris Plus (U,E)` to the `.pocket` format.
 ROM MD5: `4511333eeecb3c9f20874d595424447c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TetrisPlus.ips).
+
+## Thunderbirds
+
+This patch converts `Thunderbirds (E)` to the `.pocket` format.
+
+ROM MD5: `5164521245f41b0f3a51cffe0704d21d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ThunderbirdsE.ips).
+
+## Thunderbirds (En,Fr,De,Es,It)
+
+This patch converts `Thunderbirds (En,Fr,De,Es,It)` to the `.pocket` format.
+
+ROM MD5: `543fe119633338174899829b6d4c571f`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ThunderbirdsE_Localized.ips).
 
 ## Tiger Woods PGA Tour 2000
 
