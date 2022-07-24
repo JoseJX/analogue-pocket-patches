@@ -1071,6 +1071,7 @@ Game | System
 [Tetris DX (Korobeiniki Music Patch)](#tetris-dx-korobeiniki-music-patch) | GBC
 [Tetris Plus](#tetris-plus) | GB
 [Thunderbirds](#thunderbirds) | GBC
+[Thunderbirds (J)](#thunderbirds-j) | GB
 [Thunderbirds (En,Fr,De,Es,It)](#thunderbirds-en-fr-de-es-it) | GBC
 [Tiger Woods PGA Tour 2000](#tiger-woods-pga-tour-2000) | GBC
 [Tintin - Prisoners of the Sun](#tintin---prisoners-of-the-sun) | GBC
@@ -9960,6 +9961,14 @@ This patch converts `Thunderbirds (E)` to the `.pocket` format.
 ROM MD5: `5164521245f41b0f3a51cffe0704d21d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ThunderbirdsE.ips).
+
+## Thunderbirds (J)
+
+This patch converts `Thunderbirds (J)` to the `.pocket` format.
+
+ROM MD5: `6949e7e7307b0885898e5330e8a7e9cc`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ThunderbirdsJ.ips).
 
 ## Thunderbirds (En,Fr,De,Es,It)
 
