@@ -708,6 +708,7 @@ Game | System
 [Nettou Samurai Spirits - Zankurou Musouken](#nettou-samurai-spirits---zankurou-musouken) | GB
 [New Batman Adventures - Chaos in Gotham](#new-batman-adventures---chaos-in-gotham) | GBC
 [New Chessmaster](#new-chessmaster) | GB
+[New Chessmaster (J)](#new-chessmaster-j) | GB
 [Nemesis](#nemesis) | GB
 [Nemesis II](#nemesis-ii) | GB
 [New Addams Family Series](#new-addams-family-series) | GBC
@@ -6987,6 +6988,14 @@ This patch converts `New Chessmaster (U,E)` to the `.pocket` format.
 ROM MD5: `f395f7b8ce24e6da365b843adf7d763e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NewChessmaster.ips).
+
+## New Chessmaster (J)
+
+This patch converts `New Chessmaster (J)` to the `.pocket` format.
+
+ROM MD5: `25b34ebece0e2c54baf9dee4f5845292`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NewChessmasterJ.ips).
 
 ## Nemesis
 
