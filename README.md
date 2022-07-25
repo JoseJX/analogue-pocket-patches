@@ -1144,6 +1144,7 @@ Game | System
 [VR Pocket Manager](#vr-pocket-manager) | GB
 [Wacky Races](#wacky-races) | GBC
 [Walt Disney's Alice In Wonderland](#walt-disneys-alice-in-wonderland) | GBC
+[Walt Disney World Quest - Magical Racing Tour](#walt-disney-world-quest---magical-racing-tour) | GBC
 [Warlocked](#warlocked) | GBC
 [Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
 [Wario Land - Super Mario Land 3 DX](#wario-land---super-mario-land-3-dx) | GBC
@@ -10578,6 +10579,22 @@ It was updated to fix a crash when using the options menu. (2022/04/05)
 ROM MD5: `0ed5b9ffe7ad90d819cac810d05b669c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/AliceInWonderland.ips).
+
+## Walt Disney World Quest - Magical Racing Tour
+
+This patch converts `Walt Disney World Quest - Magical Racing Tour (U,E)` to the `.pocket` format.
+
+ROM MD5: `31e1af241f91ca3b9c165431258a4312`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WDWQuest-MagicalRacingTour.ips).
+
+## Walt Disney World Quest - Magical Racing Tour (E)
+
+This patch converts `Walt Disney World Quest - Magical Racing Tour (E) (E)` to the `.pocket` format.
+
+ROM MD5: `3ccf696ddc0e2ed66c26c2ff2cb9e12a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WDWQuest-MagicalRacingTourE.ips).
 
 ## Wario Blast featuring Bomberman!
 
