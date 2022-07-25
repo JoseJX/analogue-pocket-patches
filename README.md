@@ -444,6 +444,7 @@ Game | System
 [Hugo - Black Diamond Fever](#hugo---black-diamond-fever) | GBC
 [Hugo - The Evil Mirror](#hugo---the-evil-mirror) | GBC
 [Humans](#humans) | GB
+[Hunchback of Notre Dame - 5 Foolishly Fun Topsy Turvy Games](#hunchback-of-notre-dame---5-foolishly-fun-topsy-turvy-games) | GB
 [Hunt for Red October](#hunt-for-red-october) | GB
 [Hype - The Time Quest](#hype---the-time-quest) | GBC
 [Hyper Lode Runner](#hyper-lode-runner) | GB
@@ -4765,6 +4766,14 @@ This patch converts `The Humans (U)` to the `.pocket` format.
 ROM MD5: `4a1ecc8ccc706ed5fdce2fdab2aaf03e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Humans.ips).
+
+## Hunchback of Notre Dame - 5 Foolishly Fun Topsy Turvy Games
+
+This patch converts `Hunchback of Notre Dame - 5 Foolishly Fun Topsy Turvy Games (U,E)` to the `.pocket` format.
+
+ROM MD5: `3f55fde8e05a4d372f7f30a1f7398fb5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HunchbackOfNotreDame.ips).
 
 ## Hunt for Red October
 
