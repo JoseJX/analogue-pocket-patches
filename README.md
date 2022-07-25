@@ -385,6 +385,7 @@ Game | System
 [Geheimnis der Happy Hippo-Insel](#geheimnis-der-happy-hippo-insel) | GBC
 [Geheimnis der Happy Hippo-Insel (English Translation)](#geheimnis-der-happy-hippo-insel-english-translation) | GBC
 [Gekito Power Modeler](#gekito-power-modeler) | GB
+[Genesis](#genesis) | GB
 [George Foreman's KO Boxing](#george-foremans-ko-boxing) | GB
 [Getaway](#getaway) | GB
 [Gex - Enter the Gecko](#gex---enter-the-gecko) | GBC
@@ -4292,6 +4293,14 @@ This patch converts `Gekito Power Modeler (J)` to the `.pocket` format.
 ROM MD5: `255bca32093336ccbacdd185951c8727`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GPM.ips).
+
+## Genesis
+
+This patch converts `Genesis` to the `.pocket` format. You can get a copy of the ROM from the [developer's site](https://incube8games.com/products/genesis-gb).
+
+ROM MD5: `a95ef483162d0ca6824a08a5e68f90b0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Genesis.ips).
 
 ## George Foreman's KO Boxing
 
