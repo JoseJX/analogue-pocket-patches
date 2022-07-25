@@ -842,6 +842,7 @@ Game | System
 [QIX](#qix) | GB
 [QIX Adventure](#qix-adventure) | GBC
 [Quarth](#quarth) | GB
+[Quest Arrest](#quest-arrest) | GBC
 [Quest for Camelot](#quest-for-camelot) | GBC
 [Quest for Camelot (E)](#quest-for-camelot-e) | GBC
 [Quest RPG - Brian's Journey](#quest-rpg---brians-journey) | GBC
@@ -8104,6 +8105,14 @@ This patch converts `Quarth (U,E)` to the `.pocket` format.
 ROM MD5: `de2236723c8d218e04c93849ebcda72d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Quarth.ips).
+
+## Quest Arrest
+
+This patch converts `Quest Arrest` to the `.pocket` format. You can get a copy from the [developer's itch site](https://theretroroomroo.itch.io/questarrest).
+
+ROM MD5: `98ce3dda6530b382036478bf9850f1a1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/QuestArrest.ips).
 
 ## Quest for Camelot
 
