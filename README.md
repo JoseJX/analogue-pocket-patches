@@ -752,6 +752,7 @@ Game | System
 [Penta Dragon](#penta-dragon) | GB
 [Penta Dragon (English Translation)](#penta-dragon-english-translation) | GB
 [Perfect Dark](#perfect-dark) | GBC
+[Phantasm](#phantasm) | GB
 [Philip & Marlowe in Bloomland](#philip--marlowe-in-bloomland) | GB
 [Picross 2](#picross-2) | GB
 [Picross 2 (English Translation)](#picross-2-english-translation) | GB
@@ -7340,6 +7341,14 @@ This patch was updated to try to correct black screens after looting. (2022/01/1
 ROM MD5: `840e1ddb2696ecae487fd264a3c34581`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PerfectDark.ips).
+
+## Phantasm
+
+This patch converts `Phantasm (J)` to the `.pocket` format.
+
+ROM MD5: `2a457900607b2bf87d1377f066d7aa44`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Phantasm.ips).
 
 ## Philip & Marlowe in Bloomland
 
