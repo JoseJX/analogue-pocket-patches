@@ -1058,6 +1058,7 @@ Game | System
 [Tasmania Monogatari](#tasmania-monogatari) | GB
 [Tasmania Story](#tasmania-story) | GB
 [Taz-Mania](#taz-mania) | GB
+[Taz-Mania (E)](#taz-mania-e) | GB
 [Taz-Mania 2](#taz-mania-2) | GB
 [Tecmo Bowl](#tecmo-bowl) | GB
 [Teenage Mutant Ninja Turtles - Fall of the Foot Clan](#teenage-mutant-ninja-turtles---fall-of-the-foot-clan) | GB
@@ -9857,6 +9858,14 @@ This patch converts `Taz-Mania (U,E)` to the `.pocket` format.
 ROM MD5: `9db0e1e39aa5a40471911a40e12ba739`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TazMania.ips).
+
+## Taz-Mania (E)
+
+This patch converts `Taz-Mania (E)` to the `.pocket` format.
+
+ROM MD5: `bb922ce354fc5caec500f99985a07c39`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TazManiaE.ips).
 
 ## Taz-Mania 2
 
