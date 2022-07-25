@@ -453,6 +453,7 @@ Game | System
 [Ikari no Yousai 2](#ikari-no-yousai-2) | GB
 [Ikari no Yousai 2 (English Translation)](#ikari-no-yousai-2-english-translation) | GB
 [Incredible Crash Dummies](#incredible-crash-dummies) | GB
+[IndestructoTank!](#indestructotank) | GB
 [Indiana Jones and the Infernal Machine](#indiana-jones-and-the-infernal-machine) | GBC
 [Indiana Jones and the Last Crusade](#indiana-jones-and-the-last-crusade) | GB
 [INFGMB - Infocom Z-Machine Interpreter](#infgmb) | GBC
@@ -4845,6 +4846,14 @@ This patch converts `Incredible Crash Dummies (U,E)` to the `.pocket` format.
 ROM MD5: `c21058af21efc29413797f0a2c532e16`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/IncredibleCrashDummies.ips).
+
+## IndestructoTank!
+
+This patch converts `IndestructoTank!` to the `.pocket` format. You can get a copy of the game from the [developer's site](https://incube8games.com/products/indestructotank-gb).
+
+ROM MD5: `71e215d472c7e2e27b70749dea9bffe1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/IndestructoTank.ips)
 
 ## Indiana Jones and the Infernal Machine
 
