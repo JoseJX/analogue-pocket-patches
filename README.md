@@ -1209,6 +1209,7 @@ Game | System
 [Yoshi no Cookie](#yoshi-no-cookie) | GB
 [Yoshi no Tomago](#yoshi-no-tomago) | GB
 [Yu-Gi-Oh! - Dark Duel Stories](#yu-gi-oh---dark-duel-stories) | GBC
+[Yu-Gi-Oh! Das Dunkle Duell](#yu-gi-oh-das-dunkle-duell) | GBC
 [Yu-Gi-Oh! Duel Monsters](#yu-gi-oh-duel-monsters) | GB
 [Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories](#yu-gi-oh-duel-monsters-ii---dark-duel-stories) | GBC
 [Zelda no Densetsu: Yume o Miru Shima](#zelda-no-densetsu-yume-o-miru-shima) | GB
@@ -11119,6 +11120,14 @@ This patch converts `Yu-Gi-Oh! - Dark Duel Stories (U)` to the `.pocket` format.
 ROM MD5: `c30add585d87114288ff8e3726c5381b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YuGiOh-DDS.ips).
+
+## Yu-Gi-Oh! Das Dunkle Duell
+
+This patch converts `Yu-Gi-Oh! Das Dunkle Duell (DE)` to the `.pocket` format.
+
+ROM MD5: `b928699d63702e21a3599b887b947041`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YuGiOhDasDunkleDuell.ips).
 
 ## Yu-Gi-Oh! Duel Monsters
 
