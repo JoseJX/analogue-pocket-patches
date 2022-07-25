@@ -767,6 +767,8 @@ Game | System
 [Pinball Fantasies](#pinball-fantasies) | GB
 [Pineapple Kid](#pineapple-kid) | GB
 [Pine Creek](#pine-creek) | GBC
+[Pine Creek (Catalan)](#pine-creek-catalan) | GBC
+[Pine Creek (GB)](#pine-creek-gb) | GB
 [Pipe Dream](#pipe-dream) | GB
 [Pitfall - Beyond the Jungle](#pitfall---beyond-the-jungle) | GBC
 [Planet Hop - Demo](#planet-hop---demo) | GBC
@@ -7471,6 +7473,22 @@ This patch converts `Pine Creek` to the `.pocket` format. You can get a copy of 
 ROM MD5: `f2a7d981ff292ef19673ca132c00ce02`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PineCreekUMC.ips).
+
+## Pine Creek (Catalan)
+
+This patch converts `Pine Creek (Catalan)` to the `.pocket` format. You can get a copy of the game from the [developer's site](https://incube8games.com/collections/digital-editions/products/pine-creek-gbc-digital-edition).
+
+ROM MD5: `8c39ac2a57d47b5e721301d0706f918e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PineCreekCatalan.ips).
+
+## Pine Creek (GB)
+
+This patch converts `Pine Creek (GB)` to the `.pocket` format.
+
+ROM MD5: `c62d71022ad43f6aeb0f51095275214b`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/PineCreekUM.ips).
 
 ## Pipe Dream
 
