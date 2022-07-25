@@ -197,6 +197,7 @@ Game | System
 [Chee-Chai Alien](#chee-chai-alien) | GBC
 [Cherry Rescue](#cherry-rescue) | GB
 [Chessmaster](#chessmaster) | GB
+[Chessmaster (GBC)](#chessmaster-gbc) | GBC
 [Chicken Run](#chicken-run) | GBC
 [Choplifter II - Rescue and Survive](#choplifter-ii---rescue-and-survive) | GB
 [Classic Bubble Bobble](#classic-bubble-bobble) | GBC
@@ -2744,6 +2745,14 @@ This patch converts `Chessmaster (U)` to the `.pocket` format.
 ROM MD5: `3db9f9f0c5913d3c9f7b5d5fbf7b5e02`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Chessmaster.ips).
+
+## Chessmaster (GBC)
+
+This patch converts `Chessmaster (GBC) (U,E)` to the `.pocket` format.
+
+ROM MD5: `f0ae420d6ce590baac5b2ca03f4b2ba6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ChessmasterGBC.ips).
 
 ## Chicken Run
 
