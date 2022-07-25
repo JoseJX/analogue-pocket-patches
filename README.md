@@ -7484,7 +7484,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Pine Creek (GB)
 
-This patch converts `Pine Creek (GB)` to the `.pocket` format.
+This patch converts `Pine Creek (GB)` to the `.pocket` format. You can get a copy of the game from the [developer's site](https://incube8games.com/collections/digital-editions/products/pine-creek-gbc-digital-edition).
 
 ROM MD5: `c62d71022ad43f6aeb0f51095275214b`
 
