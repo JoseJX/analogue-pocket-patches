@@ -197,6 +197,9 @@ Game | System
 [Chee-Chai Alien](#chee-chai-alien) | GBC
 [Cherry Rescue](#cherry-rescue) | GB
 [Chessmaster](#chessmaster) | GB
+[Chessmaster (E)](#chessmaster-e) | GB
+[Chessmaster (J)](#chessmaster-j) | GB
+[Chessmaster (Rev A)](#chessmaster-rev-a) | GB
 [Chessmaster (GBC)](#chessmaster-gbc) | GBC
 [Chicken Run](#chicken-run) | GBC
 [Choplifter II - Rescue and Survive](#choplifter-ii---rescue-and-survive) | GB
@@ -2745,6 +2748,30 @@ This patch converts `Chessmaster (U)` to the `.pocket` format.
 ROM MD5: `3db9f9f0c5913d3c9f7b5d5fbf7b5e02`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Chessmaster.ips).
+
+## Chessmaster (E)
+
+This patch converts `Chessmaster (E)` to the `.pocket` format.
+
+ROM MD5: `fb62e511419ff8ea89ee1cf558e7208a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ChessmasterE.ips).
+
+## Chessmaster (J)
+
+This patch converts `Chessmaster (J)` to the `.pocket` format.
+
+ROM MD5: `f04f23d228f03311545b1b3bb9b3b73c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ChessmasterJ.ips).
+
+## Chessmaster (Rev A)
+
+This patch converts `Chessmaster (Rev A) (U)` to the `.pocket` format.
+
+ROM MD5: `6b6d4a25d3c1e2890b22271c44e62dbf`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ChessmasterA.ips).
 
 ## Chessmaster (GBC)
 
