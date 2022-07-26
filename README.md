@@ -92,6 +92,7 @@ Game | System
 [Balloon Fight GB (English Translation](#balloon-fight-gb-english-translation) | GBC
 [Banishing Racer](#banishing-racer) | GB
 [Banishing Racer (English Translation)](#banishing-racer-english-translation) | GB
+[Barbie - Game Girl](#barbie---game-girl) | GB
 [Bart and the Beanstalk](#bart-and-the-beanstalk) | GB
 [Bart no Jack to Mame no Ki](#bart-no-jack-to-mame-no-ki) | GB
 [Bart Simpson's Escape from Camp Deadly](#bart-simpsons-escape-from-camp-deadly) | GB
@@ -1904,6 +1905,14 @@ This patch converts `Banishing Racer (English Translation)` to the `.pocket` for
 ROM MD5: `fa8b94ede7e7192c0ccd2fff6c51e948`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BanishingRacer.ips).
+
+## Barbie - Game Girl
+
+This patch converts `Barbie - Game Girl (U,E)` to the `.pocket` format.
+
+ROM MD5: `159c8ca77e153b1cc5fe6d5d82a091c2`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BarbieGameGirl.ips).
 
 ## Bart and the Beanstalk
 
