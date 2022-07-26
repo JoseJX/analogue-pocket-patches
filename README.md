@@ -10396,15 +10396,15 @@ ROM MD5: `9ab4e706b5dd1bb68b4e29a0174c330d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TrackMeet.ips).
 
-
 ## Trade and Battle Card Hero
 
 This patch converts `Trade and Battle Card Hero (J)` to the `.pocket` format.
 
+This patch was updated to fix an issue with saving. (2022/07/26)
+
 ROM MD5: `92d36245a65305a209700608971b0597`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TnBCardHero.ips).
-
 
 ## Trax
 
