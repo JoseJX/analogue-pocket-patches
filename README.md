@@ -1156,6 +1156,7 @@ Game | System
 [Wacky Races](#wacky-races) | GBC
 [Walt Disney's Alice In Wonderland](#walt-disneys-alice-in-wonderland) | GBC
 [Walt Disney World Quest - Magical Racing Tour](#walt-disney-world-quest---magical-racing-tour) | GBC
+[Walt Disney World Quest - Magical Racing Tour (E)](#walt-disney-world-quest---magical-racing-tour-e) | GBC
 [Warlocked](#warlocked) | GBC
 [Wario Blast featuring Bomberman!](#wario-blast-featuring-bomberman) | GB
 [Wario Land - Super Mario Land 3 DX](#wario-land---super-mario-land-3-dx) | GBC
