@@ -492,6 +492,8 @@ Game | System
 [Karakuri Kengou Den - Musashi Lord](#karakuri-kengou-den---musashi-lord) | GB
 [Karakuri Kengou Den - Musashi Lord (English Translation)](#karakuri-kengou-den---musashi-lord-english-translation) | GB
 [Keep the Balance](#keep-the-balance) | GBC
+[Keitai Denjuu Telefang - Power Version](#keitai-denjuu-telefang---power-version) | GBC
+[Keitai Denjuu Telefang - Speed Version](#keitai-denjuu-telefang---speed-version) | GBC
 [Ken Griffey Jr. Presents Major League Baseball](#ken-griffey-jr-presents-major-league-baseball) | GB
 [Ken Griffey Jr.'s Slugfest](#ken-griffey-jrs-slugfest) | GBC
 [Kid Dracula](#kid-dracula) | GB
@@ -5177,6 +5179,22 @@ This patch converts `Keep the Balance (E)` to the `.pocket` format.
 ROM MD5: `d5161ed7380af488b22302691c9a33cd`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KeepTheBalance.ips).
+
+## Keitai Denjuu Telefang - Power Version
+
+This patch converts `Keitai Denjuu Telefang - Power Version (J)` to the `.pocket` format.
+
+ROM MD5: `04f7ea139fef2bc2e3f70b2c23933d2e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TelefangPower.ips).
+
+## Keitai Denjuu Telefang - Speed Version
+
+This patch converts `Keitai Denjuu Telefang - Speed Version (J)` to the `.pocket` format.
+
+ROM MD5: `ebfe05828463cc004898e6a95ee57fea`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TelefangSpeed.ips).
 
 ## Ken Griffey Jr. Presents Major League Baseball
 
