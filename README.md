@@ -179,6 +179,7 @@ Game | System
 [Cannon Fodder](#cannon-fodder) | GBC
 [Cannon Fodder (E)](#cannon-fodder-e) | GBC
 [Captain America and the Avengers](#captain-america-and-the-avengers) | GB
+[Cardcaptor Sakura - Itsumo Sakura-chan to Issho](#cardcaptor-sakura---itsumo-sakura-chan-to-issho) | GBC
 [Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai](#cardcaptor-sakura---tomoeda-shougakkou-daiundoukai) | GBC
 [Carmageddon - Carpocalypse Now](#carmageddon---carpocalypse-now) | GBC
 [Carmageddon TDR 2000](#carmageddon-tdr-2000) | GBC
@@ -2606,6 +2607,14 @@ This patch converts `Captain America and the Avengers (U)` to the `.pocket` form
 ROM MD5: `dd5d45d9f8722f8ded9ab85097daa4e5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CaptainAmerica.ips).
+
+## Cardcaptor Sakura - Itsumo Sakura-chan to Issho
+
+This patch converts `Cardcaptor Sakura - Itsumo Sakura-chan to Issho (J)` to the `.pocket` format.
+
+ROM MD5: `60f6fbdd07d01ad1835269fdeaebb83d`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/CardcaptorSakuraItsumo.ips).
 
 ## Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai
 
