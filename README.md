@@ -403,6 +403,7 @@ Game | System
 [God Medicine - Hukkoku Ban](#god-medicine---hukkoku-ban) | GB
 [God Medicine - Hukkoku Ban (English Translation)](#god-medicine---hukkoku-ban-english-translation) | GB
 [Godzilla](#godzilla) | GB
+[Godzilla - The Series](#godzilla---the-series) | GBC
 [Gold and Glory - The Road to El Dorado](#gold-and-glory---the-road-to-el-dorado) | GBC
 [Go! Go! Tank](#go-go-tank) | GB
 [Gradius - The Interstellar Assault](#gradius---the-interstellar-assault) | GB
@@ -4450,6 +4451,22 @@ This patch converts `Godzilla (U,E)` to the `.pocket` format.
 ROM MD5: `e83411adccf5266f2deb263e67b68bc1`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Godzilla.ips).
+
+## Godzilla - The Series
+
+This patch converts `Godzilla - The Series (U)` to the `.pocket` format.
+
+ROM MD5: `7b4345daf8ebda416a84c5932bf817ec`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GodzillaTheSeries.ips).
+
+## Godzilla - The Series (E)
+
+This patch converts `Godzilla - The Series (E)` to the `.pocket` format.
+
+ROM MD5: `149073afd1cf8ae83783143a166592f7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GodzillaTheSeries.ips).
 
 ## Gold and Glory - The Road to El Dorado
 
