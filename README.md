@@ -404,6 +404,9 @@ Game | System
 [God Medicine - Hukkoku Ban (English Translation)](#god-medicine---hukkoku-ban-english-translation) | GB
 [Godzilla](#godzilla) | GB
 [Godzilla - The Series](#godzilla---the-series) | GBC
+[Godzilla - The Series (E)](#godzilla---the-series-e) | GBC
+[Godzilla - The Series - Monster Wars](#godzilla---the-series---monster-wars) | GBC
+[Godzilla - The Series - Monster Wars (E)](#godzilla---the-series---monster-wars-e) | GBC
 [Gold and Glory - The Road to El Dorado](#gold-and-glory---the-road-to-el-dorado) | GBC
 [Go! Go! Tank](#go-go-tank) | GB
 [Gradius - The Interstellar Assault](#gradius---the-interstellar-assault) | GB
@@ -4467,6 +4470,22 @@ This patch converts `Godzilla - The Series (E)` to the `.pocket` format.
 ROM MD5: `149073afd1cf8ae83783143a166592f7`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GodzillaTheSeries.ips).
+
+## Godzilla - The Series - Monster Wars
+
+This patch converts `Godzilla - The Series - Monster Wars (U)` to the `.pocket` format.
+
+ROM MD5: `597bd5a8aa26af757cba57aff575eaa3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GodzillaTheSeriesMonsterWars.ips).
+
+## Godzilla - The Series - Monster Wars (E)
+
+This patch converts `Godzilla - The Series - Monster Wars (E)` to the `.pocket` format.
+
+ROM MD5: `6f67b154450bd3d88924c179f8165721`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GodzillaTheSeriesMonsterWarsE.ips).
 
 ## Gold and Glory - The Road to El Dorado
 
