@@ -1036,6 +1036,8 @@ Game | System
 [Super Mario Land 2 - 6 Golden Coins (Rev A)](#super-mario-land-2---6-golden-coins-rev-a) | GB
 [Super Mario Land 2 - 6 Golden Coins (Rev B)](#super-mario-land-2---6-golden-coins-rev-b) | GB
 [Super Mario Land 2 - 6-tsu no Kinka](#super-mario-land-2---6-tsu-no-kinka) | GB
+[Super Mario Land 2 DX - 6-tsu no Kinka](#super-mario-land-2-dx---6-tsu-no-kinka) | GBC
+[Super Mario Land 2 DX](#super-mario-land-2-dx) | GBC
 [Super Mario Land 2 DX and Patches](#super-mario-land-2-dx-and-patches) | GBC
 [Super Momotarou Dentetsu II](#super-momotarou-dentetsu-ii) | GB
 [Super Off Road](#super-off-road) | GB
@@ -9694,6 +9696,22 @@ This patch converts `Super Mario Land 2 - 6-tsu no Kinka (J)` to the `.pocket` f
 ROM MD5: `98dab710bdf256c1f1cf92c31d58d632`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SML2J.ips).
+
+## Super Mario Land 2 DX - 6-tsu no Kinka
+
+This patch converts `Super Mario Land 2 DX - 6-tsu no Kinka (J)` to the `.pocket` format. First, apply the [colorization patch](https://www.romhacking.net/hacks/3784/) to the J version of the ROM, then apply this patch. 
+
+ROM MD5: `55935b66d1a130967dffc6e911d4e42e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SML2DXJ_v1.81.ips).
+
+## Super Mario Land 2 DX
+
+This patch converts `Super Mario Land 2 DX: Six Golden Coins (U,E)` to the `.pocket` format. First, apply the [colorization patch](https://www.romhacking.net/hacks/3784/) to the ROM, then apply this patch. 
+
+ROM MD5: `946a4a60bbd5328ca2250d5f9f0606c7`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SML2DX_v1.81.ips).
 
 ## Super Mario Land 2 DX and Patches
 
