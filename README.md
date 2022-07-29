@@ -409,7 +409,7 @@ Game | System
 [Godzilla - The Series - Monster Wars (E)](#godzilla---the-series---monster-wars-e) | GBC
 [Gold and Glory - The Road to El Dorado](#gold-and-glory---the-road-to-el-dorado) | GBC
 [Go! Go! Tank](#go-go-tank) | GB
-[Graal V1.1 - Adventure Demo](#graal-v1-1---adventure-demo) | GBC
+[Graal V1.1 - Adventure Demo](#graal-v11---adventure-demo) | GBC
 [Gradius - The Interstellar Assault](#gradius---the-interstellar-assault) | GB
 [Grand Theft Auto](#grand-theft-auto) | GBC
 [Grand Theft Auto 2](#grand-theft-auto-2) | GBC
