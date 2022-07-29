@@ -409,6 +409,7 @@ Game | System
 [Godzilla - The Series - Monster Wars (E)](#godzilla---the-series---monster-wars-e) | GBC
 [Gold and Glory - The Road to El Dorado](#gold-and-glory---the-road-to-el-dorado) | GBC
 [Go! Go! Tank](#go-go-tank) | GB
+[Graal V1.1 - Adventure Demo](#graal-v1-1---adventure-demo) | GBC
 [Gradius - The Interstellar Assault](#gradius---the-interstellar-assault) | GB
 [Grand Theft Auto](#grand-theft-auto) | GBC
 [Grand Theft Auto 2](#grand-theft-auto-2) | GBC
@@ -4502,6 +4503,14 @@ This patch converts `Go! Go! Tank (U)` to the `.pocket` format.
 ROM MD5: `23824d72928a05e9fcf052d42f3c91c6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GoGoTank.ips).
+
+## Graal V1.1 - Adventure Demo
+
+This patch converts `Graal V1.1 - Adventure Demo` to the `.pocket` format.
+
+ROM MD5: `2b2fef91df11f9fbae3e1ece2366fdd3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Graal_v1.1.ips).
 
 ## Gradius - The Interstellar Assault
 
