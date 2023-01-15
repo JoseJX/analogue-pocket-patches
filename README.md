@@ -641,7 +641,7 @@ Game | System
 [Mega Man IV (E)](#mega-man-iv-e) | GB
 [Mega Man V](#mega-man-v) | GB
 [Mega Man V (E)](#mega-man-v-e) | GB
-[Mega Man World 5 DX (v1.0)](#mega-man-world-5-dx-v1-0) | GBC
+[Mega Man World 5 DX (v1.0)](#mega-man-world-5-dx-v10) | GBC
 [Mega Man Xtreme](#mega-man-xtreme) | GBC
 [Mega Man Xtreme 2](#mega-man-xtreme-2) | GBC
 [Megami Tensei Gaiden - Last Bible II](#megami-tensei-gaiden---last-bible-ii) | GBC
