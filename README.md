@@ -641,6 +641,7 @@ Game | System
 [Mega Man IV (E)](#mega-man-iv-e) | GB
 [Mega Man V](#mega-man-v) | GB
 [Mega Man V (E)](#mega-man-v-e) | GB
+[Mega Man World 5 DX (v1.0)](#mega-man-world-5-dx-v1-0) | GBC
 [Mega Man Xtreme](#mega-man-xtreme) | GBC
 [Mega Man Xtreme 2](#mega-man-xtreme-2) | GBC
 [Megami Tensei Gaiden - Last Bible II](#megami-tensei-gaiden---last-bible-ii) | GBC
@@ -6458,6 +6459,16 @@ This patch converts `Mega Man V (E)` to the `.pocket` format.
 ROM MD5: `b53fe06db30ab689153135990354dd5a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan5E.ips).
+
+## Mega Man World 5 DX (v1.0)
+
+This patch converts `Mega Man World 5 DX (v1.0)` to the `.pocket` format.
+
+First, apply the [conversion IPS](https://www.romhacking.net/translations/7413/) to the Mega Man V (USA) ROM, then apply the following patch. The MD5 provided here is for the ROM with the DX conversion patch applied.
+
+ROM MD5: `b98ce4d1606c2fd533557b3cd16de789`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/mmw5dx_v1_0.ips).
 
 ## Mega Man Xtreme
 
