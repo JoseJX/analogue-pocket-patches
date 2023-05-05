@@ -642,6 +642,7 @@ Game | System
 [Mega Man V](#mega-man-v) | GB
 [Mega Man V (E)](#mega-man-v-e) | GB
 [Mega Man World 5 DX (v1.0)](#mega-man-world-5-dx-v10) | GBC
+[Mega Man World 5 DX (1.5.1)](#mega-man-world-5-dx-1-5-1) | GBC
 [Mega Man Xtreme](#mega-man-xtreme) | GBC
 [Mega Man Xtreme 2](#mega-man-xtreme-2) | GBC
 [Megami Tensei Gaiden - Last Bible II](#megami-tensei-gaiden---last-bible-ii) | GBC
@@ -6469,6 +6470,14 @@ First, apply the [conversion IPS](https://www.romhacking.net/translations/7413/)
 ROM MD5: `b98ce4d1606c2fd533557b3cd16de789`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/mmw5dx_v1_0.ips).
+
+## Mega Man World 5 DX (1.5.1)
+
+This patch converts `Mega Man World 5 DX (1.5.1)` to the `.pocket` format.
+
+ROM MD5: `4a8d49921209f1a96861a410fdf6c754`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/mmw5dx_v1_5_1.ips).
 
 ## Mega Man Xtreme
 
