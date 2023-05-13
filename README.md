@@ -136,6 +136,7 @@ Game | System
 [Block Kuzushi GB](#block-kuzushi-gb) | GB
 [Block Kuzushi GB (English Translation)](#block-kuzushi-gb-english-translation) | GB
 [Blues Brothers](#blues-brothers) | GB
+[Blue's Clues - Blue's Alphabet Book](#blues-clues---blues-alphabet-book) | GBC
 [Boggle Plus](#boggle-plus) | GB
 [Bo Jackson - Two Games in One](#bo-jackson---two-games-in-one) | GB
 [Bokujou Monogatari GB](#bokujou-monogatari-gb) | GB
@@ -2278,6 +2279,14 @@ This patch converts `Blues Brothers (U,E)` to the `.pocket` format.
 ROM MD5: `ceaedf86193a8708a8a67e0e472b57fb`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BluesBrothers.ips).
+
+## Blue's Clues - Blue's Alphabet Book
+
+This patch converts `Blue's Clues - Blue's Alphabet Book (U)` to the `.pocket` format.
+
+ROM MD5: `6af9bb4957485a0f5cebc9b44e805392`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/BluesAlphabetBook.ips).
 
 ## Boggle Plus
 
