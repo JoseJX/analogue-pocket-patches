@@ -620,6 +620,7 @@ Game | System
 [Masakari Densetsu - Kintarou Action Hen](#masakari-densetsu---kintarou-action-hen) | GB
 [Masakari Densetsu - Kintarou Action Hen (English Translation)](#masakari-densetsu---kintarou-action-hen-english-translation) | GB
 [Mat Hoffman's Pro BMX](#mat-hoffmans-pro-bmx) | GBC
+[Matchbox Emergency Patrol](#matchbox-emergency-patrol) | GBC
 [Maui Mallard](#maui-mallard) | GB
 [Max](#max) | GB
 [McDonaldland](#mcdonaldland) | GB
@@ -6249,6 +6250,14 @@ This patch converts `Mat Hoffman's Pro BMX (U)` to the `.pocket` format.
 ROM MD5: `8bf8f9a1e0080d257820ec5506a3fc8f`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MatHoffmanProBMX.ips).
+
+## Matchbox Emergency Patrol
+
+This patch converts `Matchbox Emergency Patrol (U,E)` to the `.pocket` format.
+
+ROM MD5: `b717e9a48b44a5d367e8bcb4a5e68535`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MatchboxEmergencyPatrol.ips).
 
 ## Maui Mallard
 
