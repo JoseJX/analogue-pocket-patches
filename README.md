@@ -68,6 +68,7 @@ Game | System
 [Aretha](#aretha) | GB
 [Aretha II](#aretha-ii) | GB
 [Aretha III](#aretha-iii) | GB
+[Armada FX Racers](#armada-fx-racers) | GBC
 [Army Men](#army-men) | GBC
 [Army Men 2](#army-men-2) | GBC
 [Army Men - Air Combat](#army-men---air-combat) | GBC
@@ -1730,6 +1731,14 @@ This patch converts `Aretha III (J)` to the `.pocket` format.
 ROM MD5: `bb0cca048a51ddbae426221bb3d2e508`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Aretha3.ips).
+
+## Armada FX Racers
+
+This patch converts `Armada FX Racers (U)` to the `.pocket` format.
+
+ROM MD5: `43527e9aff69649306c749da2d3c72c0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ArmadaFXRacers.ips).
 
 ## Army Men
 
