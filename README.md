@@ -211,6 +211,7 @@ Game | System
 [Choplifter II - Rescue and Survive](#choplifter-ii---rescue-and-survive) | GB
 [Classic Bubble Bobble](#classic-bubble-bobble) | GBC
 [Classic Bubble Bobble (E)](#classic-bubble-bobble-e) | GBC
+[Colin McRae Rally](#colin-mcrae-rally) | GBC
 [Color Lines](#color-lines) | GBC
 [Color Test](#color-test) | GBC
 [Commander Keen](#commander-keen) | GBC
@@ -2895,6 +2896,14 @@ This patch converts `Classic Bubble Bobble (E)` to the `.pocket` format.
 ROM MD5: `83f1b6f79b8f0fecc4427efc9fa7d732`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ClassicBubbleBobbleE.ips).
+
+## Colin McRae Rally
+
+This patch converts `Colin McRae Rally (E)` to the `.pocket` format.
+
+ROM MD5: `8fbc58ce16cc0c571eb43a8038c97e83`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/ColinMcRaeRally.ips).
 
 ## Color Lines
 
