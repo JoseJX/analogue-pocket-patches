@@ -423,6 +423,7 @@ Game | System
 [Great Greed](#great-greed) | GB
 [Gremlins 2 - The New Batch](#gremlins-2---the-new-batch) | GB
 [Gremlins Unleashed](#gremlins-unleashed) | GBC
+[Grinch](#grinch) | GBC
 [Gunship](#gunship) | GB
 [Hammerin' Harry - Ghost Building Company](#hammerin-harry---ghost-building-company) | GB
 [Hamtaro - Ham-Hams Unite!](#hamtaro---ham-hams-unite) | GBC 
@@ -4632,6 +4633,14 @@ This patch converts `Gremlins Unleashed (E)` to the `.pocket` format.
 ROM MD5: `d05a9da7cd90cc9822e9655fb5476d54`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GremlinsUnleashed.ips).
+
+## Grinch
+
+This patch converts `Grinch (U)` to the `.pocket` format.
+
+ROM MD5: `42ad3639f6abf013d5dacd4358abf6ca`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Grinch.ips).
 
 ## Gunship
 
