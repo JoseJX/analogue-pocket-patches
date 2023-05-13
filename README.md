@@ -486,6 +486,7 @@ Game | System
 [Joe and Mac](#joe-and-mac) | GB
 [Joe and Mac - Caveman Ninja](#joe-and-mac---caveman-ninja) | GB
 [John Madden Football](#john-madden-football) | GB
+[Jordan vs. Bird - One on One](#jordan-vs-bird---one-on-one) | GB
 [Judge Dredd](#judge-dredd) | GB
 [Jungle Book - Mowgli's Wild Adventure](#jungle-book---mowglis-wild-adventure) | GBC
 [Jungle Book - Mowgli's Wild Adventure (E)](#jungle-book---mowglis-wild-adventure-e) | GBC
@@ -5146,6 +5147,14 @@ Note: This game was unreleased.
 ROM MD5: `e76328b0795af8cd85a70e84c1ef4722`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JohnMadden.ips).
+
+## Jordan vs. Bird - One on One
+
+This patch converts `Jordan vs. Bird - One on One (U,E)` to the `.pocket` format.
+
+ROM MD5: `99314aee7dea4221cb38c03216239a51`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JordanVsBird.ips).
 
 ## Judge Dredd
 
