@@ -359,6 +359,7 @@ Game | System
 [Flintstones - King Rock Treasure Island](#flintstones---king-rock-treasure-island) | GB
 [Flipull](#flipull) | GB
 [Force 21](#force-21) | GBC
+[Fort Boyard](#fort-boyard) | GBC
 [Fortified Zone](#fortified-zone) | GB
 [Friday the 13th the GB Game](#friday-the-13th-the-gb-game) | GBC
 [Frogger](#frogger) | GB
@@ -4103,6 +4104,14 @@ This patch converts `Force 21 (U)` to the `.pocket` format.
 ROM MD5: `2a447279016f60776b5c0f515b5b97f5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Force21.ips).
+
+## Fort Boyard
+
+This patch converts `Fort Boyard (E)` to the `.pocket` format.
+
+ROM MD5: `21ae960e6c5a42b498b00fa6f635b1e1`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/FortBoyard.ips).
 
 ## Fortified Zone
 
