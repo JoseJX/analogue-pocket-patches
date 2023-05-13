@@ -582,6 +582,7 @@ Game | System
 [Looney Tunes Collector - Martian Revenge!](#looney-tunes-collector---martian-revenge) | GBC
 [Looney Tunes - Twouble!](#looney-tunes---twouble) | GBC
 [Loopz](#loopz) | GB
+[Lost World - Jurassic Park](#lost-world---jurassic-park) | GB
 [Lucky Luke](#lucky-luke) | GBC
 [Lucky Luke (E)](#lucky-luke-e) | GBC
 [Lucky Luke - Desperado Train](#lucky-luke---desperado-train) | GBC
@@ -5936,6 +5937,14 @@ This patch converts `Loopz (W)` to the `.pocket` format.
 ROM MD5: `7e68c061d77a2e8925442a9b6fa0a0ed`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Loopz.ips).
+
+## Lost World - Jurassic Park
+
+This patch converts `Lost World - Jurassic Park (U,E)` to the `.pocket` format.
+
+ROM MD5: `81ad77f41587aab8e452f42cc0252e26`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/JurassicParkLostWorld.ips).
 
 ## Lucky Luke
 
