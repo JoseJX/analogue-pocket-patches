@@ -940,6 +940,7 @@ Game | System
 [Scrabble](#scrabble) | GBC
 [Seiken Densetsu - Final Fantasy Gaiden](#seiken-densetsu---final-fantasy-gaiden) | GB
 [Sensible Soccer - European Champions](#sensible-soccer---european-champions) | GB
+[Sesame Street Sports](#sesame-street-sports) | GBC
 [Sgt. Rock - On the Frontline](#sgt-rock---on-the-frontline) | GBC
 [Shadowgate Classic](#shadowgate-classic) | GBC
 [Shamus](#shamus) | GBC
@@ -8943,6 +8944,14 @@ This patch converts `Sensible Soccer - European Champions (E)` to the `.pocket` 
 ROM MD5: `3ae8eceb23913aeb1a655da481541a6b`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SensibleSoccerEuropeanChampions.ips).
+
+## Sesame Street Sports
+
+This patch converts `Sesame Street Sports (U)` to the `.pocket` format.
+
+ROM MD5: `6814576ee449d4119027dc4a85b92555`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SesameStreetSports.ips).
 
 ## Sgt. Rock - On the Frontline
 
