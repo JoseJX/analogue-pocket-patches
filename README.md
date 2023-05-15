@@ -711,6 +711,7 @@ Game | System
 [Ms. Pac-Man](#ms-pac-man) | GB
 [Ms. Pac-Man - Special Color Edition](#ms-pac-man---special-color-edition) | GBC
 [MTV Sports - Pure Ride](#mtv-sports---pure-ride) | GBC
+[Mulan](#mulan) | GB
 [Music Tech V1](#music-tech-v1) | GB
 [Music Tech V1 - Patched](#music-tech-v1---patched) | GB
 [Music Tech V2](#music-tech-v2) | GB
@@ -7052,6 +7053,14 @@ This patch converts `MTV Sports - Pure Ride (U,E)` to the `.pocket` format.
 ROM MD5: `94e1575453f54cbe157d13eae6e78d92`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/MTVPureRide.ips).
+
+## Mulan
+
+This patch converts `Mulan (U,E)` to the `.pocket` format.
+
+ROM MD5: `314ca1610e00861bc97611c8f874503a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Mulan.ips).
 
 ## Music Tech V1
 
