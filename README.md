@@ -523,6 +523,7 @@ Game | System
 [Kirby's Dream Land DX with Fluffy Repair Service - Plus](#kirbys-dream-land-dx-with-fluffy-repair-service---plus) | GBC
 [Kirby's Dream Land 2](#kirbys-dream-land-2) | GB
 [Kirby's Dream Land 2 DX (1.0b)](#kirbys-dream-land-2-dx-1-0b) | GBC
+[Kirby's Dream Land 2 DX (1.1)](#kirbys-dream-land-2-dx-1-1) | GBC
 [Kirby's Pinball Land](#kirbys-pinball-land) | GB
 [Kirby's Pinball Land DX](#kirbys-pinball-land-dx) | GBC
 [Kirby's Star Stacker](#kirbys-star-stacker) | GB
@@ -5467,6 +5468,16 @@ This patch converts `Kirby's Dream Land 2 DX (1.0b)` to the `.pocket` format. Th
 ROM MD5: `2122e6e3b47e259d668b0f8200be2db1`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDreamLand2DX_1.0b.ips).
+
+## Kirby's Dream Land 2 DX (1.1)
+
+This patch converts `Kirby's Dream Land 2 DX (1.1)` to the `.pocket` format.
+
+First, apply the [Kirby's Dream Land 2 DX](https://www.romhacking.net/hacks/7724/) patch. The MD5 below is the MD5 for the patched, colorized game.
+
+ROM MD5: `5a55a031c97b9430f53049bd5e46b8a4`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDreamLand2DX_1.1.ips).
 
 ## Kirby's Pinball Land
 
