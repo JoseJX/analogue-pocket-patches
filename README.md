@@ -926,6 +926,7 @@ Game | System
 [Roswell Conspiracies - Aliens, Myths and Legends (E)](#roswell-conspiracies---aliens-myths-and-legends-e) | GBC
 [Rox](#rox) | GBC
 [Rox (J)](#rox-j) | GBC
+[Rugrats Movie](#rugrats-movie) | GBC
 [Sabrina - The Animated Series - Spooked!](#sabrina---the-animated-series---spooked) | GBC
 [Sabrina - The Animated Series - Zapped!](#sabrina---the-animated-series---zapped) | GBC
 [Sagaia](#sagaia) | GB
@@ -8836,6 +8837,14 @@ This patch converts `Rox (J)` to the `.pocket` format.
 ROM MD5: `d5cde4a6f4877a71b06278a4802c7cce`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoxJ.ips).
+
+## Rugrats Movie
+
+This patch converts `Rugrats Movie (U)` to the `.pocket` format.
+
+ROM MD5: `1383da42b08bf94b6fad381cada66fad`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RugratsMovie.ips).
 
 ## Sabrina - The Animated Series - Spooked!
 
