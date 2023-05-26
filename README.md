@@ -1130,6 +1130,7 @@ Game | System
 [Toki Tori](#toki-tori) | GBC
 [Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody](#tokimeki-memorial-pocket---culture-hen---komorebi-no-melody) | GBC
 [Tokimeki Memorial Pocket - Sport Hen - Koutei no Photograph](#tokimeki-memorial-pocket---sport-hen---koutei-no-photograph) | GBC
+[Tom and Jerry - Frantic Antics](#tom-and-jerry---frantic-antics) | GB
 [Tom and Jerry in Mouse Attacks!](#tom-and-jerry-in-mouse-attacks) | GBC
 [Tom Clancy's Rainbow Six](#tom-clancys-rainbow-six) | GBC
 [Tomb Raider](#tomb-raider) | GBC
@@ -10494,6 +10495,14 @@ I am not aware of a translation for this game, please let me know if there is on
 ROM MD5: `20b1ed1ae966b173c3a0f7f7f267e408`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TMP-SportHen.ips).
+
+## Tom and Jerry - Frantic Antics
+
+This patch converts `Tom and Jerry - Frantic Antics (U,E)` to the `.pocket` format.
+
+ROM MD5: `cb61afd7708d90d976f585edebcaaa89`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/TomJerryFranticAntics.ips).
 
 ## Tom and Jerry in Mouse Attacks!
 
