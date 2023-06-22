@@ -289,6 +289,8 @@ Game | System
 [Donkey Kong Land III](#donkey-kong-land-iii) | GB
 [Donkey Kong GB - Dinky Kong and Dixie Kong](#donkey-kong-gb---dinky-kong-and-dixie-kong) | GB
 [Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation)](#donkey-kong-gb---dinky-kong-and-dixie-kong-english-translation) | GB
+[Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation - v1.3 - New Title)](#donkey-kong-gb---dinky-kong-and-dixie-kong-english-translation---v1-3---new-title) | GBC
+[Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation - v1.3 - Original Title)](#donkey-kong-gb---dinky-kong-and-dixie-kong-english-translation---v1-3---original-title) | GBC
 [Doraemon 2 - Animal Planet Densetsu](#doraemon-2---animal-planet-densetsu) | GB
 [Doraemon Kart](#doraemon-kart) | GB
 [Doraemon Kart 2](#doraemon-kart-2) | GBC
@@ -3516,7 +3518,6 @@ ROM MD5: `57684dda234b7076fe9b6fc8cd831d79`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DKL2Color.ips).
 
-
 ## Donkey Kong Land III
 
 This patch converts `Donkey Kong Land III (U,E)` to the `.pocket` format.
@@ -3542,6 +3543,22 @@ This patch converts `Donkey Kong GB - Dinky Kong and Dixie Kong (English Transla
 ROM MD5: `8c7dd60017bec54add72e4d2bcb3f7db`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DK3Color.ips).
+
+## Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation - v1.3 - New Title)
+
+This patch converts `Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation)` version 1.3 to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/1757/) using the new title patch, which results in the MD5 below, then apply this patch.
+
+ROM MD5: `e1e06631635a0e41503c43ba0a08f888`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DKL3_Color_NewTitle_v1.3.ips).
+
+## Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation - v1.3 - Original Title)
+
+This patch converts `Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation)` version 1.3 to the `.pocket` format. First, apply the [English Translation patch](https://www.romhacking.net/translations/1757/) using the original title patch, which results in the MD5 below, then apply this patch.
+
+ROM MD5: `8accafbb4286ed6507ec8678b364c18e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/DKL3_Color_OldTitle_v1.3.ips).
 
 ## Doraemon 2 - Animal Planet Densetsu
 
