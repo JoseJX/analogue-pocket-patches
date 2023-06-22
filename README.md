@@ -289,8 +289,8 @@ Game | System
 [Donkey Kong Land III](#donkey-kong-land-iii) | GB
 [Donkey Kong GB - Dinky Kong and Dixie Kong](#donkey-kong-gb---dinky-kong-and-dixie-kong) | GB
 [Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation)](#donkey-kong-gb---dinky-kong-and-dixie-kong-english-translation) | GB
-[Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation - v1.3 - New Title)](#donkey-kong-gb---dinky-kong-and-dixie-kong-english-translation---v1-3---new-title) | GBC
-[Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation - v1.3 - Original Title)](#donkey-kong-gb---dinky-kong-and-dixie-kong-english-translation---v1-3---original-title) | GBC
+[Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation - v1.3 - New Title)](#donkey-kong-gb---dinky-kong-and-dixie-kong-english-translation---v13---new-title) | GBC
+[Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation - v1.3 - Original Title)](#donkey-kong-gb---dinky-kong-and-dixie-kong-english-translation---v13---original-title) | GBC
 [Doraemon 2 - Animal Planet Densetsu](#doraemon-2---animal-planet-densetsu) | GB
 [Doraemon Kart](#doraemon-kart) | GB
 [Doraemon Kart 2](#doraemon-kart-2) | GBC
