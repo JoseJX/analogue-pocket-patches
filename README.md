@@ -1007,6 +1007,7 @@ Game | System
 [Spider-Man 2 - The Sinister Six](#spider-man-2---the-sinister-six) | GBC
 [Spider-Man 3 - Invasion of the Spider-Slayers](#spider-man-3---invasion-of-the-spider-slayers) | GB
 [Spider-Man - X-Men](#spider-man---x-men) | GB
+[Spirou](#spirou) | GB
 [Spirou Robbedoes - The Robot Invasion](#spirou-robbedoes---the-robot-invasion) | GBC
 [Splitz](#splitz) | GB
 [SpongeBob SquarePants - Legend of the Lost Spatula](#spongebob-squarepants---legend-of-the-lost-spatula) | GBC
@@ -9492,6 +9493,14 @@ This patch converts `Spider-Man - X-Men (U,E)` to the `.pocket` format.
 ROM MD5: `634532de88aa7c35bd9231ee5356ae8a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpiderMan-XMen.ips).
+
+## Spirou
+
+This patch converts `Spirou (E)` to the `.pocket` format.
+
+ROM MD5: `5aa012cf540a5267d6adea6659764441`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Spirou.ips).
 
 ## Spirou Robbedoes - The Robot Invasion
 
