@@ -988,6 +988,7 @@ Game | System
 [Snoopy Tennis](#snoopy-tennis) | GBC
 [Snoopy Tennis (E)](#snoopy-tennis-e) | GBC
 [Snoopy Tennis (J)](#snoopy-tennis-j) | GBC
+[Snowboard Champion](#snowboard-champion) | GBC
 [Snow Bros. Jr.](#snow-bros-jr) | GB
 [Solar Striker](#solar-striker) | GB
 [Solitaire FunPak](#solitaire-funpak) | GB
@@ -9342,6 +9343,14 @@ This patch converts `Snoopy Tennis (J)` to the `.pocket` format.
 ROM MD5: `6def7d77e305997838c4b64b5163e3c2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyTennisJ.ips).
+
+## Snowboard Champion
+
+This patch converts `Snowboard Champion (J)` to the `.pocket` format.
+
+ROM MD5: `78f920f4e9174cd3382294129d30f373`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnowboardChampion.ips).
 
 ## Snow Bros. Jr.
 
