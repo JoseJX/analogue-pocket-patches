@@ -931,6 +931,7 @@ Game | System
 [Rox (J)](#rox-j) | GBC
 [Rugrats Movie](#rugrats-movie) | GBC
 [Rugrats in Paris - The Movie](#rugrats-in-paris---the-movie) | GBC
+[Rugrats - Time Travelers](#rugrats---time-travelers) | GBC
 [Rugrats - Totally Angelica](#rugrats---totally-angelica) | GBC
 [Sabrina - The Animated Series - Spooked!](#sabrina---the-animated-series---spooked) | GBC
 [Sabrina - The Animated Series - Zapped!](#sabrina---the-animated-series---zapped) | GBC
@@ -8885,6 +8886,14 @@ This patch converts `Rugrats in Paris - The Movie (U,E)` to the `.pocket` format
 ROM MD5: `c1dee0a8036d61d1483a793126da3b45`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RugratsParis.ips).
+
+## Rugrats - Time Travelers
+
+This patch converts `Rugrats - Time Travelers (U,E)` to the `.pocket` format.
+
+ROM MD5: `069b01643e876ec91a5555450068f4ac`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RugratsTimeTravelers.ips).
 
 ## Rugrats - Totally Angelica
 
