@@ -931,6 +931,7 @@ Game | System
 [Rox (J)](#rox-j) | GBC
 [Rugrats Movie](#rugrats-movie) | GBC
 [Rugrats in Paris - The Movie](#rugrats-in-paris---the-movie) | GBC
+[Rugrats - Totally Angelica](#rugrats---totally-angelica) | GBC
 [Sabrina - The Animated Series - Spooked!](#sabrina---the-animated-series---spooked) | GBC
 [Sabrina - The Animated Series - Zapped!](#sabrina---the-animated-series---zapped) | GBC
 [Sagaia](#sagaia) | GB
@@ -8879,11 +8880,19 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 ## Rugrats in Paris - The Movie
 
-This patch converts `Rugrats in Paris - The Movie` to the `.pocket` format.
+This patch converts `Rugrats in Paris - The Movie (U,E)` to the `.pocket` format.
 
 ROM MD5: `c1dee0a8036d61d1483a793126da3b45`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RugratsParis.ips).
+
+## Rugrats - Totally Angelica
+
+This patch converts `Rugrats - Totally Angelica (U,E)` to the `.pocket` format.
+
+ROM MD5: `80cf4b05b2a0388a804e54f433cdd126`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/RugratsTotallyAngelica.ips).
 
 ## Sabrina - The Animated Series - Spooked!
 
