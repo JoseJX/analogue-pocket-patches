@@ -748,6 +748,7 @@ Game | System
 [Nemesis](#nemesis) | GB
 [Nemesis II](#nemesis-ii) | GB
 [New Addams Family Series](#new-addams-family-series) | GBC
+[NFL BLitz](#nfl-blitz) | GBC
 [Nicktoons Racing](#nicktoons-racing) | GBC
 [Ninja Boy](#ninja-boy) | GB
 [Ninja Boy 2](#ninja-boy-2) | GB
@@ -7371,6 +7372,14 @@ This patch converts `New Addams Family Series (E)` to the `.pocket` format.
 ROM MD5: `2d2a8314f789d490bf83ed3c44538fe3`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NewAddamsFamily.ips).
+
+## NFL BLitz
+
+This patch converts `NFL BLitz (U)` to the `.pocket` format.
+
+ROM MD5: `2022ae2cb1bbd83edefa3a5bdf2a2b72`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/NFLBlitz.ips).
 
 ## Nicktoons Racing
 
