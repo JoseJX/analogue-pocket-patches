@@ -1251,6 +1251,7 @@ Game | System
 [Yakuman (English Translation)](#yakuman-english-translation) | GB
 [Yar's Revenge](#yars-revenge) | GBC
 [Yoda Stories](#yoda-stories) | GBC
+[Yogi Bear - Great Ballon Blast](#yogi-bear---great-ballon-blast) | GBC
 [Yoshi](#yoshi) | GB
 [Yoshi's Cookie](#yoshis-cookie) | GB
 [Yoshi no Cookie](#yoshi-no-cookie) | GB
@@ -11500,6 +11501,14 @@ This patch converts `Yoda Stories (U,E)` to the `.pocket` format.
 ROM MD5: `544eb3962ef54f89718c8dfa668ec4be`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YodaStories.ips).
+
+## Yogi Bear - Great Ballon Blast
+
+This patch converts `Yogi Bear - Great Ballon Blast (U)` to the `.pocket` format.
+
+ROM MD5: `cd5c8be982147d4ba99376c2b60bdbcf`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/YogiBearBallonBlast.ips).
 
 ## Yoshi
 
