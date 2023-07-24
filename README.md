@@ -549,7 +549,9 @@ Game | System
 [Layers of a Killer](#layers-of-a-killer) | GBC
 [Lazlo's Leap](#lazlos-leap) | GB
 [Legend of the Mana Sword - Amanda](#legend-of-the-mana-sword---amanda) | GB
+[Legend of the Mana Sword (2023-02-13) - Amanda](#legend-of-the-mana-sword-2023-02-13---amanda) | GB
 [Legend of the Mana Sword - Duke](#legend-of-the-mana-sword---duke) | GB
+[Legend of the Mana Sword (2023-02-13) - Duke](#legend-of-the-mana-sword-2023-02-13---duke) | GB
 [Legend of the River King (E)](#legend-of-the-river-king-e) | GBC
 [Legend of the River King GB](#legend-of-the-river-king-gb) | GB
 [Legend of the River King GB (AU)](#legend-of-the-river-king-gb-au) | GB
@@ -5700,6 +5702,14 @@ ROM MD5: `cfe651f3a3bf2fd9a6b4d0337bfceb21`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LotMS-Amanda.ips).
 
+## Legend of the Mana Sword (2023-02-13) - Amanda
+
+This patch converts `Legend of the Mana Sword (2023-02-13) - Amanda` to the `.pocket` format. This is a ROM hack for Final Fantasy Adventure. First, apply the [patch](https://www.romhacking.net/hacks/6550/) to the original ROM, resulting in the MD5 below, then apply this patch for the "Amanda" version of the ROM hack.
+
+ROM MD5: `e61754e7fe388311ef8637a930bf7081`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LotMS-Amanda-2023-02-13.ips).
+
 ## Legend of the Mana Sword - Duke
 
 This patch converts `Legend of the Mana Sword - Duke` to the `.pocket` format. This is a ROM hack for Final Fantasy Adventure. The patch must be applied to the original ROM first, then this patch is applied. The patched ROM will have the MD5 below.
@@ -5707,6 +5717,14 @@ This patch converts `Legend of the Mana Sword - Duke` to the `.pocket` format. T
 ROM MD5: `c5300bd9d4ab7e2b24d632f6289e5938`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LotMS-Duke.ips).
+
+## Legend of the Mana Sword (2023-02-13) - Duke
+
+This patch converts `Legend of the Mana Sword (2023-02-13) - Duke` to the `.pocket` format. This is a ROM hack for Final Fantasy Adventure. First, apply the [patch](https://www.romhacking.net/hacks/6550/) to the original ROM, resulting in the MD5 below, then apply this patch for the "Duke" version of the ROM hack.
+
+ROM MD5: `bcc106eedcf047606353c915532169ec`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LotMS-Duke-2023-02-13.ips).
 
 ## Legend of the River King (E)
 
