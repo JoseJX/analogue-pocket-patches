@@ -566,6 +566,8 @@ Game | System
 [LEGO Alpha Team](#lego-alpha-team) | GBC
 [LEGO Island 2 - The Brickster's Revenge](#lego-island-2---the-bricksters-revenge) | GBC
 [LEGO Island 2 - The Brickster's Revenge (E)](#lego-island-2---the-bricksters-revenge-e) | GBC
+[LEGO Stunt Rally](#lego-stunt-rally) | GBC
+[LEGO Stunt Rally (E)](#lego-stunt-rally-e) | GBC
 [LEGO Racers](#lego-racers) | GBC
 [LEGO Racers (E)](#lego-racers-e) | GBC
 [Lemmings](#lemmings) | GBC
@@ -5837,6 +5839,22 @@ This patch converts `LEGO Island 2 - The Brickster's Revenge (E)` to the `.pocke
 ROM MD5: `2a1efef6d25431529b0d2f5063f63a17`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LEGOIsland2E.ips).
+
+## LEGO Stunt Rally
+
+This patch converts `LEGO Stunt Rally (U)` to the `.pocket` format.
+
+ROM MD5: `c468c6d714a2d86e2f68bdcdbb40b658`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LEGOStuntRally.ips).
+
+## LEGO Stunt Rally (E)
+
+This patch converts `LEGO Stunt Rally (E)` to the `.pocket` format.
+
+ROM MD5: `3d75b453859c2c6f1c84b68ca987adda`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/LEGOStuntRallyE.ips).
 
 ## LEGO Racers
 
