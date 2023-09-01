@@ -440,6 +440,7 @@ Game | System
 [Harvest Moon 2 GBC](#harvest-moon-2-gbc) | GBC
 [Harvest Moon 2 GBC (E)](#harvest-moon-2-gbc-e) | GBC
 [Hatris](#hatris) | GB
+[Heavyweight Championship Boxing](#heavyweight-championship-boxing) | GB
 [Heiankyo Alien](#heiankyo-alien) | GB
 [Heracles no Eikou - Ugokidashita Kamigami](#heracles-no-eikou---ugokidashita-kamigami) | GB
 [Heracles no Eikou - Ugokidashita Kamigami (English Translation)](#heracles-no-eikou---ugokidashita-kamigami-english-translation) | GB
@@ -4787,6 +4788,14 @@ This patch converts `Hatris (J,U)` to the `.pocket` format.
 ROM MD5: `b9d3d91d8389cc510aa8fe9063228644`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hatris.ips).
+
+## Heavyweight Championship Boxing
+
+This patch converts `Heavyweight Championship Boxing (U)` to the `.pocket` format.
+
+ROM MD5: `1f8089ca53d6e9aff6d1907710d28bc8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HeavyweightChampionship.ips).
 
 ## Heiankyo Alien
 
