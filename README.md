@@ -767,6 +767,7 @@ Game | System
 [Oddworld Adventures](#oddworld-adventures) | GB
 [Oddworld Adventures II](#oddworld-adventures-ii) | GBC
 [Ohastua Dance Dance Revolution GB](#ohastua-dance-dance-revolution-gb) | GBC
+[O'Leary Manager 2000](#oleary-manager-2000) | GBC
 [Operation C](#operation-c) | GB
 [Othello](#othello) | GB
 [Othello (J)](#othello-j) | GB
@@ -7529,6 +7530,14 @@ This patch converts `Ohastua Dance Dance Revolution GB (J)` to the `.pocket` for
 ROM MD5: `521f0e017a4266355f3f4dc015f1dd46`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/OhasutaDDR.ips).
+
+## O'Leary Manager 2000
+
+This patch converts `O'Leary Manager 2000 (E)` to the `.pocket` format.
+
+ROM MD5: `7784ff1a16b15e8e55a6b43159cc1774`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/OLearyManager2000.ips).
 
 ## Operation C
 
