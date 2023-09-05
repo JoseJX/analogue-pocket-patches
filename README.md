@@ -391,6 +391,7 @@ Game | System
 [Ganbare Goemon - Seikuushi Dynamites Arawaru!!](#ganbare-goemon---seikuushi-dynamites-arawaru) | GBC
 [Ganso!! Yancha Maru](#ganso-yancha-maru) | GB
 [Garfield Labyrinth](#garfield-labyrinth) | GB
+[Gator Gold (v1)](#gator-gold-v1) | GBC
 [Gauntlet II](#gauntlet-ii) | GB
 [GB Genjin Land - Viva! Chikkun Oukoku](#gb-genjin-land---viva-chikkun-oukoku) | GB
 [Gear Works](#gear-works) | GB
@@ -4393,6 +4394,14 @@ This patch converts `Garfield Labyrinth (E)` to the `.pocket` format.
 ROM MD5: `5e441af514d1bcdaec08c133ceea4e5e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GarfieldLabyrinth.ips).
+
+## Gator Gold (v1)
+
+This patch converts `Gator Gold (v1)` to the `.pocket` format. First, apply the [colorization patch](https://www.romhacking.net/hacks/7480/) to the original ROM, resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `ea614603aef8b723f7eb425cfb3d0f1c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/GatorGoldv1.ips).
 
 ## Gauntlet II
 
