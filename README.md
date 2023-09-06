@@ -1194,6 +1194,7 @@ Game | System
 [Vattle Giuce](#vattle-giuce) | GB
 [Vegas Stakes](#vegas-stakes) | GB
 [Vigilante 8](#vigilante-8) | GBC
+[V-Rally - Championship Edition GB](#v-rally---championship-edition-gb) | GB
 [V-Rally - Championship Edition](#v-rally---championship-edition) | GBC
 [VR Pocket Manager](#vr-pocket-manager) | GB
 [Wacky Races](#wacky-races) | GBC
@@ -11043,6 +11044,11 @@ This patch converts `Vigilante 8 (U)` to the `.pocket` format.
 ROM MD5: `cb5348c1b469d698eccddce99a16d384`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Vigilante8.ips).
+
+## V-Rally - Championship Edition GB
+This patch converts `V-Rally - Championship Edition GB (E)` to the `.pocket` format.
+ROM MD5: `fb0adff5efe92c9d3a26be9313bcc236`
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/VRallyGB.ips).
 
 ## V-Rally - Championship Edition
 
