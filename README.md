@@ -1206,6 +1206,8 @@ Game | System
 [Wario Land - Super Mario Land 3 DX (v1.1)](#wario-land---super-mario-land-3-dx-v1-1) | GBC
 [Wario Land - Super Mario Land 3 DX (v1.11)](#wario-land---super-mario-land-3-dx-v1-11) | GBC
 [Wario Land II](#wario-land-ii) | GB
+[Wario Land II - Polished and Uncensored](#warioland-ii---polished-and-uncensored) | GBC
+[Wario Land II - Polished and Uncensored (JP Eye Version)](#warioland-ii---polished-and-uncensored-jp-eye-version) | GBC
 [Wave Race](#wave-race) | GB
 [WCW Mayhem](#wcw-mayhem) | GBC
 [Wendy - Every Witch Way](#wendy---every-witch-way) | GBC
@@ -11141,6 +11143,23 @@ This patch converts `Warlocked (U)` to the `.pocket` format.
 ROM MD5: `b5eb859e6ea60a0bd83100a10206d9c9`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Warlocked.ips).
+
+## WarioLand II - Polished and Uncensored
+
+This patch converts `WarioLand II - Polished and Uncensored` to the `.pocket` format. First, apply the [ROM Hack](https://www.romhacking.net/hacks/6351/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `f0cae38fa576076cde315f1f2b19b55e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioLandII_RevB-2.3.ips).
+
+## WarioLand II - Polished and Uncensored (JP Eye Version)
+
+This patch converts `WarioLand II - Polished and Uncensored (JP Eye Version)` to the `.pocket` format. First, apply the "Eye" version of the [ROM Hack](https://www.romhacking.net/hacks/6351/), resulting in the MD5 below, then apply this patch.
+
+ROM MD5: `00ddb4872561a5951e915fc365907921`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioLandII_RevB-2.3-Eye.ips).
+
 
 ## Wave Race
 
