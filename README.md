@@ -4822,6 +4822,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Heracles no Eikou - Ugokidashita Kamigami (J)` to the `.pocket` format.
 
+This patch was updated to fix a crash during combat. (2023/09/24)
+
 ROM MD5: `ccbd8d97a61883e05eab21a5546188b2`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Heracles.ips).
