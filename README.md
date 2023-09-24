@@ -445,6 +445,7 @@ Game | System
 [Heiankyo Alien](#heiankyo-alien) | GB
 [Heracles no Eikou - Ugokidashita Kamigami](#heracles-no-eikou---ugokidashita-kamigami) | GB
 [Heracles no Eikou - Ugokidashita Kamigami (English Translation)](#heracles-no-eikou---ugokidashita-kamigami-english-translation) | GB
+[Heracles no Eikou: Ugokidashita Kamigami - The Snap-Story (Alternative English Translation)](#heracles-no-eikou-ugokidashita-kamigami---the-snap-story-alternative-english-translation) | GB
 [Hercules](#hercules) | GB
 [Hercules - The Legendary Journey](#hercules---the-legendary-journey) | GBC
 [Heroes of Might and Magic 2](#heroes-of-might-and-magic-2) | GBC
@@ -4832,9 +4833,19 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/
 
 This patch converts `Heracles no Eikou - Ugokidashita Kamigami (English Translation)` to the `.pocket` format. First, apply the [English Translation Patch](https://www.romhacking.net/translations/1683/), then apply this patch.
 
+This patch was updated to fix a crash during combat. (2023/09/24)
+
 ROM MD5: `51d4ff9a9346b16cf290f50111b110c0`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/Heracles.ips).
+
+## Heracles no Eikou: Ugokidashita Kamigami - The Snap-Story (Alternative English Translation)
+
+This patch converts `Heracles no Eikou: Ugokidashita Kamigami - The Snap-Story (Alternative English Translation)` to the `.pocket` format. First, apply the [English Translation Patch](https://www.romhacking.net/translations/3365/), then apply this patch.
+
+ROM MD5: `f14f37c5e251b88dce2ad1373e8a69e8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/JoseJX/analogue-pocket-patches/raw/main/HeraclesEN_Alt.ips).
 
 ## Hercules
 
